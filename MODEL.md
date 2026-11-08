@@ -29,7 +29,8 @@ catalog links, and website titles in both reading languages. Put the Chinese
 name in `description`, prefixed with `<用户自制>` for these
 author-created Skills, followed by the accurate English discovery description.
 The Chinese portion contains only the name; a Chinese invocation menu displays
-that name and binds it to the exact native identifier.
+that name alongside its native identifier or abbreviation and binds it to the
+exact invocation.
 The website renders that source description as readable text, including its
 literal angle brackets. Names and descriptions have separate display roles.
 

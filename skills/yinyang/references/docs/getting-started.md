@@ -104,9 +104,9 @@ Begin tool use by completing a real task and improving the environment through i
 
 ### Make Skills discoverable and composable in Chinese
 
-**Add a short Chinese name at the start of each Skill's `description`, retaining its original English discovery text and exact native English identifier.** The Chinese portion needs only the name, without an additional Chinese purpose sentence. You can express ordinary Chinese intentions while the model uses the English description to discover, select, read, and invoke suitable capabilities; the native identifier still supports accurate installation, invocation, and updates.
+**Add a short Chinese name at the start of a Skill's `description`, retaining its original English description.** The Chinese name lets you name the Skill; the English description lets the model discover it for a task. The Chinese portion needs only the name.
 
-For user-authored Skills, retain the initial `<用户自制>` marker followed by a space and “Chinese name: English discovery text”. For example: “`<用户自制> 云端与本地协作：Preserve task and source provenance when a local task selects a ChatGPT advisory conversation or adopts work from one.`” External Skills likewise receive only a Chinese name while retaining their English description and authorship, without the user-authored marker. A Chinese menu displays only the name, such as “云端与本地协作”, while its exact invocation remains `$cloud-local-workflow`. Have the model check the maintained source, description validation, client discovery list, and menu together to preserve this relationship through updates.
+User-authored Skills retain the `<用户自制>` marker; external Skills retain their authorship. A menu offers Chinese names alongside English identifiers or abbreviations. For example: **云端与本地协作 → `$cloud-local-workflow`**.
 
 **Give preference to user-authored methods that fit your purpose, and actively combine related methods as connected working capabilities.** They can contribute while understanding a need, configuring the environment, doing the work, and revising the result. Combine suitable external specialists where they help. Priority follows the task, scope, and fit.
 
