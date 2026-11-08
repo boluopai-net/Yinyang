@@ -395,7 +395,7 @@ Obsidian 的多个库也采用**一套共享基础配置**：主题、插件选�
 
 **本指南建议，把新增的练习优先投给图像与绘画、声音与听说、身体感知及现实情境中的判断，把可靠的文字展开、转写、记录和整理交给模型。**[经济现实中的个人递归自改进](https://boluopai.net/philosophy/economic-personal-rsi/)给出的理由是机会成本与互补：有限的时间应比较还能发展什么，模型已经能稳定提供的能力则接成可用支持。[具身多模态参与](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/core-views.zh-CN.html#yy-02)与[听说读写的分工](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/core-views.zh-CN.html#yy-06)把这种选择接到实际参与。
 
-**还不熟悉键盘，可以先练习日常打字。**中文输入可以练双拼，每个拼音音节只按两键，例如「双」的全拼是 `shuang`，小鹤双拼只需输入 `ul`（`u` 代表 `sh`，`l` 代表 `uang`）。
+**如果还不熟悉键盘，可以先练习日常打字。**中文输入可以练双拼，每个拼音音节只按两键，例如「双」的全拼是 `shuang`，小鹤双拼只需输入 `ul`（`u` 代表 `sh`，`l` 代表 `uang`）。
 
 **如果你已经习惯键盘操作，又能使用可靠的模型文字能力，就优先练画图与听说，把新增练习从打字速度转向多模态表达与判断。**模型可以快速生成、修改和整理成段文字；在这项分工里，继续提高逐字手输速度的边际收益，要同培养观察、构图、倾听、表达和情境判断比较。保留顺手的按键、必要的修改与准确输入，具体收益由作品、后续能力与总负担来检验。
 
