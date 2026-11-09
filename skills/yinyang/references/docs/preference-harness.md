@@ -8,42 +8,23 @@ Yinyang understands this preference through the person's activity with models an
 
 ## Selection and inference
 
-Description-logic inconsistency-tolerant semantics offers a precise comparison for a basic judgment. A knowledge base separates general axioms $T$ from assertions $A$. If the assertions conflict under those axioms, a repair retains an inclusion-maximal subset consistent with $T$. Priorities among conflicting assertions can affect which repairs are considered. A separate answer rule determines what follows from those selected grounds. A repair is an assertion set; it is not one interpretation or possible world.
+Across actual tasks, a reading with coherent support may continue to be considered. An applicable user preference in the current request or user-adopted prior instructions or Yinyang can shape which conflicting grounds receive priority; then P-Brave names the preference-sensitive orientation. In its absence, plain Brave names openness across the available supported readings. A trained model habit or harness default does not become a user preference merely by being present. Separately supported readings need not be jointly true; compatible measures can both be taken when purpose, known facts, capabilities, and permissions allow. Source reliability and external requirements keep their own evidential force.
 
-**Yinyang uses preference to select grounds, then applies Brave over the selected repair family so supported possibilities can continue into practice.** Adopted positions, purposes, and collaborative preferences become model working context through Yinyang. The model connects them with the current request, relevant sources, and actual conditions to form selection grounds for this question. Let $\operatorname{Rep}(T,A)$ be the repair family, $\pi$ the currently relevant preferences and their applicability conditions, and $\mathcal R_\pi=\operatorname{Select}_\pi(\operatorname{Rep}(T,A))$ the nonempty preferred repair family selected accordingly. Selection can retain several repairs, each still an inclusion-maximal subset of assertions consistent with $T$. Select names the responsibility of selection; its particular preference relation is specified for the question.
+The names come from formal inconsistency-tolerant semantics. There, plain Brave accepts an answer supported by at least one inclusion-maximal consistent repair; P-Brave first selects Pareto-optimal repairs under an applicable priority and uses the same existential answer condition. In a Pareto improvement, one added assertion is preferred to every removed assertion. [Bienvenu and Bourgaux, §3](https://arxiv.org/html/2003.05746v5#S3) supplies these definitions. This is a bounded comparison, not a computation prescribed for natural-language work or a description of how the meta-Harness operates.
 
-One concrete choice for Select is Pareto-optimal repair selection (P) under an acyclic priority $\succ$ on conflicting assertions. A repair $R'$ improves $R$ in this sense when **one** assertion in $R'\setminus R$ is preferred to **every** assertion in $R\setminus R'$. A Pareto-optimal repair has no such improving repair. This is a comparison of consistent assertion sets, not a numerical Pareto frontier. A person's applicable preference can outrank a conflicting model default when the grounds for that preference are adopted; the priority does not manufacture evidence or override an external requirement. [Bienvenu and Bourgaux, §3](https://arxiv.org/html/2003.05746v5#S3) gives the formal repair definitions.
-
-For query $q$, Brave over the selected family accepts $q$ exactly when some $R\in\mathcal R_\pi$ satisfies $T\cup R\models q$. AR over the same family requires every $R\in\mathcal R_\pi$ to support $q$; IAR requires $T\cup\bigcap\mathcal R_\pi\models q$. Preference determines which grounds are compared; answer semantics determines how their consequences are obtained. [Bienvenu and Bourgaux, §3](https://arxiv.org/html/2003.05746v5#S3) supplies the three basic answer definitions; organizing everyday selection through adopted Yinyang is this essay's application of that relation.
-
-For example, suppose $P$ and $N$ are disjoint, each implies $Q$, and the sources contain both $P(a)$ and $N(a)$. The two repairs retain one assertion each:
-
-| Query | Brave | AR | IAR |
-| --- | --- | --- | --- |
-| $P(a)$ | Holds | Does not hold | Does not hold |
-| $N(a)$ | Holds | Does not hold | Does not hold |
-| $Q(a)$ | Holds | Holds | Does not hold |
-
-Brave preserves each branch's consequences; AR preserves their common $Q(a)$; IAR obtains none of the three from the empty assertion intersection. “Does not hold” means that the corresponding semantics does not entail the query. Each separately accepted Brave answer has consistent support, while their collection may conflict. Forming a joint conclusion or one proposal calls for checking joint support for its conclusions. Here $P(a)$ and $N(a)$ each have support, while $P(a)\land N(a)$ has none.
-
-The table considers both repairs selected. If grounded preference retains only the repair containing $P(a)$, Brave over that family yields $P(a)$ and $Q(a)$, while $N(a)$ is no longer obtained. If both fit the present selection, Brave continues to preserve both paths' consequences. Narrowing the family changes available support paths: Brave consequences may decrease while some universal consequences become easier to establish. This distinction lets preference organize the entrance to inference itself.
-
-In the [doctoral-application example](core-views.md#a-doctoral-application-example), the phrase “前置学位证书的在线验证报告或学位认证报告” leaves undergraduate-only and master's-only readings open. P-Brave, meaning Brave over Pareto-optimal repairs, retains each individual query entailed by at least one selected repair; in the analogy, it keeps the competing supported readings visible before action. If both degrees and reports exist and the reports can be submitted together, the applicant's coverage preference keeps both: these are compatible grounds, so repair selection need not discard either. This does not show that the institution requires both. For a pending master's, the supported package changes to the available undergraduate degree report plus required current-student evidence. Actual instructions and submission fields still decide what can be sent.
-
-The model begins selection from adopted Yinyang and the current purpose, develops interpretation, prediction, and practice along selected branches, and presents the result for its actual use. For an ongoing reading activity, preferences for sustained understanding and easy return can make passage restoration and adjacent comparison worth developing, while other tool features remain in material available when needed. The person receives what helps this understanding or decision; consequential alternatives remain explained, with support and deferral reasons reachable through History. Actual consequences can return a deferred path to selection or change preference itself.
+This orientation can inform interpretation, proposals, and practice across tasks. The person receives a result relevant to the present judgment; consequential alternatives remain explained, with their support and reasons for deferral reachable through History. Actual consequences can return a deferred path to consideration or change the preference itself.
 
 This comparison concerns the structure of judgment: what is provisionally accepted as a basis, and what that basis warrants. It does not describe how a person calculates. In ordinary inquiry, judging source reliability, choosing what matters for a task, and preferring an outcome can all affect selection, but they supply different reasons. Wanting an outcome does not make evidence for it stronger. When evidence cannot settle everything, one can work from a qualified selection, retain several alternatives, or suspend a particular conclusion while continuing elsewhere.
 
 A **working view** is a usable understanding formed for the present question:
 which grounds and relations are adopted, which candidates remain under comparison,
 and how to infer and check. Natural language can express it while distinguishing
-adopted premises from material still being examined. Specifying assertions,
-axioms, consistency, and selection gives the precise comparison with formal
-repairs above. That mathematical relation addresses a bounded question;
-forming a working view also involves interpreting material, proposing new
-relations, and choosing action.
+adopted premises from material still being examined. The formal comparison
+distinguishes grounds from consequences within a bounded question; forming a
+working view also involves interpreting material, proposing relations, and
+choosing action.
 
-The repair example holds $T$ fixed while comparing selected consistent grounds. Inquiry can also return to the choice of $T$, the question, source priorities, and the rule for accepting an answer. Evidence, purpose, and consequences provide different reasons for such revisions. [Recursive improvement](literary-recursive-improvement.md#retaining-conflict-and-forming-a-view-for-action) follows this return from local inference to improvement of the selection method itself.
+Formal repair semantics holds its axioms fixed while comparing consistent grounds. Inquiry can also revise its concepts, question, source priorities, and way of accepting an answer. Evidence, purpose, and consequences provide different reasons for such revisions. [Recursive improvement](literary-recursive-improvement.md#retaining-conflict-and-forming-a-view-for-action) follows this return from local inference to improvement of the selection method itself.
 
 ## Reading a rich account through supported branches
 
@@ -55,10 +36,9 @@ An image can gather several perspectives whose implications become clear when
 expanded in context. Where claims really conflict, retain their attribution
 and develop the supported branches relevant to the current question.
 
-The selected repair family supplies grounds for local inference while the
-fuller account keeps material available for reconsideration. Brave makes each
-supported possibility usable; a combined proposal needs a branch that supports
-its combined claims. This distinction gives personal richness and practical
+The current reading supplies grounds for local inference while the fuller account
+keeps material available for reconsideration. A supported possibility can remain
+usable; a combined claim needs joint support. This distinction gives personal richness and practical
 clarity different, connected jobs. Coherence consists in intelligible relations,
 recoverable grounds, and checkable inferences. Revision can restore a difference
 lost through overgeneralization or supply the missing grounds of a loose

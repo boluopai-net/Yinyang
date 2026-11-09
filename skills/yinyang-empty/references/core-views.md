@@ -544,23 +544,11 @@ or action. Consequences connect these functions: a result can call for different
 grounds, another interpretation, or a changed question. This grounded, revisable
 adoption is a working commitment.
 
-Yinyang adopts **P-Brave with priority for the user's preference**. P selects the consistent grounds for inference. Brave determines which answers to accept.
+Yinyang makes a choice at the level of the meta-Harness: **use the Brave orientation throughout the Harness.** People and models express purposes, interpret material, and respond to disagreements in natural language. An understanding supported by a coherent reading of the relevant material has grounds to remain under consideration. When another reading also has grounds, the partners can retain the disagreement and explore where each reading leads.
 
-1. **Set the priority relation.** When the person's expressed preference and a model default prescribe conflicting choices about the same matter, give the person's choice higher priority. For example, the applicant wants to avoid omissions, while the model usually prepares only the most typical item. This priority concerns the competing selection rules. The wording of the application notice remains evidence about its requirements.
-2. **Select Pareto-optimal repairs (P).** With fixed axioms, a repair is an inclusion-maximal consistent subset of the assertions. Compare a repair with another consistent set. If one incoming assertion is preferred to every assertion removed in the exchange, the alternative is a Pareto improvement. Keep the repairs admitting no such improvement. Several may remain.
-3. **Accept answers over the retained repairs (Brave).** Accept an answer if at least one retained repair together with the axioms entails it, and keep its grounds. Two answers supported separately can both inform judgment. Asserting their conjunction requires a repair that supports both together.
+**Use Brave when the user has expressed no preference about the choice at hand.** If the present request, earlier instructions, and Yinyang supply no applicable preference, all grounded readings remain open. The model’s familiarity with one reading, or the Harness’s customary way of proceeding, gives it no grounds to exclude the others.
 
-Choosing an action also depends on the person's purpose and on which measures can be taken together. History preserves the grounds and outcomes for reconsideration in a new situation.
-
-With fixed axioms $T$, conflicting assertions, and the selected repair family, three answer policies address different questions:
-
-| Answer policy | Grounds for accepting a query | Contribution to inquiry |
-| --- | --- | --- |
-| Brave | At least one repair together with $T$ entails the query. | Develop consistently supported possibilities and paths to try. |
-| AR | Every repair together with $T$ entails the query, possibly through different supports. | Identify consequences shared across these alternatives. |
-| IAR | The intersection of the repairs' assertions together with $T$ entails the query. | Identify consequences available from jointly retained assertions alone. |
-
-For example, let $P$ and $N$ be disjoint and each imply $Q$, while the material contains both $P(a)$ and $N(a)$. The two repairs retain one assertion each. Brave separately supports $P(a)$, $N(a)$, and $Q(a)$; AR supports $Q(a)$; IAR obtains none of the three from this empty intersection. Each Brave answer carries its own support path; jointly adopting several conclusions calls for checking their joint support within the same relevant branch. [Selection and inference](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference) develops the definitions and their use.
+**Use P-Brave with priority for the user when the user has expressed an applicable preference.** Where that preference conflicts with the model’s usual choice, follow the user’s preference in making the tradeoff. Other readings that still have grounds continue to inform judgment. The two names come from [inconsistency-tolerant semantics](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference). Yinyang borrows this abstract distinction for the way the partners understand natural language and carry their work forward.
 
 This adoption keeps grounded branches usable. When a person expresses one part, develop it in context while keeping other compatible relations open. When they correct a point, revise that point and the inferences depending on it while continuing the remaining purposes and work. The model can develop grounded, corrigible candidates for what remains unexpressed; excluding an option calls for grounds bearing on that option. Action selection connects purpose, support conditions, and actual consequences, allowing inquiry to continue amid unresolved differences.
 
@@ -586,17 +574,7 @@ correspondence and coherence of the whole carry greater weight. Judge what has c
 referents, times, and grounds, then update the account in use while keeping original wording at its
 source. Recency helps interpret the present; factual grounds determine whether the corresponding claim holds.
 
-Choosing the grounds currently used for a question differs from determining
-what follows from them. Repair-based semantics supplies a bounded comparison:
-under specified axioms, conflicting assertions can yield different consistent
-repairs, and an answer rule determines their consequences. A repair is an
-assertion set, not a possible world. Ordinary working views can instead be
-expressed in natural language. Wanting a conclusion does not strengthen its
-evidence, and an unsuitable premise may need reconstruction rather than
-another selection under the same rules. Repairs select assertions under fixed
-axioms; broader inquiry can also change the axioms, classifications, candidate
-generation, and answer policy. Selection itself thereby acquires identifiable
-objects and reasons for revision.
+A preference can change which direction is worth taking. An interpretation of the facts remains answerable to the material itself. If the original question left out a relevant relationship, the partners can pose a better question and reconsider the earlier choice in its light.
 
 Preference also operates through models, software, and working arrangements
 before the person articulates it. Comparing choices, exclusions, corrections,
@@ -610,14 +588,6 @@ and the environment through which preference works.
 develops this extended preference and its revision, alongside the formal
 comparison; [Reasoning](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/reasoning.html#sources-candidates-and-the-active-workspace)
 develops retained sources and current inquiry.
-
-### A doctoral-application example
-
-A doctoral application asks for “an online verification report or a certification report for the prior degree.” The word “or” distinguishes two forms of evidence. The notice leaves the degree level unspecified. The applicant already holds a bachelor's and a master's degree, both earned before the proposed doctorate. Reading “prior degree” as the highest completed degree supports preparing the master's report. Reading it as a degree earned before doctoral study also supports preparing the bachelor's report.
-
-The applicant wants to avoid omissions. The model usually selects only the highest degree. Giving the applicant's choice priority displaces the default exclusion and preserves readings grounded in the notice and the actual degrees. P selects the Pareto-optimal repairs. Brave brings each report into consideration if at least one retained repair supports it. The intended scope of the notice can remain open.
-
-**When both reports are in hand and the submission format accepts them together, submit both.** Even if the readings of the notice still differ, including one report permits including the other. Submitting both serves the applicant's purpose. An explicit instruction limiting the submission to the highest degree would change that decision. If the master's degree is pending, submit the available bachelor's report and the enrollment or student-status evidence specified for current master's students by that program.
 
 Rich personal and literary accounts can retain tension while current inference
 uses supported branches. Establish the adopted reading approach before its

@@ -11,8 +11,9 @@ this guide within the [six-account method](../design-and-revision.md).
 
 When adopted interpretation and inference govern how the remaining accounts
 are understood, introduce that approach first. In this Yinyang, this means
-attributed, inconsistency-tolerant reading, preference-guided selection, and
-Brave inference over the selected grounds. Give enough meaning to read what
+attributed, inconsistency-tolerant reading, plain Brave openness to supported
+readings by default, and preference-sensitive P-Brave when an applicable user
+preference bears on a conflict. Give enough meaning to read what
 follows, then link the shared argument for its complete grounds. Arrange the
 supplied bodies so this prerequisite reaches the reader before its applications.
 

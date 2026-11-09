@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "yinyang-empty",
-  "version": "1.0.53",
+  "version": "1.0.54",
   "description": "<用户自制> 阴阳空白版：形成自己的个人阴阳，接入完整工作上下文，并按任务查阅资料与修订方法。 Form a personal Yinyang, connect its complete working context, and locate task-relevant materials and revision methods.",
   "author": {
     "name": "boluopai",
