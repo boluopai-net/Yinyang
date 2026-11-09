@@ -544,9 +544,13 @@ or action. Consequences connect these functions: a result can call for different
 grounds, another interpretation, or a changed question. This grounded, revisable
 adoption is a working commitment.
 
-**Preference selects the repair family currently adopted; Brave preserves possibilities supported within it and carries them into understanding and practice.** The positions, purposes, and collaborative preferences adopted in Yinyang, together with the current request and situation, guide the model in selecting relevant preferred inclusion-maximal consistent subsets. A conclusion supported in at least one of these selected subsets participates in interpretation, inference, proposals, and attempts with its sources, premises, and support path. Responses from practice revise preferences, selected branches, and premises; History preserves this connection so selection can be revisited.
+Yinyang adopts **P-Brave with priority for the user's preference**. P selects the consistent grounds for inference. Brave determines which answers to accept.
 
-This division acts at the selection of grounds: form a repair family fitting the person's preferences and present question, then apply Brave over it. The model organizes branches worth understanding, comparing, or trying into an accessible result, while other material remains at reachable sources. Preference can leave several equally fitting paths, whose supported consequences can continue developing. Presentation depth follows the present judgment, keeping consequential alternatives and differences visible.
+1. **Set the priority relation.** When the person's expressed preference and a model default prescribe conflicting choices about the same matter, give the person's choice higher priority. For example, the applicant wants to avoid omissions, while the model usually prepares only the most typical item. This priority concerns the competing selection rules. The wording of the application notice remains evidence about its requirements.
+2. **Select Pareto-optimal repairs (P).** With fixed axioms, a repair is an inclusion-maximal consistent subset of the assertions. Compare a repair with another consistent set. If one incoming assertion is preferred to every assertion removed in the exchange, the alternative is a Pareto improvement. Keep the repairs admitting no such improvement. Several may remain.
+3. **Accept answers over the retained repairs (Brave).** Accept an answer if at least one retained repair together with the axioms entails it, and keep its grounds. Two answers supported separately can both inform judgment. Asserting their conjunction requires a repair that supports both together.
+
+Choosing an action also depends on the person's purpose and on which measures can be taken together. History preserves the grounds and outcomes for reconsideration in a new situation.
 
 With fixed axioms $T$, conflicting assertions, and the selected repair family, three answer policies address different questions:
 
@@ -607,25 +611,13 @@ develops this extended preference and its revision, alongside the formal
 comparison; [Reasoning](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/reasoning.html#sources-candidates-and-the-active-workspace)
 develops retained sources and current inquiry.
 
-### A small fictional example
+### A doctoral-application example
 
-Suppose a demo shows a yellow indicator. One help-page record says yellow means
-“ready”; another says “waiting.” What does yellow mean **in this demo version**?
+A doctoral application asks for “an online verification report or a certification report for the prior degree.” The word “or” distinguishes two forms of evidence. The notice leaves the degree level unspecified. The applicant already holds a bachelor's and a master's degree, both earned before the proposed doctorate. Reading “prior degree” as the highest completed degree supports preparing the master's report. Reading it as a degree earned before doctoral study also supports preparing the bachelor's report.
 
-1. **Records:** retain both statements and their version information without adopting either.
-2. **Candidates:** assign yellow “ready” in one interpretation and “waiting” in the other; leave the working meaning unresolved.
-3. **Discriminating consequence:** assume both candidates specify that color changes exactly when the ready/waiting state changes. Completion changes “waiting” to “ready” and leaves “ready” unchanged. Yellow should therefore persist under the first interpretation and change under the second.
-4. **Feedback:** a controlled run records completion, yellow turning green, and readiness at green. Under the stated rules this supports the second interpretation for the tested version. The working view changes; both records remain.
+The applicant wants to avoid omissions. The model usually selects only the highest degree. Giving the applicant's choice priority displaces the default exclusion and preserves readings grounded in the notice and the actual degrees. P selects the Pareto-optimal repairs. Brave brings each report into consideration if at least one retained repair supports it. The intended scope of the notice can remain open.
 
-The transition assumptions make the observation discriminatory. If color can
-change for other reasons, include those causes before drawing the conclusion.
-A candidate's removal from current use neither erases its source nor proves
-it false in every setting.
-This gives a reader a usable distinction even without formal semantics: keep
-what may matter to inquiry, adopt enough of a coherent view to act, and reopen
-that view when a relevant difference appears. The rule connecting state and
-color does real work here; removing it would remove the inference, however
-attractive the preferred interpretation felt.
+**When both reports are in hand and the submission format accepts them together, submit both.** Even if the readings of the notice still differ, including one report permits including the other. Submitting both serves the applicant's purpose. An explicit instruction limiting the submission to the highest degree would change that decision. If the master's degree is pending, submit the available bachelor's report and the enrollment or student-status evidence specified for current master's students by that program.
 
 Rich personal and literary accounts can retain tension while current inference
 uses supported branches. Establish the adopted reading approach before its
