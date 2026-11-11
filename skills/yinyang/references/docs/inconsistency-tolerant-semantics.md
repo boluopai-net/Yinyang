@@ -15,15 +15,22 @@ A **repair** is a subset $R\subseteq A$ that is consistent with $T$ and inclusio
 Using $a$ for Ada and $b$ for Ben, the same example becomes
 
 $$
-T=\{Park\sqsubseteq Campus,\ Library\sqsubseteq Campus,\ Park\sqsubseteq\neg Library\},
-\qquad A=\{Park(a),Library(a),SignedIn(b)\}.
+\begin{aligned}
+T=\{&Park\sqsubseteq Campus,\\
+&Library\sqsubseteq Campus,\\
+&Park\sqsubseteq\neg Library\}.
+\end{aligned}
+$$
+
+$$
+A=\{Park(a),Library(a),SignedIn(b)\}.
 $$
 
 $Park(a)$ and $Library(a)$ conflict, while $SignedIn(b)$ is unaffected. The two repairs are $R_{Park}=\{Park(a),SignedIn(b)\}$ and $R_{Library}=\{Library(a),SignedIn(b)\}$. Each is consistent, and neither can be enlarged using $A$. In both, $Campus(a)$ follows, though from a different premise. The shared assertions are only $R_{Park}\cap R_{Library}=\{SignedIn(b)\}$, from which $Campus(a)$ does not follow. This example keeps the rules fixed while it compares the reports; changing the rules would pose a new question.
 
 ## Two choices, not one scale
 
-The **repair-selection** choice identifies a nonempty eligible family $F$. Plain semantics uses $F=SRep(K)$. A priority relation $\succ$ can instead select preferred repairs. In the framework used here it is acyclic and relates only assertions occurring together in a minimal conflict; it need not compare every such pair.[^formal] Three established notions of optimality yield nested families:
+The park and library reports form a **minimal conflict**: together they violate a rule, while either report alone does not. The **repair-selection** choice identifies a nonempty eligible family $F$. Plain semantics uses $F=SRep(K)$. A priority relation $\succ$ can instead select preferred repairs. In the framework used here it is acyclic and relates only assertions occurring together in a minimal conflict; it need not compare every such pair.[^formal] Three established notions of optimality yield nested families:
 
 $$
 CRep(K,\succ)\subseteq GRep(K,\succ)\subseteq PRep(K,\succ)\subseteq SRep(K).
@@ -40,7 +47,7 @@ These conditions concern replacing assertions, not maximizing a numerical score.
 
 More precisely, a candidate replacement $R'\subseteq A$ must be consistent with $T$. It Pareto-improves $R$ if some added $\beta\in R'\setminus R$ is preferred to **all** removed $\alpha\in R\setminus R'$. It globally improves $R$ if $R'\ne R$ and **each** removed $\alpha$ is outranked by **some** added $\beta$. A completion extends $\succ$ without a cycle and compares every pair sharing a minimal conflict; a C-repair is globally optimal for at least one such completion. These different placements of “some” and “all” are why P-, G-, and C-repairs need not coincide.[^formal]
 
-The **answer-acceptance** choice fixes one family $F$ and asks the *same* query $q$ of it. For a Boolean query, or for a fixed candidate answer to a query, the three tests are:
+The **answer-acceptance** choice fixes one family $F$ and asks the *same* query $q$ of it. For a yes/no (Boolean) query, or for a fixed candidate answer to a query, the three tests are:
 
 | Test | The query is accepted exactly when… |
 | --- | --- |

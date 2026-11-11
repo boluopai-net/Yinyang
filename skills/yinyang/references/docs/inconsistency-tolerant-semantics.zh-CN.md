@@ -15,15 +15,22 @@
 用 $a$ 表示 Ada、$b$ 表示 Ben，同一个例子可以写为：
 
 $$
-T=\{Park\sqsubseteq Campus,\ Library\sqsubseteq Campus,\ Park\sqsubseteq\neg Library\},
-\qquad A=\{Park(a),Library(a),SignedIn(b)\}.
+\begin{aligned}
+T=\{&Park\sqsubseteq Campus,\\
+&Library\sqsubseteq Campus,\\
+&Park\sqsubseteq\neg Library\}.
+\end{aligned}
+$$
+
+$$
+A=\{Park(a),Library(a),SignedIn(b)\}.
 $$
 
 $Park(a)$ 与 $Library(a)$ 冲突，$SignedIn(b)$ 不受影响。两个修复分别是 $R_{Park}=\{Park(a),SignedIn(b)\}$ 和 $R_{Library}=\{Library(a),SignedIn(b)\}$。各自相容，也都无法再从 $A$ 中添入断言。两者都推出 $Campus(a)$，但各有不同的依据。它们共同保留的断言只有 $R_{Park}\cap R_{Library}=\{SignedIn(b)\}$，单凭它不能推出 $Campus(a)$。此处比较记录时保持规则不变；若修改规则，问题也随之改变。
 
 ## 两项选择，并非一条尺度
 
-**修复选择**先确定一个非空的可用修复族 $F$。普通语义采用 $F=SRep(K)$。优先关系 $\succ$ 则能从中选出较受支持的修复。在这里，它是无环关系，只能连接同属一个极小冲突的断言，不必比较每一对这样的断言。[^formal]三种已有的最优性条件给出相互包含的修复族：
+公园与图书馆的两条记录构成一个**极小冲突**：它们合在一起违反规则，单独保留任何一条却都可以。**修复选择**先确定一个非空的可用修复族 $F$。普通语义采用 $F=SRep(K)$。优先关系 $\succ$ 则能从中选出较受支持的修复。在这里，它是无环关系，只能连接同属一个极小冲突的断言，不必比较每一对这样的断言。[^formal]三种已有的最优性条件给出相互包含的修复族：
 
 $$
 CRep(K,\succ)\subseteq GRep(K,\succ)\subseteq PRep(K,\succ)\subseteq SRep(K).
@@ -40,7 +47,7 @@ $$
 
 精确地说，替换候选 $R'\subseteq A$ 必须与 $T$ 相容。若有一条新增断言 $\beta\in R'\setminus R$ 优于**所有**移除断言 $\alpha\in R\setminus R'$，则 $R'$ 对 $R$ 构成帕累托改进。若 $R'\ne R$，而且**每一条**移除断言都被**某一条**新增断言超过，则构成全局改进。补全在不产生环的条件下扩展 $\succ$，并比较共同出现在极小冲突中的每一对断言；C-修复是在至少一种这种补全下全局最优的修复。「存在」与「所有」的位置不同，使 P、G、C 三种修复不必重合。[^formal]
 
-**答案接受**则固定一个修复族 $F$，向其中的修复提出*同一个*查询 $q$。对真假查询，或对查询的某个固定候选答案，三种检验是：
+**答案接受**则固定一个修复族 $F$，向其中的修复提出*同一个*查询 $q$。对回答「是／否」的布尔查询，或对查询的某个固定候选答案，三种检验是：
 
 | 检验 | 恰在何时接受查询 |
 | --- | --- |
