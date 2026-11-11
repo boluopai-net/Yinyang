@@ -26,6 +26,26 @@ choosing action.
 
 Formal repair semantics holds its axioms fixed while comparing consistent grounds. Inquiry can also revise its concepts, question, source priorities, and way of accepting an answer. Evidence, purpose, and consequences provide different reasons for such revisions. [Recursive improvement](literary-recursive-improvement.md#retaining-conflict-and-forming-a-view-for-action) follows this return from local inference to improvement of the selection method itself.
 
+<a id="technical-appendix-two-choices-in-repair-semantics"></a>
+
+### Technical appendix: two choices in repair semantics
+
+In the formal setting, a knowledge base has a fixed ontology $T$ and a finite set of assertions $A$. A **repair** is an inclusion-maximal subset $R\subseteq A$ consistent with $T$. The nonempty family $SRep(T,A)$ contains all such repairs. A priority relation between conflicting assertions can select smaller families: $PRep$ (Pareto-optimal), $GRep$ (globally optimal), and $CRep$ (completion-optimal), with $CRep\subseteq GRep\subseteq PRep\subseteq SRep$. Here **P** specifies which repairs remain eligible; it does not yet say what counts as an answer. A Pareto improvement of a repair replaces some assertions with a consistent set containing at least one added assertion preferred to *every* removed assertion; a P-repair admits no such improvement. [Bienvenu and Bourgaux, §3](https://arxiv.org/html/2003.05746v5#S3) gives the precise definitions and the other two optimality tests.
+
+For any one nonempty selected repair family $F$ and the *same* query $q$, three answer conditions differ:
+
+| Answer condition | Exact test with $T$ fixed |
+| --- | --- |
+| Brave | $\exists R\in F:\ (T,R)\models q$ |
+| AR (all repairs) | $\forall R\in F:\ (T,R)\models q$ |
+| IAR (intersection of repairs) | $(T,\bigcap_{R\in F}R)\models q$ |
+
+Thus ordinary Brave, AR, and IAR use $F=SRep$; P-Brave, P-AR, and P-IAR use $F=PRep$. The same answer tests can also be applied to $GRep$ or $CRep$. Under classical monotonic entailment, IAR implies AR, and AR implies Brave. AR asks whether each eligible repair separately entails the query, possibly by different supporting assertions. IAR asks whether the assertions *shared* by all eligible repairs already entail it. These are different conditions, even though both concern every repair. They can be expressed exactly in natural language: “at least one consistent maximal view supports this same claim,” “each such view supports it,” and “their common assertions alone support it.”
+
+For a small example, let $T$ contain $A\sqsubseteq Q$, $B\sqsubseteq Q$, and $A\sqsubseteq\neg B$, and let the assertions be $A(a)$ and $B(a)$. The two ordinary repairs are $\{A(a)\}$ and $\{B(a)\}$. Each entails $Q(a)$, so AR accepts $Q(a)$; their intersection is empty, so IAR does not. Brave accepts both $A(a)$ and $B(a)$ separately, without accepting their inconsistent conjunction as one view. If an applicable priority is $A(a)\succ B(a)$, the sole P-repair is $\{A(a)\}$; P-Brave, P-AR, and P-IAR then all accept $A(a)$ and $Q(a)$. The preference has changed the eligible family, while the three answer conditions keep their definitions.
+
+The essay's working views are an analogy to this structure, not literal ABox repairs. In particular, the eight rows that connect different aspects and images in [YY-13](core-views.md#yy-13) describe relationships within one account; they are not eight competing repairs to enumerate. A natural-language inquiry can state the same quantifier distinctions without running a repair algorithm. It must still identify the question, the candidate views, their actual grounds, and the scope of any preference before borrowing a formal answer label.
+
 ## Reading a rich account through supported branches
 
 A personal account can preserve changing experiences, competing interpretations,
@@ -89,7 +109,7 @@ The return can also change the premise organizing the alternatives. Someone may 
 
 <a id="unity-within-conflict-consistent-views-and-common-consequences"></a>
 
-Common consequence and reconstructed premises remain different achievements. In the earlier example, both incompatible grounds support $Q(a)$ while the original rules stay fixed. Reconsidering those rules changes the problem. Neither judgment is a mathematical description of a person's development. Yinyang's central [crossed participation and return](yinyang-and-taiji.md#returning-through-the-other-the-dialectical-meaning-of-role-change) concerns what the person and counterpart can take up through one another, with both generation and scrutiny retained.
+Common consequence and reconstructed premises remain different achievements. In the [technical example above](#technical-appendix-two-choices-in-repair-semantics), both incompatible grounds support $Q(a)$ while the original rules stay fixed. Reconsidering those rules changes the problem. Neither judgment is a mathematical description of a person's development. Yinyang's central [crossed participation and return](yinyang-and-taiji.md#returning-through-the-other-the-dialectical-meaning-of-role-change) concerns what the person and counterpart can take up through one another, with both generation and scrutiny retained.
 
 ## Preference, psychology, and personal conditions
 

@@ -177,9 +177,10 @@ Comparing consequences also identifies where support ends. A conclusion
 supported by every member of a nonempty admissible candidate family is robust
 relative to that family; a shared omission can still defeat it in the world.
 When candidates disagree, a further observation may distinguish them, or a
-limited conclusion may survive the disagreement. [The Preference Harness](preference-harness.md)
-develops the separate choices of which views to consider and what support
-to require for acceptance.
+limited conclusion may survive the disagreement. In the fixed-ontology repair
+case, “every repair entails this query” is AR; “their shared assertions entail
+it” is the stricter IAR test. [The Preference Harness](preference-harness.md#technical-appendix-two-choices-in-repair-semantics)
+sets out those conditions and the separate choice of which repairs to consider.
 
 The distinction matters because choosing what to investigate is not yet deciding what to believe. A candidate may deserve attention because its consequences are important or easy to test while remaining poorly supported. Conversely, a well-supported local conclusion can be accepted without exhausting every imaginable alternative. Answerability to evidence and finite completion belong together: the view states what it warrants under its conditions, while the stream remains open to later correction.
 
