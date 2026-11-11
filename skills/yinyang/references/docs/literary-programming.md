@@ -26,6 +26,31 @@ Expression can also gradually lay out a map. Successive utterances mark the assu
 
 Writing those relations into external records and assigning their development to different models in different situations enters the organization of distributed cognition. [From personal philosophy to personal models](metaphor-and-self-revision.md) develops this account of listening, speaking, reading, and writing, and the bounded comparisons with a general interpreter and a personal Gödel machine.
 
+## Alternating the image and its relations
+
+An image gives the encounter a body; a precise account lets us follow its joints.
+We can write “the Moon returns the Sun's light in a form the Earth can receive,”
+then unfold the selected relation: a counterpart receives a tentative direction,
+develops a usable proposal, and lets its consequences return to revise that
+direction. Another passage can return to the image carrying those distinctions.
+
+Such alternation keeps literary generation and conceptual precision in the same
+work. The precise passage identifies its objects, relations, conditions, and
+consequences clearly enough for a model to reconstruct the reasoning. Natural
+language can express these formal relations; notation is useful when it makes
+the particular dependency easier to examine. The image can then suggest another
+connection, which the next precise passage tests and develops. Both modes can
+change what the other means.
+
+The eight rows of [the Trinity table](local-source-and-website.md#eight-aspects-of-one-practice)
+apply this method to one personal practice. Each mapping is intended to anchor
+its subject and return corrective feedback; fitting their different relations together can
+form a more complete personal model. The [Preference Harness essay and technical
+appendix](preference-harness.md) further distinguish retaining grounded readings,
+selecting by preference, testing a conclusion across admissible views, and
+reasoning from their common premises. Their formal tests examine reconstructed
+claims; the usefulness of a literary mapping remains a question for actual use.
+
 ## Why condensation makes revision easier
 
 Itemized instructions write approaches into many places. When a default division of work changes, rules for asking questions, writing requirements, execution steps, and the presentation of results may all need revision. Literary programming first gathers the relationship these arrangements jointly depend on, giving revision a place from which it can move the whole.

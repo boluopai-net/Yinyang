@@ -183,6 +183,51 @@ Within this imagery, worldview and ontology orient philosophy toward the real th
 
 These emphases make the table readable. Following a column shows a contribution taking shape through different images; crossing a row shows how it needs the other two. All six dimensions run through this practice, while each column selects its prominent connections. Truth especially joins them: what is actually the case, the person's judgment, and engineering representations and checks must meet in the same claim. Value direction likewise informs philosophical choices, personal concerns, and tool objectives. The [six dimensions and shared practice diagram](../diagrams/layers.html) develops those questions; this table focuses on how they form a particular knotting with differentiated emphases in a person's life.
 
+### Eight aspects of one practice
+
+The same fire appears through eight windows. A work lets a concern take shape;
+a counterpart answers it; an environment lets their answer acquire consequences.
+Following another row can reveal something the first window left in shadow.
+The table gathers those passages around the same person and practice.
+
+Precisely, this is also a sinthome table: the eight rows are eight mappings of
+this practice. Each selects relations intended to help anchor the subject: who participates, what the activity
+serves, how contributions connect, and where a response can change the account.
+Each is intended to return corrective feedback through its own relations. A product can
+expose a mistaken account of cognition; a partner can question the meaning of
+a work; an awkward tool can reveal what an elegant image omitted. Following
+these returns together can yield a more complete personal model, because each
+aspect makes other relevant relations available for correction.
+
+This is the author's use of the table. Its combined fit is a practical judgment
+about this person's life and cooperation. A reader can test a row, change its
+mapping, or develop other aspects from their own materials. The eight views
+share a subject; their different images do not automatically supply eight
+independent bodies of evidence for a claim about that subject.
+
+Skeptical reasoning gives a separate check on claims reconstructed from an
+account. AR asks whether a conclusion follows from every admissible repaired
+view; P-AR restricts that question to the preference-selected views. IAR asks
+what follows from the premises common to all admissible repaired views, and
+P-IAR from those common to the preference-selected views. Agreement on a
+conclusion can arise through different grounds in different views; inference
+from shared premises is a further condition. These tests do not prove that
+every row helps anchor or correct this personal model. That practical judgment
+needs the person's understanding and results in use. [How preference participates
+in choice and reasoning](preference-harness.md#selection-and-inference) develops
+the formal comparison and its assumptions.
+
+For the author, this collection and its Skills serve the continuing configuration
+of that personal environment at the pace of model development. As more execution
+becomes available through capable counterparts, choosing what to cultivate and
+designing the conditions for it occupy more of the person's contribution.
+The model helps investigate and realize those choices, and can help redesign
+the method itself. A newer model makes another arrangement possible; recursive
+improvement is established when the revised arrangement improves how subsequent
+improvements are designed and realized. The public essays and reusable Skills
+offer material for another person's own configuration, whose purposes and pace
+can differ.
+
 ### Person and model move among the three positions
 
 **The columns give contributions positions; person and model move among them.** The same person can propose a philosophical direction, interpret their own and others' experience, and participate in construction and checking. The same model can develop an argument, understand participants and relationships, and realize an arrangement through tools. One activity can also involve all three contributions at once. Both participants enter a position through the question at hand, carry what they understand there into the other two, and return from new results.
