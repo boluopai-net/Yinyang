@@ -848,6 +848,8 @@ image whose value is answered by participants' experiences and consequences.
 
 Assisting personal recursive self-improvement connects Yinyang's philosophy, working descriptions, and environment. **Recursive self-improvement improves the methods producing improvement, making later understanding, judgment, creation, and realization of change more capable.** Its subject is this person with the model and actual support relations. Capacities may be internalized or reliably distributed within their shared environment.
 
+### From configuring the environment first to making its design central
+
 The collection and its Skills serve a concrete purpose here: configuring a
 personal environment that can keep developing with models' changing capacities.
 As models undertake more investigation and implementation, choosing what to
@@ -857,6 +859,14 @@ choices together. A successor model's arrival supplies an occasion; recursive
 improvement occurs when a redesigned method actually makes the next redesign
 or other improvement more capable. This is a chosen direction for this person's
 environment, offered for others to examine and adapt to their own purposes.
+
+Under the author's selected circumstances, deciding what environment to build
+and how it should develop can become the hardest work. For tasks that can be
+delegated, the author may choose to contribute only configuration and design,
+with the model carrying out the remaining investigation, implementation, and
+checks. This allocation concerns those tasks. The person continues living,
+using the results, noticing their consequences, and changing the direction;
+another person's purposes or conditions can call for a different allocation.
 
 Philosophy and the personal environment are two mutually revising objects: philosophy develops direction
 and reasons, the environment gives understanding working form, and use can change philosophy.
