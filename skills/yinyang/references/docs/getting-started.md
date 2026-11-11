@@ -421,7 +421,7 @@ Voice entrances differ. Dictation usually passes a transcript to the model, with
 
 ### Learning: let the model prepare materials, and give attention to understanding
 
-The capacities cultivated here are **multimodal perception, intuition, and embodied reasoning**: make relations discernible through text, images, sound, practical action, and feedback. Begin with drawing, speaking, listening, or trying something, then ask the model to develop and compare. Models carry reliable retrieval, recording, material organization, and explicit inference, leaving human attention for understanding, generation, and judgment. Unfold and check conditions and reasoning that affect a conclusion.
+In the division of work developed in [Yinyang and Taiji](yinyang-and-taiji.md), the person practises embodied reasoning and reasoning in natural language. Sketch a relation you see, or try an action. Say why you think two things are connected and give an example that could change your judgment. Entrust the formal derivation, implementation, and checks to the model, then use the result to judge how well your explanation holds.
 
 Read widely while studying relationships supporting important judgments in depth. Foundational concepts, premises, and inferences can deserve repeated practice and evaluation through examples, counterexamples, exercises, or experiments. A model producing a correct answer and your ability to recognize, use, and revise the relationship are different results. Select practice for its current use, letting actual performance calibrate intuition.
 

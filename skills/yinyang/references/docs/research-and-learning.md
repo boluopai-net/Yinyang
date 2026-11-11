@@ -6,6 +6,8 @@ Design is one example: deciding what to make, why, how to organize it, and what 
 
 Broad reading connects with perception and action: a sketch can reveal a spatial relation, hearing can distinguish rhythm, and trying a design in its use situation can expose what a description misses. Let the model develop explanations, retrieve sources, and realize alternatives around those encounters. [Shared reflection and continued cultivation](participation-and-support.md#why-organize-participation-this-way) develops this division of attention and work; either participant can generate, reason, and revise.
 
+When trying a design, offer an explanation in your own words, give a reason, and describe a situation in which it would fail. The model can take over formalization, derivation, and implementation. Trying the two designs it builds may help you articulate a condition your explanation missed.
+
 ## Reading entrances
 
 <nav class="guide-navigation" aria-label="Page navigation" markdown="1">
