@@ -1,6 +1,9 @@
 # Read by the work being done
 
-Start with your question. [YY-00](docs/core-views.md#yy-00) introduces how the author's four adopted through-lines hold together under P-AR; it is the connected entrance, not a required route through every essay. Readers outside literature, history, or philosophy can
+Start with your question. [YY-00](docs/core-views.md#yy-00) introduces how the
+author's four adopted through-lines hold together under P-AR; it is the connected
+entrance, not a required route through every essay. Readers outside literature,
+history, or philosophy can
 select relevant [Core views](docs/core-views.md), examine their grounds and conditions,
 and follow the linked essays when a fuller argument would help. Selected ideas
 can guide the configuration of a fitting personal environment. The [use statement](https://github.com/boluopai-net/Yinyang/blob/main/README.md#intended-use-and-mental-health)
