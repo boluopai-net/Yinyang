@@ -635,12 +635,14 @@ test can help isolate a real problem. Keep meaningful checks for high-consequenc
 effects, while deferring unrelated tests and refinements that delay a usable
 first release without resolving a material risk.
 
-Make progress visible during the work. Show readable screenshots or rendered
-images of the actual evolving interface in the conversation, including changed
-diagrams, and explain consequential changes. For a new or substantially changed
-page, show the actual unpublished version before publication; update the preview
-after a further material edit. A description of implementation alone does not
-let the person see or judge the result.
+Make progress visible during the work and explain consequential changes. For
+a new page, provide the complete actual unpublished version as directly readable
+HTML before publication, so the person can read the whole page. Local edits can
+be shown through readable screenshots or rendered images of the affected actual
+interface, including changed diagrams. For a substantially changed page, show
+the actual unpublished version before publication; update the preview after a
+further material edit. A description of implementation alone does not let the
+person see or judge the result.
 
 Promptly publish authorized webpage and content changes once the usable version
 and its necessary checks are ready, so the person can encounter the actual
