@@ -32,6 +32,7 @@ The essays answer connected questions rather than forming a compulsory course:
 | How do the contributions fit together? | [The trinity of philosophy, psychology, and engineering](references/docs/local-source-and-website.md) connects philosophy, psychology, engineering, and their practical carriers. |
 | What does the central image express? | [Mutual becoming through Yinyang and Taiji](references/docs/yinyang-and-taiji.md) develops mutual grounding, transformation, and Sun–Moon–Earth. |
 | Where do particular arguments and originals belong? | [Read by the work being done](references/reading-map.md) routes to the essays, diagrams, and philosophical, psychological, and engineering sources. |
+| What are the formal semantics behind these inference choices? | [Inconsistency-tolerant semantics](references/docs/inconsistency-tolerant-semantics.md) explains repairs, priorities, and answer conditions. |
 
 Readers outside literature, history, or philosophy can begin by selecting relevant
 [Core views](references/docs/core-views.md), then follow their linked arguments

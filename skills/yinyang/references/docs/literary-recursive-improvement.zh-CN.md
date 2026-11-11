@@ -189,7 +189,7 @@ Zhang、Yuan 与 Zhang 在 **§3.4.3** 连接了单次构造与递归序列：�
 
 改进需要看见当前安排之外的可能。一次失败、不同人的报告、早先放弃的方案，可能指向彼此不相容的解释。把它们保留为可比较的材料，使现有描述仍然能够遇到差异。当前行动又需要采用足够明确的依据：要处理什么对象，依据哪些关系，作出怎样的预测与选择？
 
-前文的**工作视图**回答后一组问题。它组织当前值得采用的材料、解释与理由。[YY-10](core-views.zh-CN.md#yy-10)从[容纳不一致语义](preference-harness.zh-CN.md#选择与推理)借来一种区分 [[6]](#source-6)，用于整套 Harness 中的自然语言判断。有根据的读法可以沿自己的理由继续；用户对当前取舍已有偏好时，让这份偏好优先，再发展仍有根据的可能。没有适用偏好时，模型自己的默认取舍仍只是可考察的一种做法。
+前文的**工作视图**回答后一组问题。它组织当前值得采用的材料、解释与理由。[YY-10](core-views.zh-CN.md#yy-10)从[容纳不一致语义](inconsistency-tolerant-semantics.zh-CN.md)借来一种区分 [[6]](#source-6)，用于整套 Harness 中的自然语言判断。有根据的读法可以沿自己的理由继续；用户对当前取舍已有偏好时，让这份偏好优先，再发展仍有根据的可能。没有适用偏好时，模型自己的默认取舍仍只是可考察的一种做法。
 
 这给方法的自我修订留下了入口：一次结果可以使原先暂放的读法变得重要，也可以使本人重新选择先前采用的偏好。History 把选择和暂放的理由接到真实尝试及后果，使下一次合作能够恢复并重考它们。
 
@@ -298,6 +298,6 @@ $$
 3. <a id="source-3"></a> Yiannis N. Moschovakis（2010），*Kleene’s Amazing Second Recursion Theorem*，印刷页 190 的定理陈述，以及 §1、定理 1.1，192–193 页。[作者全文](https://www.math.ucla.edu/~ynm/papers/1602-002-1.pdf)。有效自指与输出自身描述的具体构造。
 4. <a id="source-4"></a> Jürgen Schmidhuber（2006，v5），*Gödel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements*，§4.1、定理 4.1（印刷页 11），§4.3（12 页）及 §6.1（15–16 页）。[所读版本](https://arxiv.org/abs/cs/0309048v5)。效用比较包含继续搜索的机会成本，修改可以涉及改进程序本身。这里借用这种问题结构，发展以解释、实践和后续结果为根据的人机方法。
 5. <a id="source-5"></a> Roman V. Yampolskiy（2015），*From Seed AI to Technological Singularity via Recursively Self-Improving Software*，§§1–2，PDF 页 2–4。[论文](https://arxiv.org/abs/1502.06512)。区分自修改、表现改善与后续改进能力的变化。
-6. <a id="source-6"></a> Meghyn Bienvenu 与 Camille Bourgaux，修复与查询语义的定义，§3。[作者稿](https://arxiv.org/html/2003.05746v5#S3)。本章沿用[偏好一文](preference-harness.zh-CN.md)的局部形式例子，再考察这些选择规则怎样成为修订对象。
+6. <a id="source-6"></a> Meghyn Bienvenu 与 Camille Bourgaux，修复与查询语义的定义，§3。[作者稿](https://arxiv.org/html/2003.05746v5#S3)。[语义附录](inconsistency-tolerant-semantics.zh-CN.md)展开形式比较；本章考察这些选择规则怎样成为修订对象。
 7. <a id="source-7"></a> Git 项目，*Git Glossary*，DAG、commit、branch、merge 等条目。[官方术语表](https://git-scm.com/docs/gitglossary)。版本祖先关系为历史定位提供技术含义；版本与生活后果的联系由实际材料说明。
 8. <a id="source-8"></a> Jiang Zhang、Bing Yuan 与 Qian Zhang（2026），*Self-Referential Introspection in Large Language Models: The Critical Threshold for Recursive Self-Improvement*，v2，2026-09-18，§§3.3–3.4 及附录 A–C，尤其 H1/H2、定义 A6、定义 A8–A11。[所读版本](https://arxiv.org/abs/2607.04277v2)。论文提出读取自身描述、模拟、评价与修改的程序构造；本文借其功能问题发展人机耦合版本，并在上文区分实践论证与形式结论所需的前提。

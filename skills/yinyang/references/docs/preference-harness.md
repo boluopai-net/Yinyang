@@ -8,9 +8,7 @@ Yinyang understands this preference through the person's activity with models an
 
 ## Selection and inference
 
-Across actual tasks, a reading with coherent support may continue to be considered. An applicable user preference in the current request or user-adopted prior instructions or Yinyang can shape which conflicting grounds receive priority; then P-Brave names the preference-sensitive orientation. In its absence, plain Brave names openness across the available supported readings. A trained model habit or harness default does not become a user preference merely by being present. Separately supported readings need not be jointly true; compatible measures can both be taken when purpose, known facts, capabilities, and permissions allow. Source reliability and external requirements keep their own evidential force.
-
-The names come from inconsistency-tolerant semantics in description logic. Yinyang borrows the distinction as an abstraction. There, plain Brave accepts an answer supported by at least one inclusion-maximal consistent repair; P-Brave first selects Pareto-optimal repairs under an applicable priority and uses the same existential answer condition. In a Pareto improvement, one added assertion is preferred to every removed assertion. [Bienvenu and Bourgaux, §3](https://arxiv.org/html/2003.05746v5#S3) supplies these definitions. This is a bounded comparison, not a computation prescribed for natural-language work or a description of how the meta-Harness operates.
+Across actual tasks, a reading with coherent support may continue to be considered. When an applicable user preference helps select readings, [P-Brave](inconsistency-tolerant-semantics.md) keeps a possibility available if at least one preferred reading gives it grounds. Without such a preference, Brave leaves grounded possibilities open across the available readings. A trained model habit or harness default does not become a user preference merely by being present. Separately supported readings need not be jointly true; compatible measures can both be taken when purpose, known facts, capabilities, and permissions allow. Source reliability and external requirements keep their own evidential force.
 
 This orientation can inform interpretation, proposals, and practice across tasks. The person receives a result relevant to the present judgment; consequential alternatives remain explained, with their support and reasons for deferral reachable through History. Actual consequences can return a deferred path to consideration or change the preference itself.
 
@@ -24,29 +22,7 @@ distinguishes grounds from consequences within a bounded question; forming a
 working view also involves interpreting material, proposing relations, and
 choosing action.
 
-Formal repair semantics holds its axioms fixed while comparing consistent grounds. Inquiry can also revise its concepts, question, source priorities, and way of accepting an answer. Evidence, purpose, and consequences provide different reasons for such revisions. [Recursive improvement](literary-recursive-improvement.md#retaining-conflict-and-forming-a-view-for-action) follows this return from local inference to improvement of the selection method itself.
-
-<a id="technical-appendix-two-choices-in-repair-semantics"></a>
-
-### Technical appendix: two choices in repair semantics
-
-In the formal setting, a knowledge base has a fixed, consistent ontology $T$ and a finite set of assertions $A$. A **repair** is an inclusion-maximal subset $R\subseteq A$ consistent with $T$. The nonempty family $SRep(T,A)$ contains all such repairs. A priority relation between conflicting assertions can select smaller families: $PRep$ (Pareto-optimal), $GRep$ (globally optimal), and $CRep$ (completion-optimal), with $CRep\subseteq GRep\subseteq PRep\subseteq SRep$. Here **P** specifies which repairs remain eligible; it does not yet say what counts as an answer. A Pareto improvement of a repair replaces some assertions with a consistent set containing at least one added assertion preferred to *every* removed assertion; a P-repair admits no such improvement. [Bienvenu and Bourgaux, §3](https://arxiv.org/html/2003.05746v5#S3) gives the precise definitions and the other two optimality tests.
-
-For any one nonempty selected repair family $F$ and the *same* query $q$, three answer conditions differ:
-
-| Answer condition | Exact test with $T$ fixed |
-| --- | --- |
-| Brave | $\exists R\in F:\ (T,R)\models q$ |
-| AR (all repairs) | $\forall R\in F:\ (T,R)\models q$ |
-| IAR (intersection of repairs) | $(T,\bigcap_{R\in F}R)\models q$ |
-
-Thus ordinary Brave, AR, and IAR use $F=SRep$; P-Brave, P-AR, and P-IAR use $F=PRep$. The same answer tests can also be applied to $GRep$ or $CRep$. Under classical monotonic entailment, IAR implies AR, and AR implies Brave. AR asks whether each eligible repair separately entails the query, possibly by different supporting assertions. IAR asks whether the assertions *shared* by all eligible repairs already entail it. These are different conditions, even though both concern every repair. They can be expressed exactly in natural language: “at least one consistent maximal view supports this same claim,” “each such view supports it,” and “their common assertions alone support it.”
-
-For a small example, let $T$ contain $A\sqsubseteq Q$, $B\sqsubseteq Q$, and $A\sqsubseteq\neg B$, and let the assertions be $A(a)$ and $B(a)$. The two ordinary repairs are $\{A(a)\}$ and $\{B(a)\}$. Each entails $Q(a)$, so AR accepts $Q(a)$; their intersection is empty, so IAR does not. Brave accepts both $A(a)$ and $B(a)$ separately, without accepting their inconsistent conjunction as one view. If an applicable priority is $A(a)\succ B(a)$, the sole P-repair is $\{A(a)\}$; P-Brave, P-AR, and P-IAR then all accept $A(a)$ and $Q(a)$. The preference has changed the eligible family, while the three answer conditions keep their definitions.
-
-[YY-13](core-views.md#yy-13) adopts P-AR in natural language. The eight rows identify the aspects the author selects. For a particular arrangement, each selected reading is used to assess the same claim. Computing that answer in description logic would additionally require specifying the ontology, assertions, conflicts and priorities for the instance and obtaining its repair family.
-
-A consequential decision may call for checking how each repair supports the proposed conclusion. When the shared premises are already available and suffice for the task, one can reason directly from them. This saves reconstructing a separate proof in each repair. The cost of obtaining the intersection itself depends on the knowledge base and its representation. Thoroughness here concerns coverage of the different grounds. As an acceptance condition, IAR is the stronger test.
+Inquiry can also revise its concepts, question, source priorities, and way of accepting an answer. Evidence, purpose, and consequences provide different reasons for such revisions. [Recursive improvement](literary-recursive-improvement.md#retaining-conflict-and-forming-a-view-for-action) follows this return from local inference to improvement of the selection method itself.
 
 ## Reading a rich account through supported branches
 
@@ -111,7 +87,7 @@ The return can also change the premise organizing the alternatives. Someone may 
 
 <a id="unity-within-conflict-consistent-views-and-common-consequences"></a>
 
-Common consequence and reconstructed premises remain different achievements. In the [technical example above](#technical-appendix-two-choices-in-repair-semantics), both incompatible grounds support $Q(a)$ while the original rules stay fixed. Reconsidering those rules changes the problem. Neither judgment is a mathematical description of a person's development. Yinyang's central [crossed participation and return](yinyang-and-taiji.md#returning-through-the-other-the-dialectical-meaning-of-role-change) concerns what the person and counterpart can take up through one another, with both generation and scrutiny retained.
+A conclusion can survive disagreement among existing accounts while the question organizing those accounts stays fixed. Reconstructing that question changes what the participants are considering. Yinyang's central [crossed participation and return](yinyang-and-taiji.md#returning-through-the-other-the-dialectical-meaning-of-role-change) concerns what the person and counterpart can take up through one another, with both generation and scrutiny retained.
 
 ## Preference, psychology, and personal conditions
 

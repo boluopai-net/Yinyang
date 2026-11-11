@@ -258,7 +258,7 @@ Conflicting material tests this continuity. A coherent working ontology can
 support present action while retained evidence and candidate interpretations
 remain in conflict. General paraconsistency supplies background for considering
 conflict without arbitrary conclusions following [[14]](#source-14); prioritized
-inconsistency-tolerant querying gives a more specific formal comparison [[16]](#source-16).
+[inconsistency-tolerant querying](inconsistency-tolerant-semantics.md) gives a more specific formal comparison [[16]](#source-16).
 The [Preference Harness account](preference-harness.md) develops the distinction
 between selecting views and reasoning within them. These contemporary
 constructions extend an inquiry into becoming and opposition; historical

@@ -552,21 +552,13 @@ or action. Consequences connect these functions: a result can call for different
 grounds, another interpretation, or a changed question. This grounded, revisable
 adoption is a working commitment.
 
-Yinyang makes a choice at the level of the meta-Harness: **use Brave to explore possible readings throughout the Harness, then choose the inference test suited to the claim.** Brave and P-Brave come from **inconsistency-tolerant semantics in description logic**. Yinyang borrows this distinction as an abstraction for interpreting natural language and making choices. People and models express purposes, interpret material, and respond to disagreements in natural language. An understanding supported by a coherent reading of the relevant material has grounds to remain under consideration. When another reading also has grounds, the partners can retain the disagreement and explore where each reading leads.
+Yinyang makes a choice at the level of the meta-Harness: **use Brave to explore possible readings throughout the Harness, then choose the inference test suited to the claim.** Brave and P-Brave come from [inconsistency-tolerant semantics in description logic](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.html). Yinyang borrows this distinction as an abstraction for interpreting natural language and making choices. People and models express purposes, interpret material, and respond to disagreements in natural language. An understanding supported by a coherent reading of the relevant material has grounds to remain under consideration. When another reading also has grounds, the partners can retain the disagreement and explore where each reading leads.
 
 **When exploring possible readings, use Brave if the user has expressed no preference about the choice at hand.** If the present request, earlier instructions, and Yinyang supply no applicable preference, all grounded readings remain open. The model’s familiarity with one reading, or the Harness’s customary way of proceeding, gives it no grounds to exclude the others.
 
 **When exploring possible readings, use P-Brave with priority for the user if the user has expressed an applicable preference.** Where that preference conflicts with the model’s usual choice, follow the user’s preference in making the tradeoff. Other readings that still have grounds continue to inform judgment. [Selection and inference](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference) explains the source of this distinction.
 
-Skeptical checks ask a further question about a proposed conclusion. Under AR,
-it must follow from every admissible repaired view; P-AR asks this of every
-preference-selected view. IAR instead reasons from the premises common to all
-admissible repaired views; P-IAR uses those common to the preference-selected
-views. A conclusion can follow in each view through different premises without
-following from their intersection. These tests therefore keep agreement of
-conclusions distinct from common grounds. [YY-13](#yy-13) adopts P-AR for its judgment across the selected perspectives.
-The [formal comparison](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference) specifies
-the borrowed semantics and their assumptions.
+A proposed conclusion also needs scrutiny across the readings relevant to it. AR names checking the judgment through each such reading; IAR names proceeding from the common grounds already available. Different readings can give different reasons for the same judgment; disagreement can instead expose a missing condition or a conclusion that needs qualification. [YY-13](#yy-13) adopts P-AR for its judgment across the perspectives selected by preference.
 
 This adoption keeps grounded branches usable. When a person expresses one part, develop it in context while keeping other compatible relations open. When they correct a point, revise that point and the inferences depending on it while continuing the remaining purposes and work. The model can develop grounded, corrigible candidates for what remains unexpressed; excluding an option calls for grounds bearing on that option. Action selection connects purpose, support conditions, and actual consequences, allowing inquiry to continue amid unresolved differences.
 

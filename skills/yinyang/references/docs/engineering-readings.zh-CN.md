@@ -101,7 +101,7 @@
 | Zhang、Yuan 与 Zhang（2026），[Self-Referential Introspection in Large Language Models，第2版](https://arxiv.org/abs/2607.04277v2)，§§3.3—3.4与附录A—C | 自描述、模拟、评价、修改和所提出的自省阈值；将形式前提与耦合系统中的解释比较。 |
 | Yampolskiy（2015），[From Seed AI to Technological Singularity via Recursively Self-Improving Software](https://arxiv.org/abs/1502.06512)，§§1—2 | 区分自修改、表现改善与产生后续改进的能力改善。 |
 | [Darwin Gödel Machine](https://arxiv.org/abs/2505.22954v3) | 以经验评估开展自改进，与证明引导的哥德尔机方案比较。 |
-| Bienvenu 与 Bourgaux，[修复与查询语义，§3](https://arxiv.org/html/2003.05746v5#S3) | 偏好论述采用的修复与 Brave／AR／IAR 推理；RSI 专章进一步考察选择和评价本身怎样改变。 |
+| Bienvenu 与 Bourgaux，[修复与查询语义，§3](https://arxiv.org/html/2003.05746v5#S3) | [语义附录](inconsistency-tolerant-semantics.zh-CN.md)展开这些形式来源，偏好论述连接情境中的选择，RSI 专章进一步考察选择和评价本身怎样改变。 |
 
 [RSI 专章的来源说明](literary-recursive-improvement.zh-CN.md#来源及其贡献)把这些阅读接到身体、
 描述与解释器的论证。沿构造考察后继取得什么、怎样继续评价和修改自身，

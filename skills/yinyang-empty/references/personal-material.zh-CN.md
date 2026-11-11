@@ -47,7 +47,7 @@ Personal 主题文章与协作模型用途不同。两者都从有关原始根�
 
 比较实际备选、请求、实现、使用与纠正，用具体例子使模式可见，并说明解释为何合适。在同一实践内部辨认已经运作的选择、对它的解释与本人现在的认同：人可以辨认有用的安排、拒绝不想要的限制，也可以改变曾经有用的偏好。不要把一次孤立的模型错误等同于采用的方向，也不要假定系统的每一处细节都已得到本人认同。
 
-Git/GitHub 保存已提交作品与沿革，Computer History 提供不同范围的使用证据。两者的联系支持可追溯的轨迹。重要的排除与旧解释保留在已有来源，不必让每个旧版本继续活跃。历史的祖先图不是优先关系，容纳不一致语义描述的基本判断也不是人的计算机制。[偏好一文](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.zh-CN.html)展开这些关系。
+Git/GitHub 保存已提交作品与沿革，Computer History 提供不同范围的使用证据。两者的联系支持可追溯的轨迹。重要的排除与旧解释保留在已有来源，不必让每个旧版本继续活跃。历史的祖先图不是优先关系，[容纳不一致语义](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.zh-CN.html)描述的基本判断也不是人的计算机制。[偏好一文](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.zh-CN.html)展开这些关系。
 
 ## 查清需要什么材料、已经有什么
 

@@ -76,13 +76,7 @@ check whether the models address the same person, conditions, and meaning of
 independence. A changed meaning requires an explicit comparison, not merely
 reusing the letter $P$.
 
-The [inconsistency-tolerant comparison](preference-harness.md#selection-and-inference)
-shows how conflicting material can remain available while inference proceeds
-within consistent views. An inclusion-maximal repair cannot add any omitted
-assertion while preserving consistency with the fixed theory; this does not establish which
-view is true or invent a better conceptual scheme. Their consequences can differ.
-This provides the formal comparison used here, without introducing a separate
-calculus called dialectical logic.
+The [inconsistency-tolerant comparison](inconsistency-tolerant-semantics.md) helps retain conflicting material while examining the consequences of coherent readings. Keeping such readings available leaves the conceptual question open: which understanding fits the person and situation, and what might a better account explain?
 
 There are several ways forward. New evidence can favor one existing view; a
 condition can explain why both local answers hold in different situations; or

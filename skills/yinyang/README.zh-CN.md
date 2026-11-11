@@ -31,6 +31,7 @@
 | 各项贡献怎样相接？ | [哲学、心理与工程的三位一体](references/docs/local-source-and-website.zh-CN.md)连接哲学、心理、工程及其实践载体。 |
 | 核心意象表达什么？ | [阴阳与太极中的共同生成](references/docs/yinyang-and-taiji.zh-CN.md)展开互为根、转化与日月地。 |
 | 具体论证和原典在哪里？ | [按任务问题阅读](references/reading-map.zh-CN.md)通向文章、图示及哲学、心理和工程来源。 |
+| 这些推理选择背后的形式语义是什么？ | [容纳不一致语义](references/docs/inconsistency-tolerant-semantics.zh-CN.md)说明修复、优先关系与答案条件。 |
 
 非文史哲背景的读者，可以先从[核心观点](references/docs/core-views.zh-CN.md)挑选有关部分，
 需要时再沿链接阅读论证。想连贯理解作者的整体方向，也可以读**借火 → 核心观点 → 实践说明**。

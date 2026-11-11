@@ -112,7 +112,7 @@ true. Two records saying that the bridge is open and closed today under the same
 conditions present a conflict to investigate. Recording someone's claim that
 the bridge is open also differs from accepting that it is open. Before invoking inconsistency tolerance, identify the referent, represented time, conditions, and level of each claim. An experience, a report of it, and a proposition about its external object are distinct.
 
-Indexing clarifies content without dissolving every conflict. Claims incompatible under the same relevant conditions remain incompatible. Differently dated claims can also conflict when an accepted rule requires persistence across the interval. The content and constraints decide, not timestamps alone. [Repair semantics](preference-harness.md#selection-and-inference) handles inconsistent formalized data under an ontology; it is unnecessary merely because a process changes or a feeling differs from a judgment.
+Indexing clarifies content without dissolving every conflict. Claims incompatible under the same relevant conditions remain incompatible. Differently dated claims can also conflict when an accepted rule requires persistence across the interval. The content and constraints decide, not timestamps alone. [Repair semantics](inconsistency-tolerant-semantics.md) handles inconsistent formalized data under an ontology; it is unnecessary merely because a process changes or a feeling differs from a judgment.
 
 ## Update order and elapsed time
 

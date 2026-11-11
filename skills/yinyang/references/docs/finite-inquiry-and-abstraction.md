@@ -107,7 +107,7 @@ His [2024 interview on logic](https://www.thepaper.cn/newsDetail_forward_2807198
 
 ## Judgment under limited evidence
 
-When sources conflict, an inquirer can distinguish the grounds provisionally accepted from what follows under them. The [preference account](preference-harness.md#selection-and-inference) develops that basic judgment through inconsistency-tolerant semantics. It makes the selection intelligible without requiring a person to reproduce a formal computation.
+When sources conflict, an inquirer can distinguish the grounds provisionally accepted from what follows under them. The [semantics appendix](inconsistency-tolerant-semantics.md) develops the formal distinctions behind that judgment. It makes the selection intelligible without requiring a person to reproduce a formal computation.
 
 Limited time and attention make selection necessary, but do not settle which selection is justified. The current question, the significance of an error, and available evidence determine what deserves investigation. Retain important alternatives in the trajectory while selecting a usable present account. Evidence can later reopen the selection or change the question itself.
 

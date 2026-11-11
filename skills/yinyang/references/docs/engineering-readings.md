@@ -106,7 +106,7 @@ Algorithms and complexity analysis establish properties under formal conditions;
 | Zhang, Yuan, and Zhang (2026), [Self-Referential Introspection in Large Language Models, v2](https://arxiv.org/abs/2607.04277v2), §§3.3–3.4 and Appendices A–C | Self-description, simulation, evaluation, modification, and the proposed introspection threshold; compare the formal premises with the coupled-system interpretation. |
 | Yampolskiy (2015), [From Seed AI to Technological Singularity via Recursively Self-Improving Software](https://arxiv.org/abs/1502.06512), §§1–2 | Distinguish self-modification, improved performance, and improved capacity to produce subsequent improvements. |
 | [Darwin Gödel Machine](https://arxiv.org/abs/2505.22954v3) | An empirical self-improvement comparison alongside the proof-guided Gödel-machine proposal. |
-| Bienvenu and Bourgaux, [repair and query semantics, §3](https://arxiv.org/html/2003.05746v5#S3) | Repairs and Brave/AR/IAR inference used in the preference essay; the RSI chapter then asks how selection and evaluation themselves can change. |
+| Bienvenu and Bourgaux, [repair and query semantics, §3](https://arxiv.org/html/2003.05746v5#S3) | The [semantics appendix](inconsistency-tolerant-semantics.md) develops these formal sources; the preference essay connects them to situated selection, and the RSI chapter asks how selection and evaluation themselves can change. |
 
 The [RSI chapter's source notes](literary-recursive-improvement.md#sources-and-their-contributions)
 connect these readings to its body–description–interpreter argument. Follow

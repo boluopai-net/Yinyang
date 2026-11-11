@@ -9,14 +9,7 @@ this guide within the [six-account method](../design-and-revision.md).
 
 ## Give the work a direction with reasons
 
-When adopted interpretation and inference govern how the remaining accounts
-are understood, introduce that approach first. In this Yinyang, this means
-attributed, inconsistency-tolerant reading: Brave keeps supported possibilities
-in view, while skeptical AR asks what holds across coherent readings; applicable
-user preferences shape their P-Brave and P-AR counterparts. IAR draws on their
-common core for lighter reasoning. Give enough meaning to read what
-follows, then link the shared argument for its complete grounds. Arrange the
-supplied bodies so this prerequisite reaches the reader before its applications.
+When adopted interpretation and inference govern how the remaining accounts are understood, introduce that approach first. In this Yinyang, preserve attribution, let supported possibilities remain available, and explain how a judgment is scrutinized across the readings selected by applicable user preferences. Link the [semantics appendix](../docs/inconsistency-tolerant-semantics.md) for the formal distinctions. Give enough contextual meaning to read what follows, and arrange the supplied bodies so this prerequisite reaches the reader before its applications.
 
 Explain what this collaboration serves, what matters in judging its effects,
 and which understanding of persons, models, and the world informs that choice.

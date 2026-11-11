@@ -108,7 +108,7 @@ and checks which earlier conclusions still apply.
 
 ### Brave keeps supported possibilities at work
 
-[YY-10](core-views.md#yy-10) borrows Brave as a natural-language orientation throughout the Harness. When the material admits different readings, a reading grounded in what was said, its context, or an observed result can continue to inform inquiry. Where the user has expressed no preference about the choice, the model's usual practice gives it no grounds to exclude such a reading. Where the user has expressed an applicable preference, give it priority and continue with the grounded readings under P-Brave. Both orientations let the partners proceed from supported possibilities.
+[YY-10](core-views.md#yy-10) borrows [Brave](inconsistency-tolerant-semantics.md) as a natural-language orientation for exploring possible readings throughout the Harness. When the material admits different readings, a reading grounded in what was said, its context, or an observed result can continue to inform inquiry. Where the user has expressed no preference about the choice, the model's usual practice gives it no grounds to exclude such a reading. Where the user has expressed an applicable preference, give it priority and continue with the grounded readings under P-Brave. Both orientations let the partners proceed from supported possibilities.
 
 History keeps the grounds for returning to deferred readings. Someone can name a focus while leaving room for other compatible work. An explicit exclusion changes the activity it concerns and the work that depends on it. The partners can then choose what to compare or try and reconsider their understanding in light of what happens.
 
@@ -177,10 +177,7 @@ Comparing consequences also identifies where support ends. A conclusion
 supported by every member of a nonempty admissible candidate family is robust
 relative to that family; a shared omission can still defeat it in the world.
 When candidates disagree, a further observation may distinguish them, or a
-limited conclusion may survive the disagreement. In the fixed-ontology repair
-case, “every repair entails this query” is AR; “their shared assertions entail
-it” is the stricter IAR test. [The Preference Harness](preference-harness.md#technical-appendix-two-choices-in-repair-semantics)
-sets out those conditions and the separate choice of which repairs to consider.
+limited conclusion may survive the disagreement. The [semantics appendix](inconsistency-tolerant-semantics.md) develops the corresponding formal checks.
 
 The distinction matters because choosing what to investigate is not yet deciding what to believe. A candidate may deserve attention because its consequences are important or easy to test while remaining poorly supported. Conversely, a well-supported local conclusion can be accepted without exhausting every imaginable alternative. Answerability to evidence and finite completion belong together: the view states what it warrants under its conditions, while the stream remains open to later correction.
 

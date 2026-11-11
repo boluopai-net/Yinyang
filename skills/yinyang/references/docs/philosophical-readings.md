@@ -350,7 +350,7 @@ Gordana Dodig-Crnkovic's [Information, Computation, Cognition (2013)](https://ar
 
 For psychological processes, empirical assessment, belief, and interaction, continue to [psychological readings](psychological-readings.md). Their theories and evidence investigate how knowing actually happens; philosophy continues to ask about explanation, grounds for knowledge, and the scope of mind.
 
-Technical sources for the Gödel Machine and Darwin Gödel Machine appear in [engineering readings](engineering-readings.md#self-improvement-research). [Preference Harness](preference-harness.md) retains its philosophical comparisons while preserving the assumptions and scope of formal repair, inference, and query transformation.
+Technical sources for the Gödel Machine and Darwin Gödel Machine appear in [engineering readings](engineering-readings.md#self-improvement-research). [Preference Harness](preference-harness.md) develops the philosophical comparison, while the [semantics appendix](inconsistency-tolerant-semantics.md) develops its formal sources.
 
 ## Purposes, selection, and changing the method
 
@@ -361,12 +361,7 @@ finite investments and actual opportunities. Mill's experiments of living and
 the Wittgenstein and Buddhist passages above help examine individuality,
 obligatory pursuit, and the continued usefulness of means.
 
-[Preference and reasoning](preference-harness.md#selection-and-inference) makes
-the selection of grounds explicit: Brave develops supported possibilities, AR
-examines what holds across readings, and IAR offers a lighter common-core route;
-applicable preferences can shape the selected grounds. Read Carnap on adopting a framework and Whitehead on importance
-alongside that distinction; the repair semantics has its own formal source,
-located in [engineering readings](engineering-readings.md#self-improvement-research).
+[Preference and reasoning](preference-harness.md#selection-and-inference) asks how grounds are selected and reconsidered in actual practice. Read Carnap on adopting a framework and Whitehead on importance alongside that question. The [semantics appendix](inconsistency-tolerant-semantics.md) develops its formal distinctions, with original sources located in [engineering readings](engineering-readings.md#self-improvement-research).
 
 [Personal RSI](literary-recursive-improvement.md) then makes the selection and
 evaluation method itself revisable. Dewey's acting and undergoing, Hegel's

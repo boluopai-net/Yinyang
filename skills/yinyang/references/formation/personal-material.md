@@ -75,7 +75,7 @@ Study preference as it operates through the person, model, tools, and personal e
 
 Compare actual alternatives, requests, implementation, use, and correction. Make the pattern visible with concrete cases and explain why the interpretation fits. Keep enacted selection, interpretation, and present endorsement intelligible within the same practice: a person can recognize a helpful arrangement, reject an unwanted constraint, or choose to change a formerly useful preference. Do not equate an isolated model error with an adopted direction or assume the system is already endorsed in every detail.
 
-Git/GitHub preserves committed works and ancestry; Computer History supplies differently scoped use evidence. Their connection supports a recoverable trajectory. Preserve consequential exclusions and old interpretations at their existing sources, without making every old version active. History's ancestry graph is not a priority order, and the basic judgment described by inconsistency-tolerant semantics is not a model of human computation. The [preference essay](../docs/preference-harness.md) develops these relations.
+Git/GitHub preserves committed works and ancestry; Computer History supplies differently scoped use evidence. Their connection supports a recoverable trajectory. Preserve consequential exclusions and old interpretations at their existing sources, without making every old version active. History's ancestry graph is not a priority order, and the basic judgment described by [inconsistency-tolerant semantics](../docs/inconsistency-tolerant-semantics.md) is not a model of human computation. The [preference essay](../docs/preference-harness.md) develops these relations.
 
 ## Establish what material is needed and available
 

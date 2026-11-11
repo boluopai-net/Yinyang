@@ -81,7 +81,7 @@ Sherburne 的 [A Key to Whitehead's Process and Reality](https://press.uchicago.
 及[第 82 节的展开](https://www.marxists.org/reference/archive/hegel/works/sl/sl_divis.htm)
 把知性、辩证与思辨说明为相连环节：固定规定，考察其自身限度，再理解对立中的
 肯定内容。它们帮助阅读[一致视图与共同后果](preference-harness.zh-CN.md#冲突中的统一一致视图与共同后果)；
-本文的修复语义有自己的定义，哲学比较追问差别怎样参与共同性的形成。
+[修复语义](inconsistency-tolerant-semantics.zh-CN.md)有自己的定义，哲学比较追问差别怎样参与共同性的形成。
 
 [《精神现象学》序言第 18 段](https://www.marxists.org/reference/archive/hegel/works/ph/phprefac.htm)
 提供经由他异而返回自身的思路，
@@ -280,7 +280,7 @@ Feng Ye 已经是文集的比较对象，这里将其展开为独立的阅读入
 
 研究心理过程、经验检验、信念与互动，接到[心理阅读](psychological-readings.zh-CN.md)。其中的理论与证据帮助理解认识实际怎样发生；哲学继续追问解释、知识根据与心灵的范围。
 
-哥德尔机与达尔文哥德尔机的技术来源见[工程阅读](engineering-readings.zh-CN.md#自改进研究)。[偏好 Harness](preference-harness.zh-CN.md)保留其哲学比较，并让形式修复、推论与查询变换各自的假设和范围保持清楚。
+哥德尔机与达尔文哥德尔机的技术来源见[工程阅读](engineering-readings.zh-CN.md#自改进研究)。[偏好 Harness](preference-harness.zh-CN.md)展开哲学比较，[语义附录](inconsistency-tolerant-semantics.zh-CN.md)展开相应形式来源。
 
 ## 目的、选择与方法改变
 
@@ -288,9 +288,7 @@ Feng Ye 已经是文集的比较对象，这里将其展开为独立的阅读入
 提供价值方向，[经济现实](economic-personal-rsi.zh-CN.md)比较有限投入与实际机会。
 上文密尔的生活实验，以及维特根斯坦和佛教的相关段落，帮助考察个性、必须追逐的要求与手段的持续用途。
 
-[偏好与推理](preference-harness.zh-CN.md#选择与推理)明确根据的选择：Brave 展开有支撑的可能，AR 考察什么在不同读法之间成立，IAR 提供较轻量的共同核心路径；适用的偏好可以影响根据的选择。
-将卡尔纳普关于框架采用、怀特海关于重要性的论述与这一区分并读；修复语义自己的形式来源，
-由[工程阅读](engineering-readings.zh-CN.md#自改进研究)定位。
+[偏好与推理](preference-harness.zh-CN.md#选择与推理)追问实际实践怎样选择并重新考察根据。把卡尔纳普关于框架采用、怀特海关于重要性的论述与这个问题并读。[语义附录](inconsistency-tolerant-semantics.zh-CN.md)展开相应形式区分，[工程阅读](engineering-readings.zh-CN.md#自改进研究)定位原始来源。
 
 [个人 RSI](literary-recursive-improvement.zh-CN.md)进一步让选择和评价方法自身可以修订。
 杜威的行动与承受、黑格尔关于对象和尺度的变化，以及具身实验哲学的论述，

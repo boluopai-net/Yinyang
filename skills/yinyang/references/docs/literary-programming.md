@@ -45,11 +45,7 @@ change what the other means.
 The eight rows of [the Trinity table](local-source-and-website.md#trinity-and-sinthome)
 apply this method to one personal practice. Each mapping is intended to anchor
 its subject and return corrective feedback; fitting their different relations together can
-form a more complete personal model. The [Preference Harness essay and technical
-appendix](preference-harness.md) further distinguish retaining grounded readings,
-selecting by preference, testing a conclusion across admissible views, and
-reasoning from their common premises. Their formal tests examine reconstructed
-claims; the usefulness of a literary mapping remains a question for actual use.
+form a more complete personal model. The [preference essay](preference-harness.md) develops how selection enters this practice; the [semantics appendix](inconsistency-tolerant-semantics.md) supplies the formal distinctions used to examine its claims. The usefulness of a literary mapping remains a question for actual use.
 
 ## Why condensation makes revision easier
 
