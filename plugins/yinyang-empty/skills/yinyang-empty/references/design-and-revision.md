@@ -40,6 +40,11 @@ requirements explicitly. Both can help form and revise a usable relation before
 complete self-understanding; [From personal models to a sinthome](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/writing-a-sinthome.html)
 develops the philosophical proposal.
 
+In the author's chosen arrangement, as model capabilities develop, designing and
+revising the environment becomes a principal continuing task: it brings the
+participants' understanding into forms that can be used and tested in life.
+This describes that arrangement, not a required allocation for every reader.
+
 These methods maintain one developed example. A request may instead call for
 another philosophy or literary form. Support that work at its own source, even
 when its images and organization no longer resemble Yinyang; the

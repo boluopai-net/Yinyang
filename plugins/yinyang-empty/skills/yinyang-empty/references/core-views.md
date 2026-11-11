@@ -303,6 +303,14 @@ for completion, a working tool, or a different interpretation of the image.
 Literary coherence opens a possibility; enacted contributions establish what
 the possibility becomes.
 
+Literary expression and precise relations can alternate within the same writing.
+An image gathers the encounter; natural language then identifies the participants,
+the relation being mapped, its conditions, and what would change it. This gives
+a capable model enough structure to reconstruct and examine the argument while
+leaving the image available for further generation. Precision can itself be
+written in prose. [Preference and reasoning](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html) develops a
+bounded formal comparison alongside this expressive practice.
+
 <a id="yy-06"></a>
 
 ## YY-06 · Arrange contributions across listening, speaking, reading, and writing
@@ -544,11 +552,23 @@ or action. Consequences connect these functions: a result can call for different
 grounds, another interpretation, or a changed question. This grounded, revisable
 adoption is a working commitment.
 
-Yinyang makes a choice at the level of the meta-Harness: **use the Brave orientation throughout the Harness.** Brave and P-Brave come from **inconsistency-tolerant semantics in description logic**. Yinyang borrows this distinction as an abstraction for interpreting natural language and making choices. People and models express purposes, interpret material, and respond to disagreements in natural language. An understanding supported by a coherent reading of the relevant material has grounds to remain under consideration. When another reading also has grounds, the partners can retain the disagreement and explore where each reading leads.
+Yinyang makes a choice at the level of the meta-Harness: **use Brave to explore possible readings throughout the Harness, then choose the inference test suited to the claim.** Brave and P-Brave come from **inconsistency-tolerant semantics in description logic**. Yinyang borrows this distinction as an abstraction for interpreting natural language and making choices. People and models express purposes, interpret material, and respond to disagreements in natural language. An understanding supported by a coherent reading of the relevant material has grounds to remain under consideration. When another reading also has grounds, the partners can retain the disagreement and explore where each reading leads.
 
-**Use Brave when the user has expressed no preference about the choice at hand.** If the present request, earlier instructions, and Yinyang supply no applicable preference, all grounded readings remain open. The model’s familiarity with one reading, or the Harness’s customary way of proceeding, gives it no grounds to exclude the others.
+**When exploring possible readings, use Brave if the user has expressed no preference about the choice at hand.** If the present request, earlier instructions, and Yinyang supply no applicable preference, all grounded readings remain open. The model’s familiarity with one reading, or the Harness’s customary way of proceeding, gives it no grounds to exclude the others.
 
-**Use P-Brave with priority for the user when the user has expressed an applicable preference.** Where that preference conflicts with the model’s usual choice, follow the user’s preference in making the tradeoff. Other readings that still have grounds continue to inform judgment. [Selection and inference](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference) explains the source of this distinction.
+**When exploring possible readings, use P-Brave with priority for the user if the user has expressed an applicable preference.** Where that preference conflicts with the model’s usual choice, follow the user’s preference in making the tradeoff. Other readings that still have grounds continue to inform judgment. [Selection and inference](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference) explains the source of this distinction.
+
+Skeptical checks ask a further question about a proposed conclusion. Under AR,
+it must follow from every admissible repaired view; P-AR asks this of every
+preference-selected view. IAR instead reasons from the premises common to all
+admissible repaired views; P-IAR uses those common to the preference-selected
+views. A conclusion can follow in each view through different premises without
+following from their intersection. These tests therefore keep agreement of
+conclusions distinct from common grounds. Applied to the eight perspectives in
+[YY-13](#yy-13), they help examine a claim reconstructed from the account; they
+do not establish the practical claim that every perspective helps this person.
+The [formal comparison](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference) specifies
+the borrowed semantics and their assumptions.
 
 This adoption keeps grounded branches usable. When a person expresses one part, develop it in context while keeping other compatible relations open. When they correct a point, revise that point and the inferences depending on it while continuing the remaining purposes and work. The model can develop grounded, corrigible candidates for what remains unexpressed; excluding an option calls for grounds bearing on that option. Action selection connects purpose, support conditions, and actual consequences, allowing inquiry to continue amid unresolved differences.
 
@@ -694,6 +714,19 @@ participant differences, and the world's response together in creation.
 
 **Read horizontally, each row connects three aspects from one perspective; read vertically, each column follows a contribution across different expressions.** Philosophy encompassing the practice supplies the overall understanding; the first column emphasizes its contribution toward world and being. The six philosophical dimensions run through all three columns: truth connects actual conditions, judgments, and representations; value enters philosophical choices, personal concerns, and tool purposes.
 
+This is also a sinthome table: the eight rows map the same practice from eight
+aspects. Each is intended to help anchor
+its subject: whose activity this is, what it serves, and how its contributions
+hang together. Each is also intended to carry a return that corrects the account: an image
+can expose a neglected relation, a work can resist its interpretation, and an
+environment can reveal the cost of a proposed arrangement. Where these aspects
+fit this person's practice together, their combined account can form a more
+complete personal model. The table offers this author's way of finding that
+fit; whether each row helps is answerable to actual understanding and use.
+[The Trinity essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/local-source-and-website.html#eight-aspects-of-one-practice)
+develops the relation, while [YY-10](#yy-10) distinguishes the skeptical tests
+available for claims reconstructed from it.
+
 **Intelligent interaction connects the three columns through design, cognition, and computation.** Interaction design shapes products and experiences, identifying activities and relations worth realizing; cognition and behavior examine AI and human psychology, developing an understanding of how participants perceive, represent, learn, judge, and respond; AI / computation realizes these relations through models and systems. Together they organize human–intelligent-system collaboration: design offers possibilities that can be experienced, cognitive understanding informs design and computational choices, and actual interaction revises all three.
 
 The website makes philosophy readable and discussable; the environment experienced in personal life gives experience and concern concrete content; GitHub retains maintainable sources and implementations. A work can be an essay, music, design, or program; the counterpart receives, develops, and creates together; the environment on electronic devices supports these activities through software, interfaces, and tools. The experienced environment and the electronic environment connect: feelings and responses in the former can change arrangements in the latter.
@@ -814,6 +847,26 @@ image whose value is answered by participants' experiences and consequences.
 ## YY-16 · Personal recursive self-improvement
 
 Assisting personal recursive self-improvement connects Yinyang's philosophy, working descriptions, and environment. **Recursive self-improvement improves the methods producing improvement, making later understanding, judgment, creation, and realization of change more capable.** Its subject is this person with the model and actual support relations. Capacities may be internalized or reliably distributed within their shared environment.
+
+### From configuring the environment first to making its design central
+
+The collection and its Skills serve a concrete purpose here: configuring a
+personal environment that can keep developing with models' changing capacities.
+As models undertake more investigation and implementation, choosing what to
+make possible and designing its conditions become increasingly central human
+contributions in this practice. The person and model can also redesign those
+choices together. A successor model's arrival supplies an occasion; recursive
+improvement occurs when a redesigned method actually makes the next redesign
+or other improvement more capable. This is a chosen direction for this person's
+environment, offered for others to examine and adapt to their own purposes.
+
+Under the author's selected circumstances, deciding what environment to build
+and how it should develop can become the hardest work. For tasks that can be
+delegated, the author may choose to contribute only configuration and design,
+with the model carrying out the remaining investigation, implementation, and
+checks. This allocation concerns those tasks. The person continues living,
+using the results, noticing their consequences, and changing the direction;
+another person's purposes or conditions can call for a different allocation.
 
 Philosophy and the personal environment are two mutually revising objects: philosophy develops direction
 and reasons, the environment gives understanding working form, and use can change philosophy.
