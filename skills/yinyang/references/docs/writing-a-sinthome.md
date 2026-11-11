@@ -45,6 +45,8 @@ In the opening example, writing can articulate how the person participates in cr
 
 It occurs within life and may help someone accommodate desire, bear tensions, or continue creating. How these effects occur depends on the particular person and process of use. Forming an arrangement and understanding what it actually does are connected questions: the former requires explaining its constitution, the latter understanding how it enters life.
 
+[The eight rows of the trinity table](core-views.md#yy-13) also form a table of the sinthome. Consider one piece of writing. The row for work, counterpart, and devices invites a question: where can I read the draft my counterpart revised, and can I resume at the sentence I want to change? Sun, Moon, and Earth bring out another relation in that same work. I propose an idea, my counterpart gives it a shape I can examine, and a reader's response reveals something I missed. The two rows open different opportunities for correction. If the manuscript is safely kept but the reader's objection never reaches the writer, we can identify which connection works and which still needs to be built. The author wants all eight aspects to contribute in his environment. Which connections actually hold for him depends on whether they help him resume, change, or finish the work.
+
 ## Bring grounded models into realization
 
 <a id="form-models-of-both-participants-from-personal-material"></a>
