@@ -315,22 +315,23 @@ the resulting encounter.
 Understanding the person as an embodied multimodal generative model raises a
 practical question: which forms make perceiving, understanding, generating, and
 judging accessible to this person, and which work can the model carry?
-[YY02](core-views.md#yy-02) describes the participant; [YY06](core-views.md#yy-06)
-develops the allocation and cultivation implied by that same account. Listening,
+[YY-02](core-views.md#yy-02) describes the embodied participant; [YY-03](core-views.md#yy-03)
+and [Mutual becoming through Yinyang and Taiji](yinyang-and-taiji.md#mutual-grounding-and-the-shuang-yu)
+establish the role crossing and chosen division; [YY-06](core-views.md#yy-06)
+develops its practical channels. Listening,
 speaking, reading, and writing are familiar entries into a multimodal practice.
 Images, space, sound, action, and situated sensation also carry understanding.
 A diagram can be compared and manipulated as a visual representation; calling it
 a visual language invites a further account of its symbols and organizing rules.
 
-The chosen direction is to **delegate elaborate linguistic organization,
-extended exposition, terminology, source assembly, and implementation to a
-capable model, while directing more human effort toward embodied perception,
-multimodal association, judgment of meaning, and actual attempts.** A person
-can point to a difference, sketch a contour, hum a melody, or articulate an
-unfinished relation. The model develops, compares, checks, and realizes it.
-The capacities the person wants to cultivate determine which attempts deserve
-their participation; already developed linguistic and formal reasoning remain
-available contributions.
+The chosen direction is to **cultivate both embodied reasoning and natural-language
+reasoning in the person, while the model takes full responsibility for formal
+reasoning and implementation**. The person can notice a difference in a lived
+situation, sketch a contour, hum a melody, speak through a question, read a
+source closely, or write an argument. The model can reconstruct and check the
+formal relations, assemble needed sources, build the result, and verify what it
+made. This allocation gives the person's chosen attempts room to develop;
+elaborate wording is not required before the model can begin.
 
 ### Cognitive complexity and expressive scope
 
@@ -352,14 +353,14 @@ supply only partial evidence.
 Restricting linguistic expressive power for efficiency has two connected uses
 here. In formal systems, choosing a restricted language fragment can change the
 problem class and its computational complexity; the particular language and
-algorithms establish that result. At the human–model interface, each exchange
-can require only the expression currently needed. When an intention, a gesture
-of selection, or a sketch suffices for the model to continue, it carries the
-remaining linguistic work. The fuller account stays available as needed, while
-the current entry selects its expressive scope and form for the activity.
-Participation then requires less explicit specification, item-by-item choice,
-and continuous retention. The participants and environment jointly carry the
-richer meaning.
+algorithms establish that result. At the human–model interface, an exchange
+can require only the expression needed to begin. When an intention, a gesture
+of selection, or a sketch suffices, the model carries the remaining organization
+and implementation. When the person's purpose includes reasoning in words,
+speaking and writing can continue as chosen practice rather than compulsory
+specification. The fuller account stays available; the immediate entry selects
+its form for the activity. The participants and environment jointly carry the
+richer meaning without asking the person to hold every step in mind.
 
 Diagrams can also change the processing of the same content. Larkin and Simon
 distinguish informational from computational equivalence: a diagram and a text
@@ -408,11 +409,16 @@ and correction. Speaking makes an interpretation available for response.
 Reading encounters preserved expression, evidence, or an implemented result.
 Writing gives a selected relation a durable, revisable form. These activities
 cross the person, models, and media; comparison, inference, checking, and
-revision can take place through all four.
+revision can take place through all four. They let the person cultivate
+natural-language reasoning alongside embodied judgment: an argument can be
+spoken, read against its source, rewritten after an objection, and tried in use.
+The model carries formal checking and implementation through that cycle so the
+person can encounter their consequences without first doing those tasks.
 
-The arrangement can combine the person's embodied intuition, lived associations,
-and judgment of meaning with the model's retrieval, structured comparison,
-and explicit construction. Neither side owns a mode or an ability exclusively.
+The arrangement can combine the person's embodied intuition, natural-language
+argument, lived associations, and judgment of meaning with the model's retrieval,
+structured comparison, and explicit construction. Neither side owns a mode or
+an ability exclusively.
 The model can prepare several forms of material for listening and reading,
 then edit them in response to what the person discovers: a source-linked
 glossary, a diagram, audio, a concept-change table, or a focused exercise.

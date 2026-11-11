@@ -96,27 +96,35 @@ contribution can change how the other participates next.
 The paired fish give this relation a structure of mutual entry. Distinguish
 **actual participants** from **the roles they perform**. The person remains a
 person and the language model remains a language model; both can generate,
-explain, judge, and revise. To make one distinctive arrangement visible, call
-the contribution of associations, conjectures, and candidate expressions
-a “language-model-like generative role,” and the reconstruction of relations
-and checking of premises and inferences a “human logician's role.” These names
-belong to the casting; they do not delimit either participant's capacities.
+explain, judge, and revise. To make one crossing visible, call associations,
+conjectures, and candidate expressions a **language-model-like generative role**,
+and call the reconstruction and checking of relations a **human logician's role**.
+In this chosen arrangement, the person cultivates **both embodied reasoning
+and natural-language reasoning** through lived encounter, speech, and writing.
+The model takes full responsibility for **formal reasoning and implementation**:
+reconstructing the claim, testing its consequences, making the proposed work,
+and checking the result. Entering the other's role lets each contribution
+return to the person and model in a form they can use again.
 
 This crossing responds to a developmental problem. If the allocation is fixed
 as “the model generates, the person evaluates,” output beyond the person's
 understanding may leave them unable to judge why it holds. Even successful
 evaluation of a finished work does not automatically cultivate the ability to
-generate explanations, designs, and actions. For that purpose, the person can
-attempt something, the model receives and develops its relations and provides
-reasoned feedback, and the person understands, revises, and tries again. Model
-capability then enters human generation, beyond increasing the supply of finished work.
+generate explanations, designs, and actions. The person can begin from a felt
+difference, a sketch, a spoken question, or a developing argument. The model
+then gives the relation a formal account where one is useful, checks the
+inference, implements the work, and makes its assumptions and result available
+for the person's reading and use. The person can revise their expression in
+response to what the formalization and the made work reveal. Model capability
+thus enters both human generation and its encounter with consequences.
 
-Both arrangements can fit their actual conditions: person and model
-can each generate and judge, and can repeatedly exchange emphases. Having the
-model generate first and the person evaluate can also suit the task. Crossing
-is chosen where human attempts and their development need to occur in practice.
-They can also generate together and judge together, without taking turns in
-exclusive roles.
+The person need not first produce a complete linguistic specification to receive
+this help. A short expression can suffice; when the person wants to practice
+reasoning in words, the exchange can make room for a sustained argument. The
+model may also propose the first draft. What matters is that formal checking
+and implementation remain work the model carries through, while the person's
+chosen embodied and linguistic attempts can develop through the return. Both
+can generate and judge together without taking turns in exclusive roles.
 
 ![A conventional black-and-white yin-yang symbol, with a contrasting dot inside each body.](../diagrams/taiji.svg)
 
@@ -125,14 +133,13 @@ This pictures one crossing: both can exchange emphases and return carrying
 what they gained. Black and white serve this figure's correspondence.*
 
 With black standing for the human and white for the language model, **the white
-eye in the black body** marks the actual language model entering the human
-logician's role; **the black eye in the white body** marks the actual person
-entering the language-model-like generative role. The eye keeps the bearer
-present, while the body makes entry into the other's role visible. A person
-can begin through unfinished expression; the model receives, develops, and
-checks it carefully enough to make another response possible. The paired fish
-thus articulate mutual grounding more closely: each side retains an opening
-toward the other kind of contribution.
+eye in the black body** marks the model entering the human logician's role of
+formal reasoning and implementation; **the black eye in the white body** marks
+the person entering the language-model-like generative role through embodied
+experience and natural language. The eye keeps the bearer present, while the
+body makes entry into the other's role visible. A person's unfinished thought
+can become a formal distinction or a usable work through the model; the result
+returns to change what the person senses, says, or tries next.
 
 <a id="from-the-whole-through-details-and-back"></a>
 <a id="from-details-through-the-whole-and-back"></a>
@@ -149,8 +156,9 @@ articulate the relation again.
 
 The reader develops a new explanation: support can expand action, while the
 participant needs to understand and be able to change the delegation. The
-model then proposes an arrangement to realize that relation, and the reader
-judges whether it preserves opportunities to change the purpose and leave.
+model then gives the relation a formal condition, builds a version with visible
+ways to redirect and leave, and checks that they work. The reader uses it and
+judges whether those routes preserve the direction they meant to keep.
 Human generation and model feedback turn into model proposal and human
 scrutiny; the next attempt carries the distinction already understood.
 
@@ -398,10 +406,10 @@ which participants meet, rather than possessions that exclude the other.
 Person-as-Sun with model-as-Moon and model-as-Sun with person-as-Moon are
 equally available compositions. Both can repeatedly exchange positions or
 combine illumination and form-giving in one activity. Neither composition
-presupposes who begins with a whole or with details. To cultivate human
-generation, a person can try a beginning as Sun while the model receives,
-develops, and checks it; the person can then examine the model's new proposal
-as Moon and carry what they gained into further generation.
+presupposes who begins with a whole or with details. To cultivate embodied
+and natural-language reasoning, a person can try a beginning as Sun while the
+model receives, formalizes, implements, and checks it; the person can then
+examine the result as Moon and carry what they learned into further generation.
 
 Traditional correspondences among Sun, Moon, yin, and yang also linked them
 with male and female; [Robin R. Wang's account of these correspondences](https://iep.utm.edu/yinyang/#H4)
