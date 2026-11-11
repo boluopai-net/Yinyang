@@ -73,7 +73,7 @@ The readings can reach the same conclusion through different grounds. If one ins
 
 | Through-line | Its reason for the same practical benefit |
 | --- | --- |
-| Inconsistency-tolerant semantics | Developing grounded alternatives and checking the judgment across the selected readings makes it possible to locate an unsupported inference, qualify a claim, and change a mistaken arrangement. |
+| [Inconsistency-tolerant semantics](inconsistency-tolerant-semantics.md) | Developing grounded alternatives and checking the judgment across the selected readings makes it possible to locate an unsupported inference, qualify a claim, and change a mistaken arrangement. |
 | [Yinyang dialectics](#yy-03) | Person and model enter generation and scrutiny through one another; the return preserves more ways to participate and lets either contribution correct the next attempt. |
 | [Sinthome and Trinity](#yy-13) | Philosophy, psychological understanding, and engineering acquire a concrete knotting: works, counterparts, and usable conditions sustain an activity and give correction a place to return. |
 | [Personal recursive self-improvement](#yy-16) | The method organizing improvement can itself change, so what is learned from one arrangement can improve how its successor is designed and realized. |

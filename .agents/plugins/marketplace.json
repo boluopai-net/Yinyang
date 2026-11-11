@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "yinyang-empty",
-      "version": "1.0.58",
+      "version": "1.0.59",
       "description": "<用户自制> 阴阳空白版：形成自己的个人阴阳，接入完整工作上下文，并按任务查阅资料与修订方法。 Form a personal Yinyang, connect its complete working context, and locate task-relevant materials and revision methods.",
       "source": {
         "source": "local",
