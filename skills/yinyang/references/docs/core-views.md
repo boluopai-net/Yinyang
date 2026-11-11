@@ -564,9 +564,7 @@ preference-selected view. IAR instead reasons from the premises common to all
 admissible repaired views; P-IAR uses those common to the preference-selected
 views. A conclusion can follow in each view through different premises without
 following from their intersection. These tests therefore keep agreement of
-conclusions distinct from common grounds. Applied to the eight perspectives in
-[YY-13](#yy-13), they help examine a claim reconstructed from the account; they
-do not establish the practical claim that every perspective helps this person.
+conclusions distinct from common grounds. [YY-13](#yy-13) adopts P-AR for its judgment across the selected perspectives.
 The [formal comparison](preference-harness.md#selection-and-inference) specifies
 the borrowed semantics and their assumptions.
 
@@ -714,18 +712,7 @@ participant differences, and the world's response together in creation.
 
 **Read horizontally, each row connects three aspects from one perspective; read vertically, each column follows a contribution across different expressions.** Philosophy encompassing the practice supplies the overall understanding; the first column emphasizes its contribution toward world and being. The six philosophical dimensions run through all three columns: truth connects actual conditions, judgments, and representations; value enters philosophical choices, personal concerns, and tool purposes.
 
-This is also a sinthome table: the eight rows map the same practice from eight
-aspects. Each is intended to help anchor
-its subject: whose activity this is, what it serves, and how its contributions
-hang together. Each is also intended to carry a return that corrects the account: an image
-can expose a neglected relation, a work can resist its interpretation, and an
-environment can reveal the cost of a proposed arrangement. Where these aspects
-fit this person's practice together, their combined account can form a more
-complete personal model. The table offers this author's way of finding that
-fit; whether each row helps is answerable to actual understanding and use.
-[The Trinity essay](local-source-and-website.md#eight-aspects-of-one-practice)
-develops the relation, while [YY-10](#yy-10) distinguishes the skeptical tests
-available for claims reconstructed from it.
+This is also a table of the sinthome. Here the author adopts P-AR to judge whether a personal environment holds the subject. His preferences select the eight aspects in the table for consideration. Under each reading retained on that basis, one must be able to explain how the environment lets him continue his activity and how a departure from his purpose can be corrected. A counterpart may notice something missing from a work; using a tool may reveal where it interrupts the activity. The grounds can differ across aspects. A judgment about the environment as a whole is accepted only when every selected reading supports that same judgment. The resulting personal model is more complete in its coverage of these eight aspects.
 
 **Intelligent interaction connects the three columns through design, cognition, and computation.** Interaction design shapes products and experiences, identifying activities and relations worth realizing; cognition and behavior examine AI and human psychology, developing an understanding of how participants perceive, represent, learn, judge, and respond; AI / computation realizes these relations through models and systems. Together they organize human–intelligent-system collaboration: design offers possibilities that can be experienced, cognitive understanding informs design and computational choices, and actual interaction revises all three.
 
