@@ -4,7 +4,7 @@
 
 Suppose one report places Ada in the park and another places her in the library at the very same moment. Both places are on campus, but she cannot be in both at once. A separate report says Ben signed in. The disagreement about Ada should not erase what is known about Ben, nor should it prevent us from asking whether Ada was on campus. **Inconsistency-tolerant semantics** gives this question a precise form. In ordinary classical logic, the contradictory records together have no model and entail every query; selecting consistent parts lets an answer mean something again.
 
-The account turns on two choices: **which consistent selections are eligible**, and **what support a query needs across those selections**. The formal case makes the difference clear enough to carry into ordinary reasoning.
+The account turns on two choices: **which consistent selections are eligible**, and **what support a query needs across those selections**. The formal case makes the difference clear enough to carry into ordinary reasoning. [YY-00](core-views.md#yy-00) places this semantics beside Yinyang dialectics, the sinthome and the Trinity, and personal recursive self-improvement; it tests their shared claim through P-AR across readings retained along all four lines. This chapter supplies the formal semantics for the first through-line.
 
 ## Fixed rules and maximal consistent repairs
 

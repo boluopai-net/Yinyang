@@ -27,7 +27,7 @@ The essays answer connected questions rather than forming a compulsory course:
 | Question | Reading |
 | --- | --- |
 | What is the developmental purpose? | [Borrowing fire and cultivating creative capacity](references/docs/stealing-fire.md) connects available capacities, personal cultivation, and reciprocal understanding. |
-| What claims does Yinyang make? | [Core views](references/docs/core-views.md) gives the proposition map. |
+| How do the adopted arguments fit together? | [YY-00](references/docs/core-views.md#yy-00) introduces four connected through-lines—[inconsistency-tolerant semantics](references/docs/inconsistency-tolerant-semantics.md), Yinyang dialectics, the sinthome and the Trinity, and personal recursive self-improvement—through the author's P-AR reading. The remaining Core views develop their claims. |
 | How does meaning acquire a working form? | [Practice overview](references/docs/creation-method.md) connects expression, relation, realization, and evidence. |
 | How do the contributions fit together? | [The trinity of philosophy, psychology, and engineering](references/docs/local-source-and-website.md) connects philosophy, psychology, engineering, and their practical carriers. |
 | What does the central image express? | [Mutual becoming through Yinyang and Taiji](references/docs/yinyang-and-taiji.md) develops mutual grounding, transformation, and Sun–Moon–Earth. |
@@ -37,7 +37,7 @@ The essays answer connected questions rather than forming a compulsory course:
 Readers outside literature, history, or philosophy can begin by selecting relevant
 [Core views](references/docs/core-views.md), then follow their linked arguments
 when needed. For a connected account of the author's purpose, read **Borrowing fire
-→ Core views → Practice explanation**. Neither route requires an original writing
+→ [YY-00](references/docs/core-views.md#yy-00) → Practice explanation**. Neither route requires an original writing
 project. Personal accounts and sources stay private; publishing an essay or website
 is a further choice of interest.
 

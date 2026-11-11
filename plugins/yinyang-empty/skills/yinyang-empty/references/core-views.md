@@ -15,6 +15,7 @@ its developmental purpose or writing a personal philosophy. See
 <details>
 <summary>On this page</summary>
 
+- [YY-00 · Inconsistency-tolerant semantics and the four through-lines](#yy-00)
 - [YY-01 · Reverse alignment: people develop with generative models](#yy-01)
 - [YY-02 · The person as an embodied multimodal generative model](#yy-02)
 - [YY-03 · Yinyang dialectics: role exchange and human generation](#yy-03)
@@ -24,10 +25,10 @@ its developmental purpose or writing a personal philosophy. See
 - [YY-07 · Let the environment carry memory and return attention to understanding](#yy-07)
 - [YY-08 · Synchronize with the model, stay asynchronous with society, align for evaluation](#yy-08)
 - [YY-09 · Connect philosophical understanding, models, and practice](#yy-09)
-- [YY-10 · Retain alternatives, form working commitments, and revise selection](#yy-10)
+- [YY-10 · Develop alternatives, test judgments, and revise selection](#yy-10)
 - [YY-11 · The world constrains the shared account](#yy-11)
 - [YY-12 · Make the views perceptible, discussable, and continuable](#yy-12)
-- [YY-13 · The Trinity and forming a sinthome](#yy-13)
+- [YY-13 · Sinthome and Trinity](#yy-13)
 - [YY-14 · Cultivate generative capacities with available fire](#yy-14)
 - [YY-15 · Cultivate a garden of becoming with friends](#yy-15)
 - [YY-16 · Personal recursive self-improvement](#yy-16)
@@ -35,7 +36,7 @@ its developmental purpose or writing a personal philosophy. See
 
 </details>
 
-**Yinyang dialectics, the Trinity, and personal recursive self-improvement organize this collection's main line.** [YY-03](#yy-03) explains how person and model enter one another's contributions and return through the other; [YY-13](#yy-13) explains how philosophy, psychology, and engineering connect within one lived practice and form a sustainable sinthome; [YY-16](#yy-16) explains how that practice further changes the methods producing improvement.
+**Inconsistency-tolerant semantics, Yinyang dialectics, sinthome and Trinity, and personal recursive self-improvement form four through-lines.** [YY-00](#yy-00) introduces how they each give reasons for the same practical judgment and how that judgment returns to actual use.
 
 The other views supply direction, material, and judgment: borrowed fire and reverse alignment explain why cultivate; embodied participation and listening, speaking, reading, and writing explain how to enter; trajectories retain grounds to return to; preference and reasoning organize present selection; world and works return consequences. Friends, life's rhythms, and letting go after completion keep cultivation within finite life.
 The stable IDs support discussion, not a compulsory sequence. Both reader
@@ -57,6 +58,27 @@ develops the foundation; [Forming a life trajectory](https://boluopai.net/reposi
 continuity. [Mutual becoming through Yinyang and Taiji](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html) gives their differentiated,
 changing contributions an image. Participants exceed their roles, and an open
 process can still produce a finished work.
+
+<a id="yy-00"></a>
+
+## YY-00 · Inconsistency-tolerant semantics and the four through-lines
+
+A person brings an unfinished idea to a counterpart, gives it a form they can examine, and returns to it after the world has answered. This collection follows that movement through four lines of thought. The concrete judgment joining them is: **this personal environment helps the person continue, change, or finish their chosen activity, while allowing consequences and objections to correct its direction.** A readable essay, an available tool, and a completed work contribute to that benefit in different ways.
+
+[Inconsistency-tolerant semantics](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.html#two-dimensional-framework) first separates two questions in ordinary language. Which grounded readings remain eligible for this judgment? What support does the judgment need from them? The ordinary case considers the full eligible family; applicable preferences can select readings first. In the formal appendix, P specifically selects Pareto-optimal repairs. Brave keeps a claim available as a possibility when at least one eligible reading supports it. AR accepts the same claim only when every eligible reading supports it. Thus Brave and AR can each be used with the ordinary family or with the preference-selected family, giving P-Brave and P-AR. Choosing readings and judging their consequences are distinct choices.
+
+The readings can reach the same conclusion through different grounds. If one instead proceeds only from the premises they share, IAR supplies a further, secondary route. Agreement of conclusions does not ensure that their shared premises suffice. The appendix develops the formal distinctions; [YY-10](#yy-10) puts developing alternatives and testing judgments to work together.
+
+**The author reads all four through-lines through P-AR.** No single line can be counted on in advance to hold the subject. The author chooses to examine all four together. The readings retained along each must explain how the environment sustains the person and lets correction enter. Each line can offer a different reason.
+
+| Through-line | Its reason for the same practical benefit |
+| --- | --- |
+| Inconsistency-tolerant semantics | Developing grounded alternatives and checking the judgment across the selected readings makes it possible to locate an unsupported inference, qualify a claim, and change a mistaken arrangement. |
+| [Yinyang dialectics](#yy-03) | Person and model enter generation and scrutiny through one another; the return preserves more ways to participate and lets either contribution correct the next attempt. |
+| [Sinthome and Trinity](#yy-13) | Philosophy, psychological understanding, and engineering acquire a concrete knotting: works, counterparts, and usable conditions sustain an activity and give correction a place to return. |
+| [Personal recursive self-improvement](#yy-16) | The method organizing improvement can itself change, so what is learned from one arrangement can improve how its successor is designed and realized. |
+
+This way of reasoning runs through the other three lines as well. In dialectical exchange, a counterpart can offer another reading. Both readings can remain open while the participants check which judgments survive each. In the sinthome table, each of eight rows explains from its own standpoint how an environment holds the subject. In recursive self-improvement, one failure can suggest several changes, and the consequences of trying one can alter the next choice. Their joint support makes the account more complete across the author's selected concerns. Whether the arrangement actually brings that benefit must still be checked: can the person resume the work, change a delegation, encounter a consequential objection, and finish or leave the activity? A failure in use can return through any line and revise the shared judgment. The following views develop the reasons, images, and means for that continuing work.
 
 <a id="yy-01"></a>
 
@@ -543,7 +565,7 @@ to their practical forms.
 
 <a id="yy-10"></a>
 
-## YY-10 · Retain alternatives, form working commitments, and revise selection
+## YY-10 · Develop alternatives, test judgments, and revise selection
 
 Retaining incompatible sources and interpretations keeps inquiry supplied with
 material beyond its present understanding. A working view organizes sufficiently
@@ -552,13 +574,13 @@ or action. Consequences connect these functions: a result can call for different
 grounds, another interpretation, or a changed question. This grounded, revisable
 adoption is a working commitment.
 
-Yinyang makes a choice at the level of the meta-Harness: **use Brave to explore possible readings throughout the Harness, then choose the inference test suited to the claim.** Brave and P-Brave come from [inconsistency-tolerant semantics in description logic](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.html). Yinyang borrows this distinction as an abstraction for interpreting natural language and making choices. People and models express purposes, interpret material, and respond to disagreements in natural language. An understanding supported by a coherent reading of the relevant material has grounds to remain under consideration. When another reading also has grounds, the partners can retain the disagreement and explore where each reading leads.
+Yinyang brings two questions into the meta-Harness together: **which alternatives deserve development, and which judgments withstand examination across the relevant readings?** Brave and AR name these different contributions in the borrowed [semantics](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.html#two-dimensional-framework). Either can operate with the ordinary eligible readings or, where applicable user preferences guide selection, with their P-variant. [YY-00](#yy-00) introduces this two-dimensional relation.
 
-**When exploring possible readings, use Brave if the user has expressed no preference about the choice at hand.** If the present request, earlier instructions, and Yinyang supply no applicable preference, all grounded readings remain open. The model’s familiarity with one reading, or the Harness’s customary way of proceeding, gives it no grounds to exclude the others.
+**Develop alternatives through Brave or P-Brave.** A coherent reading with grounds keeps a possibility available for further work. The model's familiarity with another reading, or the Harness's customary procedure, gives it no grounds to exclude this one. When the user has expressed an applicable preference, give it priority in the tradeoff while retaining other relevant grounds for judgment.
 
-**When exploring possible readings, use P-Brave with priority for the user if the user has expressed an applicable preference.** Where that preference conflicts with the model’s usual choice, follow the user’s preference in making the tradeoff. Other readings that still have grounds continue to inform judgment. [Selection and inference](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference) explains the source of this distinction.
+**Test a proposed judgment through AR or P-AR.** Ask how each relevant reading supports the same judgment. The reasons can differ; a disagreement can expose a missing condition or a claim that needs qualification. [YY-13](#yy-13) adopts P-AR across the perspectives selected by preference. Where shared grounds already suffice for the work, IAR offers a secondary route from those common premises.
 
-A proposed conclusion also needs scrutiny across the readings relevant to it. AR names checking the judgment through each such reading; IAR names proceeding from the common grounds already available. Different readings can give different reasons for the same judgment; disagreement can instead expose a missing condition or a conclusion that needs qualification. [YY-13](#yy-13) adopts P-AR for its judgment across the perspectives selected by preference.
+Developing a possibility can reveal a condition its first test missed; testing can call for another interpretation or arrangement. The purpose and current question determine their order. [Selection and inference](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#selection-and-inference) develops how preference participates in this activity.
 
 This adoption keeps grounded branches usable. When a person expresses one part, develop it in context while keeping other compatible relations open. When they correct a point, revise that point and the inferences depending on it while continuing the remaining purposes and work. The model can develop grounded, corrigible candidates for what remains unexpressed; excluding an option calls for grounds bearing on that option. Action selection connects purpose, support conditions, and actual consequences, allowing inquiry to continue amid unresolved differences.
 
@@ -669,7 +691,7 @@ continued, and discussed.
 
 <a id="yy-13"></a>
 
-## YY-13 · The Trinity and forming a sinthome
+## YY-13 · Sinthome and Trinity
 
 **Philosophy, psychology, and engineering jointly organize a practice in which one can live, create, and revise.** Philosophy articulates world, purposes, and reasons; psychology understands how actual participants experience, know, and care; engineering makes the understood relations usable conditions. [The trinity of philosophy, psychology, and engineering](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/local-source-and-website.html) distinguishes two levels of their shared belonging:
 

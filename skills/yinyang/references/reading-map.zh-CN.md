@@ -2,7 +2,7 @@
 
 # 按任务问题阅读
 
-从自己的问题进入。非文史哲背景的读者，可以先从[核心观点](docs/core-views.zh-CN.md)
+从自己的问题进入。[YY-00](docs/core-views.zh-CN.md#yy-00)以 P-AR 引入作者采纳的四条主线怎样相连；它是连贯阅读的入口，不是必须逐篇读完的路径。非文史哲背景的读者，可以先从[核心观点](docs/core-views.zh-CN.md)
 挑选有关部分，考察其理由与适用条件，需要时再沿链接深入文章。选定的思想可以用于
 配置适合自己的个人环境；[用途说明](https://github.com/boluopai-net/Yinyang/blob/main/README.zh-CN.md#用途与心理健康说明)
 区分这些工作与心理自助。是否写自己的哲学或文章，由兴趣决定，
@@ -42,6 +42,7 @@
 
 | 当前问题 | 基本观点与具体阅读 |
 | --- | --- |
+| 容纳不一致语义、阴阳辩证法、圣状与三位一体、个人递归自改进怎样形成同一份说明？ | [YY-00](docs/core-views.zh-CN.md#yy-00)提出共同判断，并沿选定的四条主线各自保留的读法逐一检验；下列各行通往每项贡献展开的论证。 |
 | 为什么生成还需要不同根据，正负反馈怎样支持阴阳辩证法？ | [YY-03](docs/core-views.zh-CN.md#yy-03)与[转动与纠偏反馈](docs/yinyang-and-taiji.zh-CN.md#转动与纠偏反馈)联系放大、纠正、独立伙伴与世界，以及角色返回怎样改变下一次生成。 |
 | 哪些值得本人参与，哪些交给模型承担？ | [YY-02](docs/core-views.zh-CN.md#yy-02) 与 [YY-06](docs/core-views.zh-CN.md#yy-06)把具身多模态参与接到语言外包。[认知复杂度与表达范围](docs/metaphor-and-self-revision.zh-CN.md#认知复杂度与表达范围)比较表征、已有知识、监督、中断与恢复。 |
 | 人与模型怎样在设计、理解和构造之间换位？ | [YY-13](docs/core-views.zh-CN.md#yy-13)与[三个位置之间的往返](docs/local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)，将交互设计、认知与行为、AI／计算接到哲学、心理与工程。 |
@@ -90,7 +91,7 @@
 
 | 探究中出现的问题 | 阅读及其贡献 |
 | --- | --- |
-| 哪些可能有支撑，什么在不同读法之间成立，偏好何时影响它们？ | [YY-10](docs/core-views.zh-CN.md#yy-10)与[选择与推理](docs/preference-harness.zh-CN.md#选择与推理)连接探索可能的 Brave、跨融贯根据审慎判断的 AR、偏好参与的 P-Brave 和 P-AR，以及从已经共同拥有的根据出发推理的 IAR。分别有支撑的主张若要一同断言，仍需共同支撑。独立的[容纳不一致语义附录](docs/inconsistency-tolerant-semantics.zh-CN.md)展开形式修复、优先关系与答案条件。 |
+| 哪些可能有支撑，什么在不同读法之间成立，偏好何时影响它们？ | [容纳不一致语义附录](docs/inconsistency-tolerant-semantics.zh-CN.md)维护形式修复族与答案条件；[YY-10](docs/core-views.zh-CN.md#yy-10)与[选择与推理](docs/preference-harness.zh-CN.md#选择与推理)展开它们在自然语言判断中的用法：Brave 保留有支撑的可能，AR 从相关读法逐一检查同一结论，IAR 从共同根据继续推理。适用偏好可以先选择读法，再检验答案；分别有支撑的主张若要一同断言，仍需共同支撑。 |
 | 共同工作怎样留下能够探索和反思的生活轨迹？ | [生活轨迹的形成](docs/flow-and-time.zh-CN.md)以共同改善阅读环境为例，通过 Git/GitHub 的版本历史与 ChatGPT 的 Computer History 两个主要入口汇集历史，区分事件来源和当前说明，并展开保留、时间与修订怎样支持接续。 |
 | 问题怎样形成，什么能够区分竞争解释？ | [未完成的流中的推理](docs/reasoning.zh-CN.md)展开事件流、相对于问题的视图、溯因、预测、保留的来源、候选与嵌套反馈。它帮助生成候选，并推出进一步互动确实能够区分的后果。 |
 | 怎样保留冲突材料，同时让融贯的视图支持行动？ | [偏好怎样参与选择与推理](docs/preference-harness.zh-CN.md)区分保留来源、选择视图与在视图内推论。它帮助保留当前退出使用的候选供重新考虑，而不把不相容的断言当作共同采纳的内容。其中的心理与形式来源承担不同作用。 |
