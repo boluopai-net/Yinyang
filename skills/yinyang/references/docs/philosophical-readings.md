@@ -362,8 +362,9 @@ the Wittgenstein and Buddhist passages above help examine individuality,
 obligatory pursuit, and the continued usefulness of means.
 
 [Preference and reasoning](preference-harness.md#selection-and-inference) makes
-the selection of grounds explicit before Brave inference develops supported
-possibilities. Read Carnap on adopting a framework and Whitehead on importance
+the selection of grounds explicit: Brave develops supported possibilities, AR
+examines what holds across readings, and IAR offers a lighter common-core route;
+applicable preferences can shape the selected grounds. Read Carnap on adopting a framework and Whitehead on importance
 alongside that distinction; the repair semantics has its own formal source,
 located in [engineering readings](engineering-readings.md#self-improvement-research).
 
