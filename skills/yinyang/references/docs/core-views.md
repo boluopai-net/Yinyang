@@ -168,6 +168,8 @@ criticism, or an image. The model evaluates and supports it through reasons,
 counterexamples, and actual results, enabling another attempt rather than
 only supplying a replacement answer.
 
+The author chooses a division of work within this exchange. **The person cultivates embodied reasoning and reasoning in natural language. The model takes full responsibility for formal reasoning and implementation.** A reader follows a footnote, returns to the passage, and loses the thread. Comparing the two moments of reading, she recognizes what she wanted to recover: the connection between two paragraphs. She develops and tests that explanation in her own words by giving an example where she returns to the same line yet still loses the connection. The model can formulate the claim that returning to the same place suffices to resume an argument, use her counterexample to identify a missing condition, and build a view that keeps the passage and note visible together. Trying it lets the reader notice which connections can still be lost and judge what to change next. The model's formal work thus feeds back into the experience from which the person reasons. [YY-06](#yy-06) follows this exchange into listening, speaking, reading, and writing.
+
 ### Mutual grounding and the two fish
 
 Generation gives judgment material; judgment gives generation a new direction. A contribution changes the work and how the next contribution can occur.
@@ -337,8 +339,7 @@ bounded formal comparison alongside this expressive practice.
 
 ## YY-06 · Arrange contributions across listening, speaking, reading, and writing
 
-**The embodied multimodal participation in YY02 becomes a way of cultivation
-through this allocation.** People develop understanding through sensation,
+**Listening, speaking, reading, and writing give the embodied participation of [YY-02](#yy-02) and the role exchange of [YY-03](#yy-03) a place in practice.** A person exercises reasoning in natural language by speaking a reason, writing a conjecture, or revising a claim after reading a counterexample. The model can develop those few sentences into a complete document, carry out the formal derivation, implement and check the result, and return it for the person to try. People develop understanding through sensation,
 sound, images, action, situations, and language. The model carries elaborate
 linguistic organization, explicit development, source assembly, and
 implementation, directing more human effort toward multimodal perception,

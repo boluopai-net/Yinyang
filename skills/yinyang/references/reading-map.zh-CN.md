@@ -45,7 +45,7 @@
 | --- | --- |
 | 容纳不一致语义、阴阳辩证法、圣状与三位一体、个人递归自改进怎样形成同一份说明？ | [YY-00](docs/core-views.zh-CN.md#yy-00)提出共同判断，并沿选定的四条主线各自保留的读法逐一检验；下列各行通往每项贡献展开的论证。 |
 | 为什么生成还需要不同根据，正负反馈怎样支持阴阳辩证法？ | [YY-03](docs/core-views.zh-CN.md#yy-03)与[转动与纠偏反馈](docs/yinyang-and-taiji.zh-CN.md#转动与纠偏反馈)联系放大、纠正、独立伙伴与世界，以及角色返回怎样改变下一次生成。 |
-| 哪些值得本人参与，哪些交给模型承担？ | [YY-02](docs/core-views.zh-CN.md#yy-02) 与 [YY-06](docs/core-views.zh-CN.md#yy-06)把具身多模态参与接到语言外包。[认知复杂度与表达范围](docs/metaphor-and-self-revision.zh-CN.md#认知复杂度与表达范围)比较表征、已有知识、监督、中断与恢复。 |
+| 哪些值得本人练习，哪些交给模型承担？ | 先读[阴阳与太极](docs/yinyang-and-taiji.zh-CN.md)与 [YY-03](docs/core-views.zh-CN.md#yy-03)，理解人怎样锻炼具身推理和自然语言推理，模型怎样承担形式推理与实现。再读 [YY-06](docs/core-views.zh-CN.md#yy-06)，看这种往返怎样进入听说读写。[认知复杂度与表达范围](docs/metaphor-and-self-revision.zh-CN.md#认知复杂度与表达范围)比较不同安排的表达、监督与恢复成本。 |
 | 人与模型怎样在设计、理解和构造之间换位？ | [YY-13](docs/core-views.zh-CN.md#yy-13)与[三个位置之间的往返](docs/local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)，将交互设计、认知与行为、AI／计算接到哲学、心理与工程。 |
 | 改好一件作品，怎样进一步改善产生下一件作品的方法？ | [YY-16](docs/core-views.zh-CN.md#yy-16)与[递归改进专章](docs/literary-recursive-improvement.zh-CN.md)展开描述、解释器、身体、自建模、评价，以及仍能继续修订的后继。 |
 | 有限时间、注意力、身体精力和费用应该投到哪里？ | [YY-17](docs/core-views.zh-CN.md#yy-17)与[经济现实](docs/economic-personal-rsi.zh-CN.md)比较培养、模型帮助、支持与恢复，再让结果返回选择投入的方法；神经经济、心理和社会经济视角解释同一选择中的不同关系。 |
