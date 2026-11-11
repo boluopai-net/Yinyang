@@ -42,7 +42,7 @@ the particular dependency easier to examine. The image can then suggest another
 connection, which the next precise passage tests and develops. Both modes can
 change what the other means.
 
-The eight rows of [the Trinity table](local-source-and-website.md#eight-aspects-of-one-practice)
+The eight rows of [the Trinity table](local-source-and-website.md#trinity-and-sinthome)
 apply this method to one personal practice. Each mapping is intended to anchor
 its subject and return corrective feedback; fitting their different relations together can
 form a more complete personal model. The [Preference Harness essay and technical
