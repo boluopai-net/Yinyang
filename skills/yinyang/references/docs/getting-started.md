@@ -421,7 +421,7 @@ Voice entrances differ. Dictation usually passes a transcript to the model, with
 
 ### Learning: let the model prepare materials, and give attention to understanding
 
-In the division of work developed in [Yinyang and Taiji](yinyang-and-taiji.md), the person practises embodied reasoning and reasoning in natural language. Sketch a relation you see, or try an action. Say why you think two things are connected and give an example that could change your judgment. Entrust the formal derivation, implementation, and checks to the model, then use the result to judge how well your explanation holds.
+When trying a tool, you can give the model a place to start by pointing out one thing. While listening to a recording, you might hear a sentence take on a different meaning before you can say why. Mark the sentence and ask the model to use an audio tool to clip it and the neighboring sentence so you can play them back in turn. On listening again, you may hear which word carries the stress and explain in your own words how that changes the meaning. On a later recording, notice what catches your ear first. This is one way to practise the exchange described in [Yinyang and Taiji](yinyang-and-taiji.md).
 
 Read widely while studying relationships supporting important judgments in depth. Foundational concepts, premises, and inferences can deserve repeated practice and evaluation through examples, counterexamples, exercises, or experiments. A model producing a correct answer and your ability to recognize, use, and revise the relationship are different results. Select practice for its current use, letting actual performance calibrate intuition.
 

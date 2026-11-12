@@ -124,12 +124,7 @@ the model carries elaborate linguistic work, the person cultivates capacities
 through fitting multimodal participation, and both revise the arrangement
 against actual benefit and total cost.
 
-This orientation favors embodied perception, broad reading, intuitive
-recognition, and cross-modal understanding. A person can voice a partial
-intuition or indicate a mismatch through an image while the model develops
-explanations, formal representations, programs, and checks. Access to these
-contributions need not wait for the person to reproduce the model's linguistic
-strengths. Fluency still requires verification. [Shared reflection and continued cultivation](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/participation-and-support.html#why-organize-participation-this-way)
+In perception and action, a person may intuitively notice a difference before finding the words to explain it. A reader senses that a word has shifted in meaning. A listener hears the same sentence differently when the stress moves. Either can be a starting point for embodied reasoning. The person can point out the passage, ask the model to compare the two instances, and judge in their own words what first caught their attention. [Shared reflection and continued cultivation](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/participation-and-support.html#why-organize-participation-this-way)
 explains the developmental reasons and conditions for this arrangement.
 
 The analogy changes what counts as an adequate entrance into shared work.
@@ -168,7 +163,7 @@ criticism, or an image. The model evaluates and supports it through reasons,
 counterexamples, and actual results, enabling another attempt rather than
 only supplying a replacement answer.
 
-The author chooses a division of work within this exchange. **The person cultivates embodied reasoning and reasoning in natural language. The model takes full responsibility for formal reasoning and implementation.** A reader follows a footnote, returns to the passage, and loses the thread. Comparing the two moments of reading, she recognizes what she wanted to recover: the connection between two paragraphs. She develops and tests that explanation in her own words by giving an example where she returns to the same line yet still loses the connection. The model can formulate the claim that returning to the same place suffices to resume an argument, use her counterexample to identify a missing condition, and build a view that keeps the passage and note visible together. Trying it lets the reader notice which connections can still be lost and judge what to change next. The model's formal work thus feeds back into the experience from which the person reasons. [YY-06](#yy-06) follows this exchange into listening, speaking, reading, and writing.
+The author chooses a division of work within this exchange. **The person cultivates embodied reasoning and reasoning in natural language. The model takes full responsibility for formal reasoning and implementation.** A reader follows a footnote, returns to the passage, and loses the thread. Comparing the two moments of reading, she recognizes what she wanted to recover: the connection between two paragraphs. She develops and tests that explanation in her own words by giving an example where she returns to the same line yet still loses the connection. The model can formulate the claim that returning to the same place suffices to resume an argument, use her counterexample to identify a missing condition, and build a view that keeps the passage and note visible together. After trying that view, the reader may notice, on another occasion, that two sentences need to be read together before she opens the note. A relation she once had to articulate, test, and try out has become one she can recognize directly in a new passage. In this way, the exchange can cultivate intuition itself. [YY-06](#yy-06) follows this exchange into listening, speaking, reading, and writing.
 
 ### Mutual grounding and the two fish
 
