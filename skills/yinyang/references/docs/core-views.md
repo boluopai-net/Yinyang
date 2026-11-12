@@ -152,16 +152,9 @@ Both allocations are available according to the purpose and conditions for
 understanding. Both participants can
 repeatedly exchange emphases, generate together, and judge together.
 
-When a model's output exceeds the person's conditions for understanding and
-verification, requiring a final human review may leave only acceptance or
-rejection without adequate grounds. Even successful evaluation of a finished
-product does not establish cultivated capacity to generate explanations,
-designs, or actions. Organizing collaboration for human generative development
-therefore makes the person's attempts and encounters with correction actual
-activities. Human generation can begin with an unfinished explanation, a
-criticism, or an image. The model evaluates and supports it through reasons,
-counterexamples, and actual results, enabling another attempt rather than
-only supplying a replacement answer.
+Why reverse these positions? A model can reuse formal capacities acquired in training and explore several lines of reasoning in parallel. It may produce a long argument in moments, while a person may have to reconstruct it from the beginning to judge it on good grounds. A further difficulty lies at the start: a model can reason closely about the wording of a sentence while already misunderstanding the situation it describes. If the person enters only at the final review, they carry the cost of verification, and a difference they noticed firsthand may never enter the argument.
+
+When the person generates first, they can begin with something they saw, heard, or discovered by trying, offer a conjecture in their own words, and say why it seems plausible. The model formalizes the conjecture, derives consequences, and looks for counterexamples. Knowing what they set out to explain, the person can judge where a counterexample matters and try a better explanation. The same trained formal capacity can serve many such attempts. Generating again gives the person practice in embodied, natural-language, and intuitive reasoning.
 
 The author chooses a division of work within this exchange. **The person cultivates embodied reasoning and reasoning in natural language. The model takes full responsibility for formal reasoning and implementation.** A reader follows a footnote, returns to the passage, and loses the thread. Comparing the two moments of reading, she recognizes what she wanted to recover: the connection between two paragraphs. She develops and tests that explanation in her own words by giving an example where she returns to the same line yet still loses the connection. The model can formulate the claim that returning to the same place suffices to resume an argument, use her counterexample to identify a missing condition, and build a view that keeps the passage and note visible together. After trying that view, the reader may notice, on another occasion, that two sentences need to be read together before she opens the note. A relation she once had to articulate, test, and try out has become one she can recognize directly in a new passage. In this way, the exchange can cultivate intuition itself. [YY-06](#yy-06) follows this exchange into listening, speaking, reading, and writing.
 

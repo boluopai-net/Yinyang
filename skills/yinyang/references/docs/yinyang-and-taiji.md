@@ -106,17 +106,27 @@ reconstructing the claim, testing its consequences, making the proposed work,
 and checking the result. Entering the other's role lets each contribution
 return to the person and model in a form they can use again.
 
-This crossing responds to a developmental problem. If the allocation is fixed
-as “the model generates, the person evaluates,” output beyond the person's
-understanding may leave them unable to judge why it holds. Even successful
+This crossing responds to a developmental problem. A model can reuse investment
+embodied in its training and draw on parallel computation to develop formal
+reasoning and implementations. The breadth of its output can exceed what a
+person can readily reconstruct under their present conditions. Even fluent
+prose that rewards close attention sentence by sentence may miss a concrete
+fact. If the allocation is fixed as “the model generates, the person evaluates,”
+the person may be unable to reconstruct all the grounds and may also miss that
+omission, leaving a final acceptance or rejection hard to ground. Even successful
 evaluation of a finished work does not automatically cultivate the ability to
-generate explanations, designs, and actions. The person can begin from a felt
-difference, a sketch, a spoken question, or a developing argument. The model
-then gives the relation a formal account where one is useful, checks the
-inference, implements the work, and makes its assumptions and result available
-for the person's reading and use. The person can revise their expression in
-response to what the formalization and the made work reveal. Model capability
-thus enters both human generation and its encounter with consequences.
+generate explanations, designs, and actions.
+
+Another beginning is a mismatch the person senses in a situation, a sketch, or
+a conjecture: they state a relation they provisionally understand in their own
+words. This gives them a starting point they can understand and carry forward
+without first completing a formal proof. Where formalization is useful, the
+model reconstructs the relation, tests its inferences, and implements the work.
+A counterexample or actual result can show the person what their explanation
+missed, prompting them to generate another explanation, design, or attempt.
+Formal work and embodied experience thus return to each other, bringing the
+creation into contact with consequences while developing intuition, embodied
+reasoning, and natural-language reasoning in concrete practice.
 
 The person need not first produce a complete linguistic specification to receive
 this help. A short expression can suffice; when the person wants to practice
