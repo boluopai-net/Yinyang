@@ -367,6 +367,5 @@ Heraclitus[第 51 则残篇](https://en.wikisource.org/wiki/Fragments_of_Heracli
 8. <a id="source-8"></a> Karl J. Åström、Richard M. Murray，[《反馈系统》§1.4，所链接的 2007 年草稿](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf)。贡献加强或抵消的返回及动态条件的重要性。赞同、批评与哲学修正是应用，需要指出具体变化与返回路径。
 9. <a id="source-9"></a> Heraclitus，[第 51 则残篇，附注译文](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_51)。贡献弓与琴中对立力量的关系；释放完成作品与维持交流的对比由本文发展，并非残篇引文。
 
-
 可以把它们与[生活轨迹的形成](flow-and-time.zh-CN.md)并读。它们为当代的论述提供不同的关系：生成与对立、
 相互为根与转化，以及有限的相遇借以发展的造物。

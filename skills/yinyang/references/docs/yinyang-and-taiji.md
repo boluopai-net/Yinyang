@@ -532,5 +532,4 @@ These sources contribute imagery, conceptual distinctions, and feedback theory. 
 8. <a id="source-8"></a> Karl J. Åström and Richard M. Murray, [*Feedback Systems*, §1.4, linked 2007 draft](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf). Supplies reinforcing/counteracting return and the need to consider dynamics. Agreement, criticism, and philosophical correction are applications requiring a specified change and return path.
 9. <a id="source-9"></a> Heraclitus, [fragment 51, translated and annotated text](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_51). Supplies the bow-and-lyre relation of opposed forces. The contrast between releasing a completed work and sustaining an exchange is developed here, rather than quoted from the fragment.
 
-
 Read these alongside [Forming a life trajectory](flow-and-time.md). Their different relations contribute to the contemporary account: becoming and opposition, mutual grounding and transformation, and the works through which a finite encounter can develop.
