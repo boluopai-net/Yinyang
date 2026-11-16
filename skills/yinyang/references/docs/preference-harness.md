@@ -79,7 +79,7 @@ Keep the history rich enough to distinguish the alternatives. Choosing direct li
 
 Making a pattern visible changes what can be judged. A person can ask whether a preference still serves their life, which alternatives it routinely excludes, what costs its realization creates, or whether they want to cultivate another way of choosing. Revising an interface or instruction can then change the preference's practical realization; revising its purpose can change what the environment is designed to support.
 
-This gives the connection with Lacan a specific point. In [“Subversion of the Subject”](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/), later signifying connections can participate in determining earlier meaning. Here, encountering a comparison of one's earlier choices can disclose a relation that was not previously formulated, or alter how an earlier choice is understood. The original event remains recorded while its place in the current account changes. Applying that question to model-assisted histories is this essay's development.
+This gives the connection with Lacan a specific point. In “Subversion of the Subject,” later signifying connections can participate in determining earlier meaning [[1]](#source-1). Here, encountering a comparison of one's earlier choices can disclose a relation that was not previously formulated, or alter how an earlier choice is understood. The original event remains recorded while its place in the current account changes. Applying that question to model-assisted histories is this essay's development.
 
 <a id="from-conflicting-views-to-reconstructed-premises"></a>
 
@@ -119,3 +119,9 @@ time, attention, expense, supervision, and maintenance burden. Useful convention
 revision can retire obsolete or more burdensome conventions, compensations, and compatibility layers
 so the new arrangement realizes the present purpose more directly. This practical comparison and
 [correspondence of factual claims and coherence of accounts](core-views.md#yy-09) answer their respective questions.
+
+## Sources and contribution
+
+1. <a id="source-1"></a> Jacques Lacan, [“Subversion du sujet et dialectique du désir dans l’inconscient freudien”](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/) (1960): the retrospective determination of meaning through signifying relations. Revisiting a model-assisted history of choices is this essay's application, not a claim that a preference history reproduces Lacan's theory.
+
+The [Git glossary](https://git-scm.com/docs/gitglossary#def_DAG) supplies the technical ancestry definition used above. The reading example and Preference Harness are developed here; the formal Brave and P-Brave distinctions are attributed in the linked semantics appendix.

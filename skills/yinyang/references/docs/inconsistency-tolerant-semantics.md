@@ -151,6 +151,12 @@ In [YY-13](core-views.md#yy-13), the author adopts **P-AR in natural language** 
 
 Formal repair semantics keeps $T$ and the question fixed while it tests answers. Inquiry can also revise its concepts, question, grounds, and priorities. A common consequence across present views and a reconstructed premise are different achievements; the distinction leaves room for both dependable local inference and a changed understanding.
 
+## Sources and scope of claims
+
+Bienvenu and Bourgaux supply the repair and priority framework and the established P/G/C and Brave/AR/IAR definitions; Bienvenu and Rosati supply the unprioritized bounded-support and defeater families. The author's revised thesis supplies the selected-family extensions and the stated order and separation results, within the formal assumptions given above. Its accompanying self-assessment supplies the interpretive motivation about lived reasoning. The four notes below identify these distinct contributions.
+
+Ada's example and the bridge to personal inquiry are this appendix's exposition. The eight readings of a personal environment illustrate how one judgment can receive different reasons; they do not instantiate a computed repair family. The formal results concern the specified knowledge bases and queries. Applying their distinctions to ordinary inquiry is the author's philosophical extension, whose adequacy must be judged in that inquiry.
+
 [^formal]: Meghyn Bienvenu and Camille Bourgaux, [“Querying and Repairing Inconsistent Prioritized Knowledge Bases: Complexity Analysis and Links with Abstract Argumentation,” §§2–3](https://arxiv.org/html/2003.05746v5#S3), arXiv:2003.05746v5, 2026. The repair, priority, P/G/C selection, and Brave/AR/IAR definitions used here follow this public source. The worked example and natural-language application are this page's exposition.
 
 [^k-source]: Meghyn Bienvenu and Riccardo Rosati, [“Tractable Approximations of Consistent Query Answering for Robust Ontology-Based Data Access”](https://ijcai.org/proceedings/2013/121), IJCAI 2013. This work introduced the unprioritized $k$-support and $k$-defeater families.

@@ -97,15 +97,13 @@
 其间发展概念化：相对于问题选取实体、区分与关系。工程把选定的含义写清楚，再
 赋予它们可用的形式。
 
-在知识工程中，Gruber 把本体说明为对概念化的明确规定；Guarino 进一步区分概念化
-与表达词汇预期含义的理论。这些说明帮助我们把**领域本体**放在关于领域的表征中。
+在知识工程中，Gruber 把本体说明为对概念化的明确规定 [[4]](#source-4)；Guarino 进一步区分概念化
+与表达词汇预期含义的理论 [[5]](#source-5)。这些说明帮助我们把**领域本体**放在关于领域的表征中。
 这里采用面向过程的领域本体，组织参与者、事件、状态、关系、约束与变化；概念
 模型则用这些区分发展一份具体说明。清楚的自然语言、图示或形式表达，都能给这份
 说明以可用的表达。计算本体承担其中明确概念关系、使模型能够解释和使用的工作。
 在[私人圣状](writing-a-sinthome.zh-CN.md#私人圣状中的计算本体)中，本人、伙伴、作品、
 纠正与继续等关系，就可以通过自然语言取得这种计算用途。
-参见[Gruber，1993](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf)、
-[Guarino，1998](https://www.loa.istc.cnr.it/wp-content/uploads/2020/03/FOIS98.pdf)。
 
 | 在实践中的作用 | 包含什么 | 例子：接续未完成的阅读 |
 | --- | --- | --- |
@@ -210,3 +208,6 @@
 1. <a id="source-1"></a> Thomas Hobbes（1651），**Leviathan**，第四章「Of Speech」。[原文](https://en.wikisource.org/wiki/Leviathan_%281651%29/Chapter_4)。一种有关普遍名称与个别事物的历史论述，而非当前伦理方向的证明。
 2. <a id="source-2"></a> John Stuart Mill（1859），**On Liberty**，第三章。[原文](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm)。多元共处中的个性与生活试验。
 3. <a id="source-3"></a> Rudolf Carnap（1950），**Empiricism, Semantics, and Ontology**。[公开重印](https://ditext.com/carnap/carnap.html)。关注目的的语言框架采用；个人优先前提在本文中另行给出。
+
+4. <a id="source-4"></a> Thomas R. Gruber（1993），*A Translation Approach to Portable Ontology Specifications*。[作者论文](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf)。知识共享中对概念化的明确规定。
+5. <a id="source-5"></a> Nicola Guarino（1998），*Formal Ontology and Information Systems*。[作者提供的论文](https://www.loa.istc.cnr.it/wp-content/uploads/2020/03/FOIS98.pdf)。概念化与预期含义的形式说明；向个人实践的应用由本文展开。

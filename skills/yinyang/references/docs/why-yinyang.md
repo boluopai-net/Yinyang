@@ -53,7 +53,7 @@ output, life again answers to an external measure. Philosophy can reopen what
 deserves attention, what is enough, and which understandings and relationships
 need different conditions. [From chasing to lived cultivation](stealing-fire.md#from-chasing-to-lived-cultivation)
 develops this relation through philosophical therapy and the Buddhist raft
-simile. Personal philosophy gives an environment direction while keeping that
+simile [[1]](#source-1). Personal philosophy gives an environment direction while keeping that
 direction open to examination. Cultivation can change desires, habits, and
 surrounding life as well as develop capacities already selected.
 
@@ -204,3 +204,7 @@ We borrow fire from an existing source of generative capability, then cultivate 
 Beginning with a Skill allows this understanding to enter actual conversation and work. As practice unfolds, it can continue to organize prompts, tools, memory, and the environment as a Meta-Harness for this person and counterpart together. Its value appears in changes to life and work: making a question easier to carry forward, an intuition easier to unfold into a work, and a completed task more able to leave capacities for the next act of creation.
 
 This explains why a personal philosophy is worth writing; subsequent essays prepare its material and relationships. [The argument for cuteness: openness, learning, and adaptation](meng.md) first examines conditions for openness, guidance, and shared learning, and [What kind of person do we want to cultivate? — Baby Heraclitus](baby-heraclitus.md) gives cultivation a character. Finite inquiry and environmental accumulation then leave a trajectory of working together; shared reflection on that trajectory gives the encounter concrete content. [Writing a personal philosophy through literary programming](literary-programming.md) develops how to author a philosophy from these materials and relationships, then distill personal models with living material and realize and revise a [sinthome](writing-a-sinthome.md). Writing thereby has a history of its own and can change the next stretch of shared life.
+
+## Sources and their contributions
+
+1. <a id="source-1"></a> [Borrowing fire and cultivating creative capacity](stealing-fire.md#from-chasing-to-lived-cultivation), especially its sections on philosophical clarification and [borrowed fire and nirvana](stealing-fire.md#borrowed-fire-and-nirvana). The companion essay identifies its primary texts and develops their application; the Harness and personal-philosophy proposal here is this project's own account.

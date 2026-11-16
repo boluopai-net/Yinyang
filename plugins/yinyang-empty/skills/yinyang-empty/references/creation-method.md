@@ -134,3 +134,9 @@ develops the writing method; [everyday collaboration](https://github.com/boluopa
 Existing philosophy, personal experience, preferences, works, or a working environment can provide the starting point.
 The model helps form missing connections; actual work can also change the philosophy and collaboration.
 For further writing, [An example and a commons](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/example-and-commons.html) opens a path to personal essays and different works.
+
+## Sources and the method's contribution
+
+This overview presents the author's practice method. [Forming and revising working models](design-and-revision.md) and its six formation guides develop the writing objects; [Writing one's own recursive improvement through literature](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/literary-recursive-improvement.html) supplies the argument for returning changes in work to the methods producing them. The reading-resumption example is constructed here to distinguish access, continuity, and developing capacity. Those outcomes require their corresponding observations in actual use.
+
+[Hindsight](hindsight.md) is an optional implementation reference for memory and synthesis. Its availability does not establish that the whole philosophical practice improves a person's capacities. The contribution of this overview is to connect philosophy, situated accounts, and environmental realization into a revisable activity; readers can develop different content through the same method.

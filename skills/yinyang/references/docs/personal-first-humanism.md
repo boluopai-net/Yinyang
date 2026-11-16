@@ -128,8 +128,8 @@ entities, distinctions, and relations. Engineering makes selected meanings
 explicit and gives them usable forms.
 
 In knowledge engineering, Gruber describes an ontology as an explicit
-specification of a conceptualization; Guarino further distinguishes that
-conceptualization from a theory expressing a vocabulary's intended meaning.
+specification of a conceptualization [[4]](#source-4); Guarino further distinguishes that
+conceptualization from a theory expressing a vocabulary's intended meaning [[5]](#source-5).
 These accounts help locate a **domain ontology** among our representations of a
 domain. Here a process-oriented domain ontology organizes participants, events,
 states, relations, constraints, and changes. A conceptual model develops a
@@ -139,8 +139,6 @@ ontology makes its conceptual relations explicit for a model to interpret and
 use. In a [private sinthome](writing-a-sinthome.md#computational-ontology-in-a-private-sinthome),
 relations among person, counterpart, work, correction, and continuation can
 acquire this computational use through natural language.
-[Gruber, 1993](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf);
-[Guarino, 1998](https://www.loa.istc.cnr.it/wp-content/uploads/2020/03/FOIS98.pdf).
 
 | Role in the practice | What it contains | Example: returning to unfinished reading |
 | --- | --- | --- |
@@ -286,3 +284,6 @@ practice its value direction, developed and revised through actual consequences.
 1. <a id="source-1"></a> Thomas Hobbes (1651), **Leviathan**, chapter IV, “Of Speech.” [Original text](https://en.wikisource.org/wiki/Leviathan_%281651%29/Chapter_4). One historical account of universal names and particular things, not a proof of the present ethical orientation.
 2. <a id="source-2"></a> John Stuart Mill (1859), **On Liberty**, chapter III. [Original text](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm). Individuality and experiments of living within plural coexistence.
 3. <a id="source-3"></a> Rudolf Carnap (1950), **Empiricism, Semantics, and Ontology**. [Public reprint](https://ditext.com/carnap/carnap.html). Purpose-sensitive adoption of linguistic frameworks; the personal-first premise is supplied separately here.
+
+4. <a id="source-4"></a> Thomas R. Gruber (1993), *A Translation Approach to Portable Ontology Specifications*. [Author's paper](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf). Explicit specification of a conceptualization in knowledge sharing.
+5. <a id="source-5"></a> Nicola Guarino (1998), *Formal Ontology and Information Systems*. [Author-hosted paper](https://www.loa.istc.cnr.it/wp-content/uploads/2020/03/FOIS98.pdf). Conceptualization and formal accounts of intended meaning; their application to personal practice is developed here.

@@ -15,7 +15,7 @@
 
 **Hierarchy and cuteness:** “stronger hierarchy” is divided here into two mechanisms. One is more fixed ranks of authority within relationships: who is entitled to speak, and who should obey. The other is economic stratification: who can obtain learning opportunities, tools, time, and support. Parents and children having different experience, responsibilities, and purposes does not automatically mean that parents always have greater epistemic authority. Allowing children to object and surpass oneself remains compatible with responsibilities for care and guidance.
 
-“Cuteness” here also includes a willingness to share resources, support others' growth, and let shared life change oneself. The language of “communism / selflessness” is used in this local sense of sharing and mutual support. Such cuteness is compatible with the preceding [Personal-First Humanism](personal-first-humanism.md): respecting each person's purposes can be a reason to change unsuitable arrangements of authority and resources.
+“Cuteness” here also includes a willingness to share resources, support others' growth, and let shared life change oneself. The language of “communism / selflessness” is used in this local sense of sharing and mutual support. Such cuteness is compatible with the preceding Personal-First Humanism [[1]](#source-1): respecting each person's purposes can be a reason to change unsuitable arrangements of authority and resources.
 
 **Invincibility:** the term used here for the advantage gained through continuing learning, revision, and adaptation.
 
@@ -53,3 +53,7 @@ Therefore, within the above assumptions and scope of comparison, the argument ca
 Assume that Chinese people are cuter. By the argument above, cuteness implies invincibility, so Chinese people are invincible.
 
 If people from other countries, or any particular individual, are also cute, they are likewise invincible.
+
+## Sources and their contributions
+
+1. <a id="source-1"></a> [Personal-First Humanism](personal-first-humanism.md). Its account of respecting particular persons and revising arrangements supplies a companion premise. This essay defines “cuteness” and “invincibility” locally; its derivation is conditional on the stated assumptions, not an empirical demonstration or a claim about any nationality.

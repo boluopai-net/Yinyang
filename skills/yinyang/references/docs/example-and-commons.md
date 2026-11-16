@@ -103,7 +103,7 @@ to ask a question, discuss a correction or suggestion, share a relevant work,
 or request a song from boluopai. The [singing station](https://boluopai.net/singing/en/)
 is for requests to the author, not submissions of other people's recordings.
 This repository does not accept any PRs, including Skills, code, translations,
-documents, and recordings. The author maintains its changes and publication.
+documents, and recordings. The author maintains its changes and publication [[2]](#source-2).
 The [conversation guide](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.md)
 explains these entrances.
 
@@ -125,7 +125,7 @@ published and sold. Discuss ideas and share official links; legal exceptions
 and GitHub's public-platform permissions remain intact. The other Skill and
 tool packages retain their MIT licenses. Third-party works and earlier valid
 grants keep their own terms. The invitation to create concerns your own work;
-it does not authorize republishing this package.
+it does not authorize republishing this package [[1]](#source-1).
 
 ## Personal practice, maintained source, and readable work
 
@@ -143,3 +143,10 @@ develops why these different forms belong together and how a language model
 can help maintain the relations among them.
 
 The opening asked how borrowed fire becomes a capacity to keep generating fire. Concrete practice can now continue answering: which understandings and actions have become available, which works support the next creation, and which relationships let the person and their friends grow? New works become further living material for another shared exploration. Carry your questions onward, encounter more ideas, works, and lives, and make something of your own.
+
+## Grounds of the invitation and terms of reuse
+
+“Knowledge communism” and the invitation to adopt, combine, or author anew express this collection's aspiration. They do not establish a historical account of commons or grant reuse rights beyond the actual terms. The formation examples describe proposed practices, rather than evidence that recipients have achieved personal development.
+
+1. <a id="source-1"></a> This collection's [Yinyang Personal and Internal Use License 1.0](../../LICENSE) and [licensing guide](../../../../LICENSING.md). These are the primary grounds for the reuse distinctions above: permission to read and use privately, separate permission for redistribution or service provision, and the distinct status of independent outputs. Other packages and third-party works retain their own terms.
+2. <a id="source-2"></a> The author's [conversation guide](../../../../CONTRIBUTING.md). Supplies the actual Issue-based conversation and no-PR participation terms. The proposal that independently maintained works can develop through criticism, citations, and links is this essay's philosophical extension of those arrangements.

@@ -33,7 +33,7 @@ connection between questions, not a fixed chronology. In actual inquiry,
 abstraction, view selection, and inference can interleave and prompt one
 another's revision.
 
-[Professor Feng Ye's 2023 monograph, §§1.1 and 6.5](https://link.springer.com/book/10.1007/978-981-19-8143-2) examines the distance between ideal explanation and actual methods of inquiry. This comparison helps ask how a finite inquirer obtains warranted understanding through selective representation.
+Professor Feng Ye's 2023 monograph, §§1.1 and 6.5, examines the distance between ideal explanation and actual methods of inquiry [[1]](#source-1). This comparison helps ask how a finite inquirer obtains warranted understanding through selective representation.
 
 ## A retrievable trajectory under finite attention
 
@@ -146,3 +146,9 @@ contributed, what the exchange made possible, what was missed, and what they
 want to cultivate further. Finite representation has prepared something for
 that encounter to explore; the encounter can in turn change what the next
 trajectory needs to retain.
+
+## Sources and contribution
+
+1. <a id="source-1"></a> Feng Ye, [*Studies in No-Self Physicalism*](https://link.springer.com/book/10.1007/978-981-19-8143-2) (2023), §1.1 p. 6, §6.5 pp. 445–447 and 456–459, §7.4.2 pp. 528–532: ideal and actual inquiry, complexity, and reliability of intuition. The question-relative economy of a retrievable shared trajectory is this essay's development, not an identification of its naturalism with Ye's physicalism.
+
+The [2021 institutional lecture report](https://renwen.ucas.ac.cn/index.php/rczp/2015-12-09-08-37-01/55005-2021-6) and [2024 interview](https://www.thepaper.cn/newsDetail_forward_28071984) provide the comparisons described above. The house, bridge, and windmill map is a constructed example of preserving relations needed by a question; it is not attributed to those sources.

@@ -43,7 +43,7 @@ A woman familiar with details and accustomed to letting the other generate first
 
 The Sun here images expanding external generative power. Trying personally to recreate its entire machinery, or treating every frontier change as a demand to catch up, can consume the time and attention needed for one's chosen life. “Being burned up” names this resource pressure. It gives a reason to borrow available capability and choose what to cultivate, rather than a scientific law about progress or a ban on doing research.
 
-The contrast reworks inherited images. In the *Shan Hai Jing*, Kuafu pursues the sun and dies of thirst; in Hesiod's *Theogony*, Prometheus carries stolen fire in a hollow fennel stalk. Their juxtaposition here is contemporary: it distinguishes pursuing overwhelming power from bringing usable fire into life. [Mythic sources below](#mythic-sources).
+The contrast reworks inherited images. In the *Shan Hai Jing*, Kuafu pursues the sun and dies of thirst [[39]](#source-39); in Hesiod's *Theogony*, Prometheus carries stolen fire in a hollow fennel stalk [[40]](#source-40). Their juxtaposition here is contemporary: it distinguishes pursuing overwhelming power from bringing usable fire into life.
 
 A supposedly definitive prompt can become another form of pursuit when endlessly repairing it to match an external ideal displaces what the collaboration was meant to serve. Technical inquiry, precise specifications, and model updates remain useful when they contribute to that purpose. The issue is where the person's life goes: into keeping pace for its own sake, or into a practice that the available power can sustain.
 
@@ -53,9 +53,7 @@ more pursuit possible, and pursuit makes the existing direction harder to
 question. This is the **positive-feedback** aspect of the Kuafu image here.
 Positive and negative name the direction of
 feedback, not praise and blame: reinforcement strengthens an initiating change,
-while corrective feedback counteracts a relevant deviation.
-[The Open University's systems account](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-what-do-we-mean-feedback)
-introduces that distinction.
+while corrective feedback counteracts a relevant deviation [[41]](#source-41).
 
 Yinyang gives **negative feedback** a central purpose in borrowing fire: another
 judgment and the world's response must be able to redirect a pursuit that
@@ -650,5 +648,7 @@ The recent AI material is a selected comparison, not an exhaustive literature re
 
 ### Mythic sources
 
-- *Shan Hai Jing*, **Haiwai Beijing**: [Kuafu's pursuit](https://zh.wikisource.org/zh-hans/山海經/海外北經). The present practical interpretation does not exhaust the myth.
-- Hesiod, **Theogony**, lines 507–616, especially the fire theft around 565–567: [Hugh G. Evelyn-White's translation](https://www.theoi.com/Text/HesiodTheogony.html). The carrier of fire informs the image; this essay does not adopt the surrounding mythology as a theory of AI.
+39. <a id="source-39"></a> *Shan Hai Jing*, **Haiwai Beijing**: [Kuafu's pursuit](https://zh.wikisource.org/zh-hans/山海經/海外北經). The present practical interpretation does not exhaust the myth.
+40. <a id="source-40"></a> Hesiod, **Theogony**, lines 507–616, especially the fire theft around 565–567: [Hugh G. Evelyn-White's translation](https://www.theoi.com/Text/HesiodTheogony.html). The carrier of fire informs the image; this essay does not adopt the surrounding mythology as a theory of AI.
+
+41. <a id="source-41"></a> The Open University, *Systems explained: what do we mean by feedback?* [Systems account](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-what-do-we-mean-feedback). Reinforcing and balancing feedback; the connection to pursuit and cultivation is this essay's interpretation.

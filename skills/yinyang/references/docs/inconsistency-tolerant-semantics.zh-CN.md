@@ -151,6 +151,12 @@ Ada 的例子已经能区分一对跨坐标语义。若 $Park(a)\succ Library(a)
 
 形式修复语义保持 $T$ 与问题不变，再检验答案。实际探究还可以修订概念、问题、根据与优先关系。当前视图的共同后果与重构旧前提是不同成果；把它们分清，既能在局部可靠推论，也容许理解本身发生改变。
 
+## 来源及主张范围
+
+Bienvenu 与 Bourgaux 提供修复和优先关系框架，以及已有的 P／G／C 与 Brave／AR／IAR 定义；Bienvenu 与 Rosati 提供无优先关系的有界支撑与击败集语义。作者的修订论文提供带选择族的扩展，以及在上述形式假设下的序关系和分离结果；随附自评提供实际推理经验的解释动机。下面四条注释分别定位这些贡献。
+
+Ada 的例子和通向个人探究的连接，是本附录的说明。个人环境的八种读法展示同一判断怎样取得不同理由，并不构成计算所得的修复族。形式结果适用于已明确的知识库与查询；把这些区分用于日常探究，是作者的哲学延伸，其贴切程度须在相应探究中判断。
+
 [^formal]: Meghyn Bienvenu 与 Camille Bourgaux，[《Querying and Repairing Inconsistent Prioritized Knowledge Bases: Complexity Analysis and Links with Abstract Argumentation》，第 2–3 节](https://arxiv.org/html/2003.05746v5#S3)，arXiv:2003.05746v5，2026。本文采用该公开来源的修复、优先关系、P／G／C 选择及 Brave／AR／IAR 定义；Ada 的例子和自然语言应用是本文的说明。
 
 [^k-source]: Meghyn Bienvenu 与 Riccardo Rosati，[《Tractable Approximations of Consistent Query Answering for Robust Ontology-Based Data Access》](https://ijcai.org/proceedings/2013/121)，IJCAI 2013。无优先关系的 $k$-support 与 $k$-defeater 语义始于这项研究。

@@ -222,6 +222,16 @@ unnecessary.
 
 ### Names and citation relationships
 
+Give each essay a closing account of where its materials come from and what
+the author makes of them. Choose its heading for the actual relationship:
+“Sources and their contributions,” “Sources and scope of claims,” or “Images
+and their origins,” for example. When citing research, attach a small numbered
+internal reference to its supported clause before punctuation; identify and
+link the work in the closing account and explain its contribution. An author's
+image, example, or philosophical extension can be credited as such. For a chapter with an
+opening illustration, show its figure and caption directly below the title,
+before the reading guide or opening prose.
+
 Use **Harness**, **Meta-Harness**, and **Preference Harness** as the English
 term names; Chinese prose uses **Harness**, **元 Harness**, and **偏好 Harness**.
 The first definition can pair 元 Harness with Meta-Harness. Preserve exact

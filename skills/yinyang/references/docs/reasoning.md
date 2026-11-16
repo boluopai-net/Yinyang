@@ -64,7 +64,7 @@ Logic contributes a callable checking capacity. Truth-seeking, corrigibility, re
 
 ## Whitehead: importance, expression, and revising a perspective
 
-Whitehead's *Modes of Thought* offers a useful connection. In [Lecture I, sections 3–6](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_01.html), a finite intellect selects through relative importance, and a perspective grades relevance. Importance and factuality require one another: attending to a fact already gives it a place in an activity of concern. This helps explain why choosing what matters is not itself a claim that other possibilities are false. Whitehead treats importance as a fundamental notion; reducing it to a formula such as preference plus rational analysis would lose that scope.
+Whitehead's *Modes of Thought* offers a useful connection. In Lecture I, sections 3–6, a finite intellect selects through relative importance, and a perspective grades relevance [[1]](#source-1). Importance and factuality require one another: attending to a fact already gives it a place in an activity of concern. This helps explain why choosing what matters is not itself a claim that other possibilities are false. Whitehead treats importance as a fundamental notion; reducing it to a formula such as preference plus rational analysis would lose that scope.
 
 In [Lecture II, section 1](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_02.html), expression carries a finite occasion's perspective into its environment. Selection also belongs to expression. What becomes public therefore need not reproduce every possibility entertained: a statement, diagram, or action gives selected relations a definite form. Expression is broader than verbal explanation or deductive consequence; these are particular ways a person can make something available to others.
 
@@ -192,7 +192,7 @@ inference claims separate from the work of reconstructing a model.
 
 Retaining conflicts and comparing interpretations prepare material for later reflection; they have not already unified the oppositions. When a question concerns how concepts such as independence and assistance organize experience, premises and relationships may themselves need reconstruction. [Speech, opposition, and self-formation](speech-opposition-and-self-formation.md) takes up that question, while source retention and inference checks keep their methodological role here.
 
-Analysis, explanatory hypothesis formation, synthesis, deduction, and empirical assessment can organize shared inquiry. Their relations allow return, overlap, and entry from an existing model. Peirce's discussion of inquiry provides a historical reference for distinguishing explanatory hypotheses, experiential consequences, and assessment: see [the 1908 manuscript, MS 841](https://fromthepage.com/jeffdown1/c-s-peirce-manuscripts/ms-841-1908-a-neglected-argument-text-and-fragments?page=9). These distinctions help ask where a contribution enters and what subsequent assessment it needs.
+Analysis, explanatory hypothesis formation, synthesis, deduction, and empirical assessment can organize shared inquiry. Their relations allow return, overlap, and entry from an existing model. Peirce's discussion of inquiry provides a historical reference for distinguishing explanatory hypotheses, experiential consequences, and assessment [[2]](#source-2). These distinctions help ask where a contribution enters and what subsequent assessment it needs.
 
 A human–model collaboration distributes work by contribution and capability. Intuitive generation and recognition can enter anywhere; the model can contribute candidates as well as articulate, compute, investigate, and check. A partial intuition can orient an investigation, and a model's formulation can make its implications visible. Factual support comes from the relevant observations and warranted connections developed through that work.
 
@@ -239,3 +239,9 @@ The [Preference Harness](preference-harness.md) develops these distinct
 contributions of selection and support. In the reading trajectory, that means
 retaining both why direct passage access was chosen and what observations
 support saying that the revised arrangement actually helped.
+
+## Sources and contribution
+
+1. <a id="source-1"></a> Alfred North Whitehead, [*Modes of Thought*, lecture I, §§3–6](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_01.html) (1938): importance and perspective. [Lecture II](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_02.html) develops expression; [lecture III](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_03.html) develops understanding and its premises. The recurring movement from selection through consequence to revision is Yinyang's development of these distinctions.
+
+2. <a id="source-2"></a> Charles S. Peirce, [MS 841, “A Neglected Argument,” manuscript page 41](https://fromthepage.com/jeffdown1/c-s-peirce-manuscripts/ms-841-1908-a-neglected-argument-text-and-fragments/display/8414) (1908): hypothesis, experiential consequence, and deduction in inquiry. The allocation of inquiry across person and model is this essay's application.

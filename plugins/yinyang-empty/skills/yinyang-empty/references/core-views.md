@@ -997,6 +997,12 @@ The practical choice is among connected ways of making a capability available: k
 
 Personal recursive self-evolution returns the result to the method of allocation. On a later task, can the person recognize a relevant relation, ask a better question, resume with usable support, or judge when a different contribution is needed? Use these observations to reconsider what to practise, what to retrieve, what to delegate, and how to present or organize the work. Reliable external support can remain part of the developed capability; internal recall is one possible gain. [Cognitive Complexity in Personal Recursive Self-Evolution](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html) develops the argument and its distinctions.
 
+## Sources and the author's synthesis
+
+These numbered views are the author's connected propositions. Their linked essays own the developed arguments and closing source accounts; the [philosophical](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/philosophical-readings.html), [psychological](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/psychological-readings.html), and [engineering](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/engineering-readings.html) reading guides distinguish adopted sources from neighboring comparisons. This compendium condenses those arguments rather than supplying independent evidence for them.
+
+The author brings repair semantics, Yinyang role return, the sinthome and Trinity, and personal recursive improvement into one practical account. Fire, Sun–Moon–Earth, cultivation, and the garden organize that synthesis; their historical and literary origins are explained in the corresponding essays. The formal semantics retain their stated assumptions. Claims about learning, psychological change, or practical improvement require evidence from the relevant activity, beyond the coherence of these propositions.
+
 ---
 
 [Home](../README.md)

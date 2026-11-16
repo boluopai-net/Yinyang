@@ -59,7 +59,7 @@ Reflection may also change the positions from which participants understand coop
 
 Support in Yinyang has a positive developmental purpose: to develop embodied reasoning through encounters with generative intelligence. Intuition here is the body's capacity to recognize and organize relations through perception, feeling, action, and situation. It can open a possibility and, through preference, distinguish which possibilities deserve pursuit. Developing this capacity calls for broad reading and participation through multiple senses, so a relation can acquire different forms in images, sound, rhythm, space, action, and language.
 
-This orientation draws on an existing conversation about embodiment and cognition. Francisco Varela, Evan Thompson, and Eleanor Rosch's [*The Embodied Mind* (1991)](https://mitpress.mit.edu/9780262220422/the-embodied-mind/) brings cognitive science into dialogue with lived experience and contemplative practice. Andy Clark and David Chalmers's [“The Extended Mind” (1998)](https://www.consc.net/papers/extended.html) examines how active environmental supports participate in cognitive processes. The arrangement proposed here applies those questions to learning with models; its particular division of attention and work still has to be judged through use.
+This orientation draws on an existing conversation about embodiment and cognition. Francisco Varela, Evan Thompson, and Eleanor Rosch's *The Embodied Mind* (1991) brings cognitive science into dialogue with lived experience and contemplative practice [[1]](#source-1). Andy Clark and David Chalmers's “The Extended Mind” (1998) examines how active environmental supports participate in cognitive processes [[2]](#source-2). The arrangement proposed here applies those questions to learning with models; its particular division of attention and work still has to be judged through use.
 
 Listening, speaking, reading, and writing are four ways into this shared activity:
 
@@ -243,3 +243,10 @@ to a sinthome](writing-a-sinthome.md). Shared reflection supplies concerns,
 questions, and tested possibilities for this work; philosophical authorship
 and model formation give them further articulation. Later use can return
 another trajectory for the participants to explore together.
+
+## Sources, contributions, and the examples' scope
+
+1. <a id="source-1"></a> Francisco J. Varela, Evan Thompson, and Eleanor Rosch, *The Embodied Mind: Cognitive Science and Human Experience* (1991; revised edition 2017). [Publisher's account of the editions and argument](https://mitpress.mit.edu/9780262529365/the-embodied-mind/). Supplies the dialogue among cognitive science, lived experience, and contemplative practice; the listening/speaking/reading/writing arrangement is developed here.
+2. <a id="source-2"></a> Andy Clark and David J. Chalmers, “The Extended Mind,” *Analysis* 58 (1998), pp. 10–23, especially §§2–3. [Authors' text](https://www.consc.net/papers/extended.html). Active environmental coupling gives a philosophical basis for asking how supports contribute to available cognition. It does not establish that every aid is constitutive or that model use produces transferable learning.
+
+The reading layout, editable opening, and role divisions are illustrative constructions of this collection. They distinguish access, sustained supported activity, and transferable development; they report no controlled learning study. Whether a particular support cultivates capacity requires evidence from that person's subsequent participation.

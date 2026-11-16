@@ -195,10 +195,9 @@ $$
 T(t)=T_a+(T_0-T_a)e^{-kt}.
 $$
 
-This describes temperature approaching ambient temperature over time; its
-adequacy still depends on the actual heat-transfer conditions. A
-[university calculus text](https://clp.math.uky.edu/clp1/sec_ExpGthDecay.html)
-derives the model and its solution.
+This describes temperature approaching ambient temperature over time, as
+derived in the CLP calculus text [[1]](#source-1); its adequacy still depends
+on the actual heat-transfer conditions.
 
 In this bounded computational ontology, the persisting sample is an object,
 temperature is a state, air is the selected environment, placement and measurement
@@ -227,10 +226,9 @@ measurements require a participant with the relevant instruments and operational
 capabilities; the language model can contribute to recording, calculation, and
 analysis through available tools or supplied readings. Both can identify a problem,
 suggest another measurement, or check a calculation, with contributions distributed
-according to capabilities and conditions. A
-[St. Lawrence University physics lab](https://myslu.stlawu.edu/~jmil/physics/labs/103_lab/inactive/heatflow.shtml)
+according to capabilities and conditions. St. Lawrence University's physics lab
 provides an actual experimental method for recording water temperature over time
-and comparing it with an exponential model.
+and comparing it with an exponential model [[2]](#source-2).
 
 If measurements disagree with the curve, investigation may check the thermometer,
 timing, units, and program, while also asking whether ambient temperature changed,
@@ -353,18 +351,16 @@ Three material and epistemic relations should also remain distinct:
 | What does the activity express, and is the claim supported? | Information, interpretation, inference, and evidence. |
 
 The Department of Energy describes natural photosynthesis and research on
-converting sunlight into chemical fuels. This gives sunlight a concrete relation
+converting sunlight into chemical fuels [[3]](#source-3). This gives sunlight a concrete relation
 to chemical energy: incoming radiation can be transformed into stored energy
 available for later activity.
-[DOE, “Solar Fuels”](https://www.energy.gov/science/doe-explainssolar-fuels).
 
 NASA describes the Sun and planets forming from a common collapsing cloud and
-protoplanetary disk. That is a material history, distinct from present-day
+protoplanetary disk [[4]](#source-4). That is a material history, distinct from present-day
 sunlight powering an activity. A manufactured semiconductor has a history of
 material extraction and fabrication; a computing installation has its own
 present energy supply. Tracing those relations calls for evidence about the
 particular material and installation.
-[NASA, “How did our Solar System form?”](https://science.nasa.gov/astrobiology/learning-resources/alp/how-did-our-solar-system-form/).
 
 These distinctions are this essay's inference from the different questions.
 An energy account can explain how an expression becomes physically possible;
@@ -403,23 +399,20 @@ In model-supported work, a partial intuition may become an argument or prototype
 ## Hegelian comparison and its limits
 
 Hegel's *Philosophy of Spirit* connects the development of consciousness and
-theoretical and practical activity in [subjective spirit](https://www.marxists.org/reference/archive/hegel/works/sp/index.htm)
-with freedom's public and institutional forms in objective spirit. Its account
-of [absolute spirit, §§553 onward](https://www.marxists.org/reference/archive/hegel/works/sp/abspirit.htm)
-develops art, religion, and philosophy as forms of self-comprehension. This gives
+theoretical and practical activity in subjective spirit with objective spirit's
+realization of freedom [[5]](#source-5). Its account of absolute spirit, §§553
+onward, develops art, religion, and philosophy as forms of self-comprehension [[6]](#source-6). This gives
 externalization a significance beyond putting an inner content outside: the
 form through which activity becomes available to itself belongs to the
 development of that activity.
 
 His *Introduction to the Philosophy of History* connects self-knowledge and
-freedom with public life and world history. Its object is wider than a person's
+freedom with public life and world history [[7]](#source-7). Its object is wider than a person's
 local account of inquiry. The comparison here takes up one relation within
 that wider problem: how an expression gains distance and returns to
 self-understanding. Yinyang develops this relation at the scale of a person's
 encounter with generative intelligence, where a work becomes an object through
 which its maker can recognize and revise their activity.
-[Hegel, Introduction](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm).
-The linked texts provide the public sources for this bounded comparison.
 
 ## Aesthetics participates in discovery
 
@@ -437,10 +430,12 @@ definition and proof establish inferential connections; evidence tests claims
 about the world. Their contributions meet in a work while supporting different
 claims. The sections [Sun, Moon, and Earth](yinyang-and-taiji.md#sun-moon-and-earth) and [A miniature god](writing-a-sinthome.md#a-miniature-god-whose-creations-answer-back) give these relations other expressive forms. Their interpretation and realization remain open to the world's answer.
 
-## Source and claim scope
+<a id="source-and-claim-scope"></a>
 
-The linked public sources support their bounded scientific and philosophical
-claims; the distinctions connecting them are Yinyang's contemporary argument.
+## Following the trajectory
+
+The distinctions connecting these scientific and philosophical accounts are
+Yinyang's contemporary argument.
 The process premise, jointly formed computational model, and return from actual
 use carry that argument's continuity. Applied to the reading environment, they
 distinguish the work being changed, the record of its changes, and the
@@ -448,3 +443,13 @@ participants' changing understanding. The next question is how earlier
 occurrences remain available without confusing an old report with a present
 condition. [Forming a life trajectory](flow-and-time.md) develops this temporal body
 of the trajectory.
+
+## Sources and their contributions
+
+1. <a id="source-1"></a> Joel Feldman, Andrew Rechnitzer, and Elyse Yeager, *CLP-1 Differential Calculus*, August 2024 edition, §3.3.2, “Newton's Law of Cooling.” [Text and derivation](https://clp.math.uky.edu/clp1/sec_ExpGthDecay.html). Supplies the differential equation, exponential solution, and assumptions about the object and ambient environment. The numerical parameters and computational-ontology interpretation in this essay are illustrative constructions, not reported experimental results.
+2. <a id="source-2"></a> St. Lawrence University, Department of Physics, *Heat Flow: Newton's Law of Cooling*, Physics 103 laboratory instructions, revised 25 August 2021. [Laboratory method](https://myslu.stlawu.edu/~jmil/physics/labs/103_lab/inactive/heatflow.shtml). Specifies water and room-temperature measurements, elapsed times, exponential fitting, and comparison with deviations. It supplies an actual teaching-lab protocol; this essay proposes how person and model could investigate together and reports no physical experiment.
+3. <a id="source-3"></a> U.S. Department of Energy, Office of Science, *DOE Explains...Solar Fuels*. [Agency explainer](https://www.energy.gov/science/doe-explainssolar-fuels). Explains using sunlight to make chemical fuels and research on natural and artificial photosynthesis. This supports the energy-conversion example; distinguishing a current energy supply from material provenance and expressive meaning is the essay's inference.
+4. <a id="source-4"></a> NASA Astrobiology, *How did our Solar System form?* [Agency learning resource](https://science.nasa.gov/astrobiology/learning-resources/alp/how-did-our-solar-system-form/). Describes collapse of a molecular cloud, formation of a protoplanetary disk, and accretion into the Sun and planets. It supplies a material-formation history; tracing a particular semiconductor or computing facility requires its own evidence.
+5. <a id="source-5"></a> G. W. F. Hegel, *Encyclopaedia of the Philosophical Sciences*, Part III, *The Philosophy of Spirit* (1817), preliminary concepts §§299–305 and subjective spirit; Steven A. Taubeneck translation, Continuum, 1990. [Edition and section index](https://www.marxists.org/reference/archive/hegel/works/sp/index.htm) · [Preliminary concepts](https://www.marxists.org/reference/archive/hegel/works/sp/ssintrod.htm). Connects spirit with freedom and distinguishes subjective, objective, and absolute spirit; the index locates consciousness and theoretical/practical activity. This is a philosophical comparison, not a model of the mechanisms of person–model cooperation.
+6. <a id="source-6"></a> G. W. F. Hegel, *Encyclopaedia of the Philosophical Sciences*, Part III, *The Philosophy of Spirit*, “Absolute Spirit,” §§553 onward, in the linked online transcription. [Text](https://www.marxists.org/reference/archive/hegel/works/sp/abspirit.htm). Develops art, religion, and philosophy as forms through which spirit comprehends itself. The essay borrows a relation between expression and self-understanding; its account of a revisable personal practice is a contemporary extension.
+7. <a id="source-7"></a> G. W. F. Hegel, *Reason in History: A General Introduction to the Philosophy of History*, translated by Robert S. Hartman, 1953; Parts III–IV reproduced in the linked edition, especially “The Idea of Freedom” and the discussion of the State. [Translated text](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm). Connects consciousness of freedom, its realization in public life, and world history. The comparison here concerns expression returning to self-understanding at a personal scale; it does not identify that practice with Hegel's world-historical argument.

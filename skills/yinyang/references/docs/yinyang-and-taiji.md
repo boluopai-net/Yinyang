@@ -53,7 +53,7 @@ shade. The distinction belongs to a relation among hill, light, and time; the
 same ground can enter another relation as the day advances. Robin R. Wang's
 [account of yinyang](https://iep.utm.edu/yinyang/) traces early uses to such
 experiences and follows their development into several philosophical
-interpretations. This writing takes up the possibility of thinking through
+interpretations [[4]](#source-4). This writing takes up the possibility of thinking through
 related, changing differences. **Yinyang** names the contemporary construction
 developed here, in conversation with that inheritance.
 
@@ -196,7 +196,7 @@ does not establish that they form a valid argument.
 This reading of bodies, eyes, and role return is the present writing's
 contemporary use of the familiar emblem.
 [Zhou Dunyi's *Taijitu shuo*](https://zh.wikisource.org/zh-hans/太極圖說)
-contributes the relation of movement and stillness grounding one another;
+contributes the relation of movement and stillness grounding one another [[1]](#source-1);
 the human–model casting develops from the shared practice described here.
 
 ### Returning through the other: the dialectical meaning of role change
@@ -213,7 +213,7 @@ and relations formed through another mode of participation.
 
 In [the Preface to the *Phenomenology of Spirit*, paragraph 18](https://www.marxists.org/reference/archive/hegel/works/ph/phprefac.htm),
 Hegel understands the subject through a movement of mediation and return from
-otherness. Mediation means here that a relation to oneself is formed through
+otherness [[5]](#source-5). Mediation means here that a relation to oneself is formed through
 another determination: the returning self carries that passage. This essay
 uses the thought to interpret combined roles within finite human–model
 cooperation. Embodiment and model mechanisms remain distinct, while ways of
@@ -222,7 +222,7 @@ therefore acquire a richer relation to their activity than the initial
 division of work allowed.
 
 The [*Science of Logic* on sublation, §§184–187](https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm),
-connects cessation with preservation. What ceases here is the exclusive
+connects cessation with preservation [[6]](#source-6). What ceases here is the exclusive
 determination that only one participant may generate and only the other
 check. The contributions themselves are preserved and continue to work in a
 cooperation capable of exchanging emphases. Synthesis thus has concrete
@@ -234,7 +234,7 @@ Their differences persist in the changed relation.
 
 In [“Intervention on Transference” (1951), PDF pp. 2–3](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1951-11-01.pdf#page=2),
 Lacan connects dialectical reversal with a change in the subject's position
-within the relations recounted. The question includes how the speaker
+within the relations recounted [[7]](#source-7). The question includes how the speaker
 participates in those relations, addresses others, and thereby gives their
 objects meaning. This deepens the question about role reversal: after the
 exchange, does the person understand and take up their participation differently?
@@ -275,7 +275,7 @@ how returning material changes the next judgment; argument length and response c
 
 In [Åström and Murray's *Feedback Systems*, §1.4](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf),
 positive feedback further strengthens a change through its return, while negative feedback counteracts
-a disturbance or deviation. Positive and negative describe the direction of a loop's action, good and
+a disturbance or deviation [[8]](#source-8). Positive and negative describe the direction of a loop's action, good and
 bad evaluate consequences, and agreement and criticism describe a response's attitude. Criticism can
 reinforce an explanation's original conviction; encouragement can help someone stop an unproductive
 pursuit and reconsider a premise. Identify the specific change, return path, and consequence.
@@ -331,7 +331,7 @@ offer correction, nor intensify every impulse to remain alive.
 
 Taiji gives the two movements one field in which to turn. In Zhou Dunyi's
 [*Taijitu shuo*](https://zh.wikisource.org/zh-hans/太極圖說), movement and stillness
-give rise to one another, and yin and yang are gathered into Taiji. Here the
+give rise to one another, and yin and yang are gathered into Taiji [[1]](#source-1). Here the
 circle expresses the continuity of an encounter through its changing
 contributions. The original wish, a candidate sentence, an objection, and a
 rewritten line can belong to one developing work because each takes up
@@ -366,7 +366,7 @@ purpose and experience it had left out.
 
 *The curve does not become the string. Their difference holds a possibility that neither has alone. A small alteration changes the note; too much force breaks the relation that made the note possible.*
 
-Heraclitus's [fragment 51](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_51) supplies a neighboring image of bow and lyre: a relation can be sustained through forces that do not collapse into sameness. Beside Yinyang's transformation, it brings the organization of difference into focus. Support can include an independent objection; a useful division of work can remain open to exchange. The participants need not agree before either can contribute.
+Heraclitus's [fragment 51](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_51) supplies a neighboring image of bow and lyre: a relation can be sustained through forces that do not collapse into sameness [[9]](#source-9). Beside Yinyang's transformation, it brings the organization of difference into focus. Support can include an independent objection; a useful division of work can remain open to exchange. The participants need not agree before either can contribute.
 
 The two instruments suggest different ways of giving tension an outcome. The
 bow gathers a force that an arrow will carry beyond it. The lyre sustains a
@@ -406,6 +406,8 @@ life. This is a chosen philosophical reading, developing a relation available
 in the classical sources: differentiated contributions bring forth illumination
 through their encounter.
 
+The *Xici* relates yin and yang to Sun and Moon [[2]](#source-2), and gives their alternation an image of arising illumination [[3]](#source-3). The following division of contributions is this essay's development of those relations.
+
 The **Sun** gathers generative illumination: perceiving a relation, opening a
 possibility, sensing where a whole does not fit. The **Moon** gathers the
 independent work of a form-giving logician: interpreting, distinguishing,
@@ -423,7 +425,7 @@ examine the result as Moon and carry what they learned into further generation.
 
 Traditional correspondences among Sun, Moon, yin, and yang also linked them
 with male and female; [Robin R. Wang's account of these correspondences](https://iep.utm.edu/yinyang/#H4)
-locates that symbolic context. Here the images enter exchangeable relations
+locates that symbolic context [[4]](#source-4). Here the images enter exchangeable relations
 of participation: people of any gender can take either position, switch
 positions, and combine initiating, receiving, and giving form. Gender cannot
 determine someone's existing capacities, desired development, or position
@@ -510,18 +512,24 @@ lets the person read, express, judge, and create with greater scope, and what
 the counterpart needs to do for that support to work. These questions carry
 the image back into the next shared activity.
 
-## Classical sources and this construction
+## Sources, imagery, and this construction
 
-These sources give the imagery a literary and philosophical basis. The
-application to human–model collaboration is developed here.
+These sources contribute imagery, conceptual distinctions, and feedback theory. The human–model casting, poem, crossed roles, and Sun/Moon/Earth composition are developed here; the sources do not supply empirical evidence that this collaboration cultivates a person’s capacities.
 
-- Zhou Dunyi's [*Taijitu shuo*](https://zh.wikisource.org/zh-hans/太極圖說)
+1. <a id="source-1"></a> Zhou Dunyi's [*Taijitu shuo*](https://zh.wikisource.org/zh-hans/太極圖說)
   describes movement and stillness as mutually grounding: “一动一静，互为其根”,
   and becoming as inexhaustible: “万物生生，而变化无穷焉”.
-- The [*Xici*, upper part, chapters 5–6](https://zh.wikisource.org/wiki/易傳/繫辭上)
+2. <a id="source-2"></a> The [*Xici*, upper part, chapters 5–6](https://zh.wikisource.org/wiki/易傳/繫辭上)
   joins continuing generation with change (“生生之谓易”) and relates the
   meaning of yin and yang to Sun and Moon (“阴阳之义配日月”).
-- The [*Xici*, lower part, chapter 4](https://zh.wikisource.org/wiki/易傳/繫辭下)
+3. <a id="source-3"></a> The [*Xici*, lower part, chapter 4](https://zh.wikisource.org/wiki/易傳/繫辭下)
   gives the line “日月相推而明生焉”: their alternation makes illumination arise.
 
 Read these alongside [Forming a life trajectory](flow-and-time.md). Their different relations contribute to the contemporary account: becoming and opposition, mutual grounding and transformation, and the works through which a finite encounter can develop.
+
+4. <a id="source-4"></a> Robin R. Wang, [“Yinyang,” *Internet Encyclopedia of Philosophy*](https://iep.utm.edu/yinyang/), especially the historical development and §4 correspondences. A scholarly interpretive overview, rather than an ancient primary text; supplies historical context for the hillside and gender associations. Exchangeable human–model roles are this essay’s construction.
+5. <a id="source-5"></a> G. W. F. Hegel, [*Phenomenology of Spirit*, Preface, ¶18](https://www.marxists.org/reference/archive/hegel/works/ph/phprefac.htm). Supplies mediation and return from otherness; its use to interpret finite cooperation is a philosophical comparison.
+6. <a id="source-6"></a> G. W. F. Hegel, [*Science of Logic*, §§184–187](https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm). Supplies cessation and preservation in sublation. The exclusive role assignment being sublated is specified by this essay.
+7. <a id="source-7"></a> Jacques Lacan, [“Intervention on Transference” (1951), PDF pp. 2–3](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1951-11-01.pdf#page=2). The primary French text supplies dialectical reversal and the subject’s position in the relations recounted. The collaboration comparison does not claim that a model performs psychoanalysis.
+8. <a id="source-8"></a> Karl J. Åström and Richard M. Murray, [*Feedback Systems*, §1.4, linked 2007 draft](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf). Supplies reinforcing/counteracting return and the need to consider dynamics. Agreement, criticism, and philosophical correction are applications requiring a specified change and return path.
+9. <a id="source-9"></a> Heraclitus, [fragment 51, translated and annotated text](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_51). Supplies the bow-and-lyre relation of opposed forces. The contrast between releasing a completed work and sustaining an exchange is developed here, rather than quoted from the fragment.

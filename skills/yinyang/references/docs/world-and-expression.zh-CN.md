@@ -129,8 +129,8 @@ $$
 T(t)=T_a+(T_0-T_a)e^{-kt}.
 $$
 
-这给出温度随时间趋近环境温度的关系；其适用程度仍取决于实际传热条件。
-[大学微积分教材](https://clp.math.uky.edu/clp1/sec_ExpGthDecay.html)推导这一模型及其解。
+这给出温度随时间趋近环境温度的关系，CLP 微积分教材推导了这一模型及其解 [[1]](#source-1)；
+其适用程度仍取决于实际传热条件。
 
 在这个有范围的计算本体中，持续的样品是对象，温度是状态，空气是选定的环境，
 放置和测量是事件，时间连接各个状态，冷却方程表达变化关系。计算机中的表示把
@@ -149,8 +149,7 @@ $32.1\,^{\circ}\mathrm{C}$，十分钟约 $27.4\,^{\circ}\mathrm{C}$。
 温度计读数，再把实测点与预测曲线比较。实际测量由具备相应仪器与操作能力的
 参与者完成；语言模型可通过已有工具或所提供的读数参与记录、计算和分析。
 双方都能发现问题、建议下一次测量或检查计算，分工随能力与条件而定。
-[圣劳伦斯大学物理实验](https://myslu.stlawu.edu/~jmil/physics/labs/103_lab/inactive/heatflow.shtml)
-提供了记录水温随时间变化并与指数模型比较的实际实验方法。
+圣劳伦斯大学物理实验提供了记录水温随时间变化并与指数模型比较的实际实验方法 [[2]](#source-2)。
 
 如果实测曲线不合，可能要检查温度计、计时、单位与程序是否正确，也要考察环境
 温度是否改变、水温是否均匀，或一个固定的 $k$ 是否还能概括容器、蒸发等传热
@@ -233,14 +232,12 @@ $32.1\,^{\circ}\mathrm{C}$，十分钟约 $27.4\,^{\circ}\mathrm{C}$。
 | 什么给当前活动提供能量？ | 当前运行条件与能量转移。 |
 | 活动表达什么，主张是否得到支持？ | 信息、解释、推理与证据。 |
 
-美国能源部说明自然光合作用，以及把阳光转化为化学燃料的研究。这给阳光与
+美国能源部说明自然光合作用，以及把阳光转化为化学燃料的研究 [[3]](#source-3)。这给阳光与
 化学能一个具体联系：入射辐射可以转化为储存的能量，供后续活动使用。
-见[能源部太阳燃料](https://www.energy.gov/science/doe-explainssolar-fuels)。
 
-NASA 描述太阳与行星从共同的坍缩云和原行星盘形成。这是物质历史，与今天的
+NASA 描述太阳与行星从共同的坍缩云和原行星盘形成 [[4]](#source-4)。这是物质历史，与今天的
 阳光给某个活动供能是不同关系。制造出的半导体具有材料开采与加工的历史；
 计算设施具有自身的当前能量供应。追踪这些关系，需要关于具体材料和设施的证据。
-见[NASA太阳系怎样形成？](https://science.nasa.gov/astrobiology/learning-resources/alp/how-did-our-solar-system-form/)。
 
 这些区分是本篇根据不同问题所作的推断。能量说明可以解释表达怎样在物理上成为可能，却还没有解释表达意味着什么、主张为什么得到支持。后两类问题把形成的作品接到它的对象与用途。
 
@@ -260,9 +257,9 @@ NASA 描述太阳与行星从共同的坍缩云和原行星盘形成。这是物
 
 ## 黑格尔比较及其限度
 
-黑格尔的《精神哲学》把[主观精神](https://www.marxists.org/reference/archive/hegel/works/sp/index.htm)中意识以及理论、实践活动的发展，接到客观精神中自由的公共与制度形式。[绝对精神，第 553 节起](https://www.marxists.org/reference/archive/hegel/works/sp/abspirit.htm)则展开艺术、宗教与哲学的自我理解形式。外化由此取得超出把内在内容放到外面的意义：活动借以向自身显现的形式，参与这项活动的发展。
+黑格尔的《精神哲学》把主观精神中意识以及理论、实践活动的发展，接到客观精神对自由的实现 [[5]](#source-5)。绝对精神部分，第 553 节起，则展开艺术、宗教与哲学的自我理解形式 [[6]](#source-6)。外化由此取得超出把内在内容放到外面的意义：活动借以向自身显现的形式，参与这项活动的发展。
 
-《历史哲学导论》把自我认识与自由连接到公共生活与世界历史。这个对象比个人对局部探究的描述更广。这里从那个更广的问题中接续一种关系：表达怎样取得距离并返回自我理解。阴阳在个人与生成式智能相遇的尺度上展开这种关系，作品成为对象，使制作者能够通过它辨认并修订自己的活动。见[黑格尔导论](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)。所链接的文本，为这个有范围的比较提供公开来源。
+《历史哲学导论》把自我认识与自由连接到公共生活与世界历史 [[7]](#source-7)。这个对象比个人对局部探究的描述更广。这里从那个更广的问题中接续一种关系：表达怎样取得距离并返回自我理解。阴阳在个人与生成式智能相遇的尺度上展开这种关系，作品成为对象，使制作者能够通过它辨认并修订自己的活动。
 
 ## 美学参与发现
 
@@ -272,10 +269,22 @@ NASA 描述太阳与行星从共同的坍缩云和原行星盘形成。这是物
 
 凝练可以让多种可能保持可用，直到能够比较它们。其差别随后可以展开为前提、解释或实际选择。审美形式让关系变得可感；定义与证明确立推理连接；证据检验关于世界的主张。它们的贡献在作品中相遇，同时支持不同主张。[太阳、月亮与地球](yinyang-and-taiji.zh-CN.md#太阳月亮与地球)与[微型上帝](writing-a-sinthome.zh-CN.md#微型上帝造物仍会回答)这两节，为这些关系提供其他表达形式。对它们的解释与实现仍向世界的回应开放。
 
-## 来源与主张范围
+<a id="来源与主张范围"></a>
 
-所链接的公开来源支持各自有范围的科学与哲学主张；连接它们的区分属于阴阳的当代论述。
+## 沿轨迹继续
+
+连接这些科学与哲学描述的区分，属于阴阳的当代论述。
 过程前提、共同形成的计算模型与实际使用的返回，贯穿这项论证。用于阅读环境时，
 它们区分被修改的作品、改变的记录，以及双方正在改变的理解。下一问是，早先
 发生的事情怎样保持可用，而不把旧报告混同于当前条件。[生活轨迹的形成](flow-and-time.zh-CN.md)
 继续展开轨迹在时间中的具体形态。
+
+## 来源及其贡献
+
+1. <a id="source-1"></a> Joel Feldman、Andrew Rechnitzer 与 Elyse Yeager，*CLP-1 Differential Calculus*，2024 年 8 月版，第 3.3.2 节「Newton's Law of Cooling」。[教材与推导](https://clp.math.uky.edu/clp1/sec_ExpGthDecay.html)。提供微分方程、指数解，以及关于对象与环境温度的适用假设。本文的数值参数和计算本体解释是演示性构造，不是已报告的实验结果。
+2. <a id="source-2"></a> 圣劳伦斯大学物理系，*Heat Flow: Newton's Law of Cooling*，Physics 103 实验指导，2021 年 8 月 25 日修订。[实验方法](https://myslu.stlawu.edu/~jmil/physics/labs/103_lab/inactive/heatflow.shtml)。说明水温与室温测量、时间记录、指数拟合及偏差比较，提供一份实际教学实验方案。本文提出人与模型可以怎样共同探究，没有报告已实施的物理实验。
+3. <a id="source-3"></a> 美国能源部科学办公室，*DOE Explains...Solar Fuels*。[机构说明](https://www.energy.gov/science/doe-explainssolar-fuels)。说明用阳光制造化学燃料，以及自然和人工光合作用研究。它支持能量转化的例子；把当前供能、物质来历与表达含义区分开来，是本文的推断。
+4. <a id="source-4"></a> NASA Astrobiology，*How did our Solar System form?*。[机构学习资料](https://science.nasa.gov/astrobiology/learning-resources/alp/how-did-our-solar-system-form/)。描述分子云坍缩、原行星盘形成，以及物质聚积成太阳与行星，提供物质形成的历史。追踪具体半导体或计算设施，需要关于它们的独立证据。
+5. <a id="source-5"></a> 黑格尔，*Encyclopaedia of the Philosophical Sciences* 第三部 *The Philosophy of Spirit*（1817），预备概念第 299–305 节及主观精神；Steven A. Taubeneck 译，Continuum，1990。[版本及章节索引](https://www.marxists.org/reference/archive/hegel/works/sp/index.htm) · [预备概念](https://www.marxists.org/reference/archive/hegel/works/sp/ssintrod.htm)。连接精神与自由，区分主观、客观及绝对精神；索引定位意识以及理论、实践活动。这是哲学比较，不是人与模型合作机制的模型。
+6. <a id="source-6"></a> 黑格尔，*Encyclopaedia of the Philosophical Sciences* 第三部 *The Philosophy of Spirit*，「Absolute Spirit」，所链接在线转录的第 553 节起。[文本](https://www.marxists.org/reference/archive/hegel/works/sp/abspirit.htm)。展开精神借艺术、宗教与哲学理解自身的形式。本文接续表达与自我理解之间的关系；关于可修订个人实践的论述是当代延伸。
+7. <a id="source-7"></a> 黑格尔，*Reason in History: A General Introduction to the Philosophy of History*，Robert S. Hartman 译，1953；链接版本收录第三、四部分，尤其「The Idea of Freedom」与国家的讨论。[译文](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)。连接自由的意识、自由在公共生活中的实现与世界历史。本文比较的是表达在个人尺度上返回自我理解的关系，没有把这项实践等同于黑格尔的世界历史论证。

@@ -10,7 +10,7 @@ This encounter adds an entrance to personal philosophy. Alongside expressing who
 
 ## Desiring-machines: how connections produce reality
 
-*Anti-Oedipus* develops production, flows, and interruptions through desiring-machines; desire participates in producing reality. One positive task of schizoanalysis concerns how these machines form and function. The authors also distinguish the schizophrenic process from the clinical entity. [[1]](#source-1)
+*Anti-Oedipus* develops production, flows, and interruptions through desiring-machines; desire participates in producing reality. One positive task of schizoanalysis concerns how these machines form and function. The authors also distinguish the schizophrenic process from the clinical entity [[1]](#source-1).
 
 This makes “machine” a useful way to ask which connections make an activity possible.
 
@@ -20,7 +20,7 @@ In this example the machine perspective asks what the connections produce: who c
 
 ## Assemblages: bring the relations into the work
 
-The assemblage concept in *A Thousand Plateaus* brings relations of bodies and expression into the analysis. [[2]](#source-2) Through this entrance, a personal environment can itself become material for creation. How bodies encounter materials, equipment, and others works together with how expression organizes purposes, contributions, and responses. Listing the available tools has not yet explained how they compose this practice.
+The assemblage concept in *A Thousand Plateaus* brings relations of bodies and expression into the analysis [[2]](#source-2). Through this entrance, a personal environment can itself become material for creation. How bodies encounter materials, equipment, and others works together with how expression organizes purposes, contributions, and responses. Listing the available tools has not yet explained how they compose this practice.
 
 The same text encounters different responses in a notebook, a conversation, or on a stage. One model excels at proposing images, another at exposing contradictions; pen and paper slow someone down, while a voice reveals a sentence’s rhythm. How these contributions are arranged changes the understanding that can emerge.
 
@@ -28,7 +28,7 @@ Writing a personal philosophy can therefore include writing interfaces between r
 
 ## The body without organs: leave room beyond assigned uses
 
-In *A Thousand Plateaus*, the body without organs is not flesh without organs. The issue concerns their fixed organization and experimentation with intensities and connections; the authors explicitly retain organization needed for life and emphasize prudence. [[2]](#source-2)
+In *A Thousand Plateaus*, the body without organs is not flesh without organs. The issue concerns their fixed organization and experimentation with intensities and connections; the authors explicitly retain organization needed for life and emphasize prudence [[2]](#source-2).
 
 Borrowing this concept to reconsider personal practice, we can ask whether existing arrangements have already assigned every capacity a single use.
 
@@ -54,5 +54,5 @@ Becoming here acquires a form we can try: change the connections making an activ
 
 The following English translations supply conceptual entrances; songwriting, model cooperation, Harnesses, and the personal-first connections are this essay’s comparative extensions.
 
-1. <a id="source-1"></a> Gilles Deleuze and Félix Guattari, *Anti-Oedipus*, translated by Robert Hurley, Mark Seem, and Helen R. Lane. Opening of chapter 1; chapter 4, section 4, “The First Positive Task of Schizoanalysis”; the appendix’s closing distinction between process and clinical entity. [Translated primary text](https://files.libcom.org/files/Anti-Oedipus.pdf).
-2. <a id="source-2"></a> Gilles Deleuze and Félix Guattari, *A Thousand Plateaus*, translated by Brian Massumi, 1987. Plateau 4, pp. 88–89, on the two aspects of an assemblage; plateau 6, “How Do You Make Yourself a Body Without Organs?”, especially pp. 158–161. [Translated primary text](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf).
+1. <a id="source-1"></a> Gilles Deleuze and Félix Guattari, *Anti-Oedipus*, translated by Robert Hurley, Mark Seem, and Helen R. Lane. Opening of chapter 1; chapter 4, section 4, “The First Positive Task of Schizoanalysis”; the appendix’s closing distinction between process and clinical entity. [Translated primary text](https://files.libcom.org/files/Anti-Oedipus.pdf). Supplies desiring-production, the functional question about machines, and the distinction between process and clinical entity; it does not study model-assisted songwriting.
+2. <a id="source-2"></a> Gilles Deleuze and Félix Guattari, *A Thousand Plateaus*, translated by Brian Massumi, 1987. Plateau 4, pp. 88–89, on the two aspects of an assemblage; plateau 6, “How Do You Make Yourself a Body Without Organs?”, especially pp. 158–161. [Translated primary text](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf). Supplies the bodily/expressive aspects of assemblages and the prudence of experimentation; the personal environment and division of work are this essay’s application.

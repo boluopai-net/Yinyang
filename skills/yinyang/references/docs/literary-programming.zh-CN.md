@@ -18,13 +18,13 @@
 
 ## 隐喻怎样通过类比展开
 
-这一区分接续已有研究：拉科夫 与 约翰逊 的[Metaphors We Live By前 3 章](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html)把隐喻放进概念、经验与行动的组织中；根特纳 的[结构映射：类比的理论框架（1983），第 155–170 页](https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf)解释类比怎样映射关系及其相互联系。下面把这些问题用于人物、模型与协作的写作，是本文进一步提出的应用。
+这一区分接续已有研究：拉科夫 与 约翰逊 的[Metaphors We Live By前 3 章](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html)把隐喻放进概念、经验与行动的组织中[[1]](#source-1)；根特纳 的[结构映射：类比的理论框架（1983），第 155–170 页](https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf)解释类比怎样映射关系及其相互联系[[2]](#source-2)。下面把这些问题用于人物、模型与协作的写作，是本文进一步提出的应用。
 
 隐喻把一组关系聚拢成可感的形象，类比则进一步问：从中取用哪些关系，会打开什么问题和可能后果？「借火」先带来从外部取得能力的形象；把传递关系展开，就要区分借到了什么、什么能在自己身上生长、什么仍须由可靠的伙伴承载。把照亮关系展开，又会问一种新能力怎样使此前看不见的问题变得可理解。同一个火的意象可以开启不同推论，实际使用决定哪一条值得继续。
 
 这样的表达也可以逐步铺出一张图。线性出现的话语标明不同分支的假设、支持、冲突、类比和暂缓处；接收者可以返回某个分岔，比较另一种解释，再自行推演。说者想铺出的图、实际表达的关系，以及对方形成的理解，各自需要在回应中核对。文学式编程因此可以给人和模型提供共同探究的手段，而不只是一个漂亮的结论。
 
-进一步把这些关系写入外部记录、交给不同模型在不同情境下展开，就进入分布式认知的组织。[从个人哲学到个人模型](metaphor-and-self-revision.zh-CN.md)讨论它怎样细化听说读写，以及为什么「通用解释器」和「个人哥德尔机」可以成为有范围的比较构想。
+进一步把这些关系写入外部记录、交给不同模型在不同情境下展开，就进入分布式认知的组织[[7]](#source-7)。[从个人哲学到个人模型](metaphor-and-self-revision.zh-CN.md)讨论它怎样细化听说读写，以及为什么「通用解释器」和「个人哥德尔机」可以成为有范围的比较构想。
 
 ## 在意象与关系之间交替
 
@@ -48,7 +48,7 @@
 
 ## 精神分析式提示：凝缩与移置
 
-精神分析在这门写作中的主要贡献，是凝缩与移置所提供的意义组织方法。弗洛伊德在[《梦的解析》第六章](https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm)中讨论，多条思想怎样汇入一个梦的要素，以及心理强调怎样在相关要素之间转移。本文把这些问题引向提示词与协作，是进一步的应用：怎样把分散的经验、愿望、角色与关系，写成能够由人与模型共同理解、展开和修改的表达？
+精神分析在这门写作中的主要贡献，是凝缩与移置所提供的意义组织方法。弗洛伊德在[《梦的解析》第六章](https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm)中讨论，多条思想怎样汇入一个梦的要素，以及心理强调怎样在相关要素之间转移[[3]](#source-3)。本文把这些问题引向提示词与协作，是进一步的应用：怎样把分散的经验、愿望、角色与关系，写成能够由人与模型共同理解、展开和修改的表达？
 
 凝缩让一个人物、意象或叙事承载多条关系。移置则使我们注意意义与强调怎样沿着关联转移：从一个孤立的动作，回到它所服务的活动；从一个角色名称，转向这段关系实际需要的贡献。隐喻与转喻提供相连的语言资源，凝缩与移置解释意义怎样组织和变换，共同让文学写作取得可展开的工作含义。
 
@@ -64,7 +64,7 @@
 
 文学中的邀请与意象，未必承担事实断言的作用；这里的「无真无假」让表达可以在真假判断之外展开。对于确实提出了事实主张的句子，当前信息若尚不足以判定，就暂不判断，等待检验。模型可以让构想继续展开，让假设保持未决。这一区分让表达的用途与认识的状态各有位置：一项邀请未必需要真值判定，一个尚未证实的事实主张则仍有其真假问题。
 
-对于事实主张，可以检查当前收集的来源：仅有支持 P 的信息、仅有支持 ¬P 的信息、两边都有，或两边都没有。相互冲突的支持与尚缺支持，是不同的处境；未能确定 P 是否成立，本身也不能说明属于哪一种。这四种信息状态可以与四值逻辑作局部比较，但仅凭这四种状态，还没有选定一套推理规则。次协调的关键，是出现矛盾时不由此推出任意结论。这一比较见 [Stanford Encyclopedia of Philosophy 的次协调逻辑条目](https://plato.stanford.edu/entries/logic-paraconsistent/#ManyValuLogi)。
+对于事实主张，可以检查当前收集的来源：仅有支持 P 的信息、仅有支持 ¬P 的信息、两边都有，或两边都没有。相互冲突的支持与尚缺支持，是不同的处境；未能确定 P 是否成立，本身也不能说明属于哪一种。这四种信息状态可以与四值逻辑作局部比较，但仅凭这四种状态，还没有选定一套推理规则。次协调的关键，是出现矛盾时不由此推出任意结论。这一比较见 [Stanford Encyclopedia of Philosophy 的次协调逻辑条目](https://plato.stanford.edu/entries/logic-paraconsistent/#ManyValuLogi)[[4]](#source-4)。
 
 文学还容纳多声部：一个人物的话、另一个人物的反驳、叙述者的判断，可以共同出现，而无需全部合并为作者对同一个命题的断言。先辨认谁在什么情境下说话，再判断支持、空缺与冲突，才让层次成为理解的资源。
 
@@ -76,7 +76,7 @@
 
 文史哲、心理理解与偏好，为这种写作提供丰富材料。文学带来人物和情境，历史带来活动展开的时间，哲学带来对象与关系的区别，心理理解帮助描述注意、欲望与情感，偏好说明一个人愿意怎样生活和工作。这些材料可以在同一份自我与伙伴描述中汇合。
 
-模型越来越强，旧的提示词工程也需要重新判断。曾经帮助模型完成工作的扶手，可能变成束缚；正面的「必须这样做」和负面的「不得那样做」，都可能在新模型与原有 Harness 的相遇中取得意料之外的效果。2026 年 9 月留存的 [OpenAI 提示词指南](https://developers.openai.com/api/docs/guides/latest-model#prompting-best-practices)与[重新思考 Skills 和提示词的文章](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra)，分别讨论了更强的指令遵循与旧脚手架可能过度限制模型的问题。它们为重新检查旧文字提供了具体根据，并不说明所有旧指令都已失效。
+模型越来越强，旧的提示词工程也需要重新判断。曾经帮助模型完成工作的扶手，可能变成束缚；正面的「必须这样做」和负面的「不得那样做」，都可能在新模型与原有 Harness 的相遇中取得意料之外的效果。2026 年 9 月留存的 [OpenAI 提示词指南](https://developers.openai.com/api/docs/guides/latest-model#prompting-best-practices)与[重新思考 Skills 和提示词的文章](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra)，分别讨论了更强的指令遵循与旧脚手架可能过度限制模型的问题[[5]](#source-5)[[6]](#source-6)。它们为重新检查旧文字提供了具体根据，并不说明所有旧指令都已失效。
 
 这里把用户通过自己的描述，重新参与塑造模型对协作关系的理解，称为「反向提示词注入」。这是本文的特殊用法：厂商的 Harness 是被考察的安排，用户的文学表达是回应这种安排的一种贡献，两者并不属于同一种活动。Harness 可能包含软件、上层指令、分类器与交互结构；一段回答通常不足以判断具体是哪一部分产生了所见效果。
 
@@ -111,3 +111,15 @@
 写到这里，写作者自己也进入了程序。如果把自己写成一个已经完成、只需让世界执行其意愿的人，新的相遇就很难改变这幅图景。要让这门写作持续发生，人需要保有成为「baby」的能力：接受尚未知道的东西，让自己的理解被触动，借助比自己更强的伙伴继续生长。文学式编程因而把「怎样写」推向了「怎样成为」。
 
 前面的[我们要培养怎样的人——Baby Heraclitus](baby-heraclitus.zh-CN.md)已给持续生成一个人物形象。本篇把轨迹与共同反思写成哲学；接下来，[言说、对立与自我形成](speech-opposition-and-self-formation.zh-CN.md)讨论这种写作怎样返回并改变理解，再由[从个人哲学到个人模型](metaphor-and-self-revision.zh-CN.md)凝练为有根据的描述，由[从个人模型到圣状](writing-a-sinthome.zh-CN.md)落实为可维系的实践。
+
+## 来源及其贡献
+
+这些来源贡献概念区分与重新修订的历史契机。人物意象、文学式编程方法及协作方案由本文发展；其收益仍须由实际使用回答。
+
+1. <a id="source-1"></a> [Metaphors We Live By前 3 章](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html). 拉科夫与约翰逊，《Metaphors We Live By》第 1—3 章。提供隐喻进入概念与行动的根据；用于模型协作的文学组织，是本文的进一步应用。
+2. <a id="source-2"></a> [结构映射：类比的理论框架（1983），第 155–170 页](https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf). 根特纳（1983），“Structure-Mapping”，155–170 页。提供关系映射与系统性，用来展开意象中选定的关系。
+3. <a id="source-3"></a> [《梦的解析》第六章](https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm). 弗洛伊德（1900），《梦的解析》第六章 A—B。提供梦工作中的凝缩与移置；把它们转为提示写作的问题，是解释性转用，不是对模型无意识的说明。
+4. <a id="source-4"></a> [Stanford Encyclopedia of Philosophy 的次协调逻辑条目](https://plato.stanford.edu/entries/logic-paraconsistent/#ManyValuLogi). Priest、Tanaka 与 Weber，Stanford Encyclopedia of Philosophy 的“Paraconsistent Logic”。说明不爆炸与多值比较；本文的四种信息状态本身没有规定推理规则。
+5. <a id="source-5"></a> [OpenAI 提示词指南](https://developers.openai.com/api/docs/guides/latest-model#prompting-best-practices). OpenAI 模型提示指南。提供厂商对指令敏感性的讨论；2026 年 9 月留存的阅读构成历史来源，在线指南会继续变化。
+6. <a id="source-6"></a> [重新思考 Skills 和提示词的文章](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra). Eric Provencher，OpenAI，“Rethinking skills and prompts for GPT-6 Astra”。提供重新考察旧脚手架的厂商论述，并非对本文文学方法的实证检验。
+7. <a id="source-7"></a> [Hollan、Hutchins 与 Kirsh（2000），“Distributed Cognition”](https://interactivity.ucsd.edu/articles/dcog.pdf)。提供跨越人、人工物与时间的认知视角；本文的模型协作安排是对其进一步应用。

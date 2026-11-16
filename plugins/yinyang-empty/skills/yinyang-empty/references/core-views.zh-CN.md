@@ -761,6 +761,12 @@ $$
 
 个人递归自我进化让结果返回分配方法。到了后来的任务，本人能否识别有关关系、提出更好的问题、借助可用支持接续，或判断需要另一种贡献？据此重新考虑哪些要练习、哪些要检索、哪些要交给模型，以及怎样呈现和组织工作。可靠的外部支持可以继续成为已发展能力的组成，内化记忆也是一种可能的所得。[个人递归自我进化中的认知复杂性](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.zh-CN.html)展开这项论证与其中的区别。
 
+## 来源与作者的综合
+
+这些编号观点是作者相互联系的主张。所链接的文章承载完整论证及篇末来源说明；[哲学阅读](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/philosophical-readings.zh-CN.html)、[心理阅读](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/psychological-readings.zh-CN.html)与[工程阅读](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/engineering-readings.zh-CN.html)区分已采用来源和邻近比较。这份纲要凝缩那些论证，并不为它们另外提供独立证据。
+
+作者把修复语义、阴阳的角色返回、圣状与三位一体，以及个人递归改进，连成一份实践说明。火、日月地、修炼与花园组织这项综合；相应文章解释其历史与文学来源。形式语义保留已说明的假设；关于学习、心理变化或实践改进的判断，还须取得相应活动中的证据，不能仅凭这些主张的连贯性成立。
+
 ---
 
 [首页](../README.zh-CN.md)

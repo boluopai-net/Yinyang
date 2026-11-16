@@ -513,7 +513,7 @@ improves utility relative to its encoded axioms, including its environment,
 hardware, and initial program. The comparison includes continuing the search
 instead of rewriting now. Its improvement guarantee is conditional on such
 proof; it cannot benefit from an improvement whose usefulness it cannot prove
-in time. It runs on ordinary computers [3, 4].
+in time. It runs on ordinary computers[[3]](#source-3)[[4]](#source-4).
 
 This gives **a personal Gödel machine** a precise source and a deliberately
 different use here. The proposed analogy is a practice able to make its own

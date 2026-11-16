@@ -33,7 +33,7 @@
 
 任务的输入、操作和成败条件越容易在计算机中表示，候选越容易低成本生成和检查，就越容易形成大规模训练、搜索与复制的条件。规则明确的数字任务，可以让许多尝试在短时间内发生；每次改进又能被分发到大量使用者。个人若把全部学习时间投入重复这些已经廉价可得的操作，就要面对工具能力继续进步的机会成本。
 
-这条关系涉及任务的结构。易于形式化提高了自动化的可行性，是否发生经济上的替代，还取决于可靠性、部署费用、责任、需求与工作怎样重新组合。Autor 对工作自动化的分析强调，机器替代某些任务，也可能提高与它们互补的人的贡献的价值；一种职业内部往往同时包含多种任务。[研究原文入口](https://shapingwork.mit.edu/research/why-are-there-still-so-many-jobs-the-history-and-future-of-workplace-automation/)
+这条关系涉及任务的结构。易于形式化提高了自动化的可行性，是否发生经济上的替代，还取决于可靠性、部署费用、责任、需求与工作怎样重新组合。Autor 对工作自动化的分析强调，机器替代某些任务，也可能提高与它们互补的人的贡献的价值；一种职业内部往往同时包含多种任务 [[1]](#source-1)。
 
 比较优势由这种组合形成。一个人即使在某项数字操作上仍有优势，也可能通过调用模型，把时间转向更有贡献的观察、选择和创作。基础知识仍参与这种分工：理解模型在做什么，识别关键错误，把结果接入现实，都可能需要本人保有足够的概念与练习。值得培养的深度，由这些实际用途决定。
 
@@ -41,7 +41,7 @@
 
 社会预测进入社会之后，成为参与者能够利用、反对和适应的条件。招聘标准改变准备方式，推荐改变注意力，评价指标改变组织的行为；这些反应又改变后来用来建模的数据。形式化在这里具有双重作用：它描述某些关系，也通过制度、工具和人的采用参与关系的变化。
 
-Perdomo 等人的「施为性预测」研究把这种反馈表达为预测模型改变目标数据分布，并研究在给定条件下反复训练何时能够稳定。[论文](https://proceedings.mlr.press/v119/perdomo20a.html)为局部分析提供了形式工具，也使问题更清楚：过去数据上的准确性与介入后的准确性，是需要分别考察的结果。
+Perdomo 等人的「施为性预测」研究把这种反馈表达为预测模型改变目标数据分布，并研究在给定条件下反复训练何时能够稳定 [[2]](#source-2)。这为局部分析提供了形式工具，也使问题更清楚：过去数据上的准确性与介入后的准确性，是需要分别考察的结果。
 
 人的生理与心理状态、彼此的理解、文化意义、资源与制度相互作用，使这种反馈具有多重节律。相同的话在不同关系中可能产生不同后果；人还会创造原先分类没有容纳的新活动。数据能保留其中的痕迹，模型能解释和模拟选定关系，而新的参与继续产生需要重新观察的条件。
 
@@ -51,9 +51,9 @@ Perdomo 等人的「施为性预测」研究把这种反馈表达为预测模型
 
 人的具身推理贯通视觉、声音、触觉、动作、情感、记忆与语言。拿起一个杯子，同时涉及重量、姿势和用途；听一个人讲话，同时涉及词句、语调、关系历史及眼前情境。参与者会主动改变观察位置、试探一种做法，再根据回应调整。多模态在这里是感知与行动的协调，也是身体与环境持续相遇的方式。
 
-现有机器人研究已经把视觉语言模型接到动作与全身控制。DeepMind 2026 年的 Gemini Robotics 2 报告同时展示了这些进展，以及多指操作、速度等方面仍存在的困难。[研究团队报告](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)这使本文的近期判断更具体：在多变的真实环境中，以可承担的费用维持广泛、可靠的具身参与，仍是需要逐项实现和检验的能力。
+现有机器人研究已经把视觉语言模型接到动作与全身控制。DeepMind 2026 年的 Gemini Robotics 2 报告同时展示了这些进展，以及移动速度、操作精度与速度方面仍需继续改善之处 [[3]](#source-3)。这使本文的近期判断更具体：在多变的真实环境中，以可承担的费用维持广泛、可靠的具身参与，仍是需要逐项实现和检验的能力。
 
-大脑的能量利用为这种培养提供另一项启发。Levy 与 Calvert 的能耗分析区分计算、通信和其他代谢开销，提醒人们常引的约 20 瓦并非单纯的计算功率。[论文摘要](https://pubmed.ncbi.nlm.nih.gov/33906943/)人的低代谢功耗与丰富感知行动共同存在，值得研究；神经活动怎样换算为机器操作，以及哪种仿真能复现相关功能，则是不同的问题。完整还原大脑与在特定任务上取得相近表现，也有不同的实现要求。
+大脑的能量利用为这种培养提供另一项启发。Levy 与 Calvert 的能耗分析区分计算、通信和其他代谢开销，提醒人们常引的约 20 瓦并非单纯的计算功率 [[4]](#source-4)。人的低代谢功耗与丰富感知行动共同存在，值得研究；神经活动怎样换算为机器操作，以及哪种仿真能复现相关功能，则是不同的问题。完整还原大脑与在特定任务上取得相近表现，也有不同的实现要求。
 
 个人已经生活在这套身体与世界的关系中。培养可以从已有的感知、动作和理解继续：通过绘画辨认空间，通过音乐组织听觉与动作，通过制作察觉材料的阻力，通过阅读和实际相遇发展对社会含义的判断。模型展开解释、提供对照、制作工具并整理经验，使本人能够把注意带回值得亲自感知和判断的关系。
 
@@ -62,16 +62,16 @@ Perdomo 等人的「施为性预测」研究把这种反馈表达为预测模型
 ### 同一项选择的三种经济考察
 
 神经经济学把价值、风险、等待和选择接到脑与身体的实际过程。Camerer、Loewenstein
-与 Prelec 的综述讨论多个系统以及身体状态怎样参与经济选择。[研究](https://doi.org/10.1257/0022051053737843)
+与 Prelec 的综述讨论多个系统以及身体状态怎样参与经济选择 [[5]](#source-5)。这份综述
 为这里提供的入口，是考察一个选择如何获得价值、如何调动控制，以及条件怎样改变它。
 Shenhav、Botvinick 与 Cohen 的「控制的期望价值」理论进一步将预期回报、控制投入
-和认知努力成本组织在同一个模型中。[论文](https://doi.org/10.1016/j.neuron.2013.07.007)
+和认知努力成本组织在同一个模型中 [[6]](#source-6)。
 这是关于控制分配的一项理论；具体人的判断如何发生，需要相应行为和神经证据。
 
 心理层面的经济考察关心本人怎样体验用途之间的取舍：什么令人愿意投入，什么感到
 费力，什么结果值得等待，什么支持真正减轻负担。它与经济心理学、行为经济学和
 认知研究相接。Kurzban 等提出用机会成本解释主观努力：同一加工机制用于当前任务，
-就暂时放弃了其他可能用途。[论文](https://doi.org/10.1017/S0140525X12003196)
+就暂时放弃了其他可能用途 [[7]](#source-7)。
 这项假说让「还有什么值得做」进入努力的解释；疲劳的具体成因仍由身体、任务与
 情境的材料判断。主观费力、认知控制与代谢能耗分别描述不同对象，比较时保留各自
 的测量与证据。
@@ -111,3 +111,15 @@ Shenhav、Botvinick 与 Cohen 的「控制的期望价值」理论进一步将�
 **借模型的能力扩展身体与判断，让现实中的参与继续改变使用模型的方法。**个人由此能够在变化的经济环境里发展自己的贡献，也保留重新选择什么值得发展的余地。值得维系的生活，为这项递归提供持续可修订的方向。
 
 [个人递归自我进化中的认知复杂性](cognitive-complexity.zh-CN.md)把这项分配带入活动本身：哪些关系值得理解并练习，哪些需要时检索，哪些交给模型，以及后来的参与怎样修订这项选择。
+
+## 来源及其贡献
+
+以下研究分别发展经济、计算与生理层面的特定关系；研究团队报告描述仍在变化的机器人能力。本文借此提出个人培养的方向与可修订的分工。这项主张是作者的综合，由实际参与及其后果继续检验。
+
+1. <a id="source-1"></a> David H. Autor（2015），*Why Are There Still So Many Jobs? The History and Future of Workplace Automation*，*Journal of Economic Perspectives* 29(3)，3–30。[MIT 研究入口及论文](https://shapingwork.mit.edu/research/why-are-there-still-so-many-jobs-the-history-and-future-of-workplace-automation/)。任务替代、互补，以及职业内部的任务组合。培养某些个人贡献的建议，是本文对这项比较的应用。
+2. <a id="source-2"></a> Juan Perdomo、Tijana Zrnic、Celestine Mendler-Dünner 与 Moritz Hardt（2020），*Performative Prediction*，*Proceedings of the 37th International Conference on Machine Learning*，PMLR 119，7599–7609。[会议记录及论文](https://proceedings.mlr.press/v119/perdomo20a.html)。会改变目标分布的模型，以及反复训练取得稳定的条件。本文从这项局部形式问题进一步提出：当社会参与改变原有条件时，分类与方法也应返回考察。
+3. <a id="source-3"></a> Carolina Parada，Google DeepMind（2026 年 7 月 30 日），*Gemini Robotics 2 brings whole body intelligence to robots*，尤其「Humanoids in motion」与「Bringing advanced dexterity to hands and grippers」。[研究团队报告](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)。报告全身控制与操作的进展，并指出精度和速度仍需改善。这是开发团队的能力报告；本文对可承担、可靠的参与所作的比较，仍是逐项任务的判断。
+4. <a id="source-4"></a> William B. Levy 与 Victoria G. Calvert（2021），*Communication consumes 35 times more energy than computation in the human cortex, but both costs are needed to predict synapse number*，*PNAS* 118(18)，e2008173118。[论文索引及全文入口](https://pubmed.ncbi.nlm.nih.gov/33906943/)。区分皮层计算、通信及其他开销的能耗核算。本文借此分别考察脑代谢、机器操作与仿真要求，没有从中推导机器等效性能数值。
+5. <a id="source-5"></a> Colin Camerer、George Loewenstein 与 Drazen Prelec（2005），*Neuroeconomics: How Neuroscience Can Inform Economics*，*Journal of Economic Literature* 43(1)，9–64，尤其第 2–3 节与讨论稳态调节的第 3.3.2 节。[作者托管论文](https://www.cmu.edu/dietrich/sds/docs/loewenstein/neuroeconomics.pdf)。相互作用的神经系统、情感、认知与随状态变化的偏好。它们提供关于选择的解释问题；本文的投入建议还需要本人的实际处境提供根据。
+6. <a id="source-6"></a> Amitai Shenhav、Matthew M. Botvinick 与 Jonathan D. Cohen（2013），*The Expected Value of Control: An Integrative Theory of Anterior Cingulate Cortex Function*，*Neuron* 79(2)，217–240，尤其「Control-Signal Specification Based on the Expected Value of Control」。[作者托管论文](https://www.princeton.edu/~ashenhav/Publications_Presentations_files/Neuron%202013%20Shenhav.pdf)。将预期回报、控制分配与努力成本相连的规范模型。本文用它组织比较；具体判断的解释仍需行为与神经证据。
+7. <a id="source-7"></a> Robert Kurzban、Angela Duckworth、Joseph W. Kable 与 Justus Myers（2013），*An opportunity cost model of subjective effort and task performance*，*Behavioral and Brain Sciences* 36(6)，661–679。[论文索引及全文入口](https://pubmed.ncbi.nlm.nih.gov/24304775/)。提出主观努力反映有限加工机制的竞争用途。本文用这项假说把其他值得做的活动带入比较，同时让本人的疲劳成因由相应材料判断。

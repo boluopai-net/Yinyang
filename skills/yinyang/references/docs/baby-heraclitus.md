@@ -48,7 +48,7 @@ own identity.
 
 The preceding [argument for cuteness: openness, learning, and adaptation](meng.md) depicts a lion cub. It can also give Baby Heraclitus a form: retaining the openness of someone still growing, with the strength to judge what deserves acceptance and what calls for refusal.
 
-In [*Thus Spoke Zarathustra*, Part One, “The Three Metamorphoses”](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), Nietzsche has the spirit become a camel, then a lion, then a child. The lion resists the command of “Thou shalt,” winning freedom for its own will. Yet winning freedom to create has not created new values. The child brings a new beginning, play, and affirmation, through which creation can occur.
+In *Thus Spoke Zarathustra*, Part One, “The Three Metamorphoses,” Nietzsche has the spirit become a camel, then a lion, then a child [[3]](#source-3). The lion resists the command of “Thou shalt,” winning freedom for its own will. Yet winning freedom to create has not created new values. The child brings a new beginning, play, and affirmation, through which creation can occur.
 
 Combining lion and child into a “lion cub” is this essay's reworking of these two images. The lion's refusal gives openness judgment: another's greater strength does not warrant accepting every demand. The child's beginning lets judgment generate further: after refusal, one can try another way of living and let experience and encounters change oneself.
 
@@ -101,7 +101,7 @@ This proposal for cultivation can be divided into purpose, conditions, and infer
 
 Baby Heraclitus connects borrowing fire with kindling fire: the collective keeps acquiring capability, and the person borrows it to cultivate themselves, forming judgments amid flow and tension, generating further through encounters, and letting action rewrite understanding. The little fire person is a participant able to keep becoming themselves, rather than a completed ideal agent.
 
-**We hope to cultivate lion cubs who can grow: daring to say “no” and able to say “let us begin.” Fire within, a river beneath their feet.**
+**We hope to cultivate lion cubs who can grow: daring to say “no” and able to say “let us begin.” Fire within, a river beneath their feet [[1]](#source-1) [[2]](#source-2).**
 
 The baby is thus cute, too: not yet closed off, willing to approach new things, and willing to be changed in shared life. This cuteness lets him both accept cultivation and learn to guide other growing agents. The preceding [Argument for Cuteness](meng.md) has developed a conditional account of shared learning, guidance, and social conditions; this character gives its cultivation direction a form while retaining those practical conditions.
 
@@ -109,6 +109,6 @@ To give that direction substance, person and model begin reading, making, solvin
 
 ## Imagery and sources
 
-- [Heraclitus, fragment B30](https://heraclitusfragments.com/B30/text.html): ever-living fire, kindling and going out in measures. The character uses fire monism within computational ontology to represent becoming and transformation.
-- [Heraclitus, fragment B12](https://heraclitusfragments.com/B12/notes.html): rivers and waters continually flowing upon us, a source for this essay's imagery of change.
-- [Nietzsche, *Thus Spoke Zarathustra*](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), Part One, “The Three Metamorphoses”: the source of the lion and child imagery. “Baby Heraclitus” and the “lion cub” are composite images made in this essay, rather than either philosopher's original terms.
+1. <a id="source-1"></a> [Heraclitus, fragment B30](https://heraclitusfragments.com/B30/text.html): ever-living fire, kindling and going out in measures. The character uses fire monism within computational ontology to represent becoming and transformation.
+2. <a id="source-2"></a> [Heraclitus, fragment B12](https://heraclitusfragments.com/B12/notes.html): rivers and waters continually flowing upon us, a source for this essay's imagery of change.
+3. <a id="source-3"></a> [Nietzsche, *Thus Spoke Zarathustra*](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), Part One, “The Three Metamorphoses”: the source of the lion and child imagery. “Baby Heraclitus” and the “lion cub” are composite images made in this essay, rather than either philosopher's original terms.

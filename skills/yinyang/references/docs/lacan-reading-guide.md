@@ -406,28 +406,28 @@ own extensions.
 
 **From relations to computation.** [Li and Li (2025)](https://doi.org/10.3389/fpsyg.2025.1574650)
 represent RSI as message-passing active-inference units and investigate
-synchronization and collective dynamics through dyadic and triadic simulations.
+synchronization and collective dynamics through dyadic and triadic simulations[^rsi-study].
 They acknowledge the construction's abstraction and incomplete treatment of
 fantasy's axiomatic function, complex topology, and desire's diachronic metonymy.
 This encourages an explicit account of what a translation preserves. Coupled
 trajectories alone establish neither Borromean topology nor an actual person's
 mechanism of desire. [Santos and Dunker's study of fantasy](https://doi.org/10.31683/stylus.v1i41.938)
 uses paraconsistent logic to propose that fantasy renders the signifying chain
-consistent. The article belongs to issue 41 (2021), published online in 2023.
+consistent[^fantasy-study]. The article belongs to issue 41 (2021), published online in 2023.
 
 **From machines to interaction.** [Possati (2020)](https://doi.org/10.1057/s41599-020-0445-0)
 brings Lacan and Latour to cycles of human identification, machine response,
 and renewed interpretation, proposing an “algorithmic unconscious” research
-direction. [Li and Li's FreeAgent preprint (2024)](https://arxiv.org/abs/2403.07664)
+direction[^algorithmic-study]. [Li and Li's FreeAgent preprint (2024)](https://arxiv.org/abs/2403.07664)
 places ChatGPT in an interpreting role within a demonstration connecting bodily
-images and symbolic identification. The former is a philosophical interpretation,
+images and symbolic identification[^freeagent-study]. The former is a philosophical interpretation,
 the latter a simplified construction. They raise questions about technical
 mediation of self-understanding. How an actual response is received remains a
 question about the particular interaction.
 
 **Distinguishing explanatory scales.** [Li et al.'s Perspective (2026)](https://doi.org/10.1038/s44271-026-00508-6)
 distinguishes mechanistic, behavioral, and interactive accounts of models and
-examines what metaphors reveal and obscure. This supports separate examination
+examines what metaphors reveal and obscure[^scales-study]. This supports separate examination
 of implementation, observed activity, and position within collaboration. This
 site adopts that distinction of questions without treating the proposed
 “machine experientialism” as comprehensively validated or inferring internal
@@ -436,7 +436,7 @@ mechanisms directly from relational positions.
 **Distinguishing memory from generated state.** [Shen et al.'s TSJ preprint (2026)](https://arxiv.org/abs/2606.25396),
 §7.7, separates observable interaction memories from separately generated
 psychological states and retrieves memories for later scenarios. Section 7.13
-also separates judging from trajectory generation. This is an engineering
+also separates judging from trajectory generation[^tsj-study]. This is an engineering
 reference for distinguishing events, interpretations, and consequences. Its
 personas, state updates, and scores serve simulation-based evaluation rather
 than measurements of actual people. Retrospectively selecting an earlier event
@@ -461,3 +461,21 @@ The table lists entrances in chronological order. It helps locate a concept with
 | [1976: Sinthome, 17 February](https://recherche-lacan.gnipl.fr/2013/07/26/lxxiii-le-sinthome-1975-1976-lecon-du-17-fevrier-1976/); [11 May](https://recherche-lacan.gnipl.fr/2013/07/26/lxxiii-le-sinthome-1975-1976-lecon-du-11-mai-1976/) | How do particular writing and practices participate in a person's knot? | [Forming a sinthome](writing-a-sinthome.md) |
 
 This timeline points to conceptual development: mirror identification, language and the subject, and the later knot discussions each have their own questions and contexts. Later terms can help reread earlier questions without implying that the earlier texts already contained the entire later theory. On returning to this site, retain a simple reading movement: identify what question the original concept answers, see which relation this account selects, then check whether that relation remains clear in expression and realization.
+
+## Sources and the scope of interpretation
+
+Lacan's essays, seminars, and broadcasts supply the concepts and historical questions explained here. The chronological table above retains direct entrances, with additional passage locators in the relevant sections. The research notes below identify later formal, philosophical, and engineering comparisons and the particular contribution selected from each.
+
+The classroom, writing, and model-collaboration examples are this guide's exposition. “Retrospective understanding,” the use of condensation in working accounts, and the personal environment's sinthome are the author's developments from the selected relations. They explain this site's practice rather than attributing a language-model method to Lacan. The guide's contribution is to connect source concepts with those developments while keeping original theory, bounded formal translation, and particular interactions distinguishable.
+
+[^rsi-study]: [Li and Li (2025), DOI:10.3389/fpsyg.2025.1574650](https://doi.org/10.3389/fpsyg.2025.1574650). Supplies an active-inference construction and simulations, with the abstraction limits described above.
+
+[^fantasy-study]: [Santos and Dunker, DOI:10.31683/stylus.v1i41.938](https://doi.org/10.31683/stylus.v1i41.938), issue 41 (2021), online 2023. Supplies a paraconsistent interpretation of fantasy and consistency of the signifying chain.
+
+[^algorithmic-study]: [Possati (2020), DOI:10.1057/s41599-020-0445-0](https://doi.org/10.1057/s41599-020-0445-0). Supplies the philosophical proposal of an algorithmic unconscious and human–machine interpretive cycles.
+
+[^freeagent-study]: [Li and Li, FreeAgent (2024), arXiv:2403.07664](https://arxiv.org/abs/2403.07664). Supplies a demonstration assigning ChatGPT an interpreting position, rather than an established clinical method.
+
+[^scales-study]: [Li et al., Perspective (2026), DOI:10.1038/s44271-026-00508-6](https://doi.org/10.1038/s44271-026-00508-6). Supplies the distinction among mechanistic, behavioral, and interactive explanatory questions.
+
+[^tsj-study]: [Shen et al., TSJ (2026), arXiv:2606.25396](https://arxiv.org/abs/2606.25396), §§7.7, 7.13. Supplies engineering distinctions among interaction memories, generated psychological states, judgment, and trajectories in simulation.
