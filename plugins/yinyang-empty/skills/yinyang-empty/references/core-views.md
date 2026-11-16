@@ -33,6 +33,7 @@ its developmental purpose or writing a personal philosophy. See
 - [YY-15 · Cultivate a garden of becoming with friends](#yy-15)
 - [YY-16 · Personal recursive self-improvement](#yy-16)
 - [YY-17 · Personal recursive self-improvement in economic reality](#yy-17)
+- [YY-18 · Cognitive complexity in personal recursive self-evolution](#yy-18)
 
 </details>
 
@@ -985,6 +986,16 @@ Social models, predictions, and rules change participants and subsequent data. P
 Low human metabolic power coexists with rich multimodal activity, offering grounds for research and cultivation. Brain power consumption, machine computational capacity, and full-brain simulation costs require comparisons appropriate to their respective objects. Machine embodiment is also developing; the scope of near-term substitution depends on actual reliability and expense. The economic value of a hard-to-automate capability still depends on demand and accessible opportunities.
 
 Shared practice compares personal practice, model support, supervision, maintenance, and opportunity costs, letting observation change candidates and model elaboration enrich subsequent attempts. New capabilities, demand, and failures revise how this allocation is modeled, simulated, evaluated, and modified. [Personal recursive self-improvement in economic reality](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html) develops this direction, its argument, and sources. Gains in life also include understanding, expression, relationships, and freely available time.
+
+<a id="yy-18"></a>
+
+## YY-18 · Cognitive complexity in personal recursive self-evolution
+
+**Allocate attention so that worthwhile relations remain available for judgment, and let later participation revise how work is understood, supported, and learned.** Task complexity concerns the relations, dependencies, and uncertainties the work requires us to handle. Situated cognitive load concerns what handling them asks of this person now, with particular knowledge, fatigue, representations, tools, and interruptions. Learning concerns a change in available capacity across occasions. A shorter explanation or smoother completed task may reduce immediate load; whether it develops understanding or judgment requires evidence from later participation. These distinctions connect [YY-06's division of listening, speaking, reading, and writing](#yy-06) with [YY-17's allocation of finite resources](#yy-17).
+
+The practical choice is among connected ways of making a capability available: know and practise what one wants to recognize and judge; retrieve what can remain reliably available in records and references; delegate what the model can carry and check. A reader can keep the interpretation she wants to test, retrieve an unfamiliar term, and ask the model to compare passages. The arrangement must include the attention spent explaining, selecting, supervising, switching, and recovering the thread. Richer expression can reveal a relation worth learning; unnecessary detail can displace the very attempt the person wanted to make. Both the person's purpose and the actual work determine which complexity to retain and where support should carry it.
+
+Personal recursive self-evolution returns the result to the method of allocation. On a later task, can the person recognize a relevant relation, ask a better question, resume with usable support, or judge when a different contribution is needed? Use these observations to reconsider what to practise, what to retrieve, what to delegate, and how to present or organize the work. Reliable external support can remain part of the developed capability; internal recall is one possible gain. [Cognitive Complexity in Personal Recursive Self-Evolution](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html) develops the argument and its distinctions.
 
 ---
 

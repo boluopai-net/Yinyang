@@ -58,6 +58,7 @@ contribution currently missing.
 | How can people and models move among design, understanding, and construction? | [YY-13](docs/core-views.md#yy-13) and [movement among three positions](docs/local-source-and-website.md#person-and-model-move-among-the-three-positions) connect interaction design, cognition and behavior, and AI/computing with philosophy, psychology, and engineering. |
 | How does improving a work improve the method that makes the next work? | [YY-16](docs/core-views.md#yy-16) and [the RSI chapter](docs/literary-recursive-improvement.md) develop description, interpreter, body, self-modeling, evaluation, and a successor able to continue revision. |
 | Where should finite time, attention, bodily energy, and money go? | [YY-17](docs/core-views.md#yy-17) and [economic reality](docs/economic-personal-rsi.md) compare cultivation, model assistance, support and recovery, then return outcomes to the allocation method. Neuroeconomic, psychological, and socioeconomic perspectives explain different relations within that choice. |
+| Which complexity should I understand and practise, retrieve, or delegate? | [YY-18](docs/core-views.md#yy-18) and [Cognitive Complexity in Personal Recursive Self-Evolution](docs/cognitive-complexity.md) distinguish task complexity, situated cognitive load, and learning. They compare the attention required by different arrangements and use later participation to revise the method. |
 
 For a connected refresh of philosophy, personal material, accounts, and working
 Skills, use [How to revise](formation/revision.md) to develop the actual revision method.
@@ -124,6 +125,8 @@ they do not all call for more data or stronger confidence.
 
 [Personal recursive self-improvement in economic reality](docs/economic-personal-rsi.md) then considers finite learning investment and comparative advantage: cultivate embodied, multimodal, situated judgment, use model capabilities as tools, and revise work allocation with economic and social conditions.
 
+[Cognitive Complexity in Personal Recursive Self-Evolution](docs/cognitive-complexity.md) develops the next allocation question: which relations to understand and practise, which to retrieve, and which to let the model carry. [From adoption and combination to creating your own work](docs/example-and-commons.md) then considers how these works and methods can become resources for others.
+
 The collection also includes [Why write a personal philosophy](docs/why-yinyang.md),
 the [Argument for Cuteness](docs/meng.md), and
 [Baby Heraclitus](docs/baby-heraclitus.md), which connect shared direction,
@@ -171,7 +174,7 @@ identify missing material rather than claiming to have read it. Private
 provenance stays at `references/personal/sources.md` in a formed private package;
 the public [evidence guide](formation/revision.md#sources-and-evidence) explains its maintenance.
 
-Nine diagrams provide visual entrances, matching the [website gallery](https://boluopai.net/repositories/prometheus/#diagrams):
+Ten diagrams provide visual entrances, matching the [website gallery](https://boluopai.net/repositories/prometheus/#diagrams):
 
 - [Yinyang: circling fish](docs/yinyang-and-taiji.md) develops the participant/role
   distinction and mutual return shown by the article's paired-fish artwork.
@@ -181,6 +184,10 @@ Nine diagrams provide visual entrances, matching the [website gallery](https://b
 - [Where should finite resources go?](diagrams/economic-allocation.svg) connects
   resources, combined investments, consequences, and revised allocation.
   [中文](diagrams/economic-allocation.zh-CN.svg)
+- [Cognitive complexity and revisable allocation](diagrams/cognitive-complexity.svg)
+  connects task complexity, situated load, ways of making capability available,
+  and later participation that revises the method.
+  [中文](diagrams/cognitive-complexity.zh-CN.svg)
 
 - [Formation through shared practice](diagrams/formation-path.html) connects
   life trajectory, shared reflection, philosophy, personal models, and their

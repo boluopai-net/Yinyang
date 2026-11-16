@@ -1,0 +1,32 @@
+{
+  "en": {
+    "title": "Make room for the reading",
+    "subtitle": "A change in the method becomes part of the next task",
+    "observation": ["The connection is lost", "Opening evidence interrupts the thread of reading."],
+    "allocation": "REARRANGE THE WORK",
+    "choices": [
+      ["CULTIVATE", "Recognize when the meaning changes"],
+      ["RETRIEVE", "Bring the source into the reading place"],
+      ["DELEGATE", "Align sources and track versions"]
+    ],
+    "test": ["Try the new method in the next task", "Can attention continue—and can the reader still correct it?"],
+    "return": "Use what happens to change the division again",
+    "retire": "A method can also be retired.",
+    "description": "Opening evidence interrupts a reader’s thread. The person and model rearrange the work: cultivate recognition of changes in meaning, retrieve the source in place, and delegate alignment and versioning. The next task tests attention and the ability to correct; its results can change the division again or retire a method."
+  },
+  "zh-CN": {
+    "title": "为阅读留出空间",
+    "subtitle": "让方法的改变进入下一次实际任务",
+    "observation": ["阅读的联系断开了", "打开证据时，正在追随的思路被打断。"],
+    "allocation": "重新分配工作",
+    "choices": [
+      ["培养", "辨认意义何时发生变化"],
+      ["调取", "在阅读处呈现原始材料"],
+      ["委托", "对齐材料并管理版本"]
+    ],
+    "test": ["在下一次任务中试用新方法", "注意力能否延续？读者是否仍能纠正它？"],
+    "return": "根据实际发生的情况，再次改变分工",
+    "retire": "方法也可以被淘汰。",
+    "description": "打开证据打断阅读思路。人与模型重新分配工作：培养辨认意义变化的能力，在阅读处调取原始材料，将材料对齐和版本管理交给模型。下一次任务检验注意力与纠正能力；实际结果可以再次改变分工，也可以淘汰方法。"
+  }
+}

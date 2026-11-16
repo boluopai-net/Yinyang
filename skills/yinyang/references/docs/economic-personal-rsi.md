@@ -127,3 +127,5 @@ Selection itself becomes an object of recursion. A project reveals that understa
 The four capacities thereby acquire further content: modeling explains contributions from people and tools under current economic and social conditions; simulation develops consequences of alternative investments and allocations; evaluation compares actual gains and opportunity costs; modification changes subsequent learning and cooperation. Later activity tests whether these selection methods improve.
 
 **Use model capabilities to extend embodiment and judgment, and let participation in reality continue changing how models are used.** A person can thereby develop a contribution within a changing economy while retaining room to reconsider what is worth developing. A life worth sustaining gives this recursion a continuing, revisable direction.
+
+[Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) takes this allocation into the activity itself: which relations to understand and practise, what to retrieve, what to delegate, and how later participation can revise that choice.

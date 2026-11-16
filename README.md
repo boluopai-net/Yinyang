@@ -52,6 +52,11 @@ a personal environment that fits your purposes and circumstances.
 Follow an essay when you want its fuller argument; reading the whole collection
 or adopting all its positions is unnecessary.
 
+For a focused route through finite investment and attention, read
+[Personal recursive self-improvement in economic reality](skills/yinyang/references/docs/economic-personal-rsi.md), then
+[Cognitive Complexity in Personal Recursive Self-Evolution](skills/yinyang/references/docs/cognitive-complexity.md).
+They ask where cultivation should go and what to understand and practise, retrieve, or delegate.
+
 Writing your own philosophy, essays, or public website is a choice of interest.
 You can use the ideas and maintain your environment without taking on a writing
 project. If writing appeals to you, [An example and a commons](skills/yinyang/references/docs/example-and-commons.md)

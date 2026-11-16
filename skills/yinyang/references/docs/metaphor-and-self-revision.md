@@ -335,6 +335,8 @@ elaborate wording is not required before the model can begin.
 
 ### Cognitive complexity and expressive scope
 
+The focused essay [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) distinguishes task complexity, situated load, and learning, and develops what to know and practise, retrieve, or delegate. Here the question is how expressive form changes that arrangement.
+
 Assessing this allocation connects the demands of an activity with the person's
 actual processing. Kieras and Polson analyze user complexity through the
 knowledge, rules, and processing needed to accomplish tasks [[6]](#source-6).

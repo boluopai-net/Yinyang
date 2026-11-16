@@ -49,6 +49,7 @@
 | 人与模型怎样在设计、理解和构造之间换位？ | [YY-13](docs/core-views.zh-CN.md#yy-13)与[三个位置之间的往返](docs/local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)，将交互设计、认知与行为、AI／计算接到哲学、心理与工程。 |
 | 改好一件作品，怎样进一步改善产生下一件作品的方法？ | [YY-16](docs/core-views.zh-CN.md#yy-16)与[递归改进专章](docs/literary-recursive-improvement.zh-CN.md)展开描述、解释器、身体、自建模、评价，以及仍能继续修订的后继。 |
 | 有限时间、注意力、身体精力和费用应该投到哪里？ | [YY-17](docs/core-views.zh-CN.md#yy-17)与[经济现实](docs/economic-personal-rsi.zh-CN.md)比较培养、模型帮助、支持与恢复，再让结果返回选择投入的方法；神经经济、心理和社会经济视角解释同一选择中的不同关系。 |
+| 哪些复杂性值得理解并练习，哪些需要时检索，哪些交给模型？ | [YY-18](docs/core-views.zh-CN.md#yy-18)与[个人递归自我进化中的认知复杂性](docs/cognitive-complexity.zh-CN.md)区分任务复杂性、情境中的认知负荷与学习，比较不同安排所需的注意力，并让后来的参与修订方法。 |
 
 联动修订哲学、personal 材料、描述与实际 Skill 时，使用[如何修订](formation/revision.zh-CN.md)，发展适合本人的实际修订方法。
 
@@ -107,6 +108,8 @@
 
 [经济现实中的个人递归自改进](docs/economic-personal-rsi.zh-CN.md)接着讨论有限学习投入与比较优势：培养具身、多模态和现实情境判断，把模型能力接成工具，并随经济社会条件变化修订分工。
 
+[个人递归自我进化中的认知复杂性](docs/cognitive-complexity.zh-CN.md)进一步追问分配：哪些关系值得理解并练习，哪些需要时检索，哪些交给模型承担。[从采用、组合到自己的创作](docs/example-and-commons.zh-CN.md)接着讨论这些作品与方法怎样成为他人的资源。
+
 文集也收录[为什么要写个人哲学](docs/why-yinyang.zh-CN.md)、
 [萌的论证：开放、学习与适应](docs/meng.zh-CN.md)与
 [我们要培养怎样的人——Baby Heraclitus](docs/baby-heraclitus.zh-CN.md)，
@@ -143,11 +146,12 @@
 解释分发与私人支撑；材料缺失时应指出，不声称读过。实际私人出处位于已形成私人包的
 `references/personal/sources.md`；公开[证据指引](formation/revision.zh-CN.md#来源与证据)说明怎样维护。
 
-九张图提供直观入口，与[网站图集](https://boluopai.net/repositories/prometheus/#diagrams)相接：
+十张图提供直观入口，与[网站图集](https://boluopai.net/repositories/prometheus/#diagrams)相接：
 
 - [Yinyang：相绕的 Shuang yu](docs/yinyang-and-taiji.zh-CN.md)展开文章顶部双鱼图所表达的实际参与者、角色与相互返回。
 - [两位精灵，三个论域](diagrams/triad-spirits.zh-CN.svg)呈现人与模型跨越哲学、心理和工程，也能兼具贡献。[English](diagrams/triad-spirits.svg)
 - [有限投入，怎样分配？](diagrams/economic-allocation.zh-CN.svg)连接有限资源、组合投入、实际后果与分配方法的修订。[English](diagrams/economic-allocation.svg)
+- [认知复杂性与可修订的分工](diagrams/cognitive-complexity.zh-CN.svg)连接任务复杂性、情境负荷、能力的取得方式，以及让方法得到修订的后续参与。[English](diagrams/cognitive-complexity.svg)
 
 - [全书关系](diagrams/formation-path.zh-CN.html)联系生活轨迹、共同反思、个人哲学、个人模型与实际实现。[English](diagrams/formation-path.html) · [SVG](diagrams/formation-path.zh-CN.svg)
 - [借火与培养](diagrams/borrowed-fire.zh-CN.html)联系共同积累的能力、共同创造、人的能力发展与世界的回应。[English](diagrams/borrowed-fire.html) · [SVG](diagrams/borrowed-fire.zh-CN.svg)
