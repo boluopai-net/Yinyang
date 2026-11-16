@@ -646,8 +646,6 @@ The recent AI material is a selected comparison, not an exhaustive literature re
 37. <a id="source-37"></a> **Āditta-pariyāya Sutta** (*Fire Sermon*), *Saṃyutta Nikāya* 35.28, translated by Ṭhānissaro Bhikkhu. [Text](https://www.dhammatalks.org/suttas/SN/SN35_28.html). Senses, consciousness, contact, and feeling burning with passion, aversion, and delusion, and release through dispassion. This essay contrasts that fire with capability rather than identifying them.
 38. <a id="source-38"></a> **Nibbāna Sutta**, *Saṃyutta Nikāya* 38.1, translated by Ṭhānissaro Bhikkhu. [Text](https://www.dhammatalks.org/suttas/SN/SN38_1.html). Nirvana as the ending of passion, aversion, and delusion, with the noble eightfold path; the question about creative cultivation's purpose is this essay's extension.
 
-### Mythic sources
-
 39. <a id="source-39"></a> *Shan Hai Jing*, **Haiwai Beijing**: [Kuafu's pursuit](https://zh.wikisource.org/zh-hans/山海經/海外北經). The present practical interpretation does not exhaust the myth.
 40. <a id="source-40"></a> Hesiod, **Theogony**, lines 507–616, especially the fire theft around 565–567: [Hugh G. Evelyn-White's translation](https://www.theoi.com/Text/HesiodTheogony.html). The carrier of fire informs the image; this essay does not adopt the surrounding mythology as a theory of AI.
 

@@ -524,8 +524,6 @@ Alex Tamkin 的同一项实验。两种表达可以帮助理解，却没有提�
 37. <a id="source-37"></a> **《燃烧经》（Āditta-pariyāya Sutta）**，*《相应部》*35.28，Ṭhānissaro Bhikkhu 英译。[经文](https://www.dhammatalks.org/suttas/SN/SN35_28.html)。感官、意识、接触与感受被贪、嗔、痴之火灼烧，以及由离贪而解脱。本文将它与能力之火相对照，不把两种火等同。
 38. <a id="source-38"></a> **《涅槃经》（Nibbāna Sutta）**，*《相应部》*38.1，Ṭhānissaro Bhikkhu 英译。[经文](https://www.dhammatalks.org/suttas/SN/SN38_1.html)。以贪、嗔、痴的止息说明涅槃，并指出八正道；这里对创造性培养之目的的追问是本文的延伸。
 
-### 神话来源
-
 39. <a id="source-39"></a> 《山海经·海外北经》：[夸父逐日](https://zh.wikisource.org/zh-hans/山海經/海外北經)。本文的实践解释不穷尽神话含义。
 40. <a id="source-40"></a> 赫西俄德，《神谱》，507–616 行，尤其约 565–567 行的窃火段落：[Hugh G. Evelyn-White 英译](https://www.theoi.com/Text/HesiodTheogony.html)。携带火的方式参与构成意象；本文不把周围的神话叙事采纳为 AI 理论。
 

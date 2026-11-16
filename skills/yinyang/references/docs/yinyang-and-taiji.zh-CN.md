@@ -360,12 +360,13 @@ Heraclitus[第 51 则残篇](https://en.wikisource.org/wiki/Fragments_of_Heracli
 3. <a id="source-3"></a> [系辞下第四章](https://zh.wikisource.org/wiki/易傳/繫辭下)
   写「日月相推而明生焉」，以日月相推表达明的发生。
 
-可以把它们与[生活轨迹的形成](flow-and-time.zh-CN.md)并读。它们为当代的论述提供不同的关系：生成与对立、
-相互为根与转化，以及有限的相遇借以发展的造物。
-
 4. <a id="source-4"></a> Robin R. Wang，[〈Yinyang〉，*Internet Encyclopedia of Philosophy*](https://iep.utm.edu/yinyang/)，尤其历史发展与第 4 节的对应。学术解释性综述，并非古代原典；提供山坡及性别关联的历史语境。可交换的人机角色是本文构造。
 5. <a id="source-5"></a> 黑格尔，[《精神现象学》序言第 18 段](https://www.marxists.org/reference/archive/hegel/works/ph/phprefac.htm)。贡献中介与从他异返回的关系；用以理解有限协作，是哲学比较。
 6. <a id="source-6"></a> 黑格尔，[《逻辑学》第 184–187 节](https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm)。贡献扬弃中的停止与保存；被扬弃的排他角色规定由本文提出。
 7. <a id="source-7"></a> 拉康，[《论移情的干预》（1951），PDF 第 2–3 页](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1951-11-01.pdf#page=2)。法文原文贡献辩证逆转及主体在所说关系中的位置；协作比较没有声称模型正在实施精神分析。
 8. <a id="source-8"></a> Karl J. Åström、Richard M. Murray，[《反馈系统》§1.4，所链接的 2007 年草稿](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf)。贡献加强或抵消的返回及动态条件的重要性。赞同、批评与哲学修正是应用，需要指出具体变化与返回路径。
 9. <a id="source-9"></a> Heraclitus，[第 51 则残篇，附注译文](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_51)。贡献弓与琴中对立力量的关系；释放完成作品与维持交流的对比由本文发展，并非残篇引文。
+
+
+可以把它们与[生活轨迹的形成](flow-and-time.zh-CN.md)并读。它们为当代的论述提供不同的关系：生成与对立、
+相互为根与转化，以及有限的相遇借以发展的造物。

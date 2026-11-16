@@ -36,7 +36,7 @@ Works let distant expressions meet again. Placing an earlier version beside a pr
 Writing also provisionally settles these relations. Titling an experience or
 gathering several responses into a self-description can foreground one reading
 and guide the next response. [Punctuation and quilting](lacan-reading-guide.md#punctuation-and-quilting-how-meaning-becomes-provisionally-settled)
-raises questions about that settling and retroaction[[3]](#source-3)[[12]](#source-12);
+raises questions about that settling and retroaction[[3]](#source-3) [[12]](#source-12);
 [metaphor and metonymy](lacan-reading-guide.md#metaphor-metonymy-and-condensation)
 bring substitution, connection, and meaning formation into view. They do not
 combine into a rule that shorter writing means deeper understanding. Condensed
@@ -166,7 +166,7 @@ is illustrated by a basic judgment example. Their connection lies in reorganizin
 through difference while preserving contributions. How each accomplishes
 this needs its own life material, argument, or semantic conditions.
 “Thesis–antithesis–synthesis” can name these movements; their development
-gives the expression philosophical content beyond its three terms. Hegel himself distinguishes the movement's internal relation from externally imposed three-part counting in [§§1801–1802](https://www.marxists.org/reference/archive/hegel/works/hl/hlabsolu.htm)[[5]](#source-5). These comparisons likewise develop from the objects and relations actually changing.
+gives the expression philosophical content beyond its three terms. Hegel himself distinguishes the movement's internal relation from externally imposed three-part counting in [§§1801–1802](https://www.marxists.org/reference/archive/hegel/works/hl/hlabsolu.htm) [[5]](#source-5). These comparisons likewise develop from the objects and relations actually changing.
 
 ## Recognition, desire, and speech change what the problem is
 

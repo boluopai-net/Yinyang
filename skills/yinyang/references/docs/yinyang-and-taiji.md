@@ -525,11 +525,12 @@ These sources contribute imagery, conceptual distinctions, and feedback theory. 
 3. <a id="source-3"></a> The [*Xici*, lower part, chapter 4](https://zh.wikisource.org/wiki/易傳/繫辭下)
   gives the line “日月相推而明生焉”: their alternation makes illumination arise.
 
-Read these alongside [Forming a life trajectory](flow-and-time.md). Their different relations contribute to the contemporary account: becoming and opposition, mutual grounding and transformation, and the works through which a finite encounter can develop.
-
 4. <a id="source-4"></a> Robin R. Wang, [“Yinyang,” *Internet Encyclopedia of Philosophy*](https://iep.utm.edu/yinyang/), especially the historical development and §4 correspondences. A scholarly interpretive overview, rather than an ancient primary text; supplies historical context for the hillside and gender associations. Exchangeable human–model roles are this essay’s construction.
 5. <a id="source-5"></a> G. W. F. Hegel, [*Phenomenology of Spirit*, Preface, ¶18](https://www.marxists.org/reference/archive/hegel/works/ph/phprefac.htm). Supplies mediation and return from otherness; its use to interpret finite cooperation is a philosophical comparison.
 6. <a id="source-6"></a> G. W. F. Hegel, [*Science of Logic*, §§184–187](https://www.marxists.org/reference/archive/hegel/works/hl/hlbeing.htm). Supplies cessation and preservation in sublation. The exclusive role assignment being sublated is specified by this essay.
 7. <a id="source-7"></a> Jacques Lacan, [“Intervention on Transference” (1951), PDF pp. 2–3](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1951-11-01.pdf#page=2). The primary French text supplies dialectical reversal and the subject’s position in the relations recounted. The collaboration comparison does not claim that a model performs psychoanalysis.
 8. <a id="source-8"></a> Karl J. Åström and Richard M. Murray, [*Feedback Systems*, §1.4, linked 2007 draft](https://www.cds.caltech.edu/~murray/books/AM08/pdf/cds101-complete_20Sep07.pdf). Supplies reinforcing/counteracting return and the need to consider dynamics. Agreement, criticism, and philosophical correction are applications requiring a specified change and return path.
 9. <a id="source-9"></a> Heraclitus, [fragment 51, translated and annotated text](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)#Fragment_51). Supplies the bow-and-lyre relation of opposed forces. The contrast between releasing a completed work and sustaining an exchange is developed here, rather than quoted from the fragment.
+
+
+Read these alongside [Forming a life trajectory](flow-and-time.md). Their different relations contribute to the contemporary account: becoming and opposition, mutual grounding and transformation, and the works through which a finite encounter can develop.
