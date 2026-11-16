@@ -293,11 +293,11 @@ $$
 
 ## 来源及其贡献
 
-1. <a id="source-1"></a> John von Neumann，Arthur W. Burks 编（1966），*Theory of Self-Reproducing Automata*，第五讲，印刷页 75–87。75–77 页讨论构造部件与环境，78–80 页讨论复杂性的临界规模，84–85 页构造 A/B/C 自复制组织，86–87 页加入 D 并讨论可遗传变化，79 页及后文联系描述与已有组织。[公开扫描本](https://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1966.pdf)。本章据此发展描述与支持环境的功能比较。
-2. <a id="source-2"></a> Stephen Cole Kleene（1938），*On Notation for Ordinal Numbers*，§2，印刷页 153。[DOI](https://doi.org/10.2307/2267778)。以自身编号为参数的有效构造。
-3. <a id="source-3"></a> Yiannis N. Moschovakis（2010），*Kleene’s Amazing Second Recursion Theorem*，印刷页 190 的定理陈述，以及 §1、定理 1.1，192–193 页。[作者全文](https://www.math.ucla.edu/~ynm/papers/1602-002-1.pdf)。有效自指与输出自身描述的具体构造。
-4. <a id="source-4"></a> Jürgen Schmidhuber（2006，v5），*Gödel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements*，§4.1、定理 4.1（印刷页 11），§4.3（12 页）及 §6.1（15–16 页）。[所读版本](https://arxiv.org/abs/cs/0309048v5)。效用比较包含继续搜索的机会成本，修改可以涉及改进程序本身。这里借用这种问题结构，发展以解释、实践和后续结果为根据的人机方法。
-5. <a id="source-5"></a> Roman V. Yampolskiy（2015），*From Seed AI to Technological Singularity via Recursively Self-Improving Software*，§§1–2，PDF 页 2–4。[论文](https://arxiv.org/abs/1502.06512)。区分自修改、表现改善与后续改进能力的变化。
-6. <a id="source-6"></a> Meghyn Bienvenu 与 Camille Bourgaux，修复与查询语义的定义，§3。[作者稿](https://arxiv.org/html/2003.05746v5#S3)。[语义附录](inconsistency-tolerant-semantics.zh-CN.md)展开形式比较；本章考察这些选择规则怎样成为修订对象。
-7. <a id="source-7"></a> Git 项目，*Git Glossary*，DAG、commit、branch、merge 等条目。[官方术语表](https://git-scm.com/docs/gitglossary)。版本祖先关系为历史定位提供技术含义；版本与生活后果的联系由实际材料说明。
-8. <a id="source-8"></a> Jiang Zhang、Bing Yuan 与 Qian Zhang（2026），*Self-Referential Introspection in Large Language Models: The Critical Threshold for Recursive Self-Improvement*，v2，2026-09-18，§§3.3–3.4 及附录 A–C，尤其 H1/H2、定义 A6、定义 A8–A11。[所读版本](https://arxiv.org/abs/2607.04277v2)。论文提出读取自身描述、模拟、评价与修改的程序构造；本文借其功能问题发展人机耦合版本，并在上文区分实践论证与形式结论所需的前提。
+1. <a id="source-1"></a> John von Neumann，Arthur W. Burks 编（1966），Theory of Self-Reproducing Automata，第五讲，印刷页 75–87。[公开扫描本](https://fab.cba.mit.edu/classes/862.16/notes/computation/vonNeumann-1966.pdf)。75–77 页讨论构造部件与环境，78–80 页讨论复杂性的临界规模，84–85 页构造 A/B/C 自复制组织，86–87 页加入 D 并讨论可遗传变化，79 页及后文联系描述与已有组织。本章据此发展描述与支持环境的功能比较。
+2. <a id="source-2"></a> Stephen Cole Kleene（1938），On Notation for Ordinal Numbers，§2，印刷页 153。[DOI](https://doi.org/10.2307/2267778)。以自身编号为参数的有效构造。
+3. <a id="source-3"></a> Yiannis N. Moschovakis（2010），Kleene’s Amazing Second Recursion Theorem，印刷页 190 的定理陈述，以及 §1、定理 1.1，192–193 页。[作者全文](https://www.math.ucla.edu/~ynm/papers/1602-002-1.pdf)。有效自指与输出自身描述的具体构造。
+4. <a id="source-4"></a> Jürgen Schmidhuber（2006，v5），Gödel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements，§4.1、定理 4.1（印刷页 11），§4.3（12 页）及 §6.1（15–16 页）。[所读版本](https://arxiv.org/abs/cs/0309048v5)。效用比较包含继续搜索的机会成本，修改可以涉及改进程序本身。这里借用这种问题结构，发展以解释、实践和后续结果为根据的人机方法。
+5. <a id="source-5"></a> Roman V. Yampolskiy（2015），From Seed AI to Technological Singularity via Recursively Self-Improving Software，§§1–2，PDF 页 2–4。[论文](https://arxiv.org/abs/1502.06512)。区分自修改、表现改善与后续改进能力的变化。
+6. <a id="source-6"></a> Meghyn Bienvenu 与 Camille Bourgaux，Querying and Repairing Inconsistent Prioritized Knowledge Bases: Complexity Analysis and Links with Abstract Argumentation，§3。[作者稿](https://arxiv.org/html/2003.05746v5#S3)；[语义附录](inconsistency-tolerant-semantics.zh-CN.md)。语义附录展开形式比较；本章考察这些选择规则怎样成为修订对象。
+7. <a id="source-7"></a> Git 项目，Git Glossary，DAG、commit、branch、merge 等条目。[官方术语表](https://git-scm.com/docs/gitglossary)。版本祖先关系为历史定位提供技术含义；版本与生活后果的联系由实际材料说明。
+8. <a id="source-8"></a> Jiang Zhang、Bing Yuan 与 Qian Zhang（2026），Self-Referential Introspection in Large Language Models: The Critical Threshold for Recursive Self-Improvement，v2，2026-09-18，§§3.3–3.4 及附录 A–C，尤其 H1/H2、定义 A6、定义 A8–A11。[所读版本](https://arxiv.org/abs/2607.04277v2)。论文提出读取自身描述、模拟、评价与修改的程序构造；本文借其功能问题发展人机耦合版本，并在上文区分实践论证与形式结论所需的前提。

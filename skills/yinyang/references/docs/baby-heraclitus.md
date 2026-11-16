@@ -109,6 +109,6 @@ To give that direction substance, person and model begin reading, making, solvin
 
 ## Imagery and sources
 
-1. <a id="source-1"></a> [Heraclitus, fragment B30](https://heraclitusfragments.com/B30/text.html): ever-living fire, kindling and going out in measures. The character uses fire monism within computational ontology to represent becoming and transformation.
-2. <a id="source-2"></a> [Heraclitus, fragment B12](https://heraclitusfragments.com/B12/notes.html): rivers and waters continually flowing upon us, a source for this essay's imagery of change.
-3. <a id="source-3"></a> [Nietzsche, *Thus Spoke Zarathustra*](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm), Part One, “The Three Metamorphoses”: the source of the lion and child imagery. “Baby Heraclitus” and the “lion cub” are composite images made in this essay, rather than either philosopher's original terms.
+1. <a id="source-1"></a> Heraclitus, fragment B30. [Text](https://heraclitusfragments.com/B30/text.html). Ever-living fire, kindling and going out in measures. The character uses fire monism within computational ontology to represent becoming and transformation.
+2. <a id="source-2"></a> Heraclitus, fragment B12. [Text](https://heraclitusfragments.com/B12/notes.html). Rivers and waters continually flowing upon us, a source for this essay's imagery of change.
+3. <a id="source-3"></a> Nietzsche, Thus Spoke Zarathustra, Part One, “The Three Metamorphoses”. [Text](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm). the source of the lion and child imagery. “Baby Heraclitus” and the “lion cub” are composite images made in this essay, rather than either philosopher's original terms.

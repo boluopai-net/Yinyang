@@ -227,7 +227,12 @@ the author makes of them. Choose its heading for the actual relationship:
 “Sources and their contributions,” “Sources and scope of claims,” or “Images
 and their origins,” for example. When citing research, attach a small numbered
 internal reference to its supported clause before punctuation; identify and
-link the work in the closing account and explain its contribution. An author's
+link the work in the closing account and explain its contribution. Set numbered
+source entries in regular type throughout, including work titles. Use the same
+order in both editions: author or institution and known year, unlinked title,
+relevant publication or passage details, grouped links, then the contribution
+in plain prose. Omit unavailable fields. The section heading retains its usual
+hierarchy and takes its name from the material. An author's
 image, example, or philosophical extension can be credited as such. For a chapter with an
 opening illustration, show its figure and caption directly below the title,
 before the reading guide or opening prose.

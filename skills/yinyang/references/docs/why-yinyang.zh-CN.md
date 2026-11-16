@@ -171,4 +171,4 @@ Observations，并维护可读的 Personal 主题文章和按问题定义的模�
 
 ## 来源及其贡献
 
-1. <a id="source-1"></a> [借火与培养创造能力](stealing-fire.zh-CN.md#从追逐到生活中的修习)，尤其关于哲学澄清和[借火与涅槃](stealing-fire.zh-CN.md#借火与涅槃)的章节。相邻文章列明原始文本并展开应用；本文对 Harness 与个人哲学的说明是本项目自己的构想。
+1. <a id="source-1"></a> 借火与培养创造能力，尤其关于哲学澄清和借火与涅槃的章节。[哲学澄清](stealing-fire.zh-CN.md#从追逐到生活中的修习) · [借火与涅槃](stealing-fire.zh-CN.md#借火与涅槃)。相邻文章列明原始文本并展开应用；本文对 Harness 与个人哲学的说明是本项目自己的构想。

@@ -149,6 +149,8 @@ trajectory needs to retain.
 
 ## Sources and contribution
 
-1. <a id="source-1"></a> Feng Ye, [*Studies in No-Self Physicalism*](https://link.springer.com/book/10.1007/978-981-19-8143-2) (2023), §1.1 p. 6, §6.5 pp. 445–447 and 456–459, §7.4.2 pp. 528–532: ideal and actual inquiry, complexity, and reliability of intuition. The question-relative economy of a retrievable shared trajectory is this essay's development, not an identification of its naturalism with Ye's physicalism.
+1. <a id="source-1"></a> Feng Ye (2023), Studies in No-Self Physicalism, §1.1 p. 6, §6.5 pp. 445–447 and 456–459, §7.4.2 pp. 528–532. [Publisher](https://link.springer.com/book/10.1007/978-981-19-8143-2). Ideal and actual inquiry, complexity, and reliability of intuition. The question-relative economy of a retrievable shared trajectory is this essay's development, not an identification of its naturalism with Ye's physicalism.
 
-The [2021 institutional lecture report](https://renwen.ucas.ac.cn/index.php/rczp/2015-12-09-08-37-01/55005-2021-6) and [2024 interview](https://www.thepaper.cn/newsDetail_forward_28071984) provide the comparisons described above. The house, bridge, and windmill map is a constructed example of preserving relations needed by a question; it is not attributed to those sources.
+2. <a id="source-2"></a> Luo Ao (2021), 科学与人文讲座2021年第3期报道：当代数学哲学问题及一种回答, University of Chinese Academy of Sciences. [Source](https://renwen.ucas.ac.cn/index.php/rczp/2015-12-09-08-37-01/55005-2021-6). The institutional report supplies the comparison above between fictional mathematical objects and true applied descriptions.
+
+3. <a id="source-3"></a> Lin Shiyan and Feng Ye (2024), 访谈 | 逻辑问题——与叶峰老师的逻辑十四问, The Paper. [Source](https://www.thepaper.cn/newsDetail_forward_28071984). A public entrance to his discussion of non-linguistic cognition and explanatory models. The house, bridge, and windmill map is a constructed example of preserving relations needed by a question; it is not attributed to these sources.

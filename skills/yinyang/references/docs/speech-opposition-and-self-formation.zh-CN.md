@@ -207,17 +207,17 @@ Skill 按需展开已经写好的材料，言说则还可以形成此前没有�
 
 这些来源分别提供言说、对立与哲学澄清的说明。假设交流与独立关系的重构，是本文的应用，既不能据此诊断个人，也不能确立每次修订都会改善生活。
 
-1. <a id="source-1"></a> [《否定》（1925），第 1—3 页](https://lutecium.org/ftp/Freud/pdf/1925_negation.pdf). 弗洛伊德（1925），《否定》第 1—3 页。提供理智承认与接受的区别，不能据此从孤立拒绝推出隐藏愿望。
-2. <a id="source-2"></a> [《镜像阶段》（1949）](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1949-07-17.pdf). 拉康（1949），《镜像阶段》。提供通过统一形象认同的问题；独立的例子是本文构造。
-3. <a id="source-3"></a> [《主体的颠覆》（1960）](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/). 拉康（1960），《主体的颠覆》。提供能指表示与意义回溯确定的问题；用于模型支持的写作，还须考察实际交流。
-4. <a id="source-4"></a> [1966 年广播谈话，第 2 页](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1966-12-02a.pdf). 拉康 1966 年广播谈话，第 2 页。为大他者的讨论提供语言环境与言说场所的问题。
-5. <a id="source-5"></a> [《逻辑学》「绝对理念」，尤其 §§1789—1802](https://www.marxists.org/reference/archive/hegel/works/hl/hlabsolu.htm). 黑格尔，《逻辑学》「绝对理念」，本版 §§1789–1802，尤其 §§1795–1797、§§1801–1802。提供规定的否定、保存与对外加三段计数的批评；重构个人协作是本文的应用。
-6. <a id="source-6"></a> [关于对立统一及其争议的导读](https://plato.stanford.edu/entries/heraclitus/#UniOpp). Daniel W. Graham，Stanford Encyclopedia of Philosophy 的“Heraclitus”，「对立统一」部分。提供残篇与争议读法的学术说明，不是一手证明赫拉克利特采用了本框架的逻辑。
-7. <a id="source-7"></a> [《哲学研究》§133](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen). 维特根斯坦，《哲学研究》§133。提供哲学方法与治疗的比较；区分词义困局与现实条件，是本文的展开。
-8. <a id="source-8"></a> [《小逻辑》第 81 节](https://www.marxists.org/reference/archive/hegel/works/sl/sl_vi.htm). 黑格尔，《小逻辑》§81。提供有限规定自身片面性中的辩证运动；自主性的例子是当代应用。
-9. <a id="source-9"></a> [《精神现象学》导论第 84–86 段](https://www.marxists.org/reference/archive/hegel/works/ph/phintro.htm). 黑格尔，《精神现象学》导论 §§84–86。提供知识及其对象在检验与变化中的经验问题；本文将其引向个人模型修订。
-10. <a id="source-10"></a> [Cohen 等人研究的「Six Steps of LBT」部分](https://link.springer.com/article/10.1007/s10942-023-00532-z). Cohen 等人（2023/2024），“A Randomized, Controlled, Preliminary Study …”的「Six Steps of LBT」。提供检验实践前提与哲学替代方案的方法；本文的比较没有把该研究的临床结果转用为模型协作的证据。
-11. <a id="source-11"></a> [《论移情的干预》（1951）](https://recherche-lacan.gnipl.fr/2015/07/02/les-ecrits-intervention-sur-le-transfert-1951/). 拉康（1951），《论移情的干预》。提供阅读朵拉案例中的辩证逆转；工具修改本身不能确立主体位置的改变。
-12. <a id="source-12"></a> [1953 年《言语和语言在精神分析中的作用和领域》的原文选段](https://www.causefreudienne.org/textes-fondamentaux/fonction-et-champ-de-la-parole-et-du-langage-en-psychanalyse/). 拉康（1953），《言语和语言在精神分析中的作用和领域》选段。提供充实言说与主体历史的关系；字数与修订次数不能衡量这项作用。
-13. <a id="source-13"></a> [《电视》（1974），开篇](https://lacanianworksexchange.net/wp-content/uploads/2023/07/19740131Television198740October6.pdf#page=1). 拉康（1974），《电视》开篇。提供不能说出全部真理及其与实在的关系，不是分阶段补全信息的方法。
-14. <a id="source-14"></a> [拉康《研讨班 XI》，1964 年 6 月 10 日课，Staferla 转录本第 161–163 页](https://www.lutecium.org/mirror/staferla.free.fr/S11/S11%20FONDEMENTS.pdf#page=161)。提供移情中被假定知道的位置问题；本文将它借用于模型解释的接收，不把模型协作等同于分析关系。
+1. <a id="source-1"></a> 弗洛伊德（1925），否定，第 1—3 页。[原文](https://lutecium.org/ftp/Freud/pdf/1925_negation.pdf)。提供理智承认与接受的区别，不能据此从孤立拒绝推出隐藏愿望。
+2. <a id="source-2"></a> 拉康（1949），镜像阶段。[原文](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1949-07-17.pdf)。提供通过统一形象认同的问题；独立的例子是本文构造。
+3. <a id="source-3"></a> 拉康（1960），主体的颠覆。[原文](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/)。提供能指表示与意义回溯确定的问题；用于模型支持的写作，还须考察实际交流。
+4. <a id="source-4"></a> 拉康（1966），广播谈话，第 2 页。[原文](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1966-12-02a.pdf)。为大他者的讨论提供语言环境与言说场所的问题。
+5. <a id="source-5"></a> 黑格尔，逻辑学，「绝对理念」，本版 §§1789–1802，尤其 §§1795–1797、§§1801–1802。[原文](https://www.marxists.org/reference/archive/hegel/works/hl/hlabsolu.htm)。提供规定的否定、保存与对外加三段计数的批评；重构个人协作是本文的应用。
+6. <a id="source-6"></a> Daniel W. Graham，Heraclitus，Stanford Encyclopedia of Philosophy，「对立统一」部分。[来源](https://plato.stanford.edu/entries/heraclitus/#UniOpp)。提供残篇与争议读法的学术说明，不是一手证明赫拉克利特采用了本框架的逻辑。
+7. <a id="source-7"></a> 维特根斯坦，哲学研究，§133。[原文](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen)。提供哲学方法与治疗的比较；区分词义困局与现实条件，是本文的展开。
+8. <a id="source-8"></a> 黑格尔，小逻辑，§81。[原文](https://www.marxists.org/reference/archive/hegel/works/sl/sl_vi.htm)。提供有限规定自身片面性中的辩证运动；自主性的例子是当代应用。
+9. <a id="source-9"></a> 黑格尔，精神现象学，导论 §§84–86。[原文](https://www.marxists.org/reference/archive/hegel/works/ph/phintro.htm)。提供知识及其对象在检验与变化中的经验问题；本文将其引向个人模型修订。
+10. <a id="source-10"></a> Cohen 等人（2023/2024），A Randomized, Controlled, Preliminary Study to Assess the Efficacy of Logic-Based Therapy in Reducing Anxiety and/or Depression in Family Caregivers，「Six Steps of LBT」部分。[来源](https://link.springer.com/article/10.1007/s10942-023-00532-z)。提供检验实践前提与哲学替代方案的方法；本文的比较没有把该研究的临床结果转用为模型协作的证据。
+11. <a id="source-11"></a> 拉康（1951），论移情的干预。[原文](https://recherche-lacan.gnipl.fr/2015/07/02/les-ecrits-intervention-sur-le-transfert-1951/)。提供阅读朵拉案例中的辩证逆转；工具修改本身不能确立主体位置的改变。
+12. <a id="source-12"></a> 拉康（1953），言语和语言在精神分析中的作用和领域，选段。[来源](https://www.causefreudienne.org/textes-fondamentaux/fonction-et-champ-de-la-parole-et-du-langage-en-psychanalyse/)。提供充实言说与主体历史的关系；字数与修订次数不能衡量这项作用。
+13. <a id="source-13"></a> 拉康（1974），电视，开篇。[原文](https://lacanianworksexchange.net/wp-content/uploads/2023/07/19740131Television198740October6.pdf#page=1)。提供不能说出全部真理及其与实在的关系，不是分阶段补全信息的方法。
+14. <a id="source-14"></a> 拉康（1964），研讨班 XI，6 月 10 日课，Staferla 转录本第 161–163 页。[原文](https://www.lutecium.org/mirror/staferla.free.fr/S11/S11%20FONDEMENTS.pdf#page=161)。提供移情中被假定知道的位置问题；本文将它借用于模型解释的接收，不把模型协作等同于分析关系。

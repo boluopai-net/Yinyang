@@ -188,7 +188,7 @@
 
 八行表在不同意象之间选取关系。自然主义、实践对应与相互修订是作者的综合；借用意象不能证明所选支持已经维系了一个人的实践。
 
-1. <a id="source-1"></a> [1976 年 3 月 16 日课](https://lutecium.org/mirror/www.valas.fr/IMG/pdf/s23_le_sinthome.pdf#page=163). 拉康，《圣状》1976 年 3 月 16 日课，第 163 页，法文转录本。提供皮尔士、三元关系与三界的讨论；实践对应由本文发展。
-2. <a id="source-2"></a> [5 月 11 日课](https://lutecium.org/mirror/www.valas.fr/IMG/pdf/s23_le_sinthome.pdf#page=197). 拉康，《圣状》1976 年 5 月 11 日课，第 197 页，法文转录本。提供三元构成的表述，作为解释上的呼应，不是对学科的分类。
-3. <a id="source-3"></a> [1975 年 11 月 18 日课](https://lutecium.org/mirror/www.valas.fr/IMG/pdf/s23_le_sinthome.pdf#page=14). 拉康，《圣状》1975 年 11 月 18 日课，第 14 页，法文转录本。提供第四项的系结构造；哲学、心理、工程是作者的对应，不是给拉康的三界改名。
-4. <a id="source-4"></a> [《天主教教理》§§232–267，尤其 §§253–255](https://www.vatican.va/archive/ENG0015/__P17.HTM)。定位有区别而又为一的圣父、圣子、圣灵意象；个人能力的「三位一体」与「微型上帝」，是作者的文学转化。
+1. <a id="source-1"></a> 拉康，圣状，1976 年 3 月 16 日课，第 163 页，法文转录本。[原文](https://lutecium.org/mirror/www.valas.fr/IMG/pdf/s23_le_sinthome.pdf#page=163)。提供皮尔士、三元关系与三界的讨论；实践对应由本文发展。
+2. <a id="source-2"></a> 拉康，圣状，1976 年 5 月 11 日课，第 197 页，法文转录本。[原文](https://lutecium.org/mirror/www.valas.fr/IMG/pdf/s23_le_sinthome.pdf#page=197)。提供三元构成的表述，作为解释上的呼应，不是对学科的分类。
+3. <a id="source-3"></a> 拉康，圣状，1975 年 11 月 18 日课，第 14 页，法文转录本。[原文](https://lutecium.org/mirror/www.valas.fr/IMG/pdf/s23_le_sinthome.pdf#page=14)。提供第四项的系结构造；哲学、心理、工程是作者的对应，不是给拉康的三界改名。
+4. <a id="source-4"></a> 天主教会，天主教教理，§§232–267，尤其 §§253–255。[来源](https://www.vatican.va/archive/ENG0015/__P17.HTM)。定位有区别而又为一的圣父、圣子、圣灵意象；个人能力的「三位一体」与「微型上帝」，是作者的文学转化。

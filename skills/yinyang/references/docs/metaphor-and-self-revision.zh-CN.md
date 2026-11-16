@@ -443,15 +443,15 @@ Hollender 等把学习材料组织造成的负荷与软件使用造成的负荷�
 哲学综合是本文提出的方案。这些阅读没有证实向模型上下文增加个人意象具有
 一般性的实证收益。
 
-1. <a id="source-1"></a> 根特纳（1983），**Structure-Mapping: A Theoretical Framework for Analogy**，*Cognitive Science* 7，155–170。[作者托管论文](https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf)。关系映射与系统性。
-2. <a id="source-2"></a> A. M. Turing（1936），**On Computable Numbers, with an Application to the Entscheidungsproblem**，尤其第 6 节。[大学托管的原始论文](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)。形式通用机器的比较。
-3. <a id="source-3"></a> Jürgen Schmidhuber，**Gödel Machine Summary**。[作者概述](https://people.idsia.ch/~juergen/gmsummary.html)。以证明为条件的自我修订、公理范围、资源限制与普通计算。
-4. <a id="source-4"></a> Jürgen Schmidhuber，**Gödel Machines: Fully Self-Referential Optimal Universal Self-Improvers**。[作者概览及论文](https://people.idsia.ch/~juergen/goedelmachine.html)。与个人类比相区别的技术方案。
-5. <a id="source-5"></a> James Hollan、Edwin Hutchins 与 David Kirsh（2000），**Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research**，*ACM Transactions on Computer-Human Interaction* 7(2)，174–196。[作者托管论文](https://interactivity.ucsd.edu/articles/dcog.pdf)。跨越人、人工物与时间的认知；把框架用于这里的模型支持安排，是本文提出的方案。
-6. <a id="source-6"></a> David Kieras and Peter G. Polson (1985), **An approach to the formal analysis of user complexity**. [DOI](https://doi.org/10.1016/S0020-7373(85)80045-6). 用户复杂性的知识、规则与加工分析。
-7. <a id="source-7"></a> John Sweller, Jeroen J. G. van Merriënboer, and Fred Paas (2019), **Cognitive Architecture and Instructional Design: 20 Years Later**. [DOI](https://doi.org/10.1007/s10648-019-09465-5). 元素交互、已有知识与工作记忆要求。
-8. <a id="source-8"></a> Jill H. Larkin and Herbert A. Simon (1987), **Why a Diagram is (Sometimes) Worth Ten Thousand Words**. [DOI](https://doi.org/10.1111/j.1551-6708.1987.tb00863.x). 信息等价、计算等价与空间组织的搜索。
-9. <a id="source-9"></a> Richard E. Mayer and Roxana Moreno (2003), **Nine Ways to Reduce Cognitive Load in Multimedia Learning**. [DOI](https://doi.org/10.1207/S15326985EP3801_6). 多媒体加工、邻近、分段与超负荷。
-10. <a id="source-10"></a> Nina Hollender, Cristian Hofmann, Michael Deneke, and Bernhard Schmitz (2010), **Integrating cognitive load theory and concepts of human–computer interaction**. [DOI](https://doi.org/10.1016/j.chb.2010.05.031). 区分教学组织与软件使用带来的负荷。
-11. <a id="source-11"></a> Lev Tankelevitch et al. (2024), **The Metacognitive Demands and Opportunities of Generative AI**. [DOI](https://doi.org/10.1145/3613904.3642902). 提示、评估、流程安排的负担及设计支持。
-12. <a id="source-12"></a> Erik M. Altmann and J. Gregory Trafton (2002), **Memory for goals: an activation-based model**. [DOI](https://doi.org/10.1207/S15516709COG2601_2). 目标暂停、恢复与提取线索。
+1. <a id="source-1"></a> 根特纳（1983），Structure-Mapping: A Theoretical Framework for Analogy，Cognitive Science 7，155–170。[作者托管论文](https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf)。关系映射与系统性。
+2. <a id="source-2"></a> A. M. Turing（1936），On Computable Numbers, with an Application to the Entscheidungsproblem，尤其第 6 节。[大学托管的原始论文](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)。形式通用机器的比较。
+3. <a id="source-3"></a> Jürgen Schmidhuber，Gödel Machine Summary。[作者概述](https://people.idsia.ch/~juergen/gmsummary.html)。以证明为条件的自我修订、公理范围、资源限制与普通计算。
+4. <a id="source-4"></a> Jürgen Schmidhuber，Gödel Machines: Fully Self-Referential Optimal Universal Self-Improvers。[作者概览及论文](https://people.idsia.ch/~juergen/goedelmachine.html)。与个人类比相区别的技术方案。
+5. <a id="source-5"></a> James Hollan、Edwin Hutchins 与 David Kirsh（2000），Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research，ACM Transactions on Computer-Human Interaction 7(2)，174–196。[作者托管论文](https://interactivity.ucsd.edu/articles/dcog.pdf)。跨越人、人工物与时间的认知；把框架用于这里的模型支持安排，是本文提出的方案。
+6. <a id="source-6"></a> David Kieras 与 Peter G. Polson（1985），An approach to the formal analysis of user complexity。[DOI](https://doi.org/10.1016/S0020-7373(85)80045-6)。用户复杂性的知识、规则与加工分析。
+7. <a id="source-7"></a> John Sweller、Jeroen J. G. van Merriënboer 与 Fred Paas（2019），Cognitive Architecture and Instructional Design: 20 Years Later。[DOI](https://doi.org/10.1007/s10648-019-09465-5)。元素交互、已有知识与工作记忆要求。
+8. <a id="source-8"></a> Jill H. Larkin 与 Herbert A. Simon（1987），Why a Diagram is (Sometimes) Worth Ten Thousand Words。[DOI](https://doi.org/10.1111/j.1551-6708.1987.tb00863.x)。信息等价、计算等价与空间组织的搜索。
+9. <a id="source-9"></a> Richard E. Mayer 与 Roxana Moreno（2003），Nine Ways to Reduce Cognitive Load in Multimedia Learning。[DOI](https://doi.org/10.1207/S15326985EP3801_6)。多媒体加工、邻近、分段与超负荷。
+10. <a id="source-10"></a> Nina Hollender、Cristian Hofmann、Michael Deneke 与 Bernhard Schmitz（2010），Integrating cognitive load theory and concepts of human–computer interaction。[DOI](https://doi.org/10.1016/j.chb.2010.05.031)。区分教学组织与软件使用带来的负荷。
+11. <a id="source-11"></a> Lev Tankelevitch et al.（2024），The Metacognitive Demands and Opportunities of Generative AI。[DOI](https://doi.org/10.1145/3613904.3642902)。提示、评估、流程安排的负担及设计支持。
+12. <a id="source-12"></a> Erik M. Altmann 与 J. Gregory Trafton（2002），Memory for goals: an activation-based model。[DOI](https://doi.org/10.1207/S15516709COG2601_2)。目标暂停、恢复与提取线索。

@@ -281,9 +281,9 @@ model-supported realization state the philosophy adopted here. The sources
 contribute the distinctions identified above; personal-first humanism gives
 practice its value direction, developed and revised through actual consequences.
 
-1. <a id="source-1"></a> Thomas Hobbes (1651), **Leviathan**, chapter IV, “Of Speech.” [Original text](https://en.wikisource.org/wiki/Leviathan_%281651%29/Chapter_4). One historical account of universal names and particular things, not a proof of the present ethical orientation.
-2. <a id="source-2"></a> John Stuart Mill (1859), **On Liberty**, chapter III. [Original text](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm). Individuality and experiments of living within plural coexistence.
-3. <a id="source-3"></a> Rudolf Carnap (1950), **Empiricism, Semantics, and Ontology**. [Public reprint](https://ditext.com/carnap/carnap.html). Purpose-sensitive adoption of linguistic frameworks; the personal-first premise is supplied separately here.
+1. <a id="source-1"></a> Thomas Hobbes (1651), Leviathan, chapter IV, “Of Speech.” [Original text](https://en.wikisource.org/wiki/Leviathan_%281651%29/Chapter_4). One historical account of universal names and particular things, not a proof of the present ethical orientation.
+2. <a id="source-2"></a> John Stuart Mill (1859), On Liberty, chapter III. [Original text](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm). Individuality and experiments of living within plural coexistence.
+3. <a id="source-3"></a> Rudolf Carnap (1950), Empiricism, Semantics, and Ontology. [Public reprint](https://ditext.com/carnap/carnap.html). Purpose-sensitive adoption of linguistic frameworks; the personal-first premise is supplied separately here.
 
-4. <a id="source-4"></a> Thomas R. Gruber (1993), *A Translation Approach to Portable Ontology Specifications*. [Author's paper](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf). Explicit specification of a conceptualization in knowledge sharing.
-5. <a id="source-5"></a> Nicola Guarino (1998), *Formal Ontology and Information Systems*. [Author-hosted paper](https://www.loa.istc.cnr.it/wp-content/uploads/2020/03/FOIS98.pdf). Conceptualization and formal accounts of intended meaning; their application to personal practice is developed here.
+4. <a id="source-4"></a> Thomas R. Gruber (1993), A Translation Approach to Portable Ontology Specifications. [Author's paper](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf). Explicit specification of a conceptualization in knowledge sharing.
+5. <a id="source-5"></a> Nicola Guarino (1998), Formal Ontology and Information Systems. [Author-hosted paper](https://www.loa.istc.cnr.it/wp-content/uploads/2020/03/FOIS98.pdf). Conceptualization and formal accounts of intended meaning; their application to personal practice is developed here.

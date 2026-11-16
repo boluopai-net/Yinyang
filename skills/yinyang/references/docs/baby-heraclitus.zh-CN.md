@@ -101,6 +101,6 @@ baby 由此也是萌的：尚未封闭，愿意亲近新的东西，也愿意在
 
 ## 意象与出处
 
-1. <a id="source-1"></a> [Heraclitus 残篇 B30](https://heraclitusfragments.com/B30/text.html)：恒活之火及其有尺度的燃起与熄灭。人物在计算本体中用火一元论表征生成与转化。
-2. <a id="source-2"></a> [Heraclitus 残篇 B12](https://heraclitusfragments.com/B12/notes.html)：河流与不断流来的水，是本文变化意象的来源。
-3. <a id="source-3"></a> [尼采查拉图斯特拉如是说](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)，第一部「三种变形」：狮子与孩童的意象来源。「Baby Heraclitus」和「小狮子」是本文的组合形象，不是两位哲学家的原有术语。
+1. <a id="source-1"></a> Heraclitus，残篇 B30。[原文](https://heraclitusfragments.com/B30/text.html)。恒活之火及其有尺度的燃起与熄灭。人物在计算本体中用火一元论表征生成与转化。
+2. <a id="source-2"></a> Heraclitus，残篇 B12。[原文](https://heraclitusfragments.com/B12/notes.html)。河流与不断流来的水，是本文变化意象的来源。
+3. <a id="source-3"></a> 尼采，查拉图斯特拉如是说，第一部「三种变形」。[原文](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)。狮子与孩童的意象来源。「Baby Heraclitus」和「小狮子」是本文的组合形象，不是两位哲学家的原有术语。

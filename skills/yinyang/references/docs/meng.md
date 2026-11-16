@@ -56,4 +56,4 @@ If people from other countries, or any particular individual, are also cute, the
 
 ## Sources and their contributions
 
-1. <a id="source-1"></a> [Personal-First Humanism](personal-first-humanism.md). Its account of respecting particular persons and revising arrangements supplies a companion premise. This essay defines “cuteness” and “invincibility” locally; its derivation is conditional on the stated assumptions, not an empirical demonstration or a claim about any nationality.
+1. <a id="source-1"></a> Personal-First Humanism. [Source](personal-first-humanism.md). Its account of respecting particular persons and revising arrangements supplies a companion premise. This essay defines “cuteness” and “invincibility” locally; its derivation is conditional on the stated assumptions, not an empirical demonstration or a claim about any nationality.

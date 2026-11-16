@@ -176,6 +176,6 @@ History 连接原始表达、候选的支持路径、实际采用、尝试及后
 
 ## 来源与本文的贡献
 
-1. <a id="source-1"></a> 阿尔弗雷德·诺斯·怀特海，[《思维方式》第一讲第 3–6 节](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_01.html)（1938）：重要性与视角。[第二讲](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_02.html)展开表达，[第三讲](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_03.html)展开理解及其前提。由选择经后果再到修订的反复运动，是阴阳对这些区分的发挥。
+1. <a id="source-1"></a> 阿尔弗雷德·诺斯·怀特海（1938），《思维方式》，第一至第三讲。[第一讲第 3–6 节](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_01.html) · [第二讲](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_02.html) · [第三讲](https://brocku.ca/MeadProject/Whitehead/Whitehead_1938/1938_03.html)。重要性与视角、表达、理解及其前提。由选择经后果再到修订的反复运动，是阴阳对这些区分的发挥。
 
-2. <a id="source-2"></a> 查尔斯·桑德斯·皮尔士，[手稿 MS 841「一个被忽略的论证」第 41 页](https://fromthepage.com/jeffdown1/c-s-peirce-manuscripts/ms-841-1908-a-neglected-argument-text-and-fragments/display/8414)（1908）：探究中的假说、经验后果与演绎。本文将探究分配给人与模型，是自己的应用。
+2. <a id="source-2"></a> 查尔斯·桑德斯·皮尔士（1908），「一个被忽略的论证」，手稿 MS 841 第 41 页。[来源](https://fromthepage.com/jeffdown1/c-s-peirce-manuscripts/ms-841-1908-a-neglected-argument-text-and-fragments/display/8414)。探究中的假说、经验后果与演绎。本文将探究分配给人与模型，是自己的应用。

@@ -122,6 +122,6 @@ so the new arrangement realizes the present purpose more directly. This practica
 
 ## Sources and contribution
 
-1. <a id="source-1"></a> Jacques Lacan, [“Subversion du sujet et dialectique du désir dans l’inconscient freudien”](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/) (1960): the retrospective determination of meaning through signifying relations. Revisiting a model-assisted history of choices is this essay's application, not a claim that a preference history reproduces Lacan's theory.
+1. <a id="source-1"></a> Jacques Lacan (1960), Subversion du sujet et dialectique du désir dans l’inconscient freudien. [Source](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/). The retrospective determination of meaning through signifying relations. Revisiting a model-assisted history of choices is this essay's application, not a claim that a preference history reproduces Lacan's theory.
 
-The [Git glossary](https://git-scm.com/docs/gitglossary#def_DAG) supplies the technical ancestry definition used above. The reading example and Preference Harness are developed here; the formal Brave and P-Brave distinctions are attributed in the linked semantics appendix.
+2. <a id="source-2"></a> Git, Git glossary, DAG. [Source](https://git-scm.com/docs/gitglossary#def_DAG). The technical ancestry definition used above. The reading example and Preference Harness are developed here; the formal Brave and P-Brave distinctions are attributed in the linked semantics appendix.

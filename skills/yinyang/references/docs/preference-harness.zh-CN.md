@@ -107,6 +107,6 @@ History 还保留每个可能为什么仍有支撑、哪次实践用了它、什
 
 ## 来源与本文的贡献
 
-1. <a id="source-1"></a> 雅克·拉康，[《主体的颠覆与欲望在弗洛伊德无意识中的辩证法》](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/)（1960）：意义经能指关系回溯确定。返回模型协助整理的选择历史是本文的应用，而非说偏好历史再现了拉康的理论。
+1. <a id="source-1"></a> 雅克·拉康（1960），《主体的颠覆与欲望在弗洛伊德无意识中的辩证法》。[来源](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/)。意义经能指关系回溯确定。返回模型协助整理的选择历史是本文的应用，而非说偏好历史再现了拉康的理论。
 
-[Git 术语表](https://git-scm.com/docs/gitglossary#def_DAG)提供上文所用的版本祖先关系定义。阅读例子与偏好 Harness 是本文的展开；Brave 与 P-Brave 的形式区分在链接的语义学附录中交代来源。
+2. <a id="source-2"></a> Git，Git 术语表，DAG。[来源](https://git-scm.com/docs/gitglossary#def_DAG)。上文所用的版本祖先关系定义。阅读例子与偏好 Harness 是本文的展开；Brave 与 P-Brave 的形式区分在链接的语义学附录中交代来源。

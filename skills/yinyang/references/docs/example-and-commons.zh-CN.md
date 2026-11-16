@@ -101,5 +101,5 @@ GitHub 保存持续维护的源内容与修改历史。网站把选定的同一�
 
 「知识共产主义」与采用、组合或重新创作的邀请表达本集的愿景，不是在提出公地的历史描述，也不授予实际条款之外的复用权利。形成实例描述可尝试的实践，没有报告接收者已经取得个人发展的证据。
 
-1. <a id="source-1"></a> 本集的[阴阳个人与内部使用许可 1.0](../../LICENSE)与[许可说明](https://github.com/boluopai-net/Yinyang/blob/main/LICENSING.md)。为上文的复用区分提供直接根据：阅读与私人使用许可、再分发及服务提供所需的另行许可，以及独立输出的不同地位。其他包与第三方作品保留各自条件。
-2. <a id="source-2"></a> 作者的[交流指南](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.md)。提供通过 Issue 交流、不接收 PR 的实际参与条件。独立维护的作品可以通过批评、引用与链接继续发展，是本文从这些安排展开的哲学提议。
+1. <a id="source-1"></a> 阴阳文集，阴阳个人与内部使用许可 1.0；许可说明。[许可](../../LICENSE)；[许可说明](https://github.com/boluopai-net/Yinyang/blob/main/LICENSING.md)。为上文的复用区分提供直接根据：阅读与私人使用许可、再分发及服务提供所需的另行许可，以及独立输出的不同地位。其他包与第三方作品保留各自条件。
+2. <a id="source-2"></a> 阴阳文集作者，交流指南。[指南](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.md)。提供通过 Issue 交流、不接收 PR 的实际参与条件。独立维护的作品可以通过批评、引用与链接继续发展，是本文从这些安排展开的哲学提议。

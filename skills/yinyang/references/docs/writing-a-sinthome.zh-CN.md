@@ -199,8 +199,8 @@ Harness 把这些理解接到模型、记忆、工具与实际环境，让广泛
 
 借用的名称与意象提出什么使实践系得住的问题。个人圣状、其中的计算本体与模型支持的实现，是作者的构造，并非这些阅读已经确立的临床解释。
 
-1. <a id="source-1"></a> [研讨班第二十三卷，1976 年 2 月 17 日课](https://recherche-lacan.gnipl.fr/2013/07/26/lxxiii-le-sinthome-1975-1976-lecon-du-17-fevrier-1976/). 拉康，《圣状》1976 年 2 月 17 日课，法文转录本。提供特定的结修补讨论，本文由此借取维系作用的问题。
-2. <a id="source-2"></a> [5 月 11 日课](https://recherche-lacan.gnipl.fr/2013/07/26/lxxiii-le-sinthome-1975-1976-lecon-du-11-mai-1976/). 拉康，《圣状》1976 年 5 月 11 日课，法文转录本。把乔伊斯的写作、ego 与结的修补联系起来；由模型支持的个人安排，是本文的当代发展。
-3. <a id="source-3"></a> [1975 年 11 月 18 日课的法文转录本，第 14 页](https://lutecium.org/mirror/www.valas.fr/IMG/pdf/s23_le_sinthome.pdf#page=14). 拉康，《圣状》1975 年 11 月 18 日课，第 14 页，法文转录本。提供第四项的系结构造；哲学、心理、工程是作者的对应，不是给拉康的三界改名。
-4. <a id="source-4"></a> [三环博罗米结](https://www.mi.sanu.ac.rs/vismath/bor/bor2.htm). “Borromean Rings”，Visual Mathematics。提供三环相互维系的形象；这里的类比由实际支持与反馈取得内容，不是适切性的数学证明。
-5. <a id="source-5"></a> [《天主教教理》§§232–267，尤其 §§253–255](https://www.vatican.va/archive/ENG0015/__P17.HTM)。定位有区别而又为一的圣父、圣子、圣灵意象；个人能力的「三位一体」与「微型上帝」，是作者的文学转化。
+1. <a id="source-1"></a> 拉康，圣状，1976 年 2 月 17 日课，法文转录本。[原文](https://recherche-lacan.gnipl.fr/2013/07/26/lxxiii-le-sinthome-1975-1976-lecon-du-17-fevrier-1976/)。提供特定的结修补讨论，本文由此借取维系作用的问题。
+2. <a id="source-2"></a> 拉康，圣状，1976 年 5 月 11 日课，法文转录本。[原文](https://recherche-lacan.gnipl.fr/2013/07/26/lxxiii-le-sinthome-1975-1976-lecon-du-11-mai-1976/)。把乔伊斯的写作、ego 与结的修补联系起来；由模型支持的个人安排，是本文的当代发展。
+3. <a id="source-3"></a> 拉康，圣状，1975 年 11 月 18 日课，第 14 页，法文转录本。[原文](https://lutecium.org/mirror/www.valas.fr/IMG/pdf/s23_le_sinthome.pdf#page=14)。提供第四项的系结构造；哲学、心理、工程是作者的对应，不是给拉康的三界改名。
+4. <a id="source-4"></a> Visual Mathematics，Borromean Rings。[来源](https://www.mi.sanu.ac.rs/vismath/bor/bor2.htm)。提供三环相互维系的形象；这里的类比由实际支持与反馈取得内容，不是适切性的数学证明。
+5. <a id="source-5"></a> 天主教会，天主教教理，§§232–267，尤其 §§253–255。[来源](https://www.vatican.va/archive/ENG0015/__P17.HTM)。定位有区别而又为一的圣父、圣子、圣灵意象；个人能力的「三位一体」与「微型上帝」，是作者的文学转化。

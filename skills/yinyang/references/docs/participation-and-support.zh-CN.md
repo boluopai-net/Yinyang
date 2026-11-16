@@ -189,7 +189,7 @@
 
 ## 来源、贡献与实例范围
 
-1. <a id="source-1"></a> Francisco J. Varela、Evan Thompson、Eleanor Rosch，*The Embodied Mind: Cognitive Science and Human Experience*（1991；2017 年修订版）。[出版社对版本与论述的介绍](https://mitpress.mit.edu/9780262529365/the-embodied-mind/)。贡献认知科学、实际经验与修行实践之间的对话；听说读写的协作安排由本文发展。
-2. <a id="source-2"></a> Andy Clark、David J. Chalmers，〈The Extended Mind〉，*Analysis* 58（1998），10–23 页，尤其第 2–3 节。[作者全文](https://www.consc.net/papers/extended.html)。主动的环境耦合，为追问支持怎样参与可用认知提供哲学依据；它没有证明每种辅助都构成认知，也没有证明模型使用带来可迁移的学习。
+1. <a id="source-1"></a> Francisco J. Varela、Evan Thompson、Eleanor Rosch（1991；2017 年修订版），The Embodied Mind: Cognitive Science and Human Experience。[出版社对版本与论述的介绍](https://mitpress.mit.edu/9780262529365/the-embodied-mind/)。贡献认知科学、实际经验与修行实践之间的对话；听说读写的协作安排由本文发展。
+2. <a id="source-2"></a> Andy Clark、David J. Chalmers（1998），The Extended Mind，Analysis 58，10–23 页，尤其第 2–3 节。[作者全文](https://www.consc.net/papers/extended.html)。主动的环境耦合，为追问支持怎样参与可用认知提供哲学依据；它没有证明每种辅助都构成认知，也没有证明模型使用带来可迁移的学习。
 
 阅读布局、可修改开头与角色分工是本集构造的说明实例，区分可访问性、持续的受支持活动与可迁移的发展，没有报告已完成的对照学习研究。具体支持是否培养了能力，需要从这个人后续的实际参与取得根据。

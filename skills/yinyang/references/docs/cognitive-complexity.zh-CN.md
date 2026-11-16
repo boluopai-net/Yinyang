@@ -60,11 +60,11 @@
 
 ## 来源及其贡献
 
-1. <a id="source-1"></a> David Kieras 与 Peter G. Polson（1985），*An approach to the formal analysis of user complexity*。[DOI](https://doi.org/10.1016/S0020-7373(85)80045-6)。以用户知识和规则分析交互要求。
-2. <a id="source-2"></a> John Sweller、Jeroen J. G. van Merriënboer 与 Fred Paas（2019），*Cognitive Architecture and Instructional Design: 20 Years Later*。[DOI](https://doi.org/10.1007/s10648-019-09465-5)。元素交互、先前知识与工作记忆要求。
-3. <a id="source-3"></a> David Kirsh 与 Paul Maglio（1994），*On Distinguishing Epistemic from Pragmatic Action*。[DOI](https://doi.org/10.1207/S15516709COG1804_1)。俄罗斯方块中改变推理条件的行动。
-4. <a id="source-4"></a> Judy Hanwen Shen 与 Alex Tamkin，*How AI Impacts Skill Formation*。[论文](https://arxiv.org/abs/2601.20245) · [研究报告](https://www.anthropic.com/research/AI-assistance-coding-skills)。AI 辅助与陌生编程库学习的随机实验；结果以研究条件为边界。
-5. <a id="source-5"></a> Erik M. Altmann 与 J. Gregory Trafton（2002），*Memory for goals: an activation-based model*。[DOI](https://doi.org/10.1207/S15516709COG2601_2)。提取线索与悬置目标的接续。
-6. <a id="source-6"></a> Eunhye Kim、Sadat Shams Chowdhury、Hyungwoo Song 与 Bongwon Suh（2026），*In-Situ Adaptive Interfaces for Online Browsing: Design Dimensions for Intent-Responsive Automation and User Control*。[DOI](https://doi.org/10.1145/3742413.3789092)。ReLay 与自适应浏览的用户体验；上文的页面比较是本文提出的推断。
-7. <a id="source-7"></a> Nikhil Wani，*RecalibrateGPT: AI Fatigue Resilient Conversational Interfaces*。[预印本](https://arxiv.org/abs/2609.00506)。两项先导研究与所辨认的对话疲劳类型。
-8. <a id="source-8"></a> Maryangela White 等，*Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Comprehension*。[预印本](https://arxiv.org/abs/2611.12019)。20 位初学者的并行探测反应时间与自报工作负荷；向个人环境的应用是本文的推断。
+1. <a id="source-1"></a> David Kieras 与 Peter G. Polson（1985），An approach to the formal analysis of user complexity。[DOI](https://doi.org/10.1016/S0020-7373(85)80045-6)。以用户知识和规则分析交互要求。
+2. <a id="source-2"></a> John Sweller、Jeroen J. G. van Merriënboer 与 Fred Paas（2019），Cognitive Architecture and Instructional Design: 20 Years Later。[DOI](https://doi.org/10.1007/s10648-019-09465-5)。元素交互、先前知识与工作记忆要求。
+3. <a id="source-3"></a> David Kirsh 与 Paul Maglio（1994），On Distinguishing Epistemic from Pragmatic Action。[DOI](https://doi.org/10.1207/S15516709COG1804_1)。俄罗斯方块中改变推理条件的行动。
+4. <a id="source-4"></a> Judy Hanwen Shen 与 Alex Tamkin，How AI Impacts Skill Formation。[论文](https://arxiv.org/abs/2601.20245) · [研究报告](https://www.anthropic.com/research/AI-assistance-coding-skills)。AI 辅助与陌生编程库学习的随机实验；结果以研究条件为边界。
+5. <a id="source-5"></a> Erik M. Altmann 与 J. Gregory Trafton（2002），Memory for goals: an activation-based model。[DOI](https://doi.org/10.1207/S15516709COG2601_2)。提取线索与悬置目标的接续。
+6. <a id="source-6"></a> Eunhye Kim、Sadat Shams Chowdhury、Hyungwoo Song 与 Bongwon Suh（2026），In-Situ Adaptive Interfaces for Online Browsing: Design Dimensions for Intent-Responsive Automation and User Control。[DOI](https://doi.org/10.1145/3742413.3789092)。ReLay 与自适应浏览的用户体验；上文的页面比较是本文提出的推断。
+7. <a id="source-7"></a> Nikhil Wani，RecalibrateGPT: AI Fatigue Resilient Conversational Interfaces。[预印本](https://arxiv.org/abs/2609.00506)。两项先导研究与所辨认的对话疲劳类型。
+8. <a id="source-8"></a> Maryangela White 等，Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Comprehension。[预印本](https://arxiv.org/abs/2611.12019)。20 位初学者的并行探测反应时间与自报工作负荷；向个人环境的应用是本文的推断。

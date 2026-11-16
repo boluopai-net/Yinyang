@@ -120,8 +120,8 @@ Observations 和可读的 Personal 文章。详细问题据此形成六个工作
 
 ## 来源与本文的贡献
 
-1. <a id="source-1"></a> 威廉·詹姆斯，[《心理学原理》第 9 章「思想流」](https://www.yorku.ca/pclassic/James/Principles/prin9.htm)（1890）：思想的连续、变化与选择。本文把共同工作的事件流作为功能性扩展，并非詹姆斯的意识论述。
+1. <a id="source-1"></a> 威廉·詹姆斯（1890），《心理学原理》，第 9 章「思想流」。[来源](https://www.yorku.ca/pclassic/James/Principles/prin9.htm)。思想的连续、变化与选择。本文把共同工作的事件流作为功能性扩展，并非詹姆斯的意识论述。
 
-2. <a id="source-2"></a> 亨利·柏格森，[《时间与自由意志》第 2 章](https://www.gutenberg.org/cache/epub/56852/pg56852-images.html)：绵延与空间化的均质时间。本文把它与离散活动记录对照。
+2. <a id="source-2"></a> 亨利·柏格森，《时间与自由意志》，第 2 章。[来源](https://www.gutenberg.org/cache/epub/56852/pg56852-images.html)。绵延与空间化的均质时间。本文把它与离散活动记录对照。
 
-开头的火焰借用 Heraclitus 的[有尺度的火（B30）](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_30)，更新的形象借用[每日之日（B6）](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_6)；河流则承载本文对可返回历史的描绘。阅读和过桥是本文构造的例子，用来说明保留与纠正。
+3. <a id="source-3"></a> Heraclitus，残篇，B30 与 B6。[B30](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_30) · [B6](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_6)。开头的火焰借用有尺度的火，更新的形象借用每日之日；河流则承载本文对可返回历史的描绘。阅读和过桥是本文构造的例子，用来说明保留与纠正。

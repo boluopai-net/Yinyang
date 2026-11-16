@@ -205,9 +205,9 @@
 相连的自然主义与火一元论说明、六个面向及其模型支持的实现，是本文采用的哲学。
 来源贡献上文标明的区分；个人优先给出实践的价值方向，并通过实际后果持续展开和修订。
 
-1. <a id="source-1"></a> Thomas Hobbes（1651），**Leviathan**，第四章「Of Speech」。[原文](https://en.wikisource.org/wiki/Leviathan_%281651%29/Chapter_4)。一种有关普遍名称与个别事物的历史论述，而非当前伦理方向的证明。
-2. <a id="source-2"></a> John Stuart Mill（1859），**On Liberty**，第三章。[原文](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm)。多元共处中的个性与生活试验。
-3. <a id="source-3"></a> Rudolf Carnap（1950），**Empiricism, Semantics, and Ontology**。[公开重印](https://ditext.com/carnap/carnap.html)。关注目的的语言框架采用；个人优先前提在本文中另行给出。
+1. <a id="source-1"></a> Thomas Hobbes（1651），Leviathan，第四章「Of Speech」。[原文](https://en.wikisource.org/wiki/Leviathan_%281651%29/Chapter_4)。一种有关普遍名称与个别事物的历史论述，而非当前伦理方向的证明。
+2. <a id="source-2"></a> John Stuart Mill（1859），On Liberty，第三章。[原文](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm)。多元共处中的个性与生活试验。
+3. <a id="source-3"></a> Rudolf Carnap（1950），Empiricism, Semantics, and Ontology。[公开重印](https://ditext.com/carnap/carnap.html)。关注目的的语言框架采用；个人优先前提在本文中另行给出。
 
-4. <a id="source-4"></a> Thomas R. Gruber（1993），*A Translation Approach to Portable Ontology Specifications*。[作者论文](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf)。知识共享中对概念化的明确规定。
-5. <a id="source-5"></a> Nicola Guarino（1998），*Formal Ontology and Information Systems*。[作者提供的论文](https://www.loa.istc.cnr.it/wp-content/uploads/2020/03/FOIS98.pdf)。概念化与预期含义的形式说明；向个人实践的应用由本文展开。
+4. <a id="source-4"></a> Thomas R. Gruber（1993），A Translation Approach to Portable Ontology Specifications。[作者论文](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf)。知识共享中对概念化的明确规定。
+5. <a id="source-5"></a> Nicola Guarino（1998），Formal Ontology and Information Systems。[作者提供的论文](https://www.loa.istc.cnr.it/wp-content/uploads/2020/03/FOIS98.pdf)。概念化与预期含义的形式说明；向个人实践的应用由本文展开。

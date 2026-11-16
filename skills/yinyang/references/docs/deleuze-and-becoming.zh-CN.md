@@ -54,5 +54,5 @@
 
 以下英文原著译本提供概念入口；写歌、模型合作、Harness 与个人优先的连接是本文的比较性延伸。
 
-1. <a id="source-1"></a> Gilles Deleuze、Félix Guattari，*Anti-Oedipus*，Robert Hurley、Mark Seem、Helen R. Lane 英译。第一章开头；第四章第四节「分裂分析的第一个积极任务」；附录结尾对过程与临床实体的区分。[原著译本](https://files.libcom.org/files/Anti-Oedipus.pdf)。贡献欲望生产、机器如何运作的追问，以及过程与临床实体的区分；没有研究模型辅助写歌。
-2. <a id="source-2"></a> Gilles Deleuze、Félix Guattari，*A Thousand Plateaus*，Brian Massumi 英译，1987。第四高原，第 88–89 页，关于组装的两个方面；第六高原「怎样为自己制造一个无器官的身体」，尤其第 158–161 页。[原著译本](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf)。贡献组装的身体与表达两面、实验所需的审慎；个人环境及工作分配是本文的应用。
+1. <a id="source-1"></a> Gilles Deleuze、Félix Guattari，Anti-Oedipus，Robert Hurley、Mark Seem、Helen R. Lane 英译。第一章开头；第四章第四节「分裂分析的第一个积极任务」；附录结尾对过程与临床实体的区分。[原著译本](https://files.libcom.org/files/Anti-Oedipus.pdf)。贡献欲望生产、机器如何运作的追问，以及过程与临床实体的区分；没有研究模型辅助写歌。
+2. <a id="source-2"></a> Gilles Deleuze、Félix Guattari（1987），A Thousand Plateaus，Brian Massumi 英译。第四高原，第 88–89 页，关于组装的两个方面；第六高原「怎样为自己制造一个无器官的身体」，尤其第 158–161 页。[原著译本](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf)。贡献组装的身体与表达两面、实验所需的审慎；个人环境及工作分配是本文的应用。

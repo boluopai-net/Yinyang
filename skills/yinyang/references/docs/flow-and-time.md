@@ -147,8 +147,8 @@ Returning to the shared reading environment, the participants can now move from 
 
 ## Sources and contribution
 
-1. <a id="source-1"></a> William James, [*The Principles of Psychology*, ch. IX, “The Stream of Thought”](https://www.yorku.ca/pclassic/James/Principles/prin9.htm) (1890): thought's continuity, change, and selection. The event-stream representation of shared work is this essay's extension, not James's account of consciousness.
+1. <a id="source-1"></a> William James (1890), The Principles of Psychology, ch. IX, “The Stream of Thought”. [Source](https://www.yorku.ca/pclassic/James/Principles/prin9.htm). Thought's continuity, change, and selection. The event-stream representation of shared work is this essay's extension, not James's account of consciousness.
 
-2. <a id="source-2"></a> Henri Bergson, [*Time and Free Will*, ch. II](https://www.gutenberg.org/cache/epub/56852/pg56852-images.html): duration and spatialized homogeneous time. The contrast with discrete activity records is this essay's application.
+2. <a id="source-2"></a> Henri Bergson, Time and Free Will, ch. II. [Source](https://www.gutenberg.org/cache/epub/56852/pg56852-images.html). Duration and spatialized homogeneous time. The contrast with discrete activity records is this essay's application.
 
-The opening flame draws on Heraclitus’s [measured fire (B30)](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_30), and the image of renewal on the [daily sun (B6)](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_6); the river carries this essay’s image of a revisitable history. The reading and bridge examples are constructed here to make retention and correction concrete.
+3. <a id="source-3"></a> Heraclitus, Fragments, B30 and B6. [B30](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_30) · [B6](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_%28annotated%29#Fragment_6). The opening flame draws on measured fire and renewal on the daily sun; the river carries this essay’s image of a revisitable history. The reading and bridge examples are constructed here to make retention and correction concrete.

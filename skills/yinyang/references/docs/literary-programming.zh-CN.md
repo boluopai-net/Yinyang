@@ -116,10 +116,10 @@
 
 这些来源贡献概念区分与重新修订的历史契机。人物意象、文学式编程方法及协作方案由本文发展；其收益仍须由实际使用回答。
 
-1. <a id="source-1"></a> [Metaphors We Live By前 3 章](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html). 拉科夫与约翰逊，《Metaphors We Live By》第 1—3 章。提供隐喻进入概念与行动的根据；用于模型协作的文学组织，是本文的进一步应用。
-2. <a id="source-2"></a> [结构映射：类比的理论框架（1983），第 155–170 页](https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf). 根特纳（1983），“Structure-Mapping”，155–170 页。提供关系映射与系统性，用来展开意象中选定的关系。
-3. <a id="source-3"></a> [《梦的解析》第六章](https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm). 弗洛伊德（1900），《梦的解析》第六章 A—B。提供梦工作中的凝缩与移置；把它们转为提示写作的问题，是解释性转用，不是对模型无意识的说明。
-4. <a id="source-4"></a> [Stanford Encyclopedia of Philosophy 的次协调逻辑条目](https://plato.stanford.edu/entries/logic-paraconsistent/#ManyValuLogi). Priest、Tanaka 与 Weber，Stanford Encyclopedia of Philosophy 的“Paraconsistent Logic”。说明不爆炸与多值比较；本文的四种信息状态本身没有规定推理规则。
-5. <a id="source-5"></a> [OpenAI 提示词指南](https://developers.openai.com/api/docs/guides/latest-model#prompting-best-practices). OpenAI 模型提示指南。提供厂商对指令敏感性的讨论；2026 年 9 月留存的阅读构成历史来源，在线指南会继续变化。
-6. <a id="source-6"></a> [重新思考 Skills 和提示词的文章](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra). Eric Provencher，OpenAI，“Rethinking skills and prompts for GPT-6 Astra”。提供重新考察旧脚手架的厂商论述，并非对本文文学方法的实证检验。
-7. <a id="source-7"></a> [Hollan、Hutchins 与 Kirsh（2000），“Distributed Cognition”](https://interactivity.ucsd.edu/articles/dcog.pdf)。提供跨越人、人工物与时间的认知视角；本文的模型协作安排是对其进一步应用。
+1. <a id="source-1"></a> 拉科夫与约翰逊，Metaphors We Live By，第 1—3 章。[来源](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html)。提供隐喻进入概念与行动的根据；用于模型协作的文学组织，是本文的进一步应用。
+2. <a id="source-2"></a> 根特纳（1983），Structure-Mapping: A Theoretical Framework for Analogy，155–170 页。[来源](https://groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf)。提供关系映射与系统性，用来展开意象中选定的关系。
+3. <a id="source-3"></a> 弗洛伊德（1900），梦的解析，第六章 A—B。[原文](https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm)。提供梦工作中的凝缩与移置；把它们转为提示写作的问题，是解释性转用，不是对模型无意识的说明。
+4. <a id="source-4"></a> Priest、Tanaka 与 Weber，Paraconsistent Logic，Stanford Encyclopedia of Philosophy，多值逻辑部分。[来源](https://plato.stanford.edu/entries/logic-paraconsistent/#ManyValuLogi)。说明不爆炸与多值比较；本文的四种信息状态本身没有规定推理规则。
+5. <a id="source-5"></a> OpenAI，模型提示指南。[来源](https://developers.openai.com/api/docs/guides/latest-model#prompting-best-practices)。提供厂商对指令敏感性的讨论；2026 年 9 月留存的阅读构成历史来源，在线指南会继续变化。
+6. <a id="source-6"></a> Eric Provencher，OpenAI，Rethinking skills and prompts for GPT-6 Astra。[来源](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra)。提供重新考察旧脚手架的厂商论述，并非对本文文学方法的实证检验。
+7. <a id="source-7"></a> Hollan、Hutchins 与 Kirsh（2000），Distributed Cognition。[来源](https://interactivity.ucsd.edu/articles/dcog.pdf)。提供跨越人、人工物与时间的认知视角；本文的模型协作安排是对其进一步应用。

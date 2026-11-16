@@ -207,4 +207,4 @@ This explains why a personal philosophy is worth writing; subsequent essays prep
 
 ## Sources and their contributions
 
-1. <a id="source-1"></a> [Borrowing fire and cultivating creative capacity](stealing-fire.md#from-chasing-to-lived-cultivation), especially its sections on philosophical clarification and [borrowed fire and nirvana](stealing-fire.md#borrowed-fire-and-nirvana). The companion essay identifies its primary texts and develops their application; the Harness and personal-philosophy proposal here is this project's own account.
+1. <a id="source-1"></a> Borrowing fire and cultivating creative capacity, especially its sections on philosophical clarification. [Source](stealing-fire.md#from-chasing-to-lived-cultivation) · [borrowed fire and nirvana](stealing-fire.md#borrowed-fire-and-nirvana). The companion essay identifies its primary texts and develops their application; the Harness and personal-philosophy proposal here is this project's own account.

@@ -220,10 +220,10 @@
 双循环组织与例子是本文的综合，不是
 已完成实验的报告，也不是模型辅助人类发展的一般性证明。
 
-1. <a id="source-1"></a> John Dewey（1920），**Reconstruction in Philosophy**，尤其第四、五章。[原文](https://www.gutenberg.org/files/40089/40089-h/40089-h.htm)。行动、承受与可操作的哲学探究。
-2. <a id="source-2"></a> 诺布 与 尼科尔斯（2008），**An Experimental Philosophy Manifesto**，收入 *Experimental Philosophy*，第 3–14 页。[作者托管校样](https://campuspress.yale.edu/joshuaknobe/files/2016/02/manifesto-1qhrtmk.pdf)。当代经验研究传统；链接文件是未校正校样。
-3. <a id="source-3"></a> W. Ross Ashby（1956），**An Introduction to Cybernetics**，第四章，尤其第 4/11 节。[遗产管理方授权文本](https://ashby.info/Ashby-Introduction-to-Cybernetics.pdf)。动态系统内部的耦合与反馈。
-4. <a id="source-4"></a> Rudolf Carnap（1950），**Empiricism, Semantics, and Ontology**。[公开重印](https://ditext.com/carnap/carnap.html)。框架相关的探究与实际框架采用，在此作为哲学比较。
-5. <a id="source-5"></a> David Harel、Dexter Kozen 与 Jerzy Tiuryn（2000），**Dynamic Logic**。[作者导言](https://www.weizmann.ac.il/math/harel/dynamic-logic)。有关程序及其对状态的影响的形式推理。
-6. <a id="source-6"></a> Friedrich Nietzsche，**《快乐的科学》**（1882）第 341 节，及**《查拉图斯特拉如是说》**（1883–1885）第三部〈康复者〉第 2 节。[《快乐的科学》Thomas Common 英译本，题为 *The Joyful Wisdom*](https://www.gutenberg.org/files/52881/52881-h/52881-h.htm)；[《查拉图斯特拉如是说》Thomas Common 英译本](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)。同一者轮回的前景及肯定它的困难；与可修订的实验返回之间的联系是本文的延伸。
-7. <a id="source-7"></a> Roman V. Yampolskiy（2015），**From Seed AI to Technological Singularity via Recursively Self-Improving Software**，第 2 节「Taxonomy of Types of Self-Improvement」。[论文](https://arxiv.org/abs/1502.06512)。区分自修改、弱自改进与强递归自改进；本文将其用于个人实践是类比延伸。
+1. <a id="source-1"></a> John Dewey（1920），Reconstruction in Philosophy，尤其第四、五章。[原文](https://www.gutenberg.org/files/40089/40089-h/40089-h.htm)。行动、承受与可操作的哲学探究。
+2. <a id="source-2"></a> 诺布 与 尼科尔斯（2008），An Experimental Philosophy Manifesto，收入 Experimental Philosophy，第 3–14 页。[作者托管校样](https://campuspress.yale.edu/joshuaknobe/files/2016/02/manifesto-1qhrtmk.pdf)。当代经验研究传统；链接文件是未校正校样。
+3. <a id="source-3"></a> W. Ross Ashby（1956），An Introduction to Cybernetics，第四章，尤其第 4/11 节。[遗产管理方授权文本](https://ashby.info/Ashby-Introduction-to-Cybernetics.pdf)。动态系统内部的耦合与反馈。
+4. <a id="source-4"></a> Rudolf Carnap（1950），Empiricism, Semantics, and Ontology。[公开重印](https://ditext.com/carnap/carnap.html)。框架相关的探究与实际框架采用，在此作为哲学比较。
+5. <a id="source-5"></a> David Harel、Dexter Kozen 与 Jerzy Tiuryn（2000），Dynamic Logic。[作者导言](https://www.weizmann.ac.il/math/harel/dynamic-logic)。有关程序及其对状态的影响的形式推理。
+6. <a id="source-6"></a> Friedrich Nietzsche（1882；1883–1885），快乐的科学，第 341 节；查拉图斯特拉如是说，第三部〈康复者〉第 2 节。[《快乐的科学》Thomas Common 英译本，题为 The Joyful Wisdom](https://www.gutenberg.org/files/52881/52881-h/52881-h.htm)；[《查拉图斯特拉如是说》Thomas Common 英译本](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)。同一者轮回的前景及肯定它的困难；与可修订的实验返回之间的联系是本文的延伸。
+7. <a id="source-7"></a> Roman V. Yampolskiy（2015），From Seed AI to Technological Singularity via Recursively Self-Improving Software，第 2 节「Taxonomy of Types of Self-Improvement」。[论文](https://arxiv.org/abs/1502.06512)。区分自修改、弱自改进与强递归自改进；本文将其用于个人实践是类比延伸。
