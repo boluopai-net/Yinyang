@@ -409,7 +409,7 @@ For example, to improve a reading interface, sketch the positions of the text, c
 
 Hand–eye coordination in drawing, material resistance in making, and rhythm, emotion, and vocal expression in speech and singing each offer distinct objects of practice. Text generation currently has more difficulty supplying these bodily perceptions and situated judgments on your behalf. Touch and movement acquire value through actual activity, beyond keyboard proficiency. The model can record, transcribe, organize, and provide comparisons, returning your attention to experience and the next attempt.
 
-When the model's output or environment takes too much attention, show it where reading, choosing, or finding the next step becomes difficult. Ask it to remove unnecessary detail, make the result and relevant decisions clear, and use a visual where it makes the relationship easier to grasp. Keep the judgment you want to practise and let the model carry the remaining work. Use later experience to improve the arrangement. [Cognitive complexity](https://boluopai.net/philosophy/cognitive-complexity/en/) develops this approach.
+When your environment takes too much attention, show the model where you have to search, remember, choose, or reconstruct the next step. It can reorganize materials and handoffs and simplify the assistance it provides. Ask it to carry the coordination it can resolve, cut unnecessary text, and make the result and consequential choices easy to see. Keep the judgment you want to practise, and try the revised arrangement in the activity itself. [Cognitive complexity](https://boluopai.net/philosophy/cognitive-complexity/en/) develops this approach.
 
 <a id="use-voice-input-more-operate-less-express-the-thought-and-listen-to-the-response"></a>
 

@@ -1,32 +1,68 @@
 {
   "en": {
-    "title": "Less to read. More to grasp.",
-    "subtitle": "The model carries the work and shapes what reaches the person",
-    "observation": ["Output can create work for the reader", "Redundant prose and irrelevant details add reading, sorting and recall."],
-    "allocation": "DESIGN WHAT THE PERSON SEES",
-    "choices": [
-      ["VISUALS > TEXT", "Show the relationship|in one view"],
-      ["CLARITY > COMPLEXITY", "Keep what serves|the current judgment"],
-      ["INTUITION > FORMALISM", "Show a concrete result|the person can inspect"]
+    "title": "Make the whole environment easier to use",
+    "subtitle": "Reduce what a person must find, remember, interpret and manage",
+    "sources": [
+      [
+        "INFORMATION & INTERFACES",
+        "Scattered material",
+        "Unclear relationships"
+      ],
+      [
+        "OPERATIONS & CONTINUITY",
+        "Too many steps",
+        "Repeated context recovery"
+      ],
+      [
+        "MODEL ASSISTANCE",
+        "Redundant explanations",
+        "Choices and coordination"
+      ]
     ],
-    "test": ["The person understands and continues", "Results and meaningful choices are visible; detail is available when needed."],
-    "return": "Use the next task to improve how we present",
-    "retire": "The model maintains the supporting work and full evidence.",
-    "description": "Model output can impose reading, sorting and recall. Prefer visuals to text, clarity to complexity and intuition to formalism. Show results and meaningful choices while the model maintains supporting work and evidence. Actual use improves later output and interfaces."
+    "focusTitle": "Model assistance: a major part the model can improve",
+    "focus": "Filter information, assess options, carry out the work and preserve context.",
+    "principlesTitle": "Principles for the whole environment",
+    "priorities": [
+      "VISUALS > TEXT",
+      "CLARITY > COMPLEXITY",
+      "INTUITION > FORMALISM"
+    ],
+    "outcome": "The whole activity becomes easier to understand and continue",
+    "detail": "Results and meaningful choices are clear; further detail is available when needed.",
+    "return": "Use experience to improve how the environment is designed",
+    "description": "The overall goal is to reduce cognitive complexity in the person's environment. Information and interfaces, operations and continuity, and model assistance impose connected requirements. Model assistance is a major directly improvable part. Visuals, clarity and intuition guide changes, whose results are judged across the whole activity and feed back into environment design."
   },
   "zh-CN": {
-    "title": "少读冗余，更快看懂",
-    "subtitle": "模型承担工作，也负责选择什么呈现给人",
-    "observation": ["模型输出也在制造认知复杂性", "冗余文字与无关细节，让人额外阅读、筛选和记忆。"],
-    "allocation": "重新设计用户看到的内容",
-    "choices": [
-      ["图大于文字", "把关系放在同一眼前"],
-      ["清晰大于复杂", "留下当前判断需要的内容"],
-      ["直观大于形式", "直接呈现可理解的结果"]
+    "title": "让整个环境更容易理解与使用",
+    "subtitle": "减少人需要寻找、记忆、解释和管理的内容",
+    "sources": [
+      [
+        "信息与界面",
+        "材料分散",
+        "关系难以看清"
+      ],
+      [
+        "操作与接续",
+        "步骤繁多",
+        "反复恢复上下文"
+      ],
+      [
+        "模型辅助",
+        "冗余解释",
+        "额外选择与协调"
+      ]
     ],
-    "test": ["人能够看懂，并继续自己的活动", "结果与重要选择直接可见；需要细节时，再从原处展开。"],
-    "return": "用实际使用，改进下一次呈现的方法",
-    "retire": "模型维护背后的实现、完整材料与核验。",
-    "description": "模型输出中的冗余文字和无关细节制造额外的阅读、筛选和记忆。以图大于文字、清晰大于复杂、直观大于形式组织呈现，让人看见结果与重要选择，模型维护背后的实现与证据，再从实际使用改进下一次呈现的方法。"
+    "focusTitle": "模型辅助：模型能直接改进的重要部分",
+    "focus": "筛选信息、评估选项、承担实现、保住上下文，让帮助本身更简单。",
+    "principlesTitle": "整个环境的设计原则",
+    "priorities": [
+      "图大于文字",
+      "清晰大于复杂",
+      "直观大于形式"
+    ],
+    "outcome": "整项活动更容易看懂、开展和接续",
+    "detail": "结果与重要选择清楚可见，所需细节在用到时展开。",
+    "return": "从实际使用返回，改进设计环境的方法",
+    "description": "总目标是减少用户环境的认知复杂性。信息与界面、操作与接续、模型辅助共同形成相连的要求。模型辅助是其中模型能直接改进的重要部分。图大于文字、清晰大于复杂、直观大于形式指导改变，再从整项活动的使用结果改进设计环境的方法。"
   }
 }

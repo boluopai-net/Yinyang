@@ -57,13 +57,16 @@ can reach and change the other participant's work; and resources through which
 the work becomes usable and meets independent consequences. Explain what each
 support enables in the actual setting.
 
-Make the passage between whole and detail usable. Present the result and meaningful decisions clearly, using visuals to make relations intuitive; let the model carry implementation detail and keep further grounds reachable when needed. A claim, its source or counterexample, and the
-changed result should be reachable without reconstructing the entire history.
-The model can carry the source checking while exposing grounds the person can
-question. A preview or editable draft can let the person's next contribution
-change the work; it need not become a compulsory approval step. Describe the
-actual channel and remaining cost, rather than adding machinery merely to
-represent the philosophical image.
+Reduce the cognitive complexity of the whole arrangement. Observe what the
+person has to understand, find, remember, choose, operate, and resume across
+interfaces, materials, and handoffs. The model's assistance is a major part
+it can directly improve. Have it carry implementation and coordination,
+present results and meaningful decisions clearly, and use visuals where they
+make relations intuitive. Keep a claim, its grounds or counterexample, and
+the changed result within reach of one another. A preview or editable draft
+can let the person's next contribution change the work. Describe the actual
+route and what it asks of the person, then use observed effort to improve
+both the arrangement and the way it is designed.
 
 ## Choose the focus and trace both directions
 

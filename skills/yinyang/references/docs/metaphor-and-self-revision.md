@@ -335,7 +335,7 @@ elaborate wording is not required before the model can begin.
 
 ### Cognitive complexity and expressive scope
 
-The focused essay [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) places the model's output and environment at the center: remove unnecessary reading and navigation, make results and decisions clear, and use visuals to reveal relations. Here the question is how expressive form makes that possible.
+The personal environment shapes how much work it takes to understand, find, choose, and resume. Expressive form is one way the model can change what its assistance asks of the person. A diagram can make a relation visible where it will be used, just as arranging a draft beside its source can make a comparison easier. [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) develops the broader argument.
 
 Assessing this allocation connects the demands of an activity with the person's
 actual processing. Kieras and Polson analyze user complexity through the
