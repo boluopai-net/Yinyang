@@ -1,32 +1,32 @@
 {
   "en": {
-    "title": "Make room for the reading",
-    "subtitle": "A change in the method becomes part of the next task",
-    "observation": ["The connection is lost", "Opening evidence interrupts the thread of reading."],
-    "allocation": "REARRANGE THE WORK",
+    "title": "Less to read. More to grasp.",
+    "subtitle": "The model carries the work and shapes what reaches the person",
+    "observation": ["Output can create work for the reader", "Redundant prose and irrelevant details add reading, sorting and recall."],
+    "allocation": "DESIGN WHAT THE PERSON SEES",
     "choices": [
-      ["CULTIVATE", "Recognize when the meaning changes"],
-      ["RETRIEVE", "Bring the source into the reading place"],
-      ["DELEGATE", "Align sources and track versions"]
+      ["VISUALS > TEXT", "Show the relationship|in one view"],
+      ["CLARITY > COMPLEXITY", "Keep what serves|the current judgment"],
+      ["INTUITION > FORMALISM", "Show a concrete result|the person can inspect"]
     ],
-    "test": ["Try the new method in the next task", "Can attention continue—and can the reader still correct it?"],
-    "return": "Use what happens to change the division again",
-    "retire": "A method can also be retired.",
-    "description": "Opening evidence interrupts a reader’s thread. The person and model rearrange the work: cultivate recognition of changes in meaning, retrieve the source in place, and delegate alignment and versioning. The next task tests attention and the ability to correct; its results can change the division again or retire a method."
+    "test": ["The person understands and continues", "Results and meaningful choices are visible; detail is available when needed."],
+    "return": "Use the next task to improve how we present",
+    "retire": "The model maintains the supporting work and full evidence.",
+    "description": "Model output can impose reading, sorting and recall. Prefer visuals to text, clarity to complexity and intuition to formalism. Show results and meaningful choices while the model maintains supporting work and evidence. Actual use improves later output and interfaces."
   },
   "zh-CN": {
-    "title": "为阅读留出空间",
-    "subtitle": "让方法的改变进入下一次实际任务",
-    "observation": ["阅读的联系断开了", "打开证据时，正在追随的思路被打断。"],
-    "allocation": "重新分配工作",
+    "title": "少读冗余，更快看懂",
+    "subtitle": "模型承担工作，也负责选择什么呈现给人",
+    "observation": ["模型输出也在制造认知复杂性", "冗余文字与无关细节，让人额外阅读、筛选和记忆。"],
+    "allocation": "重新设计用户看到的内容",
     "choices": [
-      ["培养", "辨认意义何时发生变化"],
-      ["调取", "在阅读处呈现原始材料"],
-      ["委托", "对齐材料并管理版本"]
+      ["图大于文字", "把关系放在同一眼前"],
+      ["清晰大于复杂", "留下当前判断需要的内容"],
+      ["直观大于形式", "直接呈现可理解的结果"]
     ],
-    "test": ["在下一次任务中试用新方法", "注意力能否延续？读者是否仍能纠正它？"],
-    "return": "根据实际发生的情况，再次改变分工",
-    "retire": "方法也可以被淘汰。",
-    "description": "打开证据打断阅读思路。人与模型重新分配工作：培养辨认意义变化的能力，在阅读处调取原始材料，将材料对齐和版本管理交给模型。下一次任务检验注意力与纠正能力；实际结果可以再次改变分工，也可以淘汰方法。"
+    "test": ["人能够看懂，并继续自己的活动", "结果与重要选择直接可见；需要细节时，再从原处展开。"],
+    "return": "用实际使用，改进下一次呈现的方法",
+    "retire": "模型维护背后的实现、完整材料与核验。",
+    "description": "模型输出中的冗余文字和无关细节制造额外的阅读、筛选和记忆。以图大于文字、清晰大于复杂、直观大于形式组织呈现，让人看见结果与重要选择，模型维护背后的实现与证据，再从实际使用改进下一次呈现的方法。"
   }
 }

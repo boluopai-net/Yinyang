@@ -24,13 +24,12 @@ for locale, d in data.items():
 '''<rect x="44" y="166" width="1012" height="115" rx="16" fill="#f5e9de"/><circle cx="81" cy="223" r="17" fill="#ac5c3e"/><path d="M81 214v11m0 6v1" stroke="#fffaf4" stroke-width="2.5" stroke-linecap="round"/>''',
 text(113, 214, d['observation'][0], 'heading'), text(113, 249, d['observation'][1], 'body'),
 '''<path d="M550 281V313" fill="none" stroke="#a15035" stroke-width="2" marker-end="url(#arrow)"/>''', text(44, 342, d['allocation'], 'eyebrow')]
-    english_lines = [["Recognize when the", "meaning changes"], ["Bring the source into", "the reading place"], ["Align sources and", "track versions"]]
     for i, (label, body) in enumerate(d['choices']):
         x = 44 + i * 344
         pieces += [f'<rect x="{x}" y="359" width="324" height="112" rx="14" fill="#e9f0eb" stroke="#c7d8ce"/>',
                    text(x + 23, 394, label, 'cardtitle')]
         if locale == "en":
-            pieces += [text(x + 23, 424 + n * 26, line, 'cardbody') for n, line in enumerate(english_lines[i])]
+            pieces += [text(x + 23, 424 + n * 26, line, 'cardbody') for n, line in enumerate(body.split("|"))]
         else:
             pieces.append(text(x + 23, 435, body, 'cardbody'))
     pieces += ['''<path d="M550 471V502" fill="none" stroke="#a15035" stroke-width="2" marker-end="url(#arrow)"/>

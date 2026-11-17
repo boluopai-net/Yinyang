@@ -57,7 +57,7 @@ can reach and change the other participant's work; and resources through which
 the work becomes usable and meets independent consequences. Explain what each
 support enables in the actual setting.
 
-Make the passage between whole and detail usable. A claim, its source or counterexample, and the
+Make the passage between whole and detail usable. Present the result and meaningful decisions clearly, using visuals to make relations intuitive; let the model carry implementation detail and keep further grounds reachable when needed. A claim, its source or counterexample, and the
 changed result should be reachable without reconstructing the entire history.
 The model can carry the source checking while exposing grounds the person can
 question. A preview or editable draft can let the person's next contribution
