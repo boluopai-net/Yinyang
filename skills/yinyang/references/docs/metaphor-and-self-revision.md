@@ -335,7 +335,7 @@ elaborate wording is not required before the model can begin.
 
 ### Cognitive complexity and expressive scope
 
-The environment should keep demands within a range the person finds acceptable while preserving practice for the capabilities they choose. A model can put a draft beside its source to make comparison easier, leaving the person to articulate and test their judgment. When constructing the comparison itself is the practice, the same arrangement can supply accessible materials and leave the construction to the person. [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) develops this question of what to offload.
+Keep the environment's demands within a range the person finds acceptable so they can invest in embodied reasoning, intuition, and natural-language generation and judgment. For example, the model can retrieve a draft and its source and place them side by side. The person can point to where the meaning shifts and say what they noticed. The model can develop that observation into a full comparison, work out its formal implications, and implement and check the revision. [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) develops this division of work.
 
 Assessing this allocation connects the demands of an activity with the person's
 actual processing. Kieras and Polson analyze user complexity through the

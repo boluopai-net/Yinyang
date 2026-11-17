@@ -60,14 +60,14 @@ support enables in the actual setting.
 Control the cognitive complexity of the whole arrangement within a range the
 person finds acceptable. Observe what the person has to understand, find,
 remember, choose, operate, and resume across interfaces, materials, and
-handoffs. Identify the ability the person wants to develop and keep the
-practice it requires. Let the model offload redundant and supporting work
-it can reliably carry, and make results and meaningful decisions clear.
-Keep a claim, its grounds or counterexample, and the changed result within
-reach of one another. Check both the effort of actual use and what the person
-can do with the supports they intend to use. Check independent performance
-when independence is a chosen aim. Use that experience to improve the
-arrangement and its design method.
+handoffs. Make room for embodied reasoning, intuition, and generation and
+judgment in natural language. Let a gesture, sketch, or brief account start
+the work. Have the model retrieve and organize materials, develop the full
+exposition, and carry all formal reasoning, implementation, and verification.
+Keep the work ready to resume, the grounds reachable, and meaningful choices
+clear. Judge the effort of actual use and what the person can understand,
+judge, and do with reliable model and tool support. Use that experience to
+improve the arrangement and its design method.
 
 ## Choose the focus and trace both directions
 

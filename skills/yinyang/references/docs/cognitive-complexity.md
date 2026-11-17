@@ -1,8 +1,8 @@
 # Cognitive Complexity in Personal Recursive Self-Evolution
 
-![The person's developmental goal guides how the environment preserves necessary practice and shifts redundant and supporting work to the model.](../diagrams/cognitive-complexity.svg)
+![The environment keeps demands manageable so the person can develop embodied reasoning, intuition, and reasoning in natural language while the model takes on full exposition, formal reasoning, and implementation.](../diagrams/cognitive-complexity.svg)
 
-Keep the demands of the whole environment within a range the person finds acceptable, with enough room to practise what they choose to develop.
+Keep the demands of the whole environment manageable by organizing the work around what the person develops and what the model can carry.
 
 [中文](cognitive-complexity.zh-CN.md)
 
@@ -12,23 +12,23 @@ Keep the demands of the whole environment within a range the person finds accept
 
 Cognitive complexity concerns the relations and steps the arrangement asks someone to manage. Cognitive load concerns how much of the person's available cognitive capacity those demands draw on. In learning, some elements have to be considered together. Following an argument takes holding the claim and its grounds in relation, while searching across tabs for the page adds a demand created by the arrangement. Prior knowledge changes how many separate elements a person needs to hold in mind. The same guidance can make a beginner's next action possible and become redundant for someone with more experience. Cognitive load theory gives us a way to direct available capacity toward the relations the person is learning.
 
-## Decide What to Practise and What to Offload
+## What the Person Develops and What the Model Carries
 
-Begin with the ability the person wants to develop. If the goal is to explain a difficult idea in natural language, the person should get to formulate an explanation and judge whether it holds up. The model can retrieve the passage, set up a comparison, offer a prompt at the point of difficulty, and respond after the attempt. A finished explanation delivered first can give the person an answer while taking away the opportunity to produce one.
+YinYang puts the person's finite time and attention into **embodied reasoning, intuition, and generation and judgment in natural language**. The person notices a difference in what they see, hear, or do, ventures an explanation, and judges what happens when they try it. Pointing something out, making a sketch, or saying a few words can convey the insight. The model retrieves and organizes material, develops the thought into a full account, and handles all formal reasoning and implementation. It tests consequences, verifies the result, and keeps the work ready to resume. The person can then return to the actual experience to revise the idea. [Embodied participation](core-views.md#yy-02) · [Reversal of roles](core-views.md#yy-03) · [Listening, speaking, reading, and writing](core-views.md#yy-06) · [Economic reality](core-views.md#yy-17)
 
-Cognitive offloading uses an external action or aid to change a task's mental demands. A reminder holds an intention, a diagram puts a relation in view, and a model can recover context the person would otherwise have to reconstruct. In pattern-copying experiments, greater offloading improved immediate performance while memory for the patterns could worsen. In studies of prose learning, retrieving material from memory improved delayed retention compared with repeated study.
-
-In a high-school mathematics experiment, students using a standard AI assistant performed better during practice and worse on a subsequent unaided exam than the comparison group. A hint-oriented tutor largely mitigated the exam loss. These studies show how the effects on immediate performance and later ability can differ. The design choice here is to preserve the actions that develop the chosen ability and offload supporting work that can be handled dependably.
-
-| The person's goal | What the person practises | What the model can carry |
+| Activity | What the person contributes and develops | What the model takes on |
 | --- | --- | --- |
-| Explain an argument in natural language | Reconstruct the reasoning in their own words and respond to a counterexample. | Retrieve and format passages, prepare a counterexample, and give feedback after the attempt. |
-| Judge a proposed design | Compare the effects, give reasons for a choice, and revise that judgment after use. | Prepare comparable previews, formalize agreed rules, implement the choice, and check the outcome. |
-| Learn to formalize an argument | Choose the symbols and conditions, then test whether the formalization captures the claim. | Gather examples, run checks on the proposed formalization, and explain a specific discrepancy. |
+| Read an argument | Point to a shift in a word's meaning and say what seems to change. Read a counterexample and reconsider the explanation. | Retrieve both passages, organize the evidence, derive formal consequences, and write and check the full account. |
+| Listen to two readings | Hear a shift in emphasis, imitate it, and say what difference it makes to the sentence. | Find and align the clips, set up replay, and assemble the comparison and explanation. |
+| Improve a reading tool | Notice where the thread is lost, sketch the needed relation, try the new view, and judge whether it helps. | Recover the reading context, develop the design, formalize its behavior, implement and verify it, and bring the person back to the same passage. |
 
-Formalization moves from the model to the person when it becomes the ability under development. The same applies to finding sources, writing code, or any other supporting operation. Reliable shared capability is also a valid goal. If the person wants to conduct better research with dependable retrieval, judge the quality and continuity of that joint work. If they want to retrieve material from memory or perform a skill independently, check what they can do later under those conditions.
+The person can draw on reliable model and tool work as part of an enduring ability to read, judge, and create in a real environment. The model can also go first with a draft for the person to consider, or carry a task through to a checked result when delivery is the point.
 
-The model can directly control much of the burden created by its own help. It can delete redundant prose, assess routine options before presenting them, recover context, and keep files and tools connected behind the activity. Count the work the person still has to do to brief the model, check its output, and recover when it goes wrong. A seemingly trivial task can be easier to do directly if handing it over adds those costs. Present the result, consequential choices, and grounds the person needs, with further detail reachable. During practice, offer enough structure to make the next attempt possible and adjust the guidance as the person gains skill.
+Cognitive offloading uses external actions or aids to reduce the mental processing a person has to do internally. A reminder holds an intention, a diagram puts a relation in view, and a model can recover context the person would otherwise have to reconstruct. In pattern-copying experiments, greater offloading improved immediate performance while memory for the patterns could worsen. In studies of prose learning, retrieving material from memory improved delayed retention compared with repeated study.
+
+In a high-school mathematics experiment, students using a standard AI assistant performed better during practice and worse on a subsequent unaided exam than the comparison group. A hint-oriented tutor largely mitigated the exam loss. These findings help explain why the person in YinYang needs opportunities to notice, generate, and judge. What people complete with help and what they have practised can develop differently. The capacities worth developing and the division of work come from YinYang's account of the person and the allocation of finite effort.
+
+The model can directly control much of the burden created by its own help. It can delete redundant prose, assess routine options before presenting them, recover context, and keep files and tools connected behind the activity. Count the work the person still has to do to brief the model, check its output, and recover when it goes wrong. A seemingly trivial task can be easier to do directly if handing it over adds those costs. Present the result, consequential choices, and grounds the person needs, with further detail reachable. When an attempt needs support, make the materials and feedback accessible so the person can continue it.
 
 ## Three Priorities for the Whole Environment
 
@@ -36,13 +36,13 @@ The model can directly control much of the burden created by its own help. It ca
 
 **Clarity over complexity.** Make the current draft and the next action easy to find. Place evidence where it bears on a choice.
 
-**Intuition over formalism.** Use familiar objects and direct actions. Let someone point to the sentence they want to change. When formalization belongs to the model's share of the work, carry it behind that action.
+**Intuition over formalism.** Use familiar objects and direct actions. Let someone point to the sentence they want to change. The model works out and implements the formal consequences behind that action.
 
 ## Learn From Use and Revise the Design Method
 
-Judge the whole activity. Can the person continue after an interruption? Is the effort within a range they can accept? Are they getting the practice they chose, and can they now do more with the supports they intend to use? A draft that opens immediately can still make the argument hard to resume. A tutoring response can feel effortless while leaving too little for the learner to attempt.
+Judge the whole activity by what the person can recognize, explain, judge, and do with the supports they actually use, and by whether the effort stays within a range they can accept. After an interruption, opening the file is only the first step. Can the person recover the relation they were thinking about, test a new thought against the passage, and keep reading?
 
-Use these observations to change the arrangement and how the next one is designed. A reading tool might be checked by asking someone to return after a break and continue explaining a passage. If independent recall is part of their goal, check that later without the passage. If the goal is interpretation with sources to hand, keep the sources available and check the quality of the interpretation. Revising what counts as success is itself part of personal recursive self-evolution.
+Use what happens to improve both the environment and the way it is designed. In the next reading tool, check whether a person can recover an argument and continue interpreting it, with the source, notes, and model support in place. That test can reveal a missing relation between materials or a place where the model's answer leaves too little room for the person's insight. Revising the method that identifies and repairs these demands is itself part of personal recursive self-evolution.
 
 ## Sources and their contributions
 

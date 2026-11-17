@@ -5,8 +5,8 @@
     "sources": [
       [
         "CHOSEN DEVELOPMENT",
-        "What should I learn to do?",
-        "What support will remain?"
+        "Embodied and intuitive insight",
+        "Natural-language reasoning"
       ],
       [
         "PERSONAL PRACTICE",
@@ -15,12 +15,12 @@
       ],
       [
         "COGNITIVE OFFLOADING",
-        "Retrieve, organize, implement",
-        "Restore context and verify"
+        "Full prose; formal reasoning",
+        "Retrieve, build, resume, verify"
       ]
     ],
-    "focusTitle": "Allocate by the capability being developed",
-    "focus": "Scaffold the chosen practice; offload supporting work and avoidable coordination.",
+    "focusTitle": "The person contributes an opening; the model develops and realizes it",
+    "focus": "A sketch, intuition or short explanation returns as a result the person can judge and revise.",
     "principlesTitle": "Principles for the whole environment",
     "priorities": [
       "VISUALS OVER TEXT",
@@ -30,7 +30,7 @@
     "outcome": "Usable results · sustainable effort · selected capability development",
     "detail": "Judge these separately, including the cost of instructions, checking and recovery.",
     "return": "Actual use revises the division of work and how it is chosen",
-    "description": "Control the cognitive complexity of the whole environment within a personally acceptable range. The selected developmental goal determines which operations the person practices and which supporting operations the model handles. Assistance scaffolds practice when needed. Results, total burden and selected capability development are evaluated separately; their outcomes revise both the division and its design method."
+    "description": "Interfaces, materials, workflows and model assistance shape the whole environment's cognitive demands. In this adopted division the person cultivates embodied insight, intuition and natural-language reasoning through perception, short explanations, judgment and correction. The model carries full prose development, formal reasoning, retrieval, implementation, continuity and verification. Its results return to the person for use and judgment. Results, total burden and capability development are evaluated separately, improving this arrangement and the method that produces it."
   },
   "zh-CN": {
     "title": "把环境的认知要求控制在可接受范围内",
@@ -38,8 +38,8 @@
     "sources": [
       [
         "选定培养目标",
-        "我希望能够做什么？",
-        "哪些支持会持续存在？"
+        "具身推理与直觉",
+        "自然语言中的生成与判断"
       ],
       [
         "本人保留的练习",
@@ -48,12 +48,12 @@
       ],
       [
         "模型承担的认知外包",
-        "检索、组织、形式化与实现",
-        "恢复上下文、执行与核验"
+        "完整语言展开、形式推理",
+        "检索整理、实现、接续与核验"
       ]
     ],
-    "focusTitle": "分界跟随要培养的能力而改变",
-    "focus": "为目标练习提供适当辅助，把外围工作和多余协调交给模型。",
+    "focusTitle": "本人提供开口，模型承担展开与实现，再由本人判断和纠正",
+    "focus": "从感受、草图、口述或短解释进入，让必要练习接上可用的结果。",
     "principlesTitle": "整个环境的设计原则",
     "priorities": [
       "图优于文字",
@@ -63,6 +63,6 @@
     "outcome": "成果可用 · 总负担可接受 · 选定能力得到锻炼",
     "detail": "分别检查三项结果，把交代、核验和恢复的成本一起算入。",
     "return": "实际使用返回，改进分工与选择分工的方法",
-    "description": "把整个环境的认知复杂性控制在本人可接受的范围内。选定的培养目标决定本人练习哪些认知操作、模型承担哪些支持工作，必要辅助使练习能够展开。分别判断成果、总负担与选定能力的发展，再用结果修订分工以及形成这项分工的方法。"
+    "description": "界面、资料、工作流程与模型辅助共同形成环境的认知要求。这里采用的分工是本人通过感知、短解释、判断和纠正培养具身推理、直觉与自然语言推理，模型承担完整语言展开、形式推理、检索整理、实现、接续与核验。结果返回本人使用和判断。分别检查成果、总负担与能力发展，将要求控制在本人可接受范围内，再用所得改善环境与形成它的方法。"
   }
 }
