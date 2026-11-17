@@ -28,7 +28,7 @@ for locale, d in data.items():
                    text(x + 22, 207, label, 'label'),
                    text(x + 22, 245, first, 'body'),
                    text(x + 22, 277, second, 'body')]
-    pieces += ['<path d="M970 302V333" stroke="#a15035" stroke-width="2" marker-end="url(#arrow)"/>',
+    pieces += [''.join(f'<path d="M{x} 302V333" stroke="#a15035" stroke-width="2" marker-end="url(#arrow)"/>' for x in (230, 600, 970)),
                '<rect x="54" y="344" width="1092" height="112" rx="16" fill="#f5e7dc" stroke="#d7b8a4"/>',
                text(80, 391, d['focusTitle'], 'focus'),
                text(80, 431, d['focus'], 'sub'),

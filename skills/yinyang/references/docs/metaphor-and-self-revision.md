@@ -335,7 +335,7 @@ elaborate wording is not required before the model can begin.
 
 ### Cognitive complexity and expressive scope
 
-The personal environment shapes how much work it takes to understand, find, choose, and resume. Expressive form is one way the model can change what its assistance asks of the person. A diagram can make a relation visible where it will be used, just as arranging a draft beside its source can make a comparison easier. [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) develops the broader argument.
+The environment should keep demands within a range the person finds acceptable while preserving practice for the capabilities they choose. A model can put a draft beside its source to make comparison easier, leaving the person to articulate and test their judgment. When constructing the comparison itself is the practice, the same arrangement can supply accessible materials and leave the construction to the person. [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) develops this question of what to offload.
 
 Assessing this allocation connects the demands of an activity with the person's
 actual processing. Kieras and Polson analyze user complexity through the

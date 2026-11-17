@@ -1,68 +1,68 @@
 {
   "en": {
-    "title": "Make the whole environment easier to use",
-    "subtitle": "Reduce what a person must find, remember, interpret and manage",
+    "title": "Keep cognitive demands within an acceptable range",
+    "subtitle": "Interfaces, materials, workflows and model assistance shape what the person must do",
     "sources": [
       [
-        "INFORMATION & INTERFACES",
-        "Scattered material",
-        "Unclear relationships"
+        "CHOSEN DEVELOPMENT",
+        "What should I learn to do?",
+        "What support will remain?"
       ],
       [
-        "OPERATIONS & CONTINUITY",
-        "Too many steps",
-        "Repeated context recovery"
+        "PERSONAL PRACTICE",
+        "Notice, explain and judge",
+        "Try again with feedback"
       ],
       [
-        "MODEL ASSISTANCE",
-        "Redundant explanations",
-        "Choices and coordination"
+        "COGNITIVE OFFLOADING",
+        "Retrieve, organize, implement",
+        "Restore context and verify"
       ]
     ],
-    "focusTitle": "Model assistance: a major part the model can improve",
-    "focus": "Filter information, assess options, carry out the work and preserve context.",
+    "focusTitle": "Allocate by the capability being developed",
+    "focus": "Scaffold the chosen practice; offload supporting work and avoidable coordination.",
     "principlesTitle": "Principles for the whole environment",
     "priorities": [
-      "VISUALS > TEXT",
-      "CLARITY > COMPLEXITY",
-      "INTUITION > FORMALISM"
+      "VISUALS OVER TEXT",
+      "CLARITY OVER COMPLEXITY",
+      "INTUITION OVER FORMALISM"
     ],
-    "outcome": "The whole activity becomes easier to understand and continue",
-    "detail": "Results and meaningful choices are clear; further detail is available when needed.",
-    "return": "Use experience to improve how the environment is designed",
-    "description": "The overall goal is to reduce cognitive complexity in the person's environment. Information and interfaces, operations and continuity, and model assistance impose connected requirements. Model assistance is a major directly improvable part. Visuals, clarity and intuition guide changes, whose results are judged across the whole activity and feed back into environment design."
+    "outcome": "Usable results · sustainable effort · selected capability development",
+    "detail": "Judge these separately, including the cost of instructions, checking and recovery.",
+    "return": "Actual use revises the division of work and how it is chosen",
+    "description": "Control the cognitive complexity of the whole environment within a personally acceptable range. The selected developmental goal determines which operations the person practices and which supporting operations the model handles. Assistance scaffolds practice when needed. Results, total burden and selected capability development are evaluated separately; their outcomes revise both the division and its design method."
   },
   "zh-CN": {
-    "title": "让整个环境更容易理解与使用",
-    "subtitle": "减少人需要寻找、记忆、解释和管理的内容",
+    "title": "把环境的认知要求控制在可接受范围内",
+    "subtitle": "界面、资料、工作流程与模型辅助，共同决定本人需要处理什么",
     "sources": [
       [
-        "信息与界面",
-        "材料分散",
-        "关系难以看清"
+        "选定培养目标",
+        "我希望能够做什么？",
+        "哪些支持会持续存在？"
       ],
       [
-        "操作与接续",
-        "步骤繁多",
-        "反复恢复上下文"
+        "本人保留的练习",
+        "察觉、解释、比较与判断",
+        "带着反馈再次尝试"
       ],
       [
-        "模型辅助",
-        "冗余解释",
-        "额外选择与协调"
+        "模型承担的认知外包",
+        "检索、组织、形式化与实现",
+        "恢复上下文、执行与核验"
       ]
     ],
-    "focusTitle": "模型辅助：模型能直接改进的重要部分",
-    "focus": "筛选信息、评估选项、承担实现、保住上下文，让帮助本身更简单。",
+    "focusTitle": "分界跟随要培养的能力而改变",
+    "focus": "为目标练习提供适当辅助，把外围工作和多余协调交给模型。",
     "principlesTitle": "整个环境的设计原则",
     "priorities": [
-      "图大于文字",
-      "清晰大于复杂",
-      "直观大于形式"
+      "图优于文字",
+      "清晰优于复杂",
+      "直观优于形式"
     ],
-    "outcome": "整项活动更容易看懂、开展和接续",
-    "detail": "结果与重要选择清楚可见，所需细节在用到时展开。",
-    "return": "从实际使用返回，改进设计环境的方法",
-    "description": "总目标是减少用户环境的认知复杂性。信息与界面、操作与接续、模型辅助共同形成相连的要求。模型辅助是其中模型能直接改进的重要部分。图大于文字、清晰大于复杂、直观大于形式指导改变，再从整项活动的使用结果改进设计环境的方法。"
+    "outcome": "成果可用 · 总负担可接受 · 选定能力得到锻炼",
+    "detail": "分别检查三项结果，把交代、核验和恢复的成本一起算入。",
+    "return": "实际使用返回，改进分工与选择分工的方法",
+    "description": "把整个环境的认知复杂性控制在本人可接受的范围内。选定的培养目标决定本人练习哪些认知操作、模型承担哪些支持工作，必要辅助使练习能够展开。分别判断成果、总负担与选定能力的发展，再用结果修订分工以及形成这项分工的方法。"
   }
 }

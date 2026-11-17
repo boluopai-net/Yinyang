@@ -1,40 +1,48 @@
 # Cognitive Complexity in Personal Recursive Self-Evolution
 
-![Interfaces, the organization of materials, and workflows shape the demands of a personal environment. Model assistance is part of that environment and can take on work that would otherwise fall to the person.](../diagrams/cognitive-complexity.svg)
+![The person's developmental goal guides how the environment preserves necessary practice and shifts redundant and supporting work to the model.](../diagrams/cognitive-complexity.svg)
 
-Start with what the whole environment asks of the person, improve the way the model assists, and see whether the activity is easier to continue.
+Keep the demands of the whole environment within a range the person finds acceptable, with enough room to practise what they choose to develop.
 
 [中文](cognitive-complexity.zh-CN.md)
 
-## What the Environment Asks of the Person
+## Keep the Demands of the Environment Manageable
 
-**Reduce the cognitive complexity of the person's environment.** To return to an unfinished argument, a person may have to identify the current draft, find the source of a disputed claim, recall why the question mattered, and work out where to continue. Interface conventions, the organization of materials, and the handoffs between activities determine how much of that work the person has to do. Put the open question, the relevant passage, and a way to continue within reach, and the same intellectual work becomes easier to resume.
+**Control the cognitive complexity of the personal environment within a range the person finds acceptable.** Interfaces, materials, workflows, and model assistance determine what the person must understand, find, remember, choose, operate, and resume. Returning to a draft can demand that someone identify the current version, recover an open question, and find its evidence before they can think about the argument. Put the draft, question, and source within reach so their effort goes into the argument.
 
-Cognitive complexity concerns the relations, rules, and steps an arrangement asks the person to manage. Cognitive load concerns the effort a particular person experiences under those demands, given their knowledge, attention, and purpose. Improving an environment means examining what it takes to understand, find, remember, choose, act, and resume in actual use. The person's attention is finite, and its value depends on what it lets them do.
+Cognitive complexity concerns the relations and steps the arrangement asks someone to manage. Cognitive load concerns how much of the person's available cognitive capacity those demands draw on. In learning, some elements have to be considered together. Following an argument takes holding the claim and its grounds in relation, while searching across tabs for the page adds a demand created by the arrangement. Prior knowledge changes how many separate elements a person needs to hold in mind. The same guidance can make a beginner's next action possible and become redundant for someone with more experience. Cognitive load theory gives us a way to direct available capacity toward the relations the person is learning.
 
-## What the Model Can Take On
+## Decide What to Practise and What to Offload
 
-**The way the model provides assistance is a major part of the environment's complexity and one the model can directly change.** Redundant prose and information the person has no use for create reading and selection work. Unassessed options create comparison work. A result split between files, a menu of internal tools, and repeated requests for context make the person coordinate the assistance as well as pursue the original task. The model can recover the relevant context, assess routine alternatives, complete and check authorized work, and bring the result to where it will be used.
+Begin with the ability the person wants to develop. If the goal is to explain a difficult idea in natural language, the person should get to formulate an explanation and judge whether it holds up. The model can retrieve the passage, set up a comparison, offer a prompt at the point of difficulty, and respond after the attempt. A finished explanation delivered first can give the person an answer while taking away the opportunity to produce one.
 
-Consider a page revision. Open the revised page at the place that changed and show any choice that affects how it reads or works. Keep the supporting evidence reachable from that point. The model can carry the implementation and verification, then keep the preview, source, and decision connected so a later correction can start at the relevant place.
+Cognitive offloading uses an external action or aid to change a task's mental demands. A reminder holds an intention, a diagram puts a relation in view, and a model can recover context the person would otherwise have to reconstruct. In pattern-copying experiments, greater offloading improved immediate performance while memory for the patterns could worsen. In studies of prose learning, retrieving material from memory improved delayed retention compared with repeated study.
 
-The model can make a similar change in conversation. When someone returns to a question they raised while reading, recover what was at issue and go straight to the relevant passage. If the person needs to decide, present the difference and its consequence there. If the matter can be settled from the available evidence, use it and present the result. Keep the explanation as short as the person's purpose allows.
+In a high-school mathematics experiment, students using a standard AI assistant performed better during practice and worse on a subsequent unaided exam than the comparison group. A hint-oriented tutor largely mitigated the exam loss. These studies show how the effects on immediate performance and later ability can differ. The design choice here is to preserve the actions that develop the chosen ability and offload supporting work that can be handled dependably.
+
+| The person's goal | What the person practises | What the model can carry |
+| --- | --- | --- |
+| Explain an argument in natural language | Reconstruct the reasoning in their own words and respond to a counterexample. | Retrieve and format passages, prepare a counterexample, and give feedback after the attempt. |
+| Judge a proposed design | Compare the effects, give reasons for a choice, and revise that judgment after use. | Prepare comparable previews, formalize agreed rules, implement the choice, and check the outcome. |
+| Learn to formalize an argument | Choose the symbols and conditions, then test whether the formalization captures the claim. | Gather examples, run checks on the proposed formalization, and explain a specific discrepancy. |
+
+Formalization moves from the model to the person when it becomes the ability under development. The same applies to finding sources, writing code, or any other supporting operation. Reliable shared capability is also a valid goal. If the person wants to conduct better research with dependable retrieval, judge the quality and continuity of that joint work. If they want to retrieve material from memory or perform a skill independently, check what they can do later under those conditions.
+
+The model can directly control much of the burden created by its own help. It can delete redundant prose, assess routine options before presenting them, recover context, and keep files and tools connected behind the activity. Count the work the person still has to do to brief the model, check its output, and recover when it goes wrong. A seemingly trivial task can be easier to do directly if handing it over adds those costs. Present the result, consequential choices, and grounds the person needs, with further detail reachable. During practice, offer enough structure to make the next attempt possible and adjust the guidance as the person gains skill.
 
 ## Three Priorities for the Whole Environment
 
-Use these priorities when arranging interfaces, materials, and actions, including how the model delivers its work.
+**Visuals over text.** Show the changed page, align passages for comparison, or draw the relation someone is working with.
 
-**Visuals over text.** Show the changed page directly. Align original and translated passages so their differences are visible. Draw a relationship when its shape is easier to grasp in a figure.
+**Clarity over complexity.** Make the current draft and the next action easy to find. Place evidence where it bears on a choice.
 
-**Clarity over complexity.** Keep the current draft identifiable and put the next action where it belongs. Present the result and what the person needs to judge it, with further detail reachable on demand.
+**Intuition over formalism.** Use familiar objects and direct actions. Let someone point to the sentence they want to change. When formalization belongs to the model's share of the work, carry it behind that action.
 
-**Intuition over formalism.** Use objects and actions the person recognizes. Let someone point to the sentence they want to change or resume from the last passage they read. Let the support tools resolve the file, revision history, and operation behind the action.
+## Learn From Use and Revise the Design Method
 
-## Improve the Environment and the Way It Is Designed
+Judge the whole activity. Can the person continue after an interruption? Is the effort within a range they can accept? Are they getting the practice they chose, and can they now do more with the supports they intend to use? A draft that opens immediately can still make the argument hard to resume. A tutoring response can feel effortless while leaving too little for the learner to attempt.
 
-Use the quality of the whole activity to judge the change. A concise reply helps little if it leads to a maze of folders. A well-organized library can still leave the person to reconstruct the state of the work at every handoff. Put material, state, and next action where they support each other. Use the attention this frees for what the person wants to do, including effort they choose to invest. Someone learning to hear a musical difference can ask the model to align two recordings and leave time to listen before offering an interpretation. Someone asking for a finished edit can go straight to the checked result.
-
-Personal recursive self-evolution also improves the method that produces the arrangement. When returning to a draft is difficult, try reconnecting the question, passage, and next action. Then revise the design check itself. In the next reading or writing tool, see whether the person can resume their thought after an interruption and carry it forward. Actual use can change how the model selects and presents information, how materials are organized, and how the environment is evaluated.
+Use these observations to change the arrangement and how the next one is designed. A reading tool might be checked by asking someone to return after a break and continue explaining a passage. If independent recall is part of their goal, check that later without the passage. If the goal is interpretation with sources to hand, keep the sources available and check the quality of the interpretation. Revising what counts as success is itself part of personal recursive self-evolution.
 
 ## Sources and their contributions
 
@@ -45,6 +53,8 @@ These studies provide concepts and observations for understanding cognitive dema
 3. <a id="source-3"></a> David Kirsh and Paul Maglio (1994), On Distinguishing Epistemic from Pragmatic Action. [DOI](https://doi.org/10.1207/S15516709COG1804_1). Shows how actions can change the conditions for reasoning.
 4. <a id="source-4"></a> Judy Hanwen Shen and Alex Tamkin, How AI Impacts Skill Formation. [Paper](https://arxiv.org/abs/2601.20245) · [Research report](https://www.anthropic.com/research/AI-assistance-coding-skills). A randomized study of AI assistance and learning an unfamiliar programming library; its findings concern the tested learning conditions.
 5. <a id="source-5"></a> Erik M. Altmann and J. Gregory Trafton (2002), Memory for goals: an activation-based model. [DOI](https://doi.org/10.1207/S15516709COG2601_2). Connects retrieval cues with resuming suspended goals.
-6. <a id="source-6"></a> Eunhye Kim, Sadat Shams Chowdhury, Hyungwoo Song, and Bongwon Suh (2026), In-Situ Adaptive Interfaces for Online Browsing: Design Dimensions for Intent-Responsive Automation and User Control. [DOI](https://doi.org/10.1145/3742413.3789092). Informs questions of intelligibility, consistency, and control in adaptive interfaces.
-7. <a id="source-7"></a> Nikhil Wani, RecalibrateGPT: AI Fatigue Resilient Conversational Interfaces. [Preprint](https://arxiv.org/abs/2609.00506). Two pilot studies identify repeated input, skimming, choice difficulty, and context drift in conversation.
-8. <a id="source-8"></a> Maryangela White et al., Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Comprehension. [Preprint](https://arxiv.org/abs/2611.12019). A study of twenty novice participants distinguishes concurrent-task response times from self-reported workload; it informs the need to assess experience and attention separately.
+6. <a id="source-9"></a> Evan F. Risko and Sam J. Gilbert (2016), Cognitive Offloading, Trends in Cognitive Sciences. [Paper](https://samgilbert.net/pubs/Risko2016TiCS.pdf). Explains how external actions change a task's cognitive demands.
+7. <a id="source-10"></a> Sandra Grinschgl, Frank Papenmeier, and Hauke S. Meyerhoff (2021), Consequences of cognitive offloading: Boosting performance but diminishing memory, Quarterly Journal of Experimental Psychology. [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8358584/). Compares immediate performance and subsequent memory in pattern copying.
+8. <a id="source-11"></a> Slava Kalyuga, Paul Chandler, Juhani Tuovinen, and John Sweller (2001), When problem solving is superior to studying worked examples, Journal of Educational Psychology. [DOI](https://doi.org/10.1037/0022-0663.93.3.579). Shows how the relative benefits of solving problems and studying examples change with learner experience.
+9. <a id="source-12"></a> Henry L. Roediger III and Jeffrey D. Karpicke (2006), Test-enhanced learning: Taking memory tests improves long-term retention, Psychological Science. [DOI](https://doi.org/10.1111/j.1467-9280.2006.01693.x). Compares the effects of retrieval practice and repeated study on delayed memory for prose.
+10. <a id="source-13"></a> Hamsa Bastani et al. (2025), Generative AI without guardrails can harm learning: Evidence from high school mathematics, Proceedings of the National Academy of Sciences. [DOI](https://doi.org/10.1073/pnas.2422633122). Compares the effects of two forms of AI support on mathematics practice and subsequent unaided exams.

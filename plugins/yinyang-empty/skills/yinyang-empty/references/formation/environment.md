@@ -57,16 +57,17 @@ can reach and change the other participant's work; and resources through which
 the work becomes usable and meets independent consequences. Explain what each
 support enables in the actual setting.
 
-Reduce the cognitive complexity of the whole arrangement. Observe what the
-person has to understand, find, remember, choose, operate, and resume across
-interfaces, materials, and handoffs. The model's assistance is a major part
-it can directly improve. Have it carry implementation and coordination,
-present results and meaningful decisions clearly, and use visuals where they
-make relations intuitive. Keep a claim, its grounds or counterexample, and
-the changed result within reach of one another. A preview or editable draft
-can let the person's next contribution change the work. Describe the actual
-route and what it asks of the person, then use observed effort to improve
-both the arrangement and the way it is designed.
+Control the cognitive complexity of the whole arrangement within a range the
+person finds acceptable. Observe what the person has to understand, find,
+remember, choose, operate, and resume across interfaces, materials, and
+handoffs. Identify the ability the person wants to develop and keep the
+practice it requires. Let the model offload redundant and supporting work
+it can reliably carry, and make results and meaningful decisions clear.
+Keep a claim, its grounds or counterexample, and the changed result within
+reach of one another. Check both the effort of actual use and what the person
+can do with the supports they intend to use. Check independent performance
+when independence is a chosen aim. Use that experience to improve the
+arrangement and its design method.
 
 ## Choose the focus and trace both directions
 
