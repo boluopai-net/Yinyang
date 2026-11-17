@@ -105,6 +105,24 @@ contents: the five main parts and the appendices, with the associated practice
 resources and selected personal version. Another adopted collection uses its
 own current structure.
 
+Coherence is a central judgment in this revision. Develop the new account on
+its own grounds, then compare it with the earlier theory. Locate discontinuities,
+incompatible claims, changed concepts and differences of scope. Judge which
+account needs revision by their reasons, explanatory contribution and relation
+to actual experience. A stronger new account can change the earlier theory and
+reorganize the whole. Abstract coherence can connect different images and
+activities through intelligible relations while preserving their distinctions.
+
+Compare what the new account explains with what the earlier account already
+made intelligible. Check whether it develops those achievements, loses a useful
+distinction, substitutes a generic example for a more adequate explanation, or
+adds an unsupported claim. Work through the differences in the theory and in
+its examples, tables, diagrams and practical advice. Repair weaker passages and
+carry justified improvements in both directions until the resulting whole has
+clearer relations and adequate grounds. Writing order supplies the history
+of this development; the quality of the accounts supplies the reasons for
+retaining or changing them.
+
 | Part of the whole | What revision must carry through |
 | --- | --- |
 | Philosophical chapters and branches | Develop the changed argument and reconcile other passages that depend on its concepts, premises, or conclusions. |
