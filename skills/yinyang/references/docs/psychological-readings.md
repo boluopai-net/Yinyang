@@ -14,7 +14,7 @@ Links lead to publisher records, samples, author materials, or public full texts
 ## Cognition, representation, and effort
 
 [YY-02 and YY-06](core-views.md#yy-06) connect multimodal participation with
-delegating elaborate language work. The [personal-model essay](metaphor-and-self-revision.md#cognitive-complexity-and-expressive-scope)
+delegating elaborate language work. The [cognitive-complexity essay](cognitive-complexity.md#cognitive-complexity-and-expressive-scope)
 uses the following research to compare a whole activity: understanding,
 expression, operation, supervision, and returning after interruption.
 

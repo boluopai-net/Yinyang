@@ -234,50 +234,22 @@ Observations 在后台整合理解。`references/situated/` 中的六份文件�
 写出论证。模型重构并检查形式关系，整理所需来源，把结果做出来，并核验自己的实现。
 这样的分工让本人选择的尝试能够发展；开始合作不要求先给出繁复的文字规格。
 
-### 认知复杂度与表达范围
+<a id="认知复杂度与表达范围"></a>
 
-把环境的认知要求控制在本人能接受的范围内，使本人能把心力用在具身推理、直觉以及用自然语言生成和判断上。模型可以找来草稿和来源，并排放好；本人指出哪一处意思变了，说出自己察觉的差别。模型再把观察展开成完整比较，推导它的形式后果，并完成、检查修订。[个人递归自我进化中的认知复杂性](cognitive-complexity.zh-CN.md)展开这项分工。
-
-考察这种分工，需要把活动要求与人的实际加工接起来。Kieras 与 Polson 用完成任务
-所需的知识、规则和处理过程分析用户复杂性 [[6]](#source-6)；Sweller 等说明，同样的
-材料对已有知识不同的人，会形成不同的元素交互与工作记忆负荷 [[7]](#source-7)。
-因而，文字数量、按钮数量或抽象程度，只能提供部分线索。
-
-| 考察对象 | 对合作提出的问题 |
-| --- | --- |
-| 表达与任务结构 | 当前需要同时保持哪些对象、关系、分支与操作规则？ |
-| 人的加工条件 | 这个人已经熟悉什么，哪些感知、识别、记忆和推断此刻容易调用？ |
-| 表征与交接 | 把感受译成文字、搜索材料、监督模型、切换和恢复任务需要多少工作？ |
-| 实际所得 | 这项投入帮助完成了什么，又培养了本人选择发展的哪种能力？ |
-
-「限制语言的表达力以提高效率」在这里有两种相连的做法。对于形式系统，选择受限的
-语言片段可以改变需要处理的问题集合及其计算复杂性，具体结论由相应语言与算法
-说明。对于人机接口，一次交流只需包含足以开工的表达：一句意图、一次指认或一幅
-草图已经足够时，其余组织与实现由模型承担。若目的包括练习用语言推理，言说与写作
-就作为本人选定的实践继续展开，而不是参加合作之前必须交出的规格。完整说明仍可
-按需要取得；当前入口依据活动选择形式。丰富的意义由双方与环境共同承载，本人不必
-在脑中持续保持每一步。
-
-图示的价值还包括改变同一内容的加工方式。Larkin 与 Simon 区分信息等价与计算
-等价：一张图和一段文字可以支持相同信息，而图上的位置、邻接与形状让某些关系
-直接可见，减少搜索和推导 [[8]](#source-8)。这提供了比「少说几句话」更具体的设计
-方向：把需要一起判断的关系放在一起，把适合感知的差别做成可见、可听或可操作的
-对象。Mayer 与 Moreno 对多媒体学习的分析进一步考察通道容量、图文邻近、分段与
-整合要求 [[9]](#source-9)。增加一种媒介也会增加协调工作，形式的贡献要连同转换
-成本一起检查。
+听说读写的分工，也要接到本人实际需要处理多少关系、怎样进入和接续活动。后面的[个人递归自我进化中的认知复杂性](cognitive-complexity.zh-CN.md#认知复杂度与表达范围)把表达与任务结构、人的加工条件、表征与交接、实际所得放在同一张表中考察，再展开表达范围与图文组织怎样改变这些要求。这里继续讨论：怎样让本人在这些条件下贡献自己的体验、目的判断与所选练习。
 
 ### 把参与留给有贡献的地方
 
-Hollender 等把学习材料组织造成的负荷与软件使用造成的负荷区分开来 [[10]](#source-10)。
+Hollender 等把学习材料组织造成的负荷与软件使用造成的负荷区分开来 [[6]](#source-10)。
 沿此区分，模型可以承担找入口、补背景、编辑与实现，让人的努力落在选定活动本身。
 生成式 AI 又带来提示、输出判断和流程安排等元认知要求；Tankelevitch 等将它们列为
-设计需要处理的负担 [[11]](#source-11)。外包因此要把监督与修复也计入：伙伴主动
+设计需要处理的负担 [[7]](#source-11)。外包因此要把监督与修复也计入：伙伴主动
 组织可检查的结果，保留重要理由和返回位置，继续完成可自行解决的部分。
 
 一次提问值得打断当前活动，是因为它取得了会改变工作、且仍缺少的本人贡献：
 自己的体验、目的取舍、实际同意，或已经选择的亲自练习。模型先使用现有表达、
 上下文与可查证材料；可恢复的实现选择由模型判断，新的版本让本人在方便时提出
-纠正。目标记忆研究对暂停、恢复与线索的分析 [[12]](#source-12)，也使这种返回成本
+纠正。目标记忆研究对暂停、恢复与线索的分析 [[8]](#source-12)，也使这种返回成本
 成为可考察的对象。这里据研究提出合作设计，并通过本人实际参与、结果与成本
 继续校准其适配。
 
@@ -448,10 +420,6 @@ Hollender 等把学习材料组织造成的负荷与软件使用造成的负荷�
 3. <a id="source-3"></a> Jürgen Schmidhuber，Gödel Machine Summary。[作者概述](https://people.idsia.ch/~juergen/gmsummary.html)。以证明为条件的自我修订、公理范围、资源限制与普通计算。
 4. <a id="source-4"></a> Jürgen Schmidhuber，Gödel Machines: Fully Self-Referential Optimal Universal Self-Improvers。[作者概览及论文](https://people.idsia.ch/~juergen/goedelmachine.html)。与个人类比相区别的技术方案。
 5. <a id="source-5"></a> James Hollan、Edwin Hutchins 与 David Kirsh（2000），Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research，ACM Transactions on Computer-Human Interaction 7(2)，174–196。[作者托管论文](https://interactivity.ucsd.edu/articles/dcog.pdf)。跨越人、人工物与时间的认知；把框架用于这里的模型支持安排，是本文提出的方案。
-6. <a id="source-6"></a> David Kieras 与 Peter G. Polson（1985），An approach to the formal analysis of user complexity。[DOI](https://doi.org/10.1016/S0020-7373(85)80045-6)。用户复杂性的知识、规则与加工分析。
-7. <a id="source-7"></a> John Sweller、Jeroen J. G. van Merriënboer 与 Fred Paas（2019），Cognitive Architecture and Instructional Design: 20 Years Later。[DOI](https://doi.org/10.1007/s10648-019-09465-5)。元素交互、已有知识与工作记忆要求。
-8. <a id="source-8"></a> Jill H. Larkin 与 Herbert A. Simon（1987），Why a Diagram is (Sometimes) Worth Ten Thousand Words。[DOI](https://doi.org/10.1111/j.1551-6708.1987.tb00863.x)。信息等价、计算等价与空间组织的搜索。
-9. <a id="source-9"></a> Richard E. Mayer 与 Roxana Moreno（2003），Nine Ways to Reduce Cognitive Load in Multimedia Learning。[DOI](https://doi.org/10.1207/S15326985EP3801_6)。多媒体加工、邻近、分段与超负荷。
-10. <a id="source-10"></a> Nina Hollender、Cristian Hofmann、Michael Deneke 与 Bernhard Schmitz（2010），Integrating cognitive load theory and concepts of human–computer interaction。[DOI](https://doi.org/10.1016/j.chb.2010.05.031)。区分教学组织与软件使用带来的负荷。
-11. <a id="source-11"></a> Lev Tankelevitch et al.（2024），The Metacognitive Demands and Opportunities of Generative AI。[DOI](https://doi.org/10.1145/3613904.3642902)。提示、评估、流程安排的负担及设计支持。
-12. <a id="source-12"></a> Erik M. Altmann 与 J. Gregory Trafton（2002），Memory for goals: an activation-based model。[DOI](https://doi.org/10.1207/S15516709COG2601_2)。目标暂停、恢复与提取线索。
+6. <a id="source-10"></a> Nina Hollender、Cristian Hofmann、Michael Deneke 与 Bernhard Schmitz（2010），Integrating cognitive load theory and concepts of human–computer interaction。[DOI](https://doi.org/10.1016/j.chb.2010.05.031)。区分教学组织与软件使用带来的负荷。
+7. <a id="source-11"></a> Lev Tankelevitch et al.（2024），The Metacognitive Demands and Opportunities of Generative AI。[DOI](https://doi.org/10.1145/3613904.3642902)。提示、评估、流程安排的负担及设计支持。
+8. <a id="source-12"></a> Erik M. Altmann 与 J. Gregory Trafton（2002），Memory for goals: an activation-based model。[DOI](https://doi.org/10.1207/S15516709COG2601_2)。目标暂停、恢复与提取线索。

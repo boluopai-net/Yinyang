@@ -342,7 +342,7 @@ pointed-out difference, or a sketch can be developed by the model, with the
 fuller account available as needed. Text and diagrams supporting the same
 information can demand different search and inference. Selecting expressive
 scope and representation keeps richer meaning available across participants
-and environment. [Cognitive complexity and expressive scope](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/metaphor-and-self-revision.html#cognitive-complexity-and-expressive-scope)
+and environment. [Cognitive complexity and expressive scope](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html#cognitive-complexity-and-expressive-scope)
 develops the research and its distinction from formal-language complexity.
 
 Human participation contributes personal experience, judgments of purpose,
@@ -998,6 +998,17 @@ Shared practice compares personal practice, model support, supervision, maintena
 **Control the cognitive complexity of the personal environment within a range the person finds acceptable.** Interfaces, materials, workflows, and model assistance determine what the person has to understand, find, remember, choose, operate, and resume. The range depends on the person, the activity, and the abilities they choose to develop.
 
 YinYang puts the person's finite effort into embodied reasoning, intuition, and generation and judgment in natural language. A felt difference, a sketch, or a few words can start the work. The model retrieves and organizes materials, develops the full exposition, and carries all formal reasoning, implementation, and verification. It also recovers context and reduces the burden of its own help by cutting redundant text and assessing routine options. Favor **visuals over text, clarity over complexity, and intuition over formalism** in the whole environment.
+
+Connect the demands of an activity with the person's actual processing by examining the same arrangement from four sides:
+
+| Object of assessment | Question for cooperation |
+| --- | --- |
+| Expression and task structure | Which objects, relations, branches, and operating rules must be held together now? |
+| Human processing conditions | What is familiar, and which perception, recognition, memory, and inference are accessible now? |
+| Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
+| Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
+
+In formal systems, selecting a restricted language fragment can change the problem class and its computational complexity. At the human–model interface, choosing enough expressive scope to begin lets the model carry further development. Even when text and diagrams convey the same information, location, adjacency, and shape can change search and inference costs. Bring relations that need joint judgment together, and count translation between media, supervision, and resumption within the whole activity when judging whether a form actually reduces effort.
 
 Judge the whole activity by the effort it asks and what the person can recognize, explain, judge, and do with dependable model and tool support. Use actual experience to revise the arrangement and the methods that produce and evaluate it. This division follows [YY-02](#yy-02), [YY-03](#yy-03), [YY-06](#yy-06), and [YY-17](#yy-17). [Cognitive Complexity in Personal Recursive Self-Evolution](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html) develops the argument.
 
