@@ -21,6 +21,7 @@ LEGACY_ACCOUNTS = {
 }
 PRIVATE_TREES = {"references/situated", "references/personal"}
 PRIVATE_ENTRYPOINTS = {
+    "scripts/check_injection_tokens.py",
     "SKILL.md",
     "SKILL.zh-CN.md",
     "README.md",
