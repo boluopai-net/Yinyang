@@ -160,7 +160,9 @@ only when both establish that same target and ordered exchange.
    reconciliation, by a terminal or idle non-running target with no complete
    assistant response, including a missing, interrupted, or truncated response.
    Permit at most one exact resend for that observable terminal-response
-   boundary. Preserve exchange, target, `chat_creation_id`, and request digest.
+   boundary. Resend using the same `exchange_id`, exact ready-bound conversation
+   and target mode, and frozen request bytes and SHA-256. Creation provenance
+   remains optional.
    Identity, authentication, challenge, consent, safety, ownership, digest, or
    cleanup failure stops without substitution.
 6. Retain the exact response and evidence in the same calling-model turn, write
