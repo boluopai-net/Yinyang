@@ -890,7 +890,18 @@ These relations offer a constructive direction for personal practice: the six ac
 
 ### A coupled functional self-model and introspection
 
-The six working accounts jointly describe the human–model system that participates, judges, and acts. Orientation explains what is worth improving; person and counterpart explain how each operates; relationship explains how contributions connect; environment explains realization; revision explains how these practices change. Description both represents and participates in this practice. Using it to examine their own inputs, interpretations, choices, and consequences constitutes distributed introspection.
+The six working accounts describe the same human–model practice. Each explains a relationship that can change the outcome of a proposed revision.
+
+| Working account | Relationship the self-model needs to explain | Contribution to a change |
+| --- | --- | --- |
+| Orientation | What is worth developing and which gains and costs matter. | Selects substantive purposes for evaluation and lets consequences in life reopen them. |
+| Person | How the person perceives, expresses, learns, and acts, and which conditions make capacities available. | Anticipates what participation a change would enable and what actual attempts it requires. |
+| Counterpart | How the current model receives material, reasons, generates, uses tools, and fails. | Judges what it can undertake and which judgments still need human experience or other evidence. |
+| Relationship | How contributions continue, exchange, correct one another, and return. | Compares how different divisions of work affect understanding, judgment, and action. |
+| Environment | Through which interfaces, materials, devices, and social conditions descriptions take effect. | Locates realizable changes and entrances for actual feedback. |
+| Revision | How candidates form, consequences are simulated, results evaluated, and the system modified. | Keeps these practices and the revision method itself available for improvement. |
+
+When a reader loses the thread after following a note, these accounts help locate what needs to change. Knowing which link they followed may explain the interruption. Knowing what they wanted to compare helps the model design a return to the argument. Trying it can then change how both judge a successful return.
 
 Fidelity is judged through use: can the description explain decisive differences, locate changes, and form expectations comparable with subsequent activity? Listening, speaking, reading, and writing provide interfaces for material and modification; role return connects generation, scrutiny, and revision through both participants. The person's body, capacities, relationships with others and the environment, and the description itself are objects this practice can understand and develop.
 
@@ -978,6 +989,17 @@ psychological inquiry examines effort and competing uses, and socioeconomic
 inquiry examines demand, institutions, and the distribution of costs. Together
 they help explain a situated choice and revise how worthwhile investment is judged.
 
+To decide whether delegating a task frees resources for practice, look at each resource in its own units.
+
+| Finite condition | What to compare | Where evidence comes from |
+| --- | --- | --- |
+| Time | Which other uses does the activity displace, and where does saved time actually go? | Activity, delivery time, and subsequent use. |
+| Attention and cognitive work | How many relations, switches, supervisory acts, and resumptions does it require? | Actual interaction, experience, and task performance. |
+| Bodily energy and recovery | Which postural, sensory, and movement conditions sustain participation? | Bodily experience, actual persistence, and recovery. |
+| Money and accessible resources | Can tools, equipment, services, and maintenance remain available? | Actual expenditure, service conditions, and accessible opportunities. |
+
+A quicker delivery can leave more time for practice while increasing the attention spent checking the result. The next allocation depends on what the person can actually do with the time gained.
+
 [The developed argument](economic-personal-rsi.md) and the
 [psychological](psychological-readings.md#valuation-and-the-allocation-of-effort)
 and [engineering](engineering-readings.md#physical-conditions-measurement-and-feedback)
@@ -1007,6 +1029,16 @@ If each prototype takes longer to check than it saves in implementation, supervi
 **Control the cognitive complexity of the personal environment within a range the person finds acceptable.** Interfaces, materials, workflows, and model assistance determine what the person has to understand, find, remember, choose, operate, and resume. The range depends on the person, the activity, and the abilities they choose to develop.
 
 YinYang puts the person's finite effort into embodied reasoning, intuition, and generation and judgment in natural language. A felt difference, a sketch, or a few words can start the work. The model retrieves and organizes materials, develops the full exposition, and carries all formal reasoning, implementation, and verification. It also recovers context and reduces the burden of its own help by cutting redundant text and assessing routine options. Favor **visuals over text, clarity over complexity, and intuition over formalism** in the whole environment.
+
+What stays with the person depends on the capacity they want to develop. The same partner can prepare evidence, arrange a replay, or build a working interface.
+
+| Activity | What the person contributes and develops | What the model takes on |
+| --- | --- | --- |
+| Read an argument | Point to a shift in a word's meaning and say what seems to change. Read a counterexample and reconsider the explanation. | Retrieve both passages, organize the evidence, derive formal consequences, and write and check the full account. |
+| Listen to two readings | Hear a shift in emphasis, imitate it, and say what difference it makes to the sentence. | Find and align the clips, set up replay, and assemble the comparison and explanation. |
+| Improve a reading tool | Notice where the thread is lost, sketch the needed relation, try the new view, and judge whether it helps. | Recover the reading context, develop the design, formalize its behavior, implement and verify it, and bring the person back to the same passage. |
+
+In each activity, the person can use the result to make another judgment. When the aim is simply to obtain a finished work, the model can complete and check it directly.
 
 Connect the demands of an activity with the person's actual processing by examining the same arrangement from four sides:
 
