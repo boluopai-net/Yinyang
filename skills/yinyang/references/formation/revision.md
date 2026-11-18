@@ -123,6 +123,8 @@ clearer relations and adequate grounds. Writing order supplies the history
 of this development; the quality of the accounts supplies the reasons for
 retaining or changing them.
 
+To write a core view, find the table in the chapter that carries its central comparison. Include its headings and rows in the view. Draw on the surrounding argument to explain what is being compared and what follows from the differences between rows. In YY-17, the four questions connect the division of work to a later choice about where to invest effort. Let that connection determine how much prose the view needs.
+
 | Part of the whole | What revision must carry through |
 | --- | --- |
 | Philosophical chapters and branches | Develop the changed argument and reconcile other passages that depend on its concepts, premises, or conclusions. |
