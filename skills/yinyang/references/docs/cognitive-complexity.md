@@ -14,7 +14,7 @@ Cognitive complexity concerns the relations and steps the arrangement asks someo
 
 ## What the Person Develops and What the Model Carries
 
-YinYang puts the person's finite time and attention into **embodied reasoning, intuition, and generation and judgment in natural language**. The person notices a difference in what they see, hear, or do, ventures an explanation, and judges what happens when they try it. Pointing something out, making a sketch, or saying a few words can convey the insight. The model retrieves and organizes material, develops the thought into a full account, and handles all formal reasoning and implementation. It tests consequences, verifies the result, and keeps the work ready to resume. The person can then return to the actual experience to revise the idea. [Embodied participation](core-views.md#yy-02) · [Reversal of roles](core-views.md#yy-03) · [Listening, speaking, reading, and writing](core-views.md#yy-06) · [Economic reality](core-views.md#yy-17)
+YinYang puts the person's finite time and attention into **embodied reasoning, intuition, and generation and judgment in natural language**. The person notices a difference in what they see, hear, or do, ventures an explanation, and judges what happens when they try it. Pointing something out, making a sketch, or saying a few words can convey the insight. The model retrieves and organizes material, develops the thought into a full account, and handles all formal reasoning and implementation. It tests consequences, verifies the result, and keeps the work ready to resume. The person can then return to the actual experience to revise the idea.
 
 | Activity | What the person contributes and develops | What the model takes on |
 | --- | --- | --- |
