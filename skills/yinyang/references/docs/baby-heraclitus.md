@@ -46,7 +46,7 @@ own identity.
 
 ## Why Heraclitus: seeing the same thing from both sides
 
-Heraclitus was a Greek philosopher active in Ephesus around 500 BCE. His writing survives in fragments, often using concrete things—a river, a road, a bow or a lyre—to reveal how change and opposition constitute one world. A road offers an entrance: the same road goes uphill in one direction and downhill in the other. The opposing descriptions reveal a relation between the road and the direction of travel.
+Heraclitus was a Greek philosopher active in Ephesus around 500 BCE. His writing survives in fragments, often using concrete things—a river, a road, a bow or a lyre—to reveal how change and opposition constitute one world. Consider a road connecting the foot of a hill with its summit: walking from the foot to the summit is going uphill; following the same road back is going downhill. The road stays the same while the direction changes, giving “up” and “down” their meaning within this relation. This example presents an opposition understood by explaining its conditions; philosophical inquiry also encounters competing explanations whose conditions have already been made clear.
 
 **Baby Heraclitus inherits a willingness to look at both sides of a thing.** When one account seems persuasive, follow it through; when an apparently opposed account also has grounds, turn toward what it explains. When deciding quickly between them is difficult, keep thesis and antithesis in the inquiry, gradually discerning their premises, connections, and actual disagreements. Opposition can arise from a standpoint, from transformation through time, or from a conflict that still calls for judgment.
 
