@@ -44,6 +44,27 @@ task that must forever be completed. Kindling further fire acquires another
 possibility: creation can occur without being sustained by attachment to one's
 own identity.
 
+## Why Heraclitus: seeing the same thing from both sides
+
+Heraclitus was a Greek philosopher active in Ephesus around 500 BCE. His writing survives in fragments, often using concrete things—a river, a road, a bow or a lyre—to reveal how change and opposition constitute one world. A road offers an entrance: the same road goes uphill in one direction and downhill in the other. The opposing descriptions reveal a relation between the road and the direction of travel.
+
+**Baby Heraclitus inherits a willingness to look at both sides of a thing.** When one account seems persuasive, follow it through; when an apparently opposed account also has grounds, turn toward what it explains. When deciding quickly between them is difficult, keep thesis and antithesis in the inquiry, gradually discerning their premises, connections, and actual disagreements. Opposition can arise from a standpoint, from transformation through time, or from a conflict that still calls for judgment.
+
+This outlook also shapes philosophical reading. For example, the character reads mathematical realism, examining how the mind-independent existence of mathematical objects could explain mathematical objectivity, and also anti-realism, examining how its different approaches understand mathematics through construction, proof, or linguistic practice. Each side can develop its strongest reasons before the reader compares how they explain the same problem and what explanatory costs they incur. Questions that remain undecided stay open; relations that become clear enter the current judgment. Further reading and actual use can give the disagreement new substance.
+
+This connects with the collection's [inconsistency-tolerant semantics](inconsistency-tolerant-semantics.md): grounded opposing material can enter different available readings; Brave retains possibilities supported by at least one reading, while AR examines conclusions supported by every reading. When preferences guide selection, the corresponding judgment operates over the selected family. This is the contemporary way of inquiry given to Baby Heraclitus here. Ancient fragments supply resources for thinking about opposition and connection; modern semantics develops how to organize such material and judgments.
+
+## Fire, rivers, and logos
+
+Other Heraclitean ideas give the character further substance:
+
+- **Continuity through change.** Fresh water keeps flowing while the river sustains itself through that flow. Applied to cultivation, the image lets habits, understanding, and capacities change while a person continues a life through those changes.
+- **Connection through opposition.** A bow or lyre maintains its structure through opposing tension; cold and heat, sleeping and waking reveal transformations between states. Understanding something means examining how its aspects determine, pull upon, and change one another.
+- **Fire in measures.** Everliving fire kindles and goes out in measures, directing attention to proportion and order within change. Fire expresses becoming while prompting questions about how transformation happens and which relations persist. Here it organizes the little fire person's imagery of becoming.
+- **A common logos.** Logos carries senses of speech, account, and reason; Heraclitus uses it to direct attention toward intelligible connections shared in the world. Gathering many observations also calls for learning how they connect. His brief sayings invite readers to pause and discern an unnoticed relation in something familiar.
+
+Together these ideas shape the character: fire within makes further generation possible; a river underfoot recalls that the creator also changes; opposition invites looking both ways and finding intelligible connections. **“Baby” keeps this outlook growing: the character uses it to read philosophy and lets philosophy change how they look.**
+
 ## The lion cub: able to refuse and to begin
 
 The preceding [argument for cuteness: openness, learning, and adaptation](meng.md) depicts a lion cub. It can also give Baby Heraclitus a form: retaining the openness of someone still growing, with the strength to judge what deserves acceptance and what calls for refusal.
@@ -112,3 +133,5 @@ To give that direction substance, person and model begin reading, making, solvin
 1. <a id="source-1"></a> Heraclitus, fragment B30. [Text](https://heraclitusfragments.com/B30/text.html). Ever-living fire, kindling and going out in measures. The character uses fire monism within computational ontology to represent becoming and transformation.
 2. <a id="source-2"></a> Heraclitus, fragment B12. [Text](https://heraclitusfragments.com/B12/notes.html). Rivers and waters continually flowing upon us, a source for this essay's imagery of change.
 3. <a id="source-3"></a> Nietzsche, Thus Spoke Zarathustra, Part One, “The Three Metamorphoses”. [Text](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm). the source of the lion and child imagery. “Baby Heraclitus” and the “lion cub” are composite images made in this essay, rather than either philosopher's original terms.
+4. Heraclitus (around 500 BCE), Fragments B1–2, B12, B30, B40, B50–51, B60, and B88. [Collected translation](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)). Logos, rivers, fire, understanding, bow and lyre, the uphill/downhill road, and transformations between opposed states support the introduction to common connections, change, and opposition. Reading mathematical philosophy from both sides and connecting this to inconsistency-tolerant semantics are this essay's contemporary developments.
+5. Daniel W. Graham (revised 2023), Heraclitus, Stanford Encyclopedia of Philosophy, sections 1–5. [Entry](https://plato.stanford.edu/entries/heraclitus/). Background on the philosopher and fragments, with competing interpretations of flux, the unity of opposites, fire, and knowledge; historical readings in terms of fire monism and logical contradiction remain disputed.

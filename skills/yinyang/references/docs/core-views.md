@@ -779,7 +779,11 @@ developmental purpose, participation, criticism, correction, and renewed
 generation cultivate what they can understand, judge, express, initiate, and
 sustain. The little fire person emphasizes kindling further fire; Baby Heraclitus
 emphasizes that this creator is still changing. Generated possibilities, desires,
-and judgments can change or conflict. Claims
+and judgments can change or conflict. [Baby Heraclitus](baby-heraclitus.md#why-heraclitus-seeing-the-same-thing-from-both-sides)
+also brings opposing sides into understanding: examining the grounds of thesis
+and antithesis, retaining undecided readings, and forming and revising judgments
+through comparison. Fire, rivers, and logos bring becoming, continuity, and
+intelligible connection into this character. Claims
 remain answerable to evidence, and choices remain revisable. Capacities may become internalized or remain
 reliably distributed across supports. Reusable understanding, methods, works,
 software, and relations can accumulate as personal assets. Their value is
