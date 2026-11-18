@@ -989,7 +989,16 @@ Social models, predictions, and rules change participants and subsequent data. P
 
 Low human metabolic power coexists with rich multimodal activity, offering grounds for research and cultivation. Brain power consumption, machine computational capacity, and full-brain simulation costs require comparisons appropriate to their respective objects. Machine embodiment is also developing; the scope of near-term substitution depends on actual reliability and expense. The economic value of a hard-to-automate capability still depends on demand and accessible opportunities.
 
-Shared practice compares personal practice, model support, supervision, maintenance, and opportunity costs, letting observation change candidates and model elaboration enrich subsequent attempts. New capabilities, demand, and failures revise how this allocation is modeled, simulated, evaluated, and modified. [Personal recursive self-improvement in economic reality](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html) develops this direction, its argument, and sources. Gains in life also include understanding, expression, relationships, and freely available time.
+Consider a designer walking with a device. They notice where movement interrupts an operation, and the model builds layouts they can try on the same walk. The whole activity gives the following comparisons a common basis.
+
+| Question worth comparing | Consequence for personal RSI |
+| --- | --- |
+| What can the model already perform reliably? | Make available capabilities into tools, reducing the cost of acquiring them again. |
+| What does actual personal participation add? | Develop consequential perception, situated judgment, expression, and action. |
+| How do the contributions strengthen one another? | Let observation change model-generated candidates and model elaboration enrich the next human attempt. |
+| Which investment remains worthwhile after conditions change? | Reselect practice, work allocation, and tools from actual capabilities, demand, and maintenance costs. |
+
+If each prototype takes longer to check than it saves in implementation, supervision changes the value of that division of work. Carrying this finding into the next project improves how the person chooses what to practice and what to delegate. [The full essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html) develops the argument.
 
 <a id="yy-18"></a>
 
