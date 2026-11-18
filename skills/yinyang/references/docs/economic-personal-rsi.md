@@ -35,6 +35,19 @@ the paths can be combined. Personal RSI further asks whether later practice
 better identifies worthwhile activities, selects support, and enables
 completion, recovery, or stopping.
 
+### Give a research plan several independent grounds
+
+A research plan can connect what someone wants to investigate with what they can sustain and what the situation makes possible. **Interest, habit, ability, and economic opportunity can vary independently.** Strong interest can coexist with little practice; a familiar routine can persist after interest has faded. An ability may be useful without an accessible paid opportunity, and a new opportunity can arrive before the corresponding ability has developed. A change in one dimension gives a reason to examine the others, rather than an answer about them.
+
+| Dimension | Question for the plan | Useful grounds |
+| --- | --- | --- |
+| Interest | Which question is worth returning to, and why? | The person's expressed concerns and response to actual investigation. |
+| Habit | Under what conditions does the work begin and continue? | Attempts, interruptions, routines, and recovery in ordinary activity. |
+| Ability | What can the person currently understand, judge, or produce, with which support? | Work samples and performance on the relevant task. |
+| Economic opportunity | Which contribution has accessible demand and support? | Actual requirements, resources, prospective exchange, and costs. |
+
+Suppose someone is interested in a research question, has a reliable writing habit, and needs more practice evaluating evidence. A model can organize sources and build a comparison while the person examines the decisive cases. The plan can set a bounded piece of writing, the support it needs, and an occasion to reconsider the allocation. Whether that work has an economic use requires its own inquiry into available opportunities. The next attempt then tests both the work and how well the plan distinguished these conditions. This is a practical use of the distinctions, with evidence still needed for explanations of why a particular person persists or stops.
+
 ### Use replicability to assess cultivation
 
 The easier it is to represent a task's inputs, operations, and success conditions in a computer, and to generate and check candidates cheaply, the easier it becomes to organize large-scale training, search, and replication. Well-specified digital tasks permit many attempts in little time; improvements can then reach many users. Investing all one's learning time in reproducing operations already cheaply available carries an opportunity cost as tools continue improving.

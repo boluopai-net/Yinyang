@@ -106,6 +106,14 @@ and checks which earlier conclusions still apply.
 
 ## Sources, candidates, and the active workspace
 
+### Fixed concepts, conflicting assertions, and acceptance
+
+The author's thesis self-assessment motivates a distinction between selecting grounds and accepting an answer; the [formal appendix](inconsistency-tolerant-semantics.md#fixed-rules-and-maximal-consistent-repairs) supplies its precise scope. During one repair comparison, a coherent ontology fixes the concepts, relations, and constraints. Assertions from several sources can nevertheless conflict under those constraints. A repair selects an inclusion-maximal consistent subset of those assertions. Choosing the eligible repair family and choosing how a query must be supported within that family are then separate decisions. Keeping a possibility available under one repair, obtaining the same answer under every repair, and deriving it from their common assertions have different requirements.
+
+The wider inquiry can change what this local comparison holds fixed. New evidence can correct an assertion; a changed priority can alter which repairs are eligible; a different answer test can alter acceptance with the same repairs. A revised ontology changes the concepts or constraints under which conflicts and consequences were identified, requiring those judgments to be examined again. Locating the change matters: a correction to one report need not replace the ontology, while an omitted distinction cannot always be repaired by selecting different reports.
+
+This is also a useful discipline for natural-language inquiry. Keep an intelligible account of the concepts currently in use, the attributed assertions being compared, the grounds for preferring some, and what warrants the proposed conclusion. A later correction can address any of these separately. The self-assessment offers an interpretive motivation for this practice; its adequacy in lived reasoning remains a question for actual inquiry, beyond the formal result.
+
 ### Brave keeps supported possibilities at work
 
 [YY-00](core-views.md#yy-00) introduces inconsistency-tolerant semantics among the four through-lines; [YY-10](core-views.md#yy-10) borrows [Brave](inconsistency-tolerant-semantics.md) as a natural-language orientation for exploring possible readings throughout the Harness. When the material admits different readings, a reading grounded in what was said, its context, or an observed result can continue to inform inquiry. Where the user has expressed no preference about the choice, the model's usual practice gives it no grounds to exclude such a reading. Where the user has expressed an applicable preference, give it priority and continue with the grounded readings under P-Brave. Both orientations let the partners proceed from supported possibilities.

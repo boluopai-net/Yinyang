@@ -76,7 +76,7 @@ check whether the models address the same person, conditions, and meaning of
 independence. A changed meaning requires an explicit comparison, not merely
 reusing the letter $P$.
 
-The [inconsistency-tolerant comparison](inconsistency-tolerant-semantics.md) helps retain conflicting material while examining the consequences of coherent readings. Keeping such readings available leaves the conceptual question open: which understanding fits the person and situation, and what might a better account explain?
+The [inconsistency-tolerant comparison](inconsistency-tolerant-semantics.md) examines conflicting assertions under a fixed ontology, separating the selection of eligible repairs from the acceptance of an answer across them. The example of independence can also call for changing a concept or constraint. That reconstruction changes the framework in which conflicts and consequences are identified; it must then be examined on its own grounds. Which understanding fits the person and situation, and what might a better account explain?
 
 There are several ways forward. New evidence can favor one existing view; a
 condition can explain why both local answers hold in different situations; or

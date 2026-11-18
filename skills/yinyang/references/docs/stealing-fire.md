@@ -252,13 +252,16 @@ shows how the shared movement reaches actual computer use and returns.
 
 [Mutual becoming through Yinyang and Taiji](yinyang-and-taiji.md) give this becoming its central relational image. Differentiated participants generate, receive, and transform through one another; their contributions acquire meaning in the encounter. The Shuang yu and their differently colored eyes distinguish a chosen role from the participant who exceeds it. This image gives the reciprocal movement of event streams a perceptible form. Continuing transformation allows particular works to be completed and useful arrangements to remain stable: a completed work enters the next encounter as something available to use and reconsider.
 
-Conflicting material tests this continuity. A coherent working ontology can
-support present action while retained evidence and candidate interpretations
-remain in conflict. General paraconsistency supplies background for considering
+Conflicting material tests this continuity. A coherent working ontology fixes
+the concepts and constraints for a local comparison, while assertions from
+retained sources can conflict under those constraints. General paraconsistency supplies background for considering
 conflict without arbitrary conclusions following [[14]](#source-14); prioritized
 [inconsistency-tolerant querying](inconsistency-tolerant-semantics.md) gives a more specific formal comparison [[16]](#source-16).
 The [Preference Harness account](preference-harness.md) develops the distinction
-between selecting views and reasoning within them. These contemporary
+between selecting eligible views and deciding what support warrants an answer.
+A later correction can revise an assertion or preference within that framework;
+a missing concept can instead call for changing the ontology and reconsidering
+its consequences. These contemporary
 constructions extend an inquiry into becoming and opposition; historical
 readings of Heraclitean fire monism and contradiction remain disputed [[15]](#source-15).
 

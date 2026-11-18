@@ -64,6 +64,8 @@ process can still produce a finished work.
 
 ## YY-00 · Inconsistency-tolerant semantics and the four through-lines
 
+**A consistent ontology, inconsistent data.** This principle guides the writing of the website, the six working accounts, and the personal environment. The author draws relations from different philosophies and explains what each means here and how they jointly account for an activity, keeping the adopted ontology coherent. Experience, texts, model replies, and records of use often yield conflicting assertions. A usable account identifies the grounds for the present judgment and lets contrary evidence change it.
+
 A person brings an unfinished idea to a counterpart, gives it a form they can examine, and returns to it after the world has answered. This collection follows that movement through four lines of thought. The concrete judgment joining them is: **this personal environment helps the person continue, change, or finish their chosen activity, while allowing consequences and objections to correct its direction.** A readable essay, an available tool, and a completed work contribute to that benefit in different ways.
 
 [Inconsistency-tolerant semantics](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.html#two-dimensional-framework) first separates two questions in ordinary language. Which grounded readings remain eligible for this judgment? What support does the judgment need from them? The ordinary case considers the full eligible family; applicable preferences can select readings first. In the formal appendix, P specifically selects Pareto-optimal repairs. Brave keeps a claim available as a possibility when at least one eligible reading supports it. AR accepts the same claim only when every eligible reading supports it. Thus Brave and AR can each be used with the ordinary family or with the preference-selected family, giving P-Brave and P-AR. Choosing readings and judging their consequences are distinct choices.
@@ -564,6 +566,8 @@ or action. Consequences connect these functions: a result can call for different
 grounds, another interpretation, or a changed question. This grounded, revisable
 adoption is a working commitment.
 
+For one local comparison, keep the working ontology coherent and fixed while comparing possibly conflicting assertions from several sources. **Which repaired sets of assertions remain eligible, and what support warrants accepting an answer, are distinct questions.** Later inquiry can correct assertions, revise priorities or the acceptance test, or reconsider the ontology itself. Each changes a different part of the judgment. [The reasoning essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/reasoning.html#fixed-concepts-conflicting-assertions-and-acceptance) develops this distinction and its relation to the author's thesis self-assessment.
+
 Yinyang brings two questions into the meta-Harness together: **which alternatives deserve development, and which judgments withstand examination across the relevant readings?** Brave and AR name these different contributions in the borrowed [semantics](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.html#two-dimensional-framework). Either can operate with the ordinary eligible readings or, where applicable user preferences guide selection, with their P-variant. [YY-00](#yy-00) introduces this two-dimensional relation.
 
 **Develop alternatives through Brave or P-Brave.** A coherent reading with grounds keeps a possibility available for further work. The model's familiarity with another reading, or the Harness's customary procedure, gives it no grounds to exclude this one. When the user has expressed an applicable preference, give it priority in the tradeoff while retaining other relevant grounds for judgment.
@@ -855,6 +859,8 @@ improvement occurs when a redesigned method actually makes the next redesign
 or other improvement more capable. This is a chosen direction for this person's
 environment, offered for others to examine and adapt to their own purposes.
 
+This direction connects the website's philosophical expression, the six working accounts, and the personal environment. The website makes the argument available to readers; the accounts describe how this practice can develop; the environment lets its arrangements acquire consequences in use. A correction discovered in any one can return to the others and to the method connecting them.
+
 Under the author's selected circumstances, deciding what environment to build
 and how it should develop can become the hardest work. For tasks that can be
 delegated, the author may choose to contribute only configuration and design,
@@ -951,13 +957,15 @@ A modification can involve several levels. Repairing an article with an existing
 
 ### From work to method and capacity
 
-Suppose a page opens a book but leaves the reader searching again for the paragraph. The first change returns to the needed position. A further change to the method begins future checks by understanding the reading activity to be continued. Recognizing return points earlier in later tasks gives that method change practical content.
+Consider revising a sentence: “Someone interested in a subject can sustain its research and turn it into paid work.” A correction reads: “Interest gives a reason to investigate. Continuing the work also calls for suitable routines, ability, and support; a paid opportunity requires evidence of accessible demand.” The revised passage can then illustrate these differences with a research plan, as [the economic essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html#give-a-research-plan-several-independent-grounds) does. This improves the argument, while its use still needs examination.
+
+Suppose the correction exists only in source files and a completion report. A reader reaching the essay through its ordinary entrance still sees the old passage. The participants update that reading edition and check the actual passage there. They then revise the revision method: a textual correction must reach a real reader entrance, and the result must be checked in that reading path. On the next essay revision, that method brings a consequential omission into view earlier. The correction has thereby changed how later corrections are realized and evaluated.
 
 | Object improved | Its expression in the example | Grounds in later use |
 | --- | --- | --- |
-| Work | The page supports return to the needed paragraph. | How this page works in actual reading. |
-| Method | Select checks from the activity to be continued. | How later relevant tasks produce fitting arrangements more effectively. |
-| Capacity | Person and supporting environment more readily recover, understand, and continue reading. | Activities they can subsequently initiate, judge, and sustain. |
+| Work | The corrected argument reaches the passage a reader actually opens. | The text and example available in that reading path. |
+| Method | Carry corrections through a real reader entrance and check the resulting passage. | Whether later revisions discover and resolve delivery omissions earlier. |
+| Capacity | Person, model, and environment can more effectively turn criticism into usable revisions. | Later corrections they can understand, realize, and assess. |
 
 These gains can support one another and develop at different rates. Retaining incompatible material and candidates gives the current method alternatives to reconsider. Reconsidering selection rules, axioms, or question organization also lets improvement change how alternatives are produced. Preference and trajectory thus give recursion material; Yinyang's role return enables both participants to contribute; the Trinity gives improvement a form in life.
 
@@ -999,6 +1007,8 @@ To decide whether delegating a task frees resources for practice, look at each r
 | Money and accessible resources | Can tools, equipment, services, and maintenance remain available? | Actual expenditure, service conditions, and accessible opportunities. |
 
 A quicker delivery can leave more time for practice while increasing the attention spent checking the result. The next allocation depends on what the person can actually do with the time gained.
+
+Interest, habit, ability, and economic opportunity can change independently. A research plan therefore asks separately what the person wants to investigate, under which conditions work continues, what they can currently do with support, and which contribution has accessible demand. Practice can test a proposed allocation while inquiry into opportunities supplies different evidence. [The economic essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html#give-a-research-plan-several-independent-grounds) develops this comparison.
 
 [The developed argument](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html) and the
 [psychological](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/psychological-readings.html#valuation-and-the-allocation-of-effort)

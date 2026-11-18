@@ -5,6 +5,8 @@ description: "<用户自制> 阴阳空白版：形成自己的个人阴阳，接
 
 # yinyang-empty
 
+The collection offers one way to work with a coherent ontology and often inconsistent data. When forming your own six accounts, choose concepts that work together across them and preserve the provenance of conflicting observations. Use these distinctions in your environment to interpret new reports, then revise an account or its underlying concepts when actual use gives a reason.
+
 Develop a person's understanding, judgment, generation, and action through
 collaboration with a capable, fallible model counterpart. This **reverse alignment**
 is Yinyang's developmental purpose. Its central dialectical relation is crossed

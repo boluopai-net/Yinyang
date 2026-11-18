@@ -24,6 +24,8 @@ choosing action.
 
 Inquiry can also revise its concepts, question, source priorities, and way of accepting an answer. Evidence, purpose, and consequences provide different reasons for such revisions. [Recursive improvement](literary-recursive-improvement.md#retaining-conflict-and-forming-a-view-for-action) follows this return from local inference to improvement of the selection method itself.
 
+A change of philosophy can change where a preference bears on a choice. Under a philosophy of cultivation, one asks which division of work gave the person a chance to try. In an inquiry concerned with delivery, one asks which version could actually be used. Both questions can draw on the same record. Identifying the objects, relations, and grounds for judgment in each case distinguishes a conflict in the record from a difference in what the two accounts value.
+
 ## Reading a rich account through supported branches
 
 A personal account can preserve changing experiences, competing interpretations,

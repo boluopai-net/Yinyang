@@ -444,6 +444,7 @@ Computational ontology here articulates what can be retained, distinguished,
 related, inferred, and revised. It gives collaboration an intelligible structure
 without requiring a reduction of the person's entire life to a program. The
 ontology itself can change when the work reveals a missing relation.
+Correcting an attributed report can leave these concepts intact; discovering that they conflate completing an operation with serving a purpose can require revising them. The account should locate which change the evidence calls for, so its realization can address the affected relationship.
 
 ## A general interpreter, with means to act
 

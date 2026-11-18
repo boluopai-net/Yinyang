@@ -19,6 +19,12 @@ Each synthesis instruction draws on the six complete guides and relevant actual
 grounds. [Formation and revision](../design-and-revision.md) owns their distinct
 subjects, connected scope and whole-six coherence.
 
+Common writing, its website reading edition, the six situated accounts, and the
+working environment connect through the same working ontology, while their
+contents and privacy boundaries differ. A source can disagree with the current
+account; preserve its attribution and grounds as the model judges whether actual
+use calls for revising the account or its realization.
+
 The [practice overview](creation-method.md#choose-2x2) explains edition and condensation choices;
 this page locates the private files and their updates:
 

@@ -51,6 +51,14 @@ philosophical phrasing alone does not determine what a text reveals.
 The public work, private core accounts, and supporting sources have different
 readers and purposes, while participating in the same self-forming practice.
 
+The collection and its web edition maintain a coherent working ontology: their
+people, counterparts, works, and environments have intelligible relations across
+chapters. Sources may nevertheless make conflicting claims. For example, one
+account may treat independence as unaided action, while another understands it
+through the ability to choose and revise help. Keep their grounds distinct and
+let the adopted account explain its choice; a reader may develop a different
+philosophy or rewrite its form.
+
 A literary form can show how an image gathers a relationship, how concepts
 give it distinctions, and how practice makes it consequential. Yinyang's fire,
 event streams, Sun and Moon, and philosophical sources make this particular

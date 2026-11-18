@@ -122,6 +122,8 @@ Orientation, person, counterpart, relationship, environment, and revision live i
 lists their filenames. Personal material, readable topic articles, and the source index live in
 `references/personal/`. A native implementation can also bind the six complete bodies through a private index.
 
+In an actual task, the model reads these accounts together to understand the person's direction, the participants and their relationship, the available environment, and how their arrangement can change. For example, when helping someone resume reading, it can recover the passage and the person's question, prepare a useful view, and use their feedback to revise that support.
+
 For formation and revision, the model reads adopted philosophy and relevant fresh sources, corrects Personal
 understanding, synthesizes and reads the six accounts together, then realizes selected changes in the working
 environment and revises from use. [Forming and revising working models](design-and-revision.md)

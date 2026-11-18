@@ -13,7 +13,11 @@ possibilities and consequences. In this Yinyang, the central relation to realize
 is the participants' passage between open generation and consequential scrutiny,
 with each able to return through the other's contribution.
 A configuration inventory says what exists;
-this account explains what it enables, for whom, under which conditions.
+this account explains what it enables, for whom, under which conditions. Connect
+the participants and works described here with their meanings in the six accounts
+and the website, while keeping private details in their own sources. When a
+source challenges an adopted understanding, examine its grounds and the actual
+use before changing the environment and affected descriptions.
 
 Include the directions needed to use, maintain, and change this environment.
 A **Harness** is its working arrangement of prompts, Skills, tools, interfaces,

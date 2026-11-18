@@ -6,6 +6,8 @@ I used this form to put my own personal RSI into practice. My working model cons
 
 You can use this form with the philosophy you adopt, essays you have written, and material from your own life and work. Develop an account with a model, use it on your next task, and see how it shapes judgment and the division of work. Revise it in light of what happens. When an experience also changes how you form, test, and revise your working model, it improves the method that produces later improvements.
 
+The web collection, the six working accounts, and the personal environment share a direction: keep the ontology in use coherent while retaining inconsistencies in data from different sources. Another philosophy can supply different concepts and relations for understanding an activity. Events, testimony, and contrary observations keep their provenance and can test the new account.
+
 The essays develop this argument; reusable Skills and tools support its
 realization and retain their specialist purposes. Begin with
 [Borrowing fire](skills/yinyang/references/docs/stealing-fire.md), consult the

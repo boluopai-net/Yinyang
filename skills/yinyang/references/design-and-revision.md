@@ -124,6 +124,15 @@ or treating different conditions as contradictions. A changed adopted aim can
 affect the person implications, wanted counterpart contribution, relationship,
 environment and revision method, rather than merely changing one page's wording.
 
+The website, the six accounts, and their realization in the personal environment
+share a working ontology: their accounts of participants, works, and relations
+must be intelligible together, while each retains its own purpose and disclosure
+boundary. Source assertions can conflict; keep their grounds and distinguish
+them from the interpretation currently guiding action. For example, a revised
+understanding of independence may change both an account of participation and
+how a reading interface offers help. Check the resulting use, then revise the
+affected descriptions and realization together.
+
 Sibling accounts can be read as current interpretations needing coordination.
 They do not become independent factual evidence for one another. Return to the
 original grounds when judging a consequential claim. Repair the affected source,
