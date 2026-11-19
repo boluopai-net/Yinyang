@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "video-subtitle",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "<用户自制> 视频字幕：提取 YouTube 与 Bilibili 的字幕并依据实际读到的讲话文本作答。 Retrieve source-linked, timed spoken text and check it against the original video.",
   "author": {
     "name": "boluopai",

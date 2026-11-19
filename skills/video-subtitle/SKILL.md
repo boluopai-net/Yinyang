@@ -14,18 +14,14 @@ danmaku and another summary cannot silently replace it.
 
 This Skill owns triggering, exact-track choice, video/part scope, chunk reading
 and evidence grounding. The enclosing learning/course or analysis owner decides
-the question, relevance and learning judgment; the host owns tool access,
-credential handling and actual personal-authentication boundaries. The local
-source names no downloadable companion Skill for these roles. See the
-[dependency and owner table](README.md): Python and yt-dlp are execution
-dependencies, and the private connector formerly used for transport is not a
-standard or required public companion.
+the question, relevance and learning judgment. The host owns tool access and
+personal authentication. Python and yt-dlp are the execution dependencies in
+the [dependency and owner table](README.md).
 
 ## Concrete portable route
 
 Use Python 3.10+ and `yt-dlp` on PATH; follow [setup and examples](README.md).
-The bundled wrapper has no browser-cookie discovery, private connector, login
-adapter, or media-download step. Use it from this package directory:
+Use the bundled wrapper for public subtitle tracks from this package directory:
 
 ```sh
 python3 scripts/subtitles.py list 'VIDEO_URL' > listing.json
@@ -96,9 +92,6 @@ limits. Tool installation, a listing, a path or metadata alone is not completion
 
 ## Provenance
 
-This original public adaptation retains the source method's exact-track,
-multipart-scope and chunk-read distinctions, replacing its private file-resource
-bridge and host audit ledger with the bundled standard `yt-dlp` wrapper. No
-private helper implementation, connector ID, cookie discovery or account data
-is distributed. [yt-dlp](https://github.com/yt-dlp/yt-dlp) is installed separately
-under its own licensing; video/subtitle rights remain with their owners.
+The package uses a standalone wrapper around
+[yt-dlp](https://github.com/yt-dlp/yt-dlp), installed separately under its own
+license. Video and subtitle rights remain with their owners.

@@ -87,27 +87,17 @@ and the operation's needs while retaining the frozen target binding.
 Both retain the ready-binding requirements above. Browser never bypasses a
 missing native authorization or tool boundary.
 
-For an exact ChatGPT advisory conversation, use a native `codex_app` adapter
-when the current host actually exposes that callable tool and its exact target
-binding is available. Inspect the currently callable schema and its target semantics first. For example,
-a host exposing this binding through `functions.exec` can read it with:
+A native thread reader may return status and summaries. To bind a receipt,
+verify the exact conversation, ordered user and assistant turn IDs, and
+complete readable turn contents. If the native reader supplies a preview or
+truncates a relevant turn, use an authorized observation adapter that verifies
+the same conversation and turn boundary, or report the missing proof.
+Distinguish an incomplete read from an incomplete response at the target.
 
-```js
-const observed = await tools.mcp__codex_app__read_thread({
-  threadId: exact_conversation_id,
-  turnLimit: 20,
-});
-```
-
-Use `tools.mcp__codex_app__send_message_to_thread` only for a selected, actually
-authorized mutation operation and only with that exact `threadId`. Its current
-schema and authorization contract govern whether and how that operation is allowed;
-a readable native target does not establish send authority. Resolve deferred tools through
-the current host's supported discovery. A name in this example does not establish
-availability. Use integrations supported and authorized by the recipient’s current host;
-do not infer a usable adapter from a tool name.
-If the native operation is unavailable, use an already permitted
-controlled carrier or report that operation's concrete capability limit.
+Select a mutation adapter whose send authorization covers the frozen target
+and exact operation. Inspect its current schema and preserve its
+acknowledgement. When the native operation is unavailable, use an independently
+authorized controlled carrier or report the concrete capability limit.
 For a Browser operation, follow the selected controlled
 carrier's owning instructions and pass exact destination, operation (`observe` or `submit`),
 frozen payload for `submit`, prior boundary, and lifecycle requirement. Read and
@@ -142,10 +132,11 @@ only when both establish that same target and ordered exchange.
 2. Retain each operation-adapter identity in `transport_evidence`. Observation
    never submits or resends. Before another mutation after any adapter may have
    changed the target, reconcile ordered turns again.
-3. If the target reports running or paused, use the discrete waiting policy
-   below before observing again. Otherwise
-   submit exact frozen bytes without translation, normalization, summarization,
-   wrapping, or explanation. Keep at most one mutation attempt in flight.
+3. While generation runs, follow the waiting policy below. If the target is
+   paused, retain the exact exchange and report the interruption to its owner.
+   The owner handles any resume decision and action. When the target is ready
+   and reconciliation supports submission, submit the frozen bytes verbatim.
+   Keep at most one mutation attempt in flight.
 4. Any successful return from the selected mutation operation counts as
    submission acknowledgement, even when it contains only target identity and
    no remote turn identity, unless the adapter explicitly reports
@@ -158,7 +149,8 @@ only when both establish that same target and ordered exchange.
 5. A same-target exact resend is eligible only after explicit non-acceptance
    evidence or after an observable matching request turn is followed, after
    reconciliation, by a terminal or idle non-running target with no complete
-   assistant response, including a missing, interrupted, or truncated response.
+   assistant response. Establish any interruption or truncation at the target,
+   rather than from an observation adapter's display limit.
    Permit at most one exact resend for that observable terminal-response
    boundary. Resend using the same `exchange_id`, exact ready-bound conversation
    and target mode, and frozen request bytes and SHA-256. Creation provenance
@@ -200,12 +192,12 @@ occupy the interval. Do not introduce a custom watcher or daemon. If no supporte
 continuation can carry the wait, report that concrete limitation and retained
 pending exchange rather than pretending a future check is scheduled.
 
-At the due check, read the smallest evidence needed to distinguish running,
-complete, and actionable failure. While still running, retain the same request
-and choose the next useful check from the new evidence; elapsed time alone never
-justifies resubmission, restart, or a duplicate evaluation. On completion, consume
-and bind the response;
-on an actionable failure, follow the existing reconciliation and retry boundary.
+At the due check, distinguish running, complete, paused, and actionable failure.
+Route a paused exchange to its owner with the retained binding. While still
+running, retain the same request and choose the next useful check from the new
+evidence. Elapsed time alone never justifies resubmission, restart, or a duplicate
+evaluation. Bind a complete response, or reconcile actionable failure under the
+retry rules above.
 Retire any task-owned wake-up when its exchange is complete or cancelled.
 
 ## Result package

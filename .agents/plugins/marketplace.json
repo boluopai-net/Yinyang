@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "yinyang-empty",
-      "version": "1.0.69",
+      "version": "1.0.70",
       "description": "<用户自制> 阴阳空白版：形成自己的个人阴阳，接入完整工作上下文，并按任务查阅资料与修订方法。 Form a personal Yinyang, connect its complete working context, and locate task-relevant materials and revision methods.",
       "source": {
         "source": "local",
@@ -114,7 +114,7 @@
     },
     {
       "name": "prompt-and-skill-lifecycle",
-      "version": "1.0.10",
+      "version": "1.0.11",
       "description": "<用户自制> 提示词与技能生命周期：编写、审查、维护和发布提示词与 Skill。 Connect instruction meaning, ownership, delivery, and evidence of use when authoring, auditing, and maintaining Prompts and Skills.",
       "source": {
         "source": "local",
@@ -222,7 +222,7 @@
     },
     {
       "name": "paper-retrieval",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "<用户自制> 论文检索：筛选中英文论文与学术书籍，核对题录、版本和全文。 Reconcile bibliography, editions, and full text to deliver verifiable scholarly material.",
       "source": {
         "source": "local",
@@ -249,7 +249,7 @@
     },
     {
       "name": "video-subtitle",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "<用户自制> 视频字幕：提取 YouTube 与 Bilibili 的字幕并依据实际读到的讲话文本作答。 Retrieve source-linked, timed spoken text and check it against the original video.",
       "source": {
         "source": "local",
@@ -303,7 +303,7 @@
     },
     {
       "name": "local-teacher",
-      "version": "1.0.13",
+      "version": "1.0.14",
       "description": "<用户自制> 本地老师：在本地 Codex 中讲解课程与概念，带领复习、练习和学习项目。 Explain, review, and practice in a local environment, developing understanding through real work.",
       "source": {
         "source": "local",
@@ -330,7 +330,7 @@
     },
     {
       "name": "web-teacher",
-      "version": "1.0.13",
+      "version": "1.0.14",
       "description": "<用户自制> 云端老师：依据材料教学与探究，组织课程、概念图、学习路径和进度接续。 Provide shared methods for course material, teaching, learning paths, and learning spaces.",
       "source": {
         "source": "local",
@@ -384,7 +384,7 @@
     },
     {
       "name": "prompt-audit-orchestration",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 提示词审计：按范围审计学习、工作与已保存任务的提示词和技能执行链。 Audit instructions and execution relationships across learning, work, Web, and automation within the requested scope.",
       "source": {
         "source": "local",
@@ -465,7 +465,7 @@
     },
     {
       "name": "model-conversation-relay",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "description": "<用户自制> 模型对话接续：继续已绑定的 ChatGPT 咨询会话，读取、等待、发送并留存回执。 Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts.",
       "source": {
         "source": "local",

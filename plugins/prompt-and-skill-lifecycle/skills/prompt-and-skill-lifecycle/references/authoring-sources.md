@@ -1,18 +1,13 @@
 # Authoring sources and adaptation
 
-This edition draws on the lifecycle method's semantic account and two authoring
-readings inspected during its preparation:
+OpenAI's [GPT-6.2 Astra and Sol prompting guidance](https://developers.openai.com/api/docs/guides/latest-model/gpt-6.2-astra.md#prompting-best-practices)
+covers reader-centered writing, task completion, project conventions, and
+visual work. Verify current first-party guidance when a decision depends on
+the behavior of the actual provider and model.
 
-- [OpenAI API model guidance — prompting best practices](https://developers.openai.com/api/docs/guides/latest-model#prompting-best-practices)
-- [OpenAI Developer Blog — Rethinking skills and prompts for GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra)
-
-The local source carried reading copies recorded in September 2026. These URLs
-are attribution and update locators; the public edition does not redistribute
-the articles or independently attest their current live contents. The
-`latest-model` page can change identity. Verify relevant current first-party
-guidance when a decision depends on a provider or model's present behavior.
-An unavailable source is an evidence limitation, not a reason to invent its
-claims or block independent work.
+[Rethinking skills and prompts for GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra)
+is reference material for comparisons that need the earlier model's guidance
+on Skill discovery and progressive disclosure.
 
 The reusable synthesis is to reassess accumulated instruction scaffolding
 against the actual consumer: specific discovery descriptions, progressive

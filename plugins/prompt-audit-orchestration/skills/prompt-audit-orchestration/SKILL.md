@@ -40,7 +40,7 @@ The current adapters are [Learning](references/learning-task-adapter.md),
 | Mode | Execution task root | Domain coordination |
 | --- | --- | --- |
 | Single domain | Reads this Skill and the selected adapter; acts as its domain coordinator. | Directly dispatches registered non-supervisor child roles through `agent-orchestration-master`. |
-| Joint | Mechanically launches one `supervisor` per selected adapter in fresh isolated contexts, using the current host model/effort policy; then serves the conversation relay defined below. | Each supervisor is an independent domain orchestration root, deriving and operating its children through `agent-orchestration-master` and coordinating directly with peers. |
+| Joint | Launches one `supervisor` per selected adapter in isolated contexts under the current host model/effort policy. Carries the user conversation and integrates the domain outcomes. | Each supervisor coordinates its own domain and works directly with peers on shared dependencies. |
 
 Adapter selection defines audit purposes and coverage, not file partitions or
 one agent per target. A supervisor may identify another adapter needed for the
@@ -100,30 +100,25 @@ otherwise apply the relevant adapter's repair disposition. Hosted Scheduled Task
 retains its Project-owned boundary below; it is distinct from the Saved Task
 domain.
 
-In joint mode the root is only the user-conversation relay shell. It launches
-the selected domain supervisors, forwards attributable user messages to the
-affected supervisors, relays supervisor-identified human-only questions and
-the user's answers, and presents each supervisor's user-ready result without
-semantic synthesis. When the affected selected domain is uncertain, it
-forwards the unchanged message to every selected supervisor and lets them
-decide its relevance. It otherwise remains idle. It does not inspect or author
-a domain target, compute readiness, decide or initiate domain scheduling,
-serialization, or interruption, operate a Browser or another target tool for a
-domain, adjudicate technical or cross-domain conflicts, review, publish,
-validate, join, or guarantee domain results. At a domain orchestration root's
-direct request, it may mechanically launch or interrupt the named agent whose
-target and timing that requester already decided. Each domain supervisor owns
-those judgments and operations for its domain and coordinates directly with its
-peers. For either mode, the current domain coordinator carries the attributable
-user input, including any envisaged focus, target slice, extent, and audit-only
-or audit-and-repair intent, without treating mentioned content as an exhaustive
-target set or doing child-owned target work itself. An incidental observation
-about the method does not reopen this Skill. If the
-user explicitly includes the method or its adapters in the repair scope, route
-that bounded semantic change through its actual owners without restarting the
-audit or expanding into a method redesign. The execution Task does not resume a prior audit, create a persistent or scheduled Task
-identity, or repeat a selected domain's target audit. The ordinary Task and
-Agent histories are the run record.
+In joint mode, the root forwards attributable user input to the affected
+supervisors and relays human-owned questions and answers. If the affected domain
+is unclear, forward the message unchanged to the selected supervisors to route.
+Domain supervisors own target evidence, readiness, dispatch, operations, review,
+and publication within their authority. The root may perform a native launch
+or interruption on a supervisor's request for a named agent and specified time.
+
+The root compares the complete ordered user input with the returned domain
+outcomes and evidence. Integrate what the domains achieved, reconcile shared
+coverage from their handoffs, and name remaining gaps and their owners. Return a
+missing or unclear domain claim to its supervisor for resolution. The root's
+completion judgment uses domain evidence and preserves the supervisors'
+ownership of target checks, reviews, mutations, and technical conflicts.
+
+In both modes, the domain coordinator carries attributable user direction,
+including focus, extent, and audit-only or repair intent. Use the ordinary task
+and agent histories as the run record. When the user includes this Skill or an
+adapter in repair scope, route that bounded change through its owner within
+the active audit.
 
 Semantic correctness is consumer-relative. Treat the user's stated purpose,
 envisaged scope or extent, desired behavior, factual claims, diagnoses, causal
@@ -184,21 +179,13 @@ sources and consumers, never expected findings, answer keys, or authority. Do
 not pass prior design discussion or fixed findings/counts as launch conclusions.
 The user does not have to identify a defective target or prescribe its repair.
 
-The current domain coordinator owns its ready set, child grouping, dispatch,
-follow-up, conflict resolution, tool and carrier use, resource coordination,
-coverage, review and validation decisions, synthesis, and completion judgment.
-It owns the selected audit purpose, not a substitute publication authority for
-every target in scope. It routes target work and any supported publication
-through the current Agent owner's registered `explorer`, `worker`, and
-`reviewer` roles with explicit model and effort, only as the evidence and owner boundaries
-require, giving each target worker the actual target and publication owner
-Skills. It does not routinely spawn another `supervisor`; another independently
-selected audit purpose uses its own adapter-selected peer. Child agents own
-their assigned target evidence, supported target changes, and claim-appropriate
-validation.
-Count, target partition, and sequence derive from causal questions, evidence
-dependencies, exact mutable-target collisions, and available capacity rather
-than the number of targets or adapter categories.
+The domain coordinator organizes ready work, evidence, conflicts, and domain
+completion. Use the current Agent owner's `explorer`, `worker`, and `reviewer`
+roles as needed, with explicit model and effort. Give contributors the target
+and publication owner Skills. Their evidence and validation stay with their
+assigned targets, and authorized edits follow each actual publication owner.
+Choose grouping and sequence by causal questions, evidence dependencies,
+mutable-target collisions, and available capacity.
 
 The agent that needs Browser evidence or performs a native Browser mutation
 owns that exact physical target and its lifecycle through the current Browser
@@ -215,14 +202,10 @@ human-only request only after that owner supplies evidence of the required human
 action and why viable authorized recovery cannot resolve it; an unresolved technical
 blockage remains with that owner.
 
-A domain coordinator may make bounded read-only checks to resolve conflict or a
-suspected omission, but it does not replace child target work, label its own
-summary as independent review, or substitute an unsupported summary for a child
-claim. Before claiming coverage, it checks child results against the resolved
-causal scope and the applicable full-domain or bounded coverage rule, and
-returns an omission to its owning child instead of independently redoing that
-work. Child handoffs remain as long as needed to preserve every material
-finding, blocker, and coverage result.
+A domain coordinator checks child results against the resolved causal scope
+and coverage rule. Use bounded read-only checks to locate discrepancies and
+return omissions to the target-owning child. Keep handoffs that carry material
+findings, blockers, and coverage evidence.
 
 In joint mode, domain supervisors exchange cross-domain findings, dependency
 questions, readiness changes, and exact-target collision information directly
@@ -377,10 +360,9 @@ requires it or a genuine human-owned choice remains.
 Use an independent model reviewer only when a concrete semantic risk,
 interaction, ambiguity, or current owner requirement makes independent context
 useful. Give one stable risk scope to one reviewer, reuse its resolved result,
-and do not count review layers, fingerprints, Plans, or summaries as evidence
-that the target is correct. The root never adds another review or validation
-pass. New evidence reopens only the materially affected domain claim. A
-supported clean result needs neither a reviewer nor Plan.
+and judge the target from the actual evidence. New evidence reopens only the
+affected claim through its domain owner. In joint mode, the root checks whether
+the returned results answer the user's request using that same evidence.
 
 Exact owner readback proves persistence. Add a short behavioral evaluation only
 when it can faithfully falsify a specific load-bearing claim that readback

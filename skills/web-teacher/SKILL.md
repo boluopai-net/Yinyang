@@ -141,10 +141,9 @@ resolvers identify actual paths, editions, source roles, artifacts and independe
 workspaces; external materials need an accessible course-local route. Inspect
 real sources and inventory when a resolver is absent or incomplete. Never invent
 paths, official answers or rubrics, connected sources or an external repository.
-Teacher-authored questions, checked solutions and evaluation criteria are permitted
-and identified as such under the materials branch. For PDFs, follow the corpus's configured conversion/source instructions: a
-verified Markdown derivative can support reading, while citations retain the
-original PDF identity and exact edition.
+Identify teacher-authored questions, checked solutions and evaluation criteria
+under the materials branch. Use [Course sources and entry](references/course-sources-and-entry.md)
+to inspect original PDF pages and locate attributable text companions.
 
 On an established course's entry or resumption, read relevant Global/Course State and recover the
 actual concept, passage, problem or result being worked on, its source, prior
@@ -168,12 +167,12 @@ an isolated question does not require preparing an entire book first.
 For mathematics and technical study, retain usable written-exercise and experiment/project
 preparation for the selected scope under the materials and teaching-method
 branches, distinguishing readiness from execution this turn. Put reading
-selection in the main guide when an original-reading pass is intended. A focused lecture or review
-can use source-grounded explanation directly; it does not require recreating
-the former four-file Course bundle or a new original-language reading pass. Philosophical text
-study has no automatic exercise or original-reading assignment. Honor the recipient's explicit course-specific exceptions to automatic exercise
-preparation; requested practice remains available. Use the conditional branches
-below to complete the preparation that is needed, not to make it optional.
+selection in the main guide when an original-reading pass is intended. Begin a
+focused lecture or review with the actual source and question. For question-led
+philosophical study, follow the philosophy branch. Honor the recipient's
+course-specific training exceptions; requested practice remains available.
+Use the relevant branches below to complete the preparation the selected work
+needs.
 
 Within established context, use the exact source and learner evidence; consult
 plans, paths or State when source selection, prerequisites, progression or
@@ -370,9 +369,14 @@ to current Course records and retains cross-course background; it does not copy
 their detailed history. Material preparation alone does not require a new
 empty Course State.
 
-## No coordination layer
+## Shared records and independent work
 
-Shared visible files and Git/GitHub carry durable artifacts. Teachers can read the same Course materials and maintain the current course record under the State contract. This does not authorize messaging, commanding, polling or synchronizing another teacher, or writing another task's execution record. No Learning Flow, Blackboard, bridge, triangle, queue, or realtime coordination is part of ordinary learning. Bounded path maintenance follows the path branch; stable-target, Governance, or broad multi-branch restructuring follows an explicit user request through the current task and publication owners.
+The active Teacher uses the recipient's shared course files and maintains the
+current learning record under the State contract. Durable project artifacts use
+the project's maintained source and each task owns its execution and recovery
+records. Bounded path maintenance follows the path branch. Stable-target,
+Governance, or broad multi-branch restructuring follows an explicit user
+request through the current task and publication owners.
 
 ## Read the branch required by the work
 
@@ -382,7 +386,7 @@ Shared visible files and Git/GitHub carry durable artifacts. Teachers can read t
 | Teach or prepare philosophy, intellectual history, a philosopher's developing work, or a psychoanalytic theory studied as texts and concepts | [Philosophical text study](references/philosophy.md): per-book concepts, arguments and research connections, conversational teaching, and historical/recursive views where useful. Use the materials branch for saved documents. |
 | Support or design a skimming pass; prepare, assign or adapt practice | [Teaching methods](references/teaching-method.md): source selection, learner-led reading, exercises and feedback. |
 | Create, revise or integrate saved study materials, including existing plans, practice/reading references, glossaries and research connections | [Course materials](references/course-materials.md): independent glossary, connected main guide, technical written/lab training, source/research ownership, reduced duplication, Markdown and saved-result checks. Reading or training design also uses the teaching-method branch. |
-| Enter or repair a course whose folder, resolver, inventory, plan or checkpoints are new, missing, incomplete or stale | [Course workspace](references/course-workspace.md): compile real course facts and validate them. Load the materials branch for affected material writes. |
+| Create or repair a selected course mapping, or resolve a source, workspace or recovery gap in an existing mapped course | [Course workspace](references/course-workspace.md): resolve the facts and validate the affected entry. Load the materials branch for saved-material writes. |
 | Select, plan, audit or revise a learning path; resolve a course-entry mapping, cross-course relation, prerequisite or re-entry | [Learning-path governance](references/learning-path-governance.md), then its two path-data children and affected course cards. An established exact-source explanation does not require this branch. |
 
 These are task conditions, not a fixed itinerary. Complete all branches needed

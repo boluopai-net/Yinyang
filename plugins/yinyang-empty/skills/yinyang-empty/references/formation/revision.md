@@ -180,14 +180,11 @@ document revision alone; an implementation change needs behavioral readback and 
 
 ### Delegate work according to the actual dependencies
 
-The model chooses and delegates agent work on its own, judging the problem's
-difficulty, volume and actual dependencies, the host's available capabilities,
-and the time needed for dispatch, integration and checking. In a revision with
-many content and mechanism changes, independent contributions can proceed in
-parallel to save the person's time. Choose capable agents and reasoning effort
-for each contribution under the host's current selection rules. A small change
-can remain with one agent; useful delegation needs no additional permission
-within the task's existing authority and privacy boundaries.
+When the current host and task authorize delegation, use the host's
+orchestration and model-selection rules. Decide whether independent contributions
+reduce total completion time, including dispatch, integration, and checking.
+Bound each contribution by its actual dependencies, required capability, and
+permitted access.
 
 For example, once the shared direction is settled, one agent can revise a
 bounded set of public reader documents, another can check the rendering or

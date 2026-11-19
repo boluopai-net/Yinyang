@@ -13,8 +13,8 @@ A video URL alone does not trigger acquisition when spoken evidence is irrelevan
 | --- | --- |
 | Python and yt-dlp | Required execution tools for the bundled route; installed separately below, not Skills. |
 | Host execution/file access | Runs the CLI and delivers actual read content; a path or successful connection alone is not evidence read by the model. |
-| Enclosing learning/course or analysis owner | Supplies the question, relevant scope and learning/analysis judgment; video-subtitle owns track acquisition and grounding. No named companion Skill is required by the local source. |
-| Host credential and authentication owner | Retains actual access/personal-authentication boundaries; the public helper uses no credentials. The private-origin connector is replaced, not an installation dependency. |
+| Enclosing learning/course or analysis owner | Supplies the question, relevant scope and judgment. video-subtitle owns track acquisition and grounding. |
+| Host credential and authentication owner | Owns access and personal authentication. The bundled helper runs against public tracks without credentials. |
 
 Requires Python 3.10+ and a current [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 executable on PATH. Install in a virtual environment:
@@ -57,9 +57,7 @@ wrapper. It does not bypass restrictions or silently substitute speech
 recognition, translation, comments or another track. Network/extractor failures
 remain failures; update yt-dlp or diagnose with its official tools when useful.
 
-This original adaptation preserves the local Skill's track, scope and reading
-method while replacing its private connector resource route and host audit
-dependencies. Original package material is [MIT licensed](LICENSE). yt-dlp is a
+Original package material is [MIT licensed](LICENSE). yt-dlp is a
 separate dependency with its own [license and notices](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE);
 its code is not bundled. Video/subtitle rights remain with their owners.
 
@@ -77,8 +75,8 @@ its code is not bundled. Video/subtitle rights remain with their owners.
 | --- | --- |
 | Python 与 yt-dlp | 本包提取路线所需的执行工具，按下文单独安装；不是 Skill。 |
 | 宿主执行／文件访问能力 | 运行 CLI 并交付实际读取内容；文件路径或连接成功不等于模型已读到字幕。 |
-| 外层课程／学习或分析负责人 | 决定问题、相关范围及学习／分析判断；video-subtitle 负责轨道取得与证据依据。本地源未要求某个具名配套 Skill。 |
-| 宿主凭据与认证负责人 | 保留实际访问与个人认证边界；公开脚本不使用凭据。原有私人连接器已替换，不是安装依赖。 |
+| 外层课程／学习或分析负责人 | 决定问题、相关范围及判断。video-subtitle 负责轨道取得与证据依据。 |
+| 宿主凭据与认证负责人 | 负责访问与个人认证。配套脚本无需凭据即可处理公开字幕轨道。 |
 
 依赖 Python 3.10+ 和 PATH 中当前版本的 [yt-dlp](https://github.com/yt-dlp/yt-dlp)。
 按上方命令创建虚拟环境并安装；Windows 使用 `.venv\Scripts\activate` 激活。
@@ -98,7 +96,6 @@ Bilibili 使用显式 `/video/` 链接及 `?p=N`，短链接需先明确解析�
 验证码或站点限制，不规避限制，不暗中改用语音识别、翻译、评论或其他轨道。
 网络或提取器失败仍是失败，可依据实际问题更新 yt-dlp 或用其官方工具诊断。
 
-这是保留本地 Skill 的轨道、范围与阅读方法的原创可移植改写，替换了私人连接器
-资源路由与主机审计依赖。原创内容采用 [MIT 许可](LICENSE)。yt-dlp 单独安装，
+原创内容采用 [MIT 许可](LICENSE)。yt-dlp 单独安装，
 保留其 [许可与声明](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE)，本包
 不附其代码。视频及字幕权利仍属于各自权利人。

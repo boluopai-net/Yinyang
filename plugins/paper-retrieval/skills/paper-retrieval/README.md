@@ -63,8 +63,8 @@ or publication is bundled.
 | 配套方法或依赖 | 用途与取得方式 |
 | --- | --- |
 | [research](../research/README.md) | 证据选择、当前调查与冲突来源判断的配套 Skill；将完整的 [公开 research 包](https://github.com/boluopai-net/Yinyang/tree/main/skills/research) 下载到本包旁边。它不是搜索引擎。 |
-| 浏览器／会话负责人（本地源名为 `browser-relay`） | 仅在受控或登录页面需要：负责准确目标、授权会话复用、结果确认、窗口放置与清理。由宿主提供相应方法和真实浏览器／下载 API；本包不附私人适配器或公开 browser-relay 包。 |
-| 网络诊断负责人（本地源名为 `network`） | 仅在有证据的连接故障需要：使用接收方已有的授权诊断能力，区分传输与访问／捕获问题。无需强制安装 Mac 网络包，也不由此授权更改路由。 |
+| [browser-relay](../browser-relay/README.md) | 需要受控或登录页面时，负责准确目标、授权会话复用、结果确认、窗口放置与清理。按需使用配套包，将其绑定到宿主实际授权的浏览器或下载接口。 |
+| [network](../network/README.md) | 有连接故障证据时，区分传输、访问和捕获问题。按需使用配套包与实际授权的诊断能力。 |
 | 搜索／HTTP／浏览器工具、Python、Poppler、可选 curl | 是实际执行能力，需自行提供或按下文安装；下载 Skill 不等于安装工具或取得图书馆权限。 |
 
 本地方法的职责关系仍保留：research 选择和判断证据，浏览器负责人管理准确的

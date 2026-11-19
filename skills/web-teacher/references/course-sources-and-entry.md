@@ -36,6 +36,14 @@ with the path owner.
 
 ## Combine formats by what they actually contain
 
+Read the selected PDF edition's original pages using the available reader or
+renderer. Use the text layer where useful and inspect page visuals when formulas,
+figures, tables, code or layout bear on the explanation. Use page-level inspection
+or targeted transcription for an unreadable scan. Cite the original and verified
+physical or printed pages. A retained extract, note or translation can help
+locate and understand a passage. Check load-bearing claims against the source and
+preserve each companion's attribution, source links and unique content.
+
 | Material | Contribution to inspect | Teacher's work |
 | --- | --- | --- |
 | Books, papers and substantial notes | Connected definitions, arguments, evidence, examples or derivations | Select actual chapters/sections and preserve their edition, assumptions and role. Separately selected book study retains its own material contract. |

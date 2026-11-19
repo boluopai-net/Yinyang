@@ -31,12 +31,9 @@ Use the materials branch's [three writing approaches](course-materials.md#select
 to identify philosophical work and its actual scientific, mathematical or
 engineering connections. For philosophy-led study, use its
 [two connected documents](course-materials.md#philosophical-study-two-connected-documents):
-an independent glossary, prepared first with an opening graphical concept map
-and role-labeled entries, and one main study-and-research guide for that same book.
-The glossary remains required support even for a short book; the user should
-not have to remember the vocabulary to follow the discussion. Preserve detailed
-entries and source anchors, and connect the map to those same entries. Give
-edges meaningful relations rather than treating every relation as hierarchical.
+an independent glossary and a main study-and-research guide for the same book.
+The glossary supports discussion even for a short book by keeping the
+vocabulary and source passages available on return.
 
 The main guide traces the book's central problems, claims, reasons, transitions,
 objections and responses. Following the shared
@@ -51,20 +48,10 @@ An anthology can contain competing arguments; do not force one unified thesis
 or author onto it. Follow the shared [research-relationship method](course-materials.md#research-relationships-across-disciplines),
 which applies equally to technical sources.
 
-Integrate explanatory visuals under the materials branch's
-[visual-support contract](course-materials.md#explanatory-visuals-within-the-existing-documents):
-show consequential distinctions beside the relevant glossary entries and
-argument relations in the guide, in addition to the opening concept map.
-Preserve interpretive qualifications
-and avoid making a diagram's neat structure erase an unresolved relation.
-
-Connect each substantive unit to the relevant glossary entries and source
-passages. Keep needed short explanations in the main flow so the reader can
-continue without repeatedly changing files. A concept map or chapter
-summary alone does not supply connected argument. Extended reasoning belongs
-in the main guide, preserving the glossary's exclusion of proofs and proof
-sketches. The research relationship is part of that same main document, not a
-third compulsory file or a detached list of possible applications.
+Apply the materials branch's
+[visual-support method](course-materials.md#explanatory-visuals-within-the-existing-documents)
+and preserve interpretive qualifications and unresolved relations in diagrams.
+Anchor substantive units to the relevant source passages and glossary entries.
 
 Keep the pair per book; a cross-book synthesis does not substitute for it.
 Preserve explicitly selected source-unit coverage instead of expanding every
@@ -74,10 +61,9 @@ exercise pool, skimming reference or progress file is required in this mode.
 Overall priorities and existing recovery records retain their owners.
 
 All models working with the collection use its selected mode, independently
-of a Teacher persona. The collection resolver locates the pair; the materials
-branch owns coherent presentation, research/source ownership, gradual integration
-of existing documents and reduced duplicate writing. No new protocol or special
-file format is needed.
+of a Teacher persona. The collection resolver locates the pair. Use
+[Course materials](course-materials.md#connected-presentation-and-economical-maintenance)
+for presentation and integration of existing files.
 
 Teach the book's concepts and argument together as the question needs them.
 Use examples and counterexamples to explain, without automatically converting
