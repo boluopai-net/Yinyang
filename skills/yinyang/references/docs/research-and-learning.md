@@ -80,16 +80,20 @@ Depending on the learning object, use the two- or three-document arrangement bel
 
 <a id="term-list-use"></a>
 
-Each module in a learning path has its own **term list**. Module names and themes help readers navigate the learning path. Use only the names of specific courses, books, papers, or projects studied as headings in the term list. Apply the same rule to each supplemental source. Under each heading, use a two-column table for the units and terms, with commas between terms in the same unit. Link each term directly to its explanation in the relevant material. Keep the module’s index even when its sources have their own glossaries, so readers can look up terms across the module. For a standalone course, book, or paper, use the two or three companion documents above, with definitions, examples, and concept relationships in that source’s **glossary and definitions**.
+Each module in a learning path has its own **term list**. Put the learning unit in the left column, **Unit**, and the terms to recall from that unit in the right column, **Terms**. Separate the terms with commas and link each one directly to its explanation in the relevant material. Module names and themes help readers navigate the learning path.
+
+Use source headings only for the titles of books actually used. Under a book title, give each chapter or coherent chapter group its own row. For a course, put the course name and lecture together in each unit cell. Each paper occupies one row as a unit. A review with several titled parts may use one row per part. Where the reading interface supports it, a long group of paper rows can expand together. Use the project name as the unit in its row. Apply the same arrangement to supplemental sources.
+
+Keep the module’s term list even when its sources have their own glossaries, so readers can look up terms across the module. For a standalone course, book, or paper, use the two or three companion documents above, with definitions, examples, and concept relationships in that source’s **glossary and definitions**.
 
 <a id="term-list"></a>
 
-### Data 100 term list (excerpt)
+Here are two example rows from the Data 100 lectures.
 
 | Unit | Terms |
 | --- | --- |
-| Sampling | [Population](https://ds100.org/course-notes/sampling/#censuses-and-surveys), [sampling frame](https://ds100.org/course-notes/sampling/#censuses-and-surveys), [sample](https://ds100.org/course-notes/sampling/#censuses-and-surveys) |
-| Ordinary least squares | [Design matrix](https://ds100.org/course-notes/ols/#linear-algebra-approach), [mean squared error](https://ds100.org/course-notes/ols/#mean-squared-error), [residual](https://ds100.org/course-notes/ols/#residuals) |
+| Data 100 (Sampling) | [Population](https://ds100.org/course-notes/sampling/#censuses-and-surveys), [sampling frame](https://ds100.org/course-notes/sampling/#censuses-and-surveys), [sample](https://ds100.org/course-notes/sampling/#censuses-and-surveys) |
+| Data 100 (Ordinary least squares) | [Design matrix](https://ds100.org/course-notes/ols/#linear-algebra-approach), [mean squared error](https://ds100.org/course-notes/ols/#mean-squared-error), [residual](https://ds100.org/course-notes/ols/#residuals) |
 
 Organize each companion set around the scope studied in a course, book, or paper. When a module draws on distinct sources, use the companion set for each. The same source and scope can share one set across courses or modules. Papers addressing one question can also share a set that retains the relevant locations in each source. The overall learning path supports selection across courses, and a specific guide develops understanding of the current book, paper, or question. Attribute original material and model explanations separately.
 

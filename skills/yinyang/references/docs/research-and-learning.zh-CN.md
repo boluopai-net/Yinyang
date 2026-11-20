@@ -76,16 +76,20 @@
 
 <a id="term-list-use"></a>
 
-学习路径中的模块各有一份**词表**。模块名和主题用于学习路径导航。词表只用实际学习的具体课程、书籍、论文或项目的名称作标题，补充来源也按此规则逐一列出。每个标题下用「单元｜词条」两列列出要回认的词，同一单元的词用顿号隔开，每个词直达对应材料中的具体解释。即使各来源已有自己的术语与名词解释表，模块也保留这个入口，方便跨材料回查。单独学习一门课、一本书或一篇论文时，按上表准备两份或三份材料，定义、例子和概念关系由该来源的**术语与名词解释表**保存。
+学习路径中的模块各有一份**词表**。左列「单元」写学习单元，右列「词条」写该单元要回认的词，用顿号隔开，每个词直达对应材料中的具体解释。模块名和主题用于学习路径导航。
+
+只有实际使用的书籍以书名作来源标题，书下按章节或连贯的章节组逐行列出。课程按讲次列行，单元格内写课程名和讲次。每篇论文作为一个单元占一行，确实分为多个有标题部分的综述可按这些部分分别列行。论文较多时，可在支持展开的阅读界面把整组论文行收在一起。项目以项目名作为单元列行。补充来源沿用同样的安排。
+
+即使各来源已有自己的术语与名词解释表，模块也保留词表，方便跨材料回查。单独学习一门课、一本书或一篇论文时，按上表准备两份或三份材料，定义、例子和概念关系由该来源的**术语与名词解释表**保存。
 
 <a id="term-list"></a>
 
-### Data 100 词表（示例节选）
+下面以 Data 100 的两讲为例。
 
 | 单元 | 词条 |
 | --- | --- |
-| 抽样 | [总体](https://ds100.org/course-notes/sampling/#censuses-and-surveys)、[抽样框](https://ds100.org/course-notes/sampling/#censuses-and-surveys)、[样本](https://ds100.org/course-notes/sampling/#censuses-and-surveys) |
-| 普通最小二乘 | [设计矩阵](https://ds100.org/course-notes/ols/#linear-algebra-approach)、[均方误差](https://ds100.org/course-notes/ols/#mean-squared-error)、[残差](https://ds100.org/course-notes/ols/#residuals) |
+| Data 100（抽样） | [总体](https://ds100.org/course-notes/sampling/#censuses-and-surveys)、[抽样框](https://ds100.org/course-notes/sampling/#censuses-and-surveys)、[样本](https://ds100.org/course-notes/sampling/#censuses-and-surveys) |
+| Data 100（普通最小二乘） | [设计矩阵](https://ds100.org/course-notes/ols/#linear-algebra-approach)、[均方误差](https://ds100.org/course-notes/ols/#mean-squared-error)、[残差](https://ds100.org/course-notes/ols/#residuals) |
 
 配套文件按课程、书籍或论文的学习范围组织。模块涉及不同来源时，分别使用对应的配套文件。同一来源的同一学习范围可以跨课程或模块复用同一套材料。一组共同回答一个问题的论文也可以合用一套，保留各篇的对应位置。总的学习路径负责跨课程选择，具体指南帮助理解眼前的书、论文或问题。原文与模型解释各自标明来源。
 
