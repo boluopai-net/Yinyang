@@ -80,7 +80,7 @@ Depending on the learning object, use the two- or three-document arrangement bel
 
 <a id="term-list-use"></a>
 
-Each module in a learning path has its own **term list**. Give each course, book, or paper a heading and use a two-column table for its units and terms. Separate terms in the same unit with commas and link each term directly to its explanation in the relevant material. Keep the module’s index even when its sources have their own glossaries, so readers can look up terms across the module. For a standalone course, book, or paper, use the two or three companion documents above, with definitions, examples, and concept relationships in that source’s **glossary and definitions**.
+Each module in a learning path has its own **term list**. Module names and themes help readers navigate the learning path. Use only the names of specific courses, books, papers, or projects studied as headings in the term list. Apply the same rule to each supplemental source. Under each heading, use a two-column table for the units and terms, with commas between terms in the same unit. Link each term directly to its explanation in the relevant material. Keep the module’s index even when its sources have their own glossaries, so readers can look up terms across the module. For a standalone course, book, or paper, use the two or three companion documents above, with definitions, examples, and concept relationships in that source’s **glossary and definitions**.
 
 <a id="term-list"></a>
 
