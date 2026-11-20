@@ -80,6 +80,12 @@ writing distinction. Language learning keeps its own applicable method.
 
 ## Required independent glossary
 
+Use `术语与名词解释表` for the detailed glossary in Chinese. A learning path's
+`词表` is a vocabulary list of linked terms for recall. The glossary owns the
+definitions, conditions, distinctions, and compact examples needed to recover
+the meaning. Count the glossary, main guide and applicable training document
+as the core study materials. The vocabulary list belongs to route navigation.
+
 For substantial saved study material, prepare the relevant glossary scope first.
 Keep it as a separate file regardless of length: the user needs it to recognize
 and recover concepts, not as an optional appendix after memorization. Begin with
@@ -378,11 +384,11 @@ or visual entry and State owns resumption; neither requires another saved
 artifact or an expanded glossary. Each entry conveys defining meaning in
 the chosen teaching language, with essential qualifications, original terms, abbreviations
 and notation.
-Formulas and selected explanatory visuals support meaning rather than replace
-it. The visual-support section applies inside detailed entries as well as to
-the opening map. Ordinary recall glossaries omit extended worked examples,
-assigned exercises, proofs and expanded exposition; teaching
-may use them. Philosophy concept tables use the contextual explanation required
+Formulas and selected explanatory visuals support the meaning. The
+visual-support section applies inside detailed entries as well as to the
+opening map. Include compact examples when they establish a distinction or
+clarify an application condition. Use extended worked examples and expanded
+exposition in lessons or the main guide. Philosophy concept tables use the contextual explanation required
 by [the philosophy branch](philosophy.md), including a bounded example or contrast
 when it is needed to preserve a concept's meaning. Proofs, proof sketches and
 assigned exercises still belong outside the glossary. Use enough prose for
@@ -416,7 +422,7 @@ section names and shallow organization; label authorized cross-course bridges.
 
 Use actual folders and resolvers; preserve learner content and useful
 explanations unless removal is requested. Keep one discoverable glossary entrypoint
-(`术语表` in the Chinese profile);
+(`术语与名词解释表` in the Chinese profile);
 it may link named unit tables grouped under a collapsible folder or headings.
 The philosophy branch owns their chronological ordering and complementary maps.
 Repair links after renames or removals. Retained handbooks are concept expositions

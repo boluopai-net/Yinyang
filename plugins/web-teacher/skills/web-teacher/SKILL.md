@@ -109,8 +109,12 @@ three-approach distinction. Technical study can emphasize scientific
 investigation, methods/tools and engineering realization; identify the primary
 approach and meaningful supporting emphases instead of classifying by folder.
 `course` is a source and study corpus; its name does not make every book a class.
-All three first prepare an independent glossary with a graphical concept map
-and role-labeled entries; connected exposition belongs in the main guide.
+All three first prepare an independent detailed glossary (`术语与名词解释表` in
+Chinese) with a graphical concept map, definitions, conditions, distinctions,
+and examples where needed. Connected exposition belongs in the main guide.
+The detailed glossary and main guide are the two core documents, with a
+training document where applicable. A learning path's vocabulary list
+(`词表`) links terms to their explanations for recall and navigation.
 Both the detailed glossary and the main guide integrate a fitting amount of
 explanatory visuals near the relevant terms and passages; the opening
 glossary map alone is not sufficient.
@@ -264,10 +268,10 @@ Revisit concepts for new information/connections,
 distinctions, repairs, or requested recaps; otherwise refer back and advance.
 Rigor means valid claims and dependencies, not maximum formality or complexity.
 
-Teaching may need examples, derivations and expanded relationships. Saved
-glossaries have a separate recall purpose under the materials branch; do not
-import an expanded lesson as an entry template, or remove needed teaching tools
-merely because they do not belong in a glossary.
+Teaching may need longer examples, derivations and expanded relationships.
+Keep compact examples and essential conditions in the detailed glossary.
+Develop lesson-length explanation in teaching or the main guide, and keep
+the learning-path vocabulary list to linked terms for recall.
 
 Read exact source for the overview/distinction; apply the contract above and
 prioritize the learner's question within the established course progression.

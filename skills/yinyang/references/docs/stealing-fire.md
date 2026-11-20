@@ -413,7 +413,7 @@ ordinary use, the first question is what would make the next encounter with
 the subject intelligible and fruitful; an elaborate catalog can consume the
 finite attention it was meant to release.
 
-The resulting materials can take several forms: a rewritten glossary tied to
+The resulting materials can take several forms: a glossary whose definitions follow
 the source's usage, a table tracing how concepts change across authors or
 chapters, a study plan, a diagram of relations among ideas, a guide to passages
 worth skimming or reading closely, and exercises focused on the current

@@ -385,7 +385,7 @@ structured comparison, and explicit construction. Neither side owns a mode or
 an ability exclusively.
 The model can prepare several forms of material for listening and reading,
 then edit them in response to what the person discovers: a source-linked
-glossary, a diagram, audio, a concept-change table, or a focused exercise.
+glossary with definitions, a diagram, audio, a concept-change table, or a focused exercise.
 Useful preparation gives understanding an entrance; a standardized knowledge
 base need not precede it. The [learning conclusion in Borrowing fire](stealing-fire.md#a-way-of-learning-prepare-the-encounter)
 develops these materials and their place in actual study.

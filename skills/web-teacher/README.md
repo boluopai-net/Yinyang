@@ -52,6 +52,9 @@ philosophy keeps per-book glossary plus argument/research guide, historical stud
 writes chronologically and teaches recursively across units, technical study
 keeps distinct written and experimental training, and State distinguishes
 prepared support, exposure, learner contributions and untested understanding.
+The course glossary records definitions, conditions, distinctions and examples
+where needed. A learning path's vocabulary list contains terms and links to
+their explanations for recall.
 Private path bodies were not read or copied; private research-direction history,
 host mappings and personal course exceptions were replaced with recipient bindings.
 Original package material is [MIT licensed](LICENSE); companions, Obsidian/PDF++
@@ -69,7 +72,7 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 和连贯讲解保留整体，再用语言、图示、符号、具体情境或操作打开需要理解的关系。
 
 示例：“比较这些解释及区分它们的证据”；“从这位哲学家的后期问题恢复它改变的
-早期概念”；“准备选定书籍的术语表与连贯的论证／研究指南”；
+早期概念”；“准备选定书籍的术语与名词解释表和连贯的论证／研究指南”；
 “从实际来源和有证据的 State 接续，不先以掌握测试阻挡讲解”。
 
 | 配套 Skill | 职责与取得方式 |
@@ -92,7 +95,9 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 支持精确选择、高亮与反向链接验证。不安装时仍可使用普通来源位置与公式，但需说明
 无法完成的验证。安装包不提供材料库、当前学习者画像、访问授权或进度。
 
-保留方法深度：哲学使用每本书的术语表及论证／研究指南；历史研究按时间书写、跨单元
+哲学学习使用每本书的术语与名词解释表及论证／研究指南。解释表保留定义、条件、
+区别和必要例子。学习路径里的词表只列词，并链接到解释，供回忆和定位。
+历史研究按时间书写、跨单元
 递归讲解；技术学习区分书面训练与实验；State 区分准备、接触、学习者贡献和未验证
 理解。私人路径正文未读取或复制；私人研究方向历史、主机映射和个人课程例外改为
 接收方绑定。原创内容采用 [MIT 许可](LICENSE)，配套包、Obsidian／PDF++ 和提供的

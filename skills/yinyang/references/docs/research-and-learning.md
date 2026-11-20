@@ -74,13 +74,24 @@ Depending on the learning object, use the two- or three-document arrangement bel
 
 | Material | Mathematics and technical study: three connected documents | Humanities reading (such as philosophy): two connected documents |
 | --- | --- | --- |
-| Glossary | Keep concepts, notation, conditions, and important distinctions independently accessible, with a concept map showing relationships. | Explain terms in the context of the work, author, and historical setting, connecting them through a concept map. |
-| Main guide | A study and research guide develops the knowledge structure, principles, derivations, examples, reading order, and connections to your questions. | A reading guide develops themes, textual structure, background, source material, and interpretation; where arguments are made, explain claims, reasons, objections, and responses, preserving interpretive differences and relevant connections. |
-| Exercises and experiments | Distinguish written exercises from experimentation or making; keep questions, solutions, and evaluation grounds separately readable, with links to the guide and glossary. | Discussion, interpretation, comparison, and counterexamples can develop through reading; prepare technical training when such an activity is actually selected. |
+| <a id="term-explanations"></a>Glossary and definitions | Keep concepts, notation, conditions, and important distinctions independently accessible, with a concept map showing relationships. | Explain terms in the context of the work, author, and historical setting, connecting them through a concept map. |
+| <a id="main-study-guide"></a>Main guide | A study and research guide develops the knowledge structure, principles, derivations, examples, reading order, and connections to your questions. | A reading guide develops themes, textual structure, background, source material, and interpretation; where arguments are made, explain claims, reasons, objections, and responses, preserving interpretive differences and relevant connections. |
+| <a id="exercises-and-experiments"></a>Exercises and experiments | Distinguish written exercises from experimentation or making; keep questions, solutions, and evaluation grounds separately readable, with links to the guide and relevant definitions. | Discussion, interpretation, comparison, and counterexamples can develop through reading; prepare technical training when such an activity is actually selected. |
+
+<a id="term-list-use"></a>
+
+A **term list** contains only the terms to recall, grouped by unit or topic and linked to the relevant explanations. The **glossary and definitions** section explains terms, illustrates them with examples, and connects related concepts. A term list can sit in a module’s reading path or serve as an index to the glossary.
+
+<a id="term-list"></a>
+
+### Term list
+
+- [Glossary and definitions](#term-explanations) · [Term list](#term-list-use) · [Main guide](#main-study-guide) · [Exercises and experiments](#exercises-and-experiments)
+- [Native-language translation](#source-translation) · [Reading priority](#reading-order) · [Theory learning path](#theory-learning-path) · [Practice learning path](#practice-learning-path)
 
 Organize materials around one learning object. A single paper can have its own two or three reference documents; papers addressing one question can share a set while retaining the relevant locations in each source. Overall learning paths select across courses; a specific guide develops understanding of the current book, paper, or question. Original sources and model explanations retain their separate identities.
 
-Preparation depth follows purpose. A systematic course can have its full materials prepared before study begins. Single-paper reading and research learning can start with the materials currently needed, then add foundational papers' knowledge and relationships to the glossary and guide as gaps emerge. Everyday learning can use the same arrangement, emphasizing important abstractions, conclusions, and examples, with a few understanding checks where helpful.
+Preparation depth follows purpose. A systematic course can have its full materials prepared before study begins. Single-paper reading and research learning can start with the materials currently needed, then add concepts and relationships from foundational papers to the glossary and main guide as gaps emerge. Everyday learning can use the same arrangement, emphasizing important abstractions, conclusions, and examples, with a few understanding checks where helpful.
 
 <a id="learning"></a>
 
@@ -127,13 +138,15 @@ Search primarily for **online courses from outside China with matching topics or
 
 Have the model first obtain the main textbook, required chapters, and papers assigned or actually used by the selected course, then the relevant lecture notes, slides, subtitles or transcripts, assignments, and code. Organize them by course and check completeness. Online courses supply a curriculum and source materials here, not lectures the learner must watch or listen through. Have the model process video only when necessary to obtain relevant subtitles or figures. Where the model cannot complete a download, list the material, original link, and reason for manual completion. Distinguish downloaded materials, online-only entrances, and outstanding items in the index.
 
+<a id="source-translation"></a>
+
 #### Translate the sources before writing preparation files
 
 Here, the original books and papers belong to the self-study course already selected: its main textbook, chapters assigned for a unit, or papers actually discussed in the course. Establish that correspondence before preparing readable editions; prioritizing original works does not call for assembling a separate extracurricular reading list. Where the course uses no corresponding textbook or paper, use the AI preparation files built from its existing sources.
 
 When a source's language is unsuitable for direct reading, have the model translate the complete book, chapter, or paper selected for study into the learner's native language. For the Chinese learner described here, prepare a Chinese translation. Preserve chapter, page, or paragraph correspondence, equations, figures, quotations, and references; check terminology and consequential passages. Use an appropriate existing Chinese edition when available, and read books originally written in Chinese directly. Translation makes the original work readable; a summary does not replace the book or paper.
 
-Then use these sources to write the two or three preparation files described above: a glossary, main guide, and relevant exercises or experiments. These files help explain structure, clarify concepts, supply background, and select practice. Where the original already develops the subject clearly, the guide points to its passages and adds the necessary explanation; finishing the guide is not a prerequisite for reading the original.
+Then use these sources to prepare a glossary with definitions, a main guide, and any relevant exercises or experiments. These files help explain structure, clarify concepts, supply background, and select practice. Where the original already develops the subject clearly, the guide points to its passages and adds the necessary explanation; finishing the guide is not a prerequisite for reading the original.
 
 <a id="reading-order"></a>
 
@@ -144,7 +157,7 @@ Then use these sources to write the two or three preparation files described abo
 | Priority | Material | How to use it |
 | --- | --- | --- |
 | 1 | Chinese editions or translations of the main textbook, chapters, or papers used by the selected course | Use them as the main reading, following the author's concepts, arguments, derivations, and evidence. |
-| 2 | An AI-written glossary, main guide, and relevant exercises or experiments | Use alongside the original to clarify terms, supply background, connect knowledge, explain difficult passages, and select practice. |
+| 2 | An AI-written glossary with definitions, a main guide, and relevant exercises or experiments | Use alongside the original to clarify terms, supply background, connect knowledge, explain difficult passages, and select practice. |
 | 3 | Necessary lecture notes | Read the relevant model-translated and organized portions when the first two layers leave a gap needed now. |
 | 4 | Slides | Use model-organized figures and points to fill a specific gap, without repeating material page by page. |
 | 5 | Transcripts | Only when earlier materials remain insufficient, use relevant explanations translated and organized by the model from subtitles or transcription. |
@@ -185,8 +198,8 @@ Once the materials and practical environment are ready, have the model organize 
 
 | Path | What it organizes | How to use it |
 | --- | --- | --- |
-| Theory learning path | Questions in the field, course modules, conceptual relationships, prerequisites, and readings | Develop an overall understanding and select courses or passages for deeper inquiry. |
-| Practice learning path | Abilities in expression and judgment, tool use, making or experimentation, checking results, and revision | Begin with an ability you want to develop, practice with an actual object, and return to relevant theory. |
+| <a id="theory-learning-path"></a>Theory learning path | Questions in the field, course modules, conceptual relationships, prerequisites, and readings | Develop an overall understanding and select courses or passages for deeper inquiry. |
+| <a id="practice-learning-path"></a>Practice learning path | Abilities in expression and judgment, tool use, making or experimentation, checking results, and revision | Begin with an ability you want to develop, practice with an actual object, and return to relevant theory. |
 
 Write the practice path as an **outline of abilities and tools**. Design might distinguish paper sketches, visual expression, information and interaction structure, prototypes, motion, platform differences, and design handoff. Statistics might distinguish data preparation, visualization, model selection, interpretation, and checking. These are capability areas; the particular work, dataset, or task used for practice can be chosen when learning actually takes place.
 
@@ -204,7 +217,7 @@ Choose the convenient teacher through the [shared teacher entrance](#learning), 
 
 #### Begin with the current question
 
-Follow the [reading priority](#reading-order): open the main textbook, chapter, paper, or Chinese translation used in the selected course's current unit. A brief unit overview can orient the reading before following the author's development. Use the prepared glossary and main guide when terminology, background, or an argument is difficult, then return to the corresponding original passage. Where that course uses no corresponding original, begin with its AI main guide. Have the model check the cited original when a translation, derivation, or piece of evidence needs verification, and correct the materials accordingly.
+Follow the [reading priority](#reading-order): open the main textbook, chapter, paper, or Chinese translation used in the selected course's current unit. A brief unit overview can orient the reading before following the author's development. Use the glossary for definitions and the main guide for difficult background or arguments, then return to the corresponding original passage. Where that course uses no corresponding original, begin with its AI main guide. Have the model check the cited original when a translation, derivation, or piece of evidence needs verification, and correct the materials accordingly.
 
 Use diagrams to see relationships and discussion to express your understanding and questions. Ask the teacher to connect new and existing knowledge, compare explanations, and develop what remains unclear, then check whether it misunderstood. Saved notes and current explanations can revise one another: add useful examples, explanations, and new questions to the existing materials.
 
