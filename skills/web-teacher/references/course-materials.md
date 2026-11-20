@@ -92,10 +92,13 @@ and `词条` columns in Chinese (Unit and Terms in English). Only books, includi
 an actual handbook used as a source, get headings under their titles, with one
 row per chapter or coherent chapter group in source order. For a course
 without a textbook, name the course and relevant lecture or unit in the Unit
-cell. Give each paper and project its own Unit row. When a module has many
-paper rows, use a collapsible group where the reader supports it. Put primary
-sources first, followed by supplements. Separate Chinese terms with `、`.
-Link each term or coherent group directly to its source-specific explanation.
+cell. Give each paper and project its own Unit row. A multipart paper or
+review can span several rows, each naming the paper and the part. The Terms
+cell lists vocabulary from the unit in the same row. Keep bilingual names
+together in that cell when useful. When a module has many paper rows, use a
+collapsible group where the reader supports it. Put primary sources first,
+followed by supplements. Separate Chinese terms with `、`. Link each term or
+coherent group directly to its source-specific explanation.
 
 For substantial saved study material, prepare the relevant glossary scope first.
 Keep it as a separate file regardless of length: the user needs it to recognize
