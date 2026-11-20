@@ -13,9 +13,9 @@ guide and applicable training for this source.”
 
 Each course, book or paper keeps its own detailed glossary. A learning-path
 module links from its main work page to its separate vocabulary list and
-source glossaries. In the vocabulary file, use book titles as headings, put
-courses without a textbook, papers, and projects in the Unit column, and keep
-all rows visible.
+source glossaries. Use course or book titles as headings in the vocabulary
+file. A course heading can include its main textbook. Put papers and projects
+in the Unit column and keep every row visible.
 
 ## Install the linked group
 
@@ -64,7 +64,7 @@ Course 方法，不是弱化的实践副本。准确标识为 `local-teacher`。
 “搭建这个小实验，你承担形式细节，让我预测或解释结果”；
 “为这份材料准备术语与名词解释表、指南及适用训练”。
 
-课程、书籍或论文各有自己的术语与名词解释表，保留定义、适用条件和必要例子。模块正文链接到独立的词表和各来源的解释表。词表采用「单元｜词条」两栏，所有行直接可见。只有书籍单设标题。没有教材的课程在单元栏标出课程和讲次，论文和项目各列为单元。词条链接到各来源的具体解释。
+课程、书籍或论文各有自己的术语与名词解释表，保留定义、适用条件和必要例子。模块正文链接到独立的词表和各来源的解释表。词表按课程或书籍设标题，课程标题可以带上主教材，同一单元只列一次。论文和项目写在「单元」栏，相关词列在「词条」栏并链接到具体解释。所有行直接可见。
 
 | 配套 Skill | 职责与取得方式 |
 | --- | --- |

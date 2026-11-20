@@ -90,11 +90,11 @@ Standalone study uses the detailed glossary directly.
 Maintain one separate `词表` file per learning-path module. Keep the terms and
 their source-specific definitions in their respective vocabulary and glossary
 files. The module work page links to those files. Use Markdown tables with
-`单元` and `词条` columns in Chinese (Unit and Terms in English). Only books,
-including an actual handbook used as a source, get headings under their titles, with one
-row per chapter or coherent chapter group in source order. For a course
-without a textbook, name the course and relevant lecture or unit in the Unit
-cell. Give each paper and project one Unit row by default. A paper with
+`单元` and `词条` columns in Chinese (Unit and Terms in English). Use actual
+course and book titles as headings, including a handbook used as a source.
+A course heading can include its main textbook. Give each lecture, chapter
+or coherent unit group a row in source order, listing each shared unit once.
+Give each paper and project one Unit row by default. A paper with
 substantively distinct parts can span several rows, each naming the paper and
 the part. The Terms cell lists vocabulary from the unit in the same row.
 Keep bilingual names together in that cell when useful. Show all rows
