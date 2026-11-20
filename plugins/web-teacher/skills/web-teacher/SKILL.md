@@ -117,8 +117,9 @@ training document where applicable. Maintain one separate vocabulary file
 (`词表`) per learning-path module and link it and the source glossary files from
 the module work page. Keep every row visible in the vocabulary file's two-column
 Unit and Terms tables. Give courses and books source headings. A course heading
-can include its main textbook, and shared units appear once. Name papers and
-projects in the Unit column. Link terms directly to their source glossaries.
+can include its main textbook, and shared units appear once. Under a source
+heading, label a row by its unit. Use a short recognizable name for a paper
+in the Unit column. Link terms directly to their source glossaries.
 Standalone study uses the detailed glossary directly.
 Both the detailed glossary and the main guide integrate a fitting amount of
 explanatory visuals near the relevant terms and passages; the opening

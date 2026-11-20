@@ -94,9 +94,11 @@ files. The module work page links to those files. Use Markdown tables with
 course and book titles as headings, including a handbook used as a source.
 A course heading can include its main textbook. Give each lecture, chapter
 or coherent unit group a row in source order, listing each shared unit once.
-Give each paper and project one Unit row by default. A paper with
-substantively distinct parts can span several rows, each naming the paper and
-the part. The Terms cell lists vocabulary from the unit in the same row.
+Under a heading, the Unit cell gives just the unit name. Give each paper and
+project one Unit row by default. Use a short recognizable paper name in the
+Unit cell. A paper with substantively distinct parts can span several rows,
+each naming the paper and the part. The Terms cell lists vocabulary from the
+unit in the same row.
 Keep bilingual names together in that cell when useful. Show all rows
 directly in reading view. Put primary sources first, followed by supplements.
 Separate Chinese terms with `、`. Link each term or coherent group directly to
