@@ -87,19 +87,20 @@ conditions, distinctions, and compact examples. Preserve each distinct scope's
 companions and reuse the existing set when a source and selected scope recur.
 Standalone study uses the detailed glossary directly.
 
-Maintain one `词表` per learning-path module. Use Markdown tables with `单元`
-and `词条` columns in Chinese (Unit and Terms in English). Only books, including
-an actual handbook used as a source, get headings under their titles, with one
+Maintain one separate `词表` file per learning-path module. Keep the terms and
+their source-specific definitions in their respective vocabulary and glossary
+files. The module work page links to those files. Use Markdown tables with
+`单元` and `词条` columns in Chinese (Unit and Terms in English). Only books,
+including an actual handbook used as a source, get headings under their titles, with one
 row per chapter or coherent chapter group in source order. For a course
 without a textbook, name the course and relevant lecture or unit in the Unit
 cell. Give each paper and project one Unit row by default. A paper with
 substantively distinct parts can span several rows, each naming the paper and
-the part. The Terms
-cell lists vocabulary from the unit in the same row. Keep bilingual names
-together in that cell when useful. When a module has many paper rows, use a
-collapsible group where the reader supports it. Put primary sources first,
-followed by supplements. Separate Chinese terms with `、`. Link each term or
-coherent group directly to its source-specific explanation.
+the part. The Terms cell lists vocabulary from the unit in the same row.
+Keep bilingual names together in that cell when useful. Show all rows
+directly in reading view. Put primary sources first, followed by supplements.
+Separate Chinese terms with `、`. Link each term or coherent group directly to
+its source-specific explanation.
 
 For substantial saved study material, prepare the relevant glossary scope first.
 Keep it as a separate file regardless of length: the user needs it to recognize
