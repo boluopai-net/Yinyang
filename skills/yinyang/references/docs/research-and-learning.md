@@ -80,14 +80,16 @@ Depending on the learning object, use the two- or three-document arrangement bel
 
 <a id="term-list-use"></a>
 
-Each module in a learning path has its own **term list**. Group the terms to recall by unit or source and link each term directly to its explanation in the relevant course, book, or paper material. Keep the module’s index even when its sources have their own glossaries, so readers can look up terms across the module. For a standalone course, book, or paper, use the two or three companion documents above, with definitions, examples, and concept relationships in that source’s **glossary and definitions**.
+Each module in a learning path has its own **term list**. Give each course, book, or paper a heading and use a two-column table for its units and terms. Separate terms in the same unit with commas and link each term directly to its explanation in the relevant material. Keep the module’s index even when its sources have their own glossaries, so readers can look up terms across the module. For a standalone course, book, or paper, use the two or three companion documents above, with definitions, examples, and concept relationships in that source’s **glossary and definitions**.
 
 <a id="term-list"></a>
 
-### Example module term list: Organizing course study
+### Data 100 term list (excerpt)
 
-- [Glossary and definitions](#term-explanations) · [Term list](#term-list-use) · [Main guide](#main-study-guide) · [Exercises and experiments](#exercises-and-experiments)
-- [Native-language translation](#source-translation) · [Reading priority](#reading-order) · [Theory learning path](#theory-learning-path) · [Practice learning path](#practice-learning-path)
+| Unit | Terms |
+| --- | --- |
+| Sampling | [Population](https://ds100.org/course-notes/sampling/#censuses-and-surveys), [sampling frame](https://ds100.org/course-notes/sampling/#censuses-and-surveys), [sample](https://ds100.org/course-notes/sampling/#censuses-and-surveys) |
+| Ordinary least squares | [Design matrix](https://ds100.org/course-notes/ols/#linear-algebra-approach), [mean squared error](https://ds100.org/course-notes/ols/#mean-squared-error), [residual](https://ds100.org/course-notes/ols/#residuals) |
 
 Organize each companion set around the scope studied in a course, book, or paper. When a module draws on distinct sources, use the companion set for each. The same source and scope can share one set across courses or modules. Papers addressing one question can also share a set that retains the relevant locations in each source. The overall learning path supports selection across courses, and a specific guide develops understanding of the current book, paper, or question. Attribute original material and model explanations separately.
 
