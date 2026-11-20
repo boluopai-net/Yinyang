@@ -92,8 +92,8 @@ and `词条` columns in Chinese (Unit and Terms in English). Only books, includi
 an actual handbook used as a source, get headings under their titles, with one
 row per chapter or coherent chapter group in source order. For a course
 without a textbook, name the course and relevant lecture or unit in the Unit
-cell. Give each paper and project its own Unit row. A multipart paper or
-review can span several rows, each naming the paper and the part. The Terms
+cell. Give each paper and project its own Unit row. A review paper with distinct
+titled parts can span several rows, each naming the paper and the part. The Terms
 cell lists vocabulary from the unit in the same row. Keep bilingual names
 together in that cell when useful. When a module has many paper rows, use a
 collapsible group where the reader supports it. Put primary sources first,
