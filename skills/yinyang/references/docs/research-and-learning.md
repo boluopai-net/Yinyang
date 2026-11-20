@@ -80,16 +80,16 @@ Depending on the learning object, use the two- or three-document arrangement bel
 
 <a id="term-list-use"></a>
 
-A **term list** contains only the terms to recall, grouped by unit or topic and linked to the relevant explanations. The **glossary and definitions** section explains terms, illustrates them with examples, and connects related concepts. A term list can sit in a module’s reading path or serve as an index to the glossary.
+Each module in a learning path has its own **term list**. Group the terms to recall by unit or source and link each term directly to its explanation in the relevant course, book, or paper material. Keep the module’s index even when its sources have their own glossaries, so readers can look up terms across the module. For a standalone course, book, or paper, use the two or three companion documents above, with definitions, examples, and concept relationships in that source’s **glossary and definitions**.
 
 <a id="term-list"></a>
 
-### Term list
+### Example module term list: Organizing course study
 
 - [Glossary and definitions](#term-explanations) · [Term list](#term-list-use) · [Main guide](#main-study-guide) · [Exercises and experiments](#exercises-and-experiments)
 - [Native-language translation](#source-translation) · [Reading priority](#reading-order) · [Theory learning path](#theory-learning-path) · [Practice learning path](#practice-learning-path)
 
-Organize materials around one learning object. A single paper can have its own two or three reference documents; papers addressing one question can share a set while retaining the relevant locations in each source. Overall learning paths select across courses; a specific guide develops understanding of the current book, paper, or question. Original sources and model explanations retain their separate identities.
+Organize each companion set around the scope studied in a course, book, or paper. When a module draws on distinct sources, use the companion set for each. The same source and scope can share one set across courses or modules. Papers addressing one question can also share a set that retains the relevant locations in each source. The overall learning path supports selection across courses, and a specific guide develops understanding of the current book, paper, or question. Attribute original material and model explanations separately.
 
 Preparation depth follows purpose. A systematic course can have its full materials prepared before study begins. Single-paper reading and research learning can start with the materials currently needed, then add concepts and relationships from foundational papers to the glossary and main guide as gaps emerge. Everyday learning can use the same arrangement, emphasizing important abstractions, conclusions, and examples, with a few understanding checks where helpful.
 

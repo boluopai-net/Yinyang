@@ -52,9 +52,11 @@ philosophy keeps per-book glossary plus argument/research guide, historical stud
 writes chronologically and teaches recursively across units, technical study
 keeps distinct written and experimental training, and State distinguishes
 prepared support, exposure, learner contributions and untested understanding.
-The course glossary records definitions, conditions, distinctions and examples
-where needed. A learning path's vocabulary list contains terms and links to
-their explanations for recall.
+Each course, book or paper keeps its own detailed glossary with definitions,
+conditions, distinctions and examples where needed. Only a learning-path
+module has a separate vocabulary list. It links its terms to specific
+explanations across the sources the module uses. Standalone study uses the
+source's detailed glossary directly.
 Private path bodies were not read or copied; private research-direction history,
 host mappings and personal course exceptions were replaced with recipient bindings.
 Original package material is [MIT licensed](LICENSE); companions, Obsidian/PDF++
@@ -95,8 +97,9 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 支持精确选择、高亮与反向链接验证。不安装时仍可使用普通来源位置与公式，但需说明
 无法完成的验证。安装包不提供材料库、当前学习者画像、访问授权或进度。
 
-哲学学习使用每本书的术语与名词解释表及论证／研究指南。解释表保留定义、条件、
-区别和必要例子。学习路径里的词表只列词，并链接到解释，供回忆和定位。
+哲学学习使用每本书的术语与名词解释表及论证／研究指南。每门课、每本书或每篇论文各有
+自己的解释表，保留定义、条件、区别和必要例子。学习路径中只有模块另设词表，只列词，
+并链接到各来源的具体解释，供统一查找。单独学习一个来源时直接查阅它的解释表。
 历史研究按时间书写、跨单元
 递归讲解；技术学习区分书面训练与实验；State 区分准备、接触、学习者贡献和未验证
 理解。私人路径正文未读取或复制；私人研究方向历史、主机映射和个人课程例外改为

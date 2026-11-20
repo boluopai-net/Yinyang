@@ -80,11 +80,13 @@ writing distinction. Language learning keeps its own applicable method.
 
 ## Required independent glossary
 
-Use `术语与名词解释表` for the detailed glossary in Chinese. A learning path's
-`词表` is a vocabulary list of linked terms for recall. The glossary owns the
-definitions, conditions, distinctions, and compact examples needed to recover
-the meaning. Count the glossary, main guide and applicable training document
-as the core study materials. The vocabulary list belongs to route navigation.
+Use `术语与名词解释表` for each course, book, or paper's detailed glossary in
+Chinese. Count the glossary, main guide and applicable training document as
+that source's two- or three-document study set. The glossary owns definitions,
+conditions, distinctions, and compact examples. Only a learning-path module
+gets a separate `词表`. List its terms with direct links to the relevant
+entries in the module's source glossaries, giving readers one place to look
+across its sources. Standalone study uses the detailed glossary directly.
 
 For substantial saved study material, prepare the relevant glossary scope first.
 Keep it as a separate file regardless of length: the user needs it to recognize

@@ -11,6 +11,9 @@ conceptual structure of this argument”; “Build this small experiment, carry 
 formal detail, and let me predict or interpret its result”; “Prepare a glossary,
 guide and applicable training for this source.”
 
+Each course, book or paper keeps its own detailed glossary. A learning-path
+module has one vocabulary list with links into its source glossaries.
+
 ## Install the linked group
 
 Download complete sibling directories, preserving their names and resources:
@@ -58,7 +61,7 @@ Course 方法，不是弱化的实践副本。准确标识为 `local-teacher`。
 “搭建这个小实验，你承担形式细节，让我预测或解释结果”；
 “为这份材料准备术语与名词解释表、指南及适用训练”。
 
-术语与名词解释表保留定义、适用条件和必要例子。学习路径里的词表只列词，并链接到解释，供回忆和定位。
+课程、书籍或论文各有自己的术语与名词解释表，保留定义、适用条件和必要例子。学习路径中只有模块另设词表，只列词，并链接到各来源的具体解释，供统一查找。单独学习一个来源时直接查阅它的解释表。
 
 | 配套 Skill | 职责与取得方式 |
 | --- | --- |
