@@ -12,7 +12,9 @@ formal detail, and let me predict or interpret its result”; “Prepare a gloss
 guide and applicable training for this source.”
 
 Each course, book or paper keeps its own detailed glossary. A learning-path
-module has one vocabulary list with links into its source glossaries.
+module has one vocabulary list with links into its source glossaries. Use book
+titles as headings and put titles of courses without a textbook, papers, and
+projects in the Unit column of the vocabulary tables.
 
 ## Install the linked group
 
@@ -61,7 +63,7 @@ Course 方法，不是弱化的实践副本。准确标识为 `local-teacher`。
 “搭建这个小实验，你承担形式细节，让我预测或解释结果”；
 “为这份材料准备术语与名词解释表、指南及适用训练”。
 
-课程、书籍或论文各有自己的术语与名词解释表，保留定义、适用条件和必要例子。学习路径中只有模块另设词表，只列词，并链接到各来源的具体解释，供统一查找。单独学习一个来源时直接查阅它的解释表。
+课程、书籍或论文各有自己的术语与名词解释表，保留定义、适用条件和必要例子。学习路径中只有模块另设词表，采用「单元｜词条」两栏。只有书籍单设标题。没有教材的课程在单元栏标出课程和讲次，论文和项目各列为单元。词条链接到各来源的具体解释。
 
 | 配套 Skill | 职责与取得方式 |
 | --- | --- |

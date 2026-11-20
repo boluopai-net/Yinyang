@@ -113,10 +113,11 @@ All three first prepare an independent detailed glossary (`术语与名词解释
 Chinese) with a graphical concept map, definitions, conditions, distinctions,
 and examples where needed. Connected exposition belongs in the main guide.
 The detailed glossary and main guide are the two core documents, with a
-training document where applicable. A learning-path module alone gets a
-separate vocabulary list (`词表`). List its terms and link to their explanations
-across the module's source glossaries. Standalone course, book and paper sets
-use their own detailed glossary directly.
+training document where applicable. Maintain one vocabulary list (`词表`) per
+learning-path module, using two-column Unit and Terms tables. Only books get
+source headings. Name courses without a textbook, papers, and projects in
+the Unit column. Link terms directly to their source glossaries. Standalone
+course, book and paper sets use their own detailed glossary directly.
 Both the detailed glossary and the main guide integrate a fitting amount of
 explanatory visuals near the relevant terms and passages; the opening
 glossary map alone is not sufficient.

@@ -83,10 +83,19 @@ writing distinction. Language learning keeps its own applicable method.
 Use `术语与名词解释表` for each course, book, or paper's detailed glossary in
 Chinese. Count the glossary, main guide and applicable training document as
 that source's two- or three-document study set. The glossary owns definitions,
-conditions, distinctions, and compact examples. Only a learning-path module
-gets a separate `词表`. List its terms with direct links to the relevant
-entries in the module's source glossaries, giving readers one place to look
-across its sources. Standalone study uses the detailed glossary directly.
+conditions, distinctions, and compact examples. Preserve each distinct scope's
+companions and reuse the existing set when a source and selected scope recur.
+Standalone study uses the detailed glossary directly.
+
+Maintain one `词表` per learning-path module. Use Markdown tables with `单元`
+and `词条` columns in Chinese (Unit and Terms in English). Only books, including
+an actual handbook used as a source, get headings under their titles, with one
+row per chapter or coherent chapter group in source order. For a course
+without a textbook, name the course and relevant lecture or unit in the Unit
+cell. Give each paper and project its own Unit row. When a module has many
+paper rows, use a collapsible group where the reader supports it. Put primary
+sources first, followed by supplements. Separate Chinese terms with `、`.
+Link each term or coherent group directly to its source-specific explanation.
 
 For substantial saved study material, prepare the relevant glossary scope first.
 Keep it as a separate file regardless of length: the user needs it to recognize
