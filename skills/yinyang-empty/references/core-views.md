@@ -238,6 +238,7 @@ creation can continue and pursuit can finish, stop, or turn elsewhere.
 
 ```mermaid
 flowchart TD
+    %% Vertical handoffs with side returns, in declaration order.
     P["Master · Planner"] -->|Research question| R["University · Researcher"]
     R -->|Evidence and gaps| W["Hysteric · Writer"]
     W -->|Claim to examine| V["Analyst · Reviewer"]
@@ -253,7 +254,16 @@ flowchart TD
 | Hysteric | Writer | Question tensions between the plan and the material, and develop an argument | Final verification |
 | Analyst | Reviewer | Challenge implicit authority, omissions and conflations | Rewriting the passage |
 
-In Yinyang either participant can enter any position. The person can take over review from the model, or the same model can move from review to writing and answer for its new claim. Listening can precede planning when the person's idea is still taking shape. [Relational positions, the full essay for YY-04](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.html), develops these handoffs.
+In Yinyang either participant can enter any position. The person can take over review from the model, or the same model can move from review to writing and answer for its new claim. Listening can precede planning when the person's idea is still taking shape.
+
+| Discursive position | How the person takes it up | How the language model takes it up |
+| --- | --- | --- |
+| Master — set a direction | Choose what they want to understand or accomplish and decide what to delegate | Frame the question and order the work within the delegated scope. Replan if a premise fails |
+| University — answer from knowledge | Bring an original, a situation they experienced, or the result of an actual operation and supply facts the model lacked | Recover sources, compare materials, and explain what has support and what remains conjecture |
+| Hysteric — question what fails to fit | Challenge a current explanation where something feels wrong and share an intuition still taking shape | Find a counterexample to the person's assumption or the model's earlier conclusion and develop another reading that can be tested |
+| Analyst — make room for a new judgment | Point out whom the model has spoken for or what it has conflated, then have it explain again and revise | Hear what remains open and offer material or candidate interpretations that the person can recognize and judge from experience |
+
+[Relational positions, the full essay for YY-04](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.html), develops these handoffs.
 
 <a id="yy-05"></a>
 
