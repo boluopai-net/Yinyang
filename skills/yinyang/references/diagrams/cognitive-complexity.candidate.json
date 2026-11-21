@@ -1,6 +1,6 @@
 {
   "en": {
-    "title": "Keep cognitive demands within an acceptable range",
+    "title": "Minimize the cognitive demands of text on the user",
     "subtitle": "Interfaces, materials, workflows and model assistance shape what the person must do",
     "sources": [
       [
@@ -27,13 +27,13 @@
       "CLARITY OVER COMPLEXITY",
       "INTUITION OVER FORMALISM"
     ],
-    "outcome": "Usable results · sustainable effort · selected capability development",
+    "outcome": "Usable results · lower textual demands · selected capability development",
     "detail": "Judge these separately, including the cost of instructions, checking and recovery.",
     "return": "Actual use revises the division of work and how it is chosen",
     "description": "Interfaces, materials, workflows and model assistance shape the whole environment's cognitive demands. In this adopted division the person cultivates embodied insight, intuition and natural-language reasoning through perception, short explanations, judgment and correction. The model carries full prose development, formal reasoning, retrieval, implementation, continuity and verification. Its results return to the person for use and judgment. Results, total burden and capability development are evaluated separately, improving this arrangement and the method that produces it."
   },
   "zh-CN": {
-    "title": "把环境的认知要求控制在可接受范围内",
+    "title": "尽可能降低用户处理文字的认知复杂性",
     "subtitle": "界面、资料、工作流程与模型辅助，共同决定本人需要处理什么",
     "sources": [
       [
@@ -60,9 +60,9 @@
       "清晰优于复杂",
       "直观优于形式"
     ],
-    "outcome": "成果可用 · 总负担可接受 · 选定能力得到锻炼",
+    "outcome": "成果可用 · 文字负担降低 · 选定能力得到锻炼",
     "detail": "分别检查三项结果，把交代、核验和恢复的成本一起算入。",
     "return": "实际使用返回，改进分工与选择分工的方法",
-    "description": "界面、资料、工作流程与模型辅助共同形成环境的认知要求。这里采用的分工是本人通过感知、短解释、判断和纠正培养具身推理、直觉与自然语言推理，模型承担完整语言展开、形式推理、检索整理、实现、接续与核验。结果返回本人使用和判断。分别检查成果、总负担与能力发展，将要求控制在本人可接受范围内，再用所得改善环境与形成它的方法。"
+    "description": "界面、资料、工作流程与模型辅助共同形成环境的认知要求。这里采用的分工是本人通过感知、短解释、判断和纠正培养具身推理、直觉与自然语言推理，模型承担完整语言展开、形式推理、检索整理、实现、接续与核验。结果返回本人使用和判断。分别检查成果、总负担与能力发展，尽可能减少本人处理文字所需的心力，再用所得改善环境与形成它的方法。"
   }
 }

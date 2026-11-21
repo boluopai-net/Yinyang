@@ -1,14 +1,14 @@
 # Cognitive Complexity in Personal Recursive Self-Evolution
 
-![The environment keeps demands manageable so the person can develop embodied reasoning, intuition, and reasoning in natural language while the model takes on full exposition, formal reasoning, and implementation.](../diagrams/cognitive-complexity.svg)
+![The environment minimizes the cognitive demands of text on the user so the person can develop embodied reasoning, intuition, and reasoning in natural language while the model takes on full exposition, formal reasoning, and implementation.](../diagrams/cognitive-complexity.svg)
 
-Keep the demands of the whole environment manageable by organizing the work around what the person develops and what the model can carry.
+Minimize the cognitive demands of text on the user by organizing the work around what the person develops and what the model can carry.
 
 [中文](cognitive-complexity.zh-CN.md)
 
-## Keep the Demands of the Environment Manageable
+## Minimize the Cognitive Demands of Text on the User
 
-**Control the cognitive complexity of the personal environment within a range the person finds acceptable.** Interfaces, materials, workflows, and model assistance determine what the person must understand, find, remember, choose, operate, and resume. Returning to a draft can demand that someone identify the current version, recover an open question, and find its evidence before they can think about the argument. Put the draft, question, and source within reach so their effort goes into the argument.
+**Minimize the cognitive complexity of expressing and understanding through text for the user.** Interfaces, materials, workflows, and model assistance determine what the person must understand, find, remember, choose, operate, and resume. Returning to a draft can demand that someone identify the current version, recover an open question, and find its evidence before they can think about the argument. Put the draft, question, and source within reach so their effort goes into the argument.
 
 Cognitive complexity concerns the relations and steps the arrangement asks someone to manage. Cognitive load concerns how much of the person's available cognitive capacity those demands draw on. In learning, some elements have to be considered together. Following an argument takes holding the claim and its grounds in relation, while searching across tabs for the page adds a demand created by the arrangement.
 
@@ -57,7 +57,7 @@ The model can directly control much of the burden created by its own help. It ca
 
 ## Learn From Use and Revise the Design Method
 
-Judge the whole activity by what the person can recognize, explain, judge, and do with the supports they actually use, and by whether the effort stays within a range they can accept. After an interruption, opening the file is only the first step. Can the person recover the relation they were thinking about, test a new thought against the passage, and keep reading?
+Judge the whole activity by what the person can recognize, explain, judge, and do with the supports they actually use, and by what effort in processing text the model can still take over. After an interruption, opening the file is only the first step. Can the person recover the relation they were thinking about, test a new thought against the passage, and keep reading?
 
 Use what happens to improve both the environment and the way it is designed. In the next reading tool, check whether a person can recover an argument and continue interpreting it, with the source, notes, and model support in place. That test can reveal a missing relation between materials or a place where the model's answer leaves too little room for the person's insight. Revising the method that identifies and repairs these demands is itself part of personal recursive self-evolution.
 

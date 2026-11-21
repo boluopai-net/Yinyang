@@ -1076,21 +1076,9 @@ If each prototype takes longer to check than it saves in implementation, supervi
 
 ## YY-19 · Cognitive complexity in personal recursive self-evolution
 
-**Control the cognitive complexity of the personal environment within a range the person finds acceptable.** Interfaces, materials, workflows, and model assistance determine what the person has to understand, find, remember, choose, operate, and resume. The range depends on the person, the activity, and the abilities they choose to develop.
+**Minimize the cognitive complexity of expressing and understanding through text for the user.** The person can begin with a relation they already perceive. The model recovers context, organizes materials, and carries formal reasoning and verification. When returning a result, it presents the claim, grounds, and differences that require the person's judgment together, preserving the conditions on which the inference depends. The person can then judge the argument directly without reconstructing it from scattered passages.
 
-YinYang puts the person's finite effort into embodied reasoning, intuition, and generation and judgment in natural language. A felt difference, a sketch, or a few words can start the work. The model retrieves and organizes materials, develops the full exposition, and carries all formal reasoning, implementation, and verification. It also recovers context and reduces the burden of its own help by cutting redundant text and assessing routine options. Favor **visuals over text, clarity over complexity, and intuition over formalism** in the whole environment.
-
-What stays with the person depends on the capacity they want to develop. The same partner can prepare evidence, arrange a replay, or build a working interface.
-
-| Activity | What the person contributes and develops | What the model takes on |
-| --- | --- | --- |
-| Read an argument | Point to a shift in a word's meaning and say what seems to change. Read a counterexample and reconsider the explanation. | Retrieve both passages, organize the evidence, derive formal consequences, and write and check the full account. |
-| Listen to two readings | Hear a shift in emphasis, imitate it, and say what difference it makes to the sentence. | Find and align the clips, set up replay, and assemble the comparison and explanation. |
-| Improve a reading tool | Notice where the thread is lost, sketch the needed relation, try the new view, and judge whether it helps. | Recover the reading context, develop the design, formalize its behavior, implement and verify it, and bring the person back to the same passage. |
-
-In each activity, the person can use the result to make another judgment. When the aim is simply to obtain a finished work, the model can complete and check it directly.
-
-Connect the demands of an activity with the person's actual processing by examining the same arrangement from four sides:
+[YY-02](#yy-02), [YY-03](#yy-03), and [YY-07](#yy-07) establish which acts of perception, generation, and judgment the person retains. Reducing textual demands concerns the effort of expression, retrieval, and understanding required to participate. Omitting a necessary relation in compression shifts inference back to the user. When visual adjacency and position make relations directly perceptible, a diagram can preserve information while reducing inference.
 
 | Object of assessment | Question for cooperation |
 | --- | --- |
@@ -1099,9 +1087,7 @@ Connect the demands of an activity with the person's actual processing by examin
 | Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
 | Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
 
-In formal systems, selecting a restricted language fragment can change the problem class and its computational complexity. At the human–model interface, choosing enough expressive scope to begin lets the model carry further development. Even when text and diagrams convey the same information, location, adjacency, and shape can change search and inference costs. Bring relations that need joint judgment together, and count translation between media, supervision, and resumption within the whole activity when judging whether a form actually reduces effort.
-
-Judge the whole activity by the effort it asks and what the person can recognize, explain, judge, and do with dependable model and tool support. Use actual experience to revise the arrangement and the methods that produce and evaluate it. This division follows [YY-02](#yy-02), [YY-03](#yy-03), [YY-07](#yy-07), and [YY-18](#yy-18). [Cognitive Complexity in Personal Recursive Self-Evolution](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html) develops the argument.
+Following [YY-18](#yy-18), comparing representations and divisions of work requires accounting for the user's effort in giving instructions, switching media, supervising, and resuming. The understanding and judgment preserved in use test whether the burden has fallen and inform revisions to the methods that produce these arrangements. [Cognitive Complexity in Personal Recursive Self-Evolution](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html)
 
 ## Sources and the author's synthesis
 
