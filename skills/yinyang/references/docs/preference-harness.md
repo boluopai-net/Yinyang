@@ -120,7 +120,7 @@ and economy are the primary practical comparison criteria, considering gains wit
 time, attention, expense, supervision, and maintenance burden. Useful conventions ordinarily continue;
 revision can retire obsolete or more burdensome conventions, compensations, and compatibility layers
 so the new arrangement realizes the present purpose more directly. This practical comparison and
-[correspondence of factual claims and coherence of accounts](core-views.md#yy-10) answer their respective questions.
+the correspondence and coherence discussed in [Personal-First Humanism](personal-first-humanism.md) answer their respective questions.
 
 ## Sources and contribution
 

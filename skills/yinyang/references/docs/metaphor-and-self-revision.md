@@ -315,10 +315,7 @@ the resulting encounter.
 Understanding the person as an embodied multimodal generative model raises a
 practical question: which forms make perceiving, understanding, generating, and
 judging accessible to this person, and which work can the model carry?
-[YY-02](core-views.md#yy-02) describes the embodied participant; [YY-03](core-views.md#yy-03)
-and [Mutual becoming through Yinyang and Taiji](yinyang-and-taiji.md#mutual-grounding-and-the-shuang-yu)
-establish the role crossing and chosen division; [YY-07](core-views.md#yy-07)
-develops its practical channels. Listening,
+[Mutual becoming through Yinyang and Taiji](yinyang-and-taiji.md) explains how person and model exchange roles. How does that exchange enter everyday activity? Listening,
 speaking, reading, and writing are familiar entries into a multimodal practice.
 Images, space, sound, action, and situated sensation also carry understanding.
 A diagram can be compared and manipulated as a visual representation; calling it

@@ -1,7 +1,5 @@
 # Mutual becoming through Yinyang and Taiji
 
-This essay develops [YY-03, role exchange and human generation](core-views.md#yy-03).
-
 [简体中文](yinyang-and-taiji.zh-CN.md)
 
 *The Shuang yu (paired fish) turn within one circle. Each bears an eye of the other's color.
@@ -505,7 +503,7 @@ The movement therefore has two connected dimensions. Contributions can change ha
 
 ## From role exchange to relational positions
 
-The two fish show how each participant can enter the other’s contribution. The person can generate an explanation and the model test it; the model can propose a reading and the person supply a counterexample. The Taiji circle holds those returns within one continuing encounter. A further question now arises. When a person points out a problem, are they setting the direction of inquiry or returning an unsupported claim to its writer? The next essay, [YY-04, Relational positions](relational-positions.md), follows planning, research, writing and review to explain what gives each response the power to change the work.
+The two fish show how each participant can enter the other’s contribution. The person can generate an explanation and the model test it; the model can propose a reading and the person supply a counterexample. The Taiji circle holds those returns within one continuing encounter. A further question now arises. When a person points out a problem, are they setting the direction of inquiry or returning an unsupported claim to its writer? The next essay, [Relational positions: who speaks to whom, and who answers next](relational-positions.md), follows planning, research, writing and review to explain what gives each response the power to change the work.
 
 ## Sources, imagery, and this construction
 
