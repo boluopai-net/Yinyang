@@ -219,7 +219,7 @@ Use the verified course materials and available environment to create two paths 
 
 <a id="contextual-course-entrance"></a>
 
-A topic contains modules. Each module develops part of that topic through its courses, and each course teaches it through units. Give each course one entry where the module explains what it contributes. If another module already teaches the specific part you need, link straight to that course unit in the paragraph that uses it. Explain what the reader should learn there before continuing with the current question.
+A topic contains modules. Each module develops part of that topic through its courses, and each course teaches it through units. Give each course an entry where the module explains its contribution. If another module already teaches the part you need, link straight to one coherent course unit in the paragraph that uses it. Include the existing module code in the link text when it has one. The reader follows that unit's explanation, sources, and practice together, then returns for what the current topic adds. Keep whole-route links in the path overview.
 
 The path guides the reader to the relevant teaching. Original readings or experiment instructions supply the source, and study companions explain it, clarify terms, or provide practice.
 

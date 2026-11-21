@@ -160,11 +160,14 @@ Prepared files and model demonstrations do not advance learning State.
 
 ### Reuse an existing course unit
 
-When a narrow part is already taught in another module, link directly to the
-relevant course-unit heading or block from the paragraph that needs it. Explain
-what it helps the reader understand, then continue the current module's
-explanation. Use one verified unit link for that portion and keep the existing
-teaching at its owner.
+When another module teaches the part needed here, first link from the relevant
+paragraph to the smallest coherent unit that covers it. Include the existing
+module code in the visible link text when it has one, and use the exact
+course-unit heading or block as the destination. Explain why to open it.
+The unit keeps the connected explanation, examples, readings and practice
+together. Whole-route links belong in the path overview. Then develop the
+current topic's own contribution in the prose around the link, at the depth
+the question calls for.
 
 Original materials supply the source, study companions develop and explain it,
 and the learning path guides the reader to the relevant part of the teaching.
