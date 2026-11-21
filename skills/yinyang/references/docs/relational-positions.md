@@ -1,66 +1,10 @@
 # Relational positions: who speaks to whom, and who gets to answer
 
-This essay develops [YY-04, relational positions](core-views.md#yy-04). [YY-03, Yinyang and Taiji](yinyang-and-taiji.md), has established why person and model can exchange generation and judgment. Once work changes hands, who can frame the question, who can object, and to whom does the objection return?
+[YY-03, Yinyang and Taiji](yinyang-and-taiji.md), argues that person and model can each offer an interpretation and examine the other's. [YY-04](core-views.md#yy-04) asks what changes hands with a manuscript. Am I asking you to frame the question, check the sources, write the argument or review it? If you find a problem, what can you revise, and what should you return to me?
 
-Two people can take turns throughout a conversation while only one can change the question. A teacher asks why a student reads a passage a certain way and marks the answer against a key. A coauthor asks the same question, hears the reason, discovers an error in her own reading and revises the manuscript. The difference becomes visible when the answer arrives. Whose judgment can it change, and what difference can it make to their work?
+## How a manuscript moves among four positions
 
-[Shared reflection](participation-and-support.md) needs an account of this difference. **A relational position concerns what gives someone standing to speak, whom the utterance addresses the other as, and in what capacity the other can reply.** Someone can choose what to investigate and still depend on another to judge the evidence. Someone who has all the sources may have little standing to say what the reader wanted from them. Direction, interpretation, firsthand testimony and the authority to call for reasons can be differently distributed within a single encounter.
-
-## Four discourses either participant can enter
-
-Read a row across to see who addresses whom, what the speaker can decide and where another contribution is needed. Read down the last column to see the same person or model move. The four pairings come from [Bonomo](https://www.preprints.org/manuscript/202606.1503). Making each position available to both participants is Yinyang's adaptation.
-
-| Lacanian discourse · Bonomo's role | Ground of address | Authority and limit | How either participant can occupy it |
-| --- | --- | --- | --- |
-| **Master · Planner** | An organizing signifier S₁ calls upon knowledge S₂. | Choose a question and an order of inquiry. A command cannot establish a conclusion. | A person selects an equivalence to examine. A model entrusted with direction decides to establish the referent of each term first. |
-| **University · Researcher** | Organized knowledge S₂ addresses its object a. | Retrieve, verify and report coverage. The standard that made these materials relevant remains open to question. | A model returns sources and gaps. A reader finds a sentence in a first edition that later editions omit. |
-| **Hysteric · Writer** | A divided subject S̄ challenges the organizing signifier S₁. | Develop what the received account fails to explain into a new argument. The resulting claim still needs scrutiny. | A reader asks how one term can yield contrary conclusions. A model questions the proposed comparison and writes a different account from the evidence. |
-| **Analyst · Reviewer** | From the place of the object-cause a, address elicits further speech from the divided subject S̄. | Locate a leap, avoidance or forced equivalence and return the question to the speaker. The review itself can be challenged. | A model juxtaposes two usages. A person tells the model it made a decision on the author's behalf and asks it to identify who spoke. |
-
-The table can itself be put to the test. A writer who insists that all subsequent evidence fit a heading speaks as a master in that utterance. A user who commissioned the work can speak from the hysteric's position when something in their experience resists the account. The model may take up the planner's position when that challenge changes what it investigates. An encounter can move between two positions without completing a circuit.
-
-## How one speaker places another in a story
-
-In [Positioning: The Discursive Production of Selves](https://doi.org/10.1111/j.1468-5914.1990.tb00174.x), Davies and Harré treat positioning as something people do in interaction. In speaking, one can position both oneself and the other. The force of an utterance depends on the storyline within which participants understand it and on how the other takes it up. Two people can hear different stories in the same exchange while each believes they have responded carefully.
-
-A reader says she cannot yet explain what is wrong between two sentences. The model offers to teach her the terms from the beginning. In a lesson this offer can be considerate: the teacher undertakes to explain and the student can ask again. In a joint reading of a draft, the reader may be the first to notice a flaw. An invitation to be taught can turn her objection into evidence of a supposed knowledge deficit. Every definition the model supplies could be correct while the original discovery disappears.
-
-She can decline the offered position. She knows both definitions and suspects the author changed the sense of the word the second time. Her reply invites the model to join her in checking the text. If it asks her to prove she understands before hearing the objection, the original relation persists. If it retrieves both passages and offers a counterexample that could discriminate between readings, the objection has changed the work. Knowing more, noticing something first and having standing to choose the present activity can fall to different participants.
-
-## Lacan's four discourses and the changing place of knowledge
-
-Positioning theory follows the unfolding encounter. In [Seminar XVII](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/), Lacan asks what sustains a social bond, puts the other to work and is produced thereby. Four places remain fixed. Across the top, the agent addresses the other. Beneath the agent lies the truth supporting the address without being fully spoken in it. Beneath the other lies what the working of the bond produces. The two levels let us ask what separates the professed ground of an address from the truth sustaining it.
-
-Four terms rotate: the master signifier S₁, knowledge S₂, the divided subject S̄ and the object-cause of desire a. A master signifier organizes other formulations around a naming. S₂ designates articulated knowledge. The divided subject marks a split between the speaker and the signifiers through which the speaker is represented. The object a functions as a cause that keeps desire in motion. Follow knowledge through the four formulas: it is called to work by the master, speaks in university discourse, is produced by a hysteric's challenge and occupies the place of truth in analytic discourse. The [Lacan reading guide](lacan-reading-guide.md) sets out all four arrangements.
-
-| Discourse | What the configuration brings into view |
-| --- | --- |
-| Master | An instruction to demonstrate that a method works rapidly organizes an inquiry. It can also conceal the commander's own uncertainty and put the intended result into the task. |
-| University | A table of indicators can be impeccable while inheriting a prior decision about what deserves measurement. Accuracy within the table cannot justify that choice. |
-| Hysteric | Someone who scores highly yet cannot recognize a problem in an actual work can challenge the authority naming them proficient. New knowledge may result. Whether that knowledge again confines the speaker to a label remains open. |
-| Analyst | Picking up a recurring word can let the speaker hear what they themselves have called the situation. Which word will matter cannot be prescribed by the listener in advance. A signifier produced by the subject occupies a different place from a name imposed at the start. |
-
-Even if the addressee possesses knowledge, **what knowledge has this encounter come to suppose at their place?** In his [Proposition of 9 October 1967](https://web.english.upenn.edu/~cavitch/pdf-library/Lacan_Proposition_of_9_October.pdf), Lacan makes the subject supposed to know pivotal to transference. In analysis, the address itself establishes a place from which meaning is supposed to be available for interpretation. Its efficacy can exceed anything the analyst actually knows.
-
-A model may earn trust by retrieving a passage. Its account of what the reader really meant can then acquire the same authority. The first claim can be checked against the text. The second has to return to the person's experience. Conversely, treating the person as able to speak for their purpose does not give them advance knowledge of how a design will operate. Either participant can be placed where more knowledge is supposed than they possess. This is a comparison about authority. A transcript can show who was asked to answer and whose correction changed the work. It cannot diagnose clinical transference or establish an unconscious in a model.
-
-## How Planner, Researcher, Writer and Reviewer constrain one another
-
-In [Bonomo’s Gira Discursiva](https://www.preprints.org/manuscript/202606.1503), the four jobs give each contribution a difficulty it cannot resolve alone. Consider what those handoffs make possible.
-
-**The Planner takes responsibility for direction.** A plan to compare the same concept across traditions already makes an expensive assumption in the word “same.” The planner can initiate the comparison. Comparability has to survive the return of the evidence. A design that cannot reopen its plan gradually turns an instruction into an answer.
-
-**The Researcher exposes how knowledge was selected.** Bonomo describes a corpus much richer in Lacan than in Ferenczi. Faithful retrieval can reproduce that asymmetry in an essay. Reporting the limited holdings makes a material condition inspectable. Declaring the corresponding concept absent in the tradition turns a limit of the collection into a theoretical verdict. The most consequential research finding may change what the plan can reasonably ask.
-
-**The Writer works where plan and evidence fail to coincide.** The assignment is to produce a readable argument in which the assumption of equivalence can itself be challenged. This position requires permission to write a sentence that invalidates the plan. A writer restricted to filling predetermined headings with citations continues to carry out a command, however questioning the prose sounds.
-
-**The Reviewer returns responsibility for an interpretation to a particular speaker.** In the paper's example it identifies a possible forced equivalence across traditions. The writer must be able to find the step and decide whether to substantiate, qualify or abandon it. A reviewer claiming privileged access to the writer's true motive can assume mastery under an analyst's name. Merely asking the writer to think again gives them too little to work with. The reviewer owes them a locatable sentence or inference.
-
-This preprint offers a design argument. Its writing workflow follows task dependencies; Lacan's quarter-turn follows the arrangement of the terms. One model could occupy all four jobs in succession. It would still have to keep its planning preference from becoming a premise of retrieval. Retaining a contrary passage, letting the writer retract a comparison and letting a review actually change the draft give the change of position observable consequences.
-
-## Discursive rotation while the model works
-
-Bonomo calls this research and writing architecture *Gira Discursiva*. Follow the manuscript through four positions. When review returns an objection, the writer must decide how to revise the claim.
+[Bonomo's discursive rotation](https://www.preprints.org/manuscript/202606.1503) gives each position a responsibility and a point of handoff. Follow the diagram down to see how a draft takes shape. Follow the return arrow to see how an objection reaches the next draft.
 
 ![Discursive rotation from planning through research and writing to review, with review returning to writing](../diagrams/discursive-rotation.svg)
 
@@ -71,20 +15,16 @@ Bonomo calls this research and writing architecture *Gira Discursiva*. Follow th
 | Hysteric | Writer | Question tensions between the plan and the material, and develop an argument | Final verification |
 | Analyst | Reviewer | Challenge implicit authority, omissions and conflations | Rewriting the passage |
 
-Revision returns to the writer. A disputed citation may reopen research. Evidence that undermines the premise of the comparison can send the question back to planning.
+A reviewer who finds that two quotations cannot sustain the conclusion should identify the inference that fails. The writer can then narrow the claim or ask the researcher to check the originals. If the new evidence undermines the comparison assumed in the question itself, the planner must reconsider the question. **Return each objection to the position that can act on it.**
 
-Yinyang brings the rotation into the model's work. A single model entrusted with an essay can carry it through the circuit. Suppose it plans to explain how two authors use the same concept, then discovers the word in only a translation of one author. Writing may yield a new thesis: the translation produced the apparent equivalence. Reviewing should challenge the strength of “produced.” What warrants that causal claim given the editions examined? The writer may conclude only that lexical overlap in these editions cannot establish conceptual identity, or return to research for another edition. **One can recognize rotation in what set the strength of the final claim: evidence and an objection encountered after planning.** Rereading one's own draft can reproduce the same mistake without independent checks or fresh material.
+## How person and model take over or change positions
 
-A person can enter anywhere. Asking first whether the authors used the same original term takes up planning. Contributing a first edition takes up research. Developing one's own interpretation from the discrepancy takes up writing. Circling a sentence in which the model spoke for the author takes up review. The model too can make each contribution. The question, source, provisional claim and locatable objection must survive the handoff. Either party can initiate it.
+A contribution can change hands. One participant can also change positions. Follow the revisions to a manuscript to see the difference.
 
-Rotation can begin before a plan exists. Someone says that something sounds wrong in a reading. The model can retrieve two passages it suspects have been conflated and offer a revisable interpretation, leaving room for the person to point out a different relation. This borrows listening from the analyst's position. The person may continue in their own words or recognize the question and entrust the investigation to the model. Retrieval, juxtaposition and a trial reading can all do the work of listening without a questionnaire.
+| What changes in the work | Who takes responsibility for what |
+| --- | --- |
+| The model supplies its sources; the person finds an additional sentence in a first edition. | Research passes from model to person. The writer must now reconsider the claim against both sources. |
+| The model points out that the draft infers a shared original meaning from a shared translated word. It is then asked to revise the draft. | The same model moves from review to writing. Having identified an unsupported inference, it now owes grounds for the replacement claim. |
+| After reading the revision, the person explains that the question was why the translator chose that word. | The person takes up planning. The model can investigate the revised question, retaining the passages already found. |
 
-## Who takes up review, and how does a reviewer move into writing?
-
-Follow one manuscript. The model reviews the first draft and finds that its opening treats two authors’ concepts as identical. After revision, the person reviews the second draft to see whether the equivalence is warranted. **Review has passed from model to person.** Both occupy the Reviewer position associated here with the analyst’s discourse. Each identifies where the draft outruns its evidence and returns the judgment to the writer.
-
-Now follow the model. As Reviewer it asks, “Can those two translations establish that the authors used the same original term?” It then takes up writing: “The available passages establish a shared translated term. The relation between the original terms remains to be checked.” **The model has been working throughout. Its responsibility for the claim has changed.** In review it must locate the doubt. As Writer it develops that doubt into a claim the evidence can sustain and another reader can challenge. A person can also review and then write.
-
-This gives [role exchange in Yinyang and Taiji](yinyang-and-taiji.md) a place in the making of a work. Following **one contribution** shows how person and model can take it up in turn. Following **one participant** shows how that participant can move among the four discourses. Both movements can occur in one exchange: the person takes over review, finds a problem and then rewrites the claim. The original texts can still correct an interpretation both participants share.
-
-Shared reflection asks **whose answer can change what**. Mutual cultivation asks what is available next time. Can the person recognize when an exchange is making them prove what they already know? Can the model bring a correction into the next work? A position that can be entered but never left can turn an acquired capacity into a compulsory duty. Being able to return, with a distinction learned through the other, gives [role return in Yinyang and Taiji](yinyang-and-taiji.md) a meaning discernible in an actual encounter.
+Sometimes the person begins simply by saying that something sounds wrong. The model can put the two relevant sentences back in context so the person can recognize the difference that caught their attention. Once the question is clear, the person can continue writing or entrust the whole job to the model, including rotation, revision and delivery. A change of position becomes visible in what the other's response actually changes: the question, the evidence or the work.
