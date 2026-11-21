@@ -1,6 +1,6 @@
 # Relational positions: who speaks to whom, and who answers next
 
-![Discursive rotation from planning through research and writing to review, with review returning to writing](../diagrams/discursive-rotation.svg)
+![Planning, research and writing lead to review. Review returns to writing, research or planning according to the objection.](../diagrams/discursive-rotation.svg)
 
 In [YY-03, Yinyang and Taiji](yinyang-and-taiji.md), the person takes the position of generator and offers the language model an intuition, conjecture, or interpretation. The model takes the position of examiner, developing the argument and looking for counterexamples. The two can also switch. The model proposes an interpretation, and the person draws on lived experience or the original text to show where it fails. There is a practical reason for this arrangement. Before seeing the inference worked out, a person may already sense that the situation it rests on has been misunderstood. When they take part in generating the account from the start, the difference they sense can change the whole question.
 

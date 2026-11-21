@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="456" viewBox="0 0 600 456" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="666" height="424" viewBox="0 0 666 424" role="img" aria-labelledby="title desc">
 <title id="title">Gira Discursiva</title>
-<desc id="desc">从规划、研究、写作到审阅，审阅意见返回写作者。</desc>
+<desc id="desc">从规划、研究、写作到审阅；审阅按异议所及的位置返回写作、研究或规划。</desc>
 <defs><marker id="tip" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#216659"/></marker></defs>
-<rect x="1" y="1" width="598" height="454" rx="16" fill="#f7faf8" stroke="#c4d5cf"/>
+<rect x="1" y="1" width="664" height="422" rx="16" fill="#f7faf8" stroke="#c4d5cf"/>
 <g font-family="Helvetica Neue,PingFang SC,sans-serif" text-anchor="middle">
 <rect x="22" y="16" width="398" height="78" rx="10" fill="white" stroke="#a4bbb1"/>
 <text x="221" y="49" font-size="23" font-weight="600" fill="#15473e">主人话语 · Planner</text>
@@ -19,8 +19,10 @@
 <rect x="22" y="328" width="398" height="78" rx="10" fill="white" stroke="#a4bbb1"/>
 <text x="221" y="361" font-size="23" font-weight="600" fill="#15473e">分析家话语 · Reviewer</text>
 <text x="221" y="388" font-size="17" fill="#344d46">指出未经论证的等同与回避</text>
-<path d="M420 368h48V265h-46" fill="none" stroke="#216659" stroke-width="2.5" marker-end="url(#tip)"/>
-<text x="522" y="313" font-size="16" fill="#15473e">异议返回</text>
-<text x="522" y="337" font-size="16" fill="#15473e">写作者修订</text>
-<text x="300" y="434" font-size="16" fill="#344d46">若异议涉及证据，返回研究；若比较的前提失效，重定问题。</text>
+<path d="M420 350H565V263H422" fill="none" stroke="#216659" stroke-width="2" marker-end="url(#tip)"/>
+<text x="430" y="254" text-anchor="start" font-size="14" fill="#15473e">论证有跳步 · 修订</text>
+<path d="M420 367H601V159H422" fill="none" stroke="#216659" stroke-width="2" marker-end="url(#tip)"/>
+<text x="430" y="150" text-anchor="start" font-size="14" fill="#15473e">证据有疑问 · 查证</text>
+<path d="M420 384H643V55H422" fill="none" stroke="#216659" stroke-width="2" marker-end="url(#tip)"/>
+<text x="430" y="46" text-anchor="start" font-size="14" fill="#15473e">比较前提失效 · 重定问题</text>
 </g></svg>
