@@ -10,9 +10,15 @@ owns saved companions, and [workspace](course-workspace.md) resolves their owner
 
 ## Choose a course with a readable theory source
 
-Prefer a recent offering from a university with demonstrated strength in the
-subject. Inspect its actual teaching sequence and representative materials.
-Select a course when one of these reading routes is usable.
+Prefer a recent regular, credit-bearing term course from a university with
+demonstrated strength in the subject. Check the institutional listing, its
+sustained teaching sequence and assessed work. A summer-term class can meet
+these criteria. Use short summer schools, tutorials, workshops and isolated
+lecture series for targeted supplementation unless the learner selects one
+explicitly. An instructor's book establishes what can be read. Verify the
+course offering and its teaching scope from their own evidence.
+
+After checking the course, select a book through one of these reading routes.
 
 - The course adopts a readable book, and its selected units can be followed
   at specific chapters or sections in the verified edition.
