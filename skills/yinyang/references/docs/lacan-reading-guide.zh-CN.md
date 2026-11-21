@@ -87,19 +87,7 @@ $$
 
 在这四个位置间移动的是四个项。**S₁（主人能指）**是起组织作用的命名，例如一个使人据以服从、认同或抗议的称号。**S₂（知识）**是相互联结的能指所构成的知识；它也可以体现在做事的人已经掌握的诀窍里。**S̄（分裂主体）**标记说话者同用来代表自己的能指之间的裂隙：一句“我是个好学生”可以代表我，却说不尽我为何如此在乎它。**a（小客体 a）**标记欲望之因；在主人话语的产物位置，拉康还用它刻画剩余享乐。它不能按日常语义简单地换成一件想获得的物品。这四项保持相对次序，一起作四分之一转，就形成了另一种话语。参见[《研讨班 XVII》开篇课](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/)。
 
-先读位置：
-
-$$
-\frac{\text{施动者}}{\text{真相}}\;\longrightarrow\;\frac{\text{他者}}{\text{产物}}
-$$
-
-四种话语保留这副骨架，轮换其中的项。横线分隔上下两个位置；箭头从施动者指向他者。
-
-| **主人话语** | **大学话语** |
-| :---: | :---: |
-| $\displaystyle \frac{S_1}{\bar S}\;\longrightarrow\;\frac{S_2}{a}$ | $\displaystyle \frac{S_2}{S_1}\;\longrightarrow\;\frac{a}{\bar S}$ |
-| **癔症话语** | **分析家话语** |
-| $\displaystyle \frac{\bar S}{a}\;\longrightarrow\;\frac{S_1}{S_2}$ | $\displaystyle \frac{a}{S_2}\;\longrightarrow\;\frac{\bar S}{S_1}$ |
+![四话语五格图：左上是施动者。主人话语由主人能指 S₁ 发话，大学话语由知识 S₂ 发话，癔症话语由分裂主体 S̄ 发话，分析家话语由对象 a 发话。](../diagrams/four-discourse-mathemes.zh-CN.svg)
 
 ### 从四式读出两组逆转
 
