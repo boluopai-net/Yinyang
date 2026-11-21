@@ -86,17 +86,6 @@ Use source headings only for the courses and books actually studied. Under a sou
 
 Keep the module’s term list for looking up terms across sources. A course and its adopted book share the course’s three files. A book studied independently has its own three, even when that study follows the course. Named papers and standalone experiments have their own sets too. Give a lab taught within a course a linked section in each of the course’s files.
 
-<a id="term-list"></a>
-
-### Data 100
-
-This example shows two lectures.
-
-| Unit | Terms |
-| --- | --- |
-| Sampling | [Population](https://ds100.org/course-notes/sampling/#censuses-and-surveys), [sampling frame](https://ds100.org/course-notes/sampling/#censuses-and-surveys), [sample](https://ds100.org/course-notes/sampling/#censuses-and-surveys) |
-| Ordinary least squares | [Design matrix](https://ds100.org/course-notes/ols/#linear-algebra-approach), [mean squared error](https://ds100.org/course-notes/ols/#mean-squared-error), [residual](https://ds100.org/course-notes/ols/#residuals) |
-
 Organize each companion set around the scope studied in a course, book, or paper. When a module draws on distinct sources, use the companion set for each. The same source and scope can share one set across courses or modules. Papers addressing one question can also share a set that retains the relevant locations in each source. The overall learning path supports selection across courses, and a specific guide develops understanding of the current book, paper, or question. Attribute original material and model explanations separately.
 
 Preparation depth follows purpose. A systematic course can have its full materials prepared before study begins. Single-paper reading and research learning can start with the materials currently needed, then add concepts and relationships from foundational papers to the glossary and main guide as gaps emerge. Everyday learning can use the same arrangement, emphasizing important abstractions, conclusions, and examples, with a few understanding checks where helpful.

@@ -82,17 +82,6 @@
 
 模块另有词表，方便跨来源查词。课程与它采用的主教材共用课程的三份文件。另行学习一本书时，即使安排在课程之后，也为它准备一套。论文和独立实验也各有一套。课程内的实验在该课三份文件里各有一节，彼此相连。
 
-<a id="term-list"></a>
-
-### Data 100
-
-下面节选两讲作为示例。
-
-| 单元 | 词条 |
-| --- | --- |
-| 抽样 | [总体](https://ds100.org/course-notes/sampling/#censuses-and-surveys)、[抽样框](https://ds100.org/course-notes/sampling/#censuses-and-surveys)、[样本](https://ds100.org/course-notes/sampling/#censuses-and-surveys) |
-| 普通最小二乘 | [设计矩阵](https://ds100.org/course-notes/ols/#linear-algebra-approach)、[均方误差](https://ds100.org/course-notes/ols/#mean-squared-error)、[残差](https://ds100.org/course-notes/ols/#residuals) |
-
 配套文件按课程、书籍或论文的学习范围组织。模块涉及不同来源时，分别使用对应的配套文件。同一来源的同一学习范围可以跨课程或模块复用同一套材料。一组共同回答一个问题的论文也可以合用一套，保留各篇的对应位置。总的学习路径负责跨课程选择，具体指南帮助理解眼前的书、论文或问题。原文与模型解释各自标明来源。
 
 准备深度跟着目的走。系统课程可以先备好整套资料再开始；单篇阅读和论文学习可以先写当前需要的材料，遇到基础缺口，再把补读论文的知识与关系写回术语与名词解释表和指南。日常学习也可以使用同样的安排，重点展开重要抽象、结论和例子，按需准备少量理解检查。
