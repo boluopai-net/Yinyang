@@ -34,7 +34,7 @@ its developmental purpose or writing a personal philosophy. See
 - [YY-16 · Cultivate a garden of becoming with friends](#yy-16)
 - [YY-17 · Personal recursive self-improvement](#yy-17)
 - [YY-18 · Personal recursive self-improvement in economic reality](#yy-18)
-- [YY-19 · Cognitive complexity in personal recursive self-evolution](#yy-19)
+- [YY-19 · Cognitive complexity in personal recursive self-improvement](#yy-19)
 
 </details>
 
@@ -1076,7 +1076,7 @@ If each prototype takes longer to check than it saves in implementation, supervi
 
 <a id="yy-19"></a>
 
-## YY-19 · Cognitive complexity in personal recursive self-evolution
+## YY-19 · Cognitive complexity in personal recursive self-improvement
 
 **Minimize the cognitive demands that text places on the user.** The person can begin with a relation they already perceive. The model recovers context, organizes materials, and carries formal reasoning and verification. When returning a result, it presents the claim, grounds, and differences that require the person's judgment together, preserving the conditions on which the inference depends. The person can then judge the argument directly without reconstructing it from scattered passages.
 
@@ -1089,7 +1089,7 @@ If each prototype takes longer to check than it saves in implementation, supervi
 | Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
 | Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
 
-Following [YY-18](#yy-18), comparing representations and divisions of work requires accounting for the user's effort in giving instructions, switching media, supervising, and resuming. The understanding and judgment preserved in use test whether the burden has fallen and inform revisions to the methods that produce these arrangements. [Cognitive Complexity in Personal Recursive Self-Evolution](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html)
+Following [YY-18](#yy-18), comparing representations and divisions of work requires accounting for the user's effort in giving instructions, switching media, supervising, and resuming. The understanding and judgment preserved in use test whether the burden has fallen and inform revisions to the methods that produce these arrangements. [Cognitive Complexity in Personal Recursive Self-Improvement](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html)
 
 ## Sources and the author's synthesis
 

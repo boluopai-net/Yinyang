@@ -48,7 +48,7 @@
 想进一步理解论证时，再沿链接阅读相应文章；不必通读全书或接受全部立场。
 
 围绕有限投入与注意力，可以先读[经济现实中的个人递归自改进](skills/yinyang/references/docs/economic-personal-rsi.zh-CN.md)，
-再读[个人递归自我进化中的认知复杂性](skills/yinyang/references/docs/cognitive-complexity.zh-CN.md)：培养应该投到哪里，哪些值得理解并练习，哪些需要时检索，哪些交给模型。
+再读[个人递归自改进中的认知复杂性](skills/yinyang/references/docs/cognitive-complexity.zh-CN.md)：培养应该投到哪里，哪些值得理解并练习，哪些需要时检索，哪些交给模型。
 
 是否写自己的哲学、文章或个人网站，取决于兴趣。你可以取用观点、维护环境，
 而不另开一个写作项目；愿意写时，[例子与知识共有地](skills/yinyang/references/docs/example-and-commons.zh-CN.md)

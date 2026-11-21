@@ -56,7 +56,7 @@ or adopting all its positions is unnecessary.
 
 For a focused route through finite investment and attention, read
 [Personal recursive self-improvement in economic reality](skills/yinyang/references/docs/economic-personal-rsi.md), then
-[Cognitive Complexity in Personal Recursive Self-Evolution](skills/yinyang/references/docs/cognitive-complexity.md).
+[Cognitive Complexity in Personal Recursive Self-Improvement](skills/yinyang/references/docs/cognitive-complexity.md).
 They ask where cultivation should go and what to understand and practise, retrieve, or delegate.
 
 Writing your own philosophy, essays, or public website is a choice of interest.

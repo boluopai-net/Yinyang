@@ -34,7 +34,7 @@ The essays answer connected questions rather than forming a compulsory course:
 | Where do particular arguments and originals belong? | [Read by the work being done](references/reading-map.md) routes to the essays, diagrams, and philosophical, psychological, and engineering sources. |
 | What are the formal semantics behind these inference choices? | [Inconsistency-tolerant semantics](references/docs/inconsistency-tolerant-semantics.md) explains repairs, priorities, and answer conditions. |
 | Where should finite cultivation go? | [Personal recursive self-improvement in economic reality](references/docs/economic-personal-rsi.md) compares personal practice, model support, and sustaining conditions. |
-| What should I understand and practise, retrieve, or delegate? | [Cognitive Complexity in Personal Recursive Self-Evolution](references/docs/cognitive-complexity.md) distinguishes task complexity, situated load, and learning, then returns later participation to the allocation method. |
+| What should I understand and practise, retrieve, or delegate? | [Cognitive Complexity in Personal Recursive Self-Improvement](references/docs/cognitive-complexity.md) distinguishes task complexity, situated load, and learning, then returns later participation to the allocation method. |
 
 Readers outside literature, history, or philosophy can begin by selecting relevant
 [Core views](references/docs/core-views.md), then follow their linked arguments
