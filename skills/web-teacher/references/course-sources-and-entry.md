@@ -112,19 +112,19 @@ official transcript.
 
 ## Prepare a reachable learning entrance
 
-Use the existing main guide as the ordinary course entrance. Its opening makes
-the selected scope and an actual starting unit clear, linking directly to that
-explanation and its needed source passage. On return, recover the current
-position from State and open the corresponding unit; a static first-unit
-recommendation does not reset progress. Keep the material index as the source
-inventory rather than requiring the learner to assemble a lesson from it.
+Give each course one contextual entry on the module work page. Introduce the
+actual concept, question or action the reader reaches at that point. Link
+to the useful starting or resumption unit and make clear why it is worth
+opening now. The existing main guide normally supplies this entrance.
+Keep the source inventory in the material index. On return, use State to
+resolve the current unit.
 
 Develop connected explanations, examples and fitting visuals in the chosen
-knowledge order. Associate each unit with the source pieces it uses, nearby
-glossary entries and applicable training. Make the next connection or return
-point apparent. Filename lists, unexplained slide summaries and promises to
-write later are not prepared teaching. Source links support checking and depth;
-they do not replace central explanation with repeated navigation.
+knowledge order. At the point of use, the guide links directly to a relevant
+original passage, glossary entry or exercise. Label the destination in terms
+of what the reader needs to understand or do, and make the next connection
+or return apparent. The module's separate vocabulary file remains a direct
+lookup route from terms to source-specific explanations.
 
 Retain one independent glossary for recognition and recovery, and applicable
 training under the existing materials contract and its exceptions. Reuse prior
