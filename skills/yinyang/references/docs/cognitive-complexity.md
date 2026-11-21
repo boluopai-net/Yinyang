@@ -8,7 +8,7 @@ Minimize the cognitive demands of text on the user by organizing the work around
 
 ## Minimize the Cognitive Demands of Text on the User
 
-**Minimize the cognitive complexity of expressing and understanding through text for the user.** Interfaces, materials, workflows, and model assistance determine what the person must understand, find, remember, choose, operate, and resume. Returning to a draft can demand that someone identify the current version, recover an open question, and find its evidence before they can think about the argument. Put the draft, question, and source within reach so their effort goes into the argument.
+**Minimize the cognitive demands that text places on the user.** Interfaces, materials, workflows, and model assistance determine what the person must understand, find, remember, choose, operate, and resume. Returning to a draft can demand that someone identify the current version, recover an open question, and find its evidence before they can think about the argument. Put the draft, question, and source within reach so their effort goes into the argument.
 
 Cognitive complexity concerns the relations and steps the arrangement asks someone to manage. Cognitive load concerns how much of the person's available cognitive capacity those demands draw on. In learning, some elements have to be considered together. Following an argument takes holding the claim and its grounds in relation, while searching across tabs for the page adds a demand created by the arrangement.
 

@@ -1076,9 +1076,9 @@ If each prototype takes longer to check than it saves in implementation, supervi
 
 ## YY-19 · Cognitive complexity in personal recursive self-evolution
 
-**Minimize the cognitive complexity of expressing and understanding through text for the user.** The person can begin with a relation they already perceive. The model recovers context, organizes materials, and carries formal reasoning and verification. When returning a result, it presents the claim, grounds, and differences that require the person's judgment together, preserving the conditions on which the inference depends. The person can then judge the argument directly without reconstructing it from scattered passages.
+**Minimize the cognitive demands that text places on the user.** The person can begin with a relation they already perceive. The model recovers context, organizes materials, and carries formal reasoning and verification. When returning a result, it presents the claim, grounds, and differences that require the person's judgment together, preserving the conditions on which the inference depends. The person can then judge the argument directly without reconstructing it from scattered passages.
 
-[YY-02](#yy-02), [YY-03](#yy-03), and [YY-07](#yy-07) establish which acts of perception, generation, and judgment the person retains. Reducing textual demands concerns the effort of expression, retrieval, and understanding required to participate. Omitting a necessary relation in compression shifts inference back to the user. When visual adjacency and position make relations directly perceptible, a diagram can preserve information while reducing inference.
+[YY-02](#yy-02), [YY-03](#yy-03), and [YY-07](#yy-07) establish which acts of perception, generation, and judgment the person retains. The model can organize text to reduce searching, comparison, and backtracking while preserving the details the person needs for independent judgment. Omitting a necessary relation in compression shifts inference back to the user. When visual adjacency and position make relations directly perceptible, a diagram can preserve information while reducing inference.
 
 | Object of assessment | Question for cooperation |
 | --- | --- |
