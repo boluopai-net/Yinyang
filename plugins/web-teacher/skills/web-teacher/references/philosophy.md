@@ -29,9 +29,9 @@ cannot have exercises or that every recipient has selected this mode.
 
 Use the materials branch's [three writing approaches](course-materials.md#select-the-writing-approach)
 to identify philosophical work and its actual scientific, mathematical or
-engineering connections. For philosophy-led study, use its
-[two connected documents](course-materials.md#philosophical-study-two-connected-documents):
-an independent glossary and a main study-and-research guide for the same book.
+engineering connections. Follow the
+[source materials method](course-materials.md#philosophical-study)
+when preparing a philosophy-led book or paper for study.
 The glossary supports discussion even for a short book by keeping the
 vocabulary and source passages available on return.
 
@@ -53,12 +53,10 @@ Apply the materials branch's
 and preserve interpretive qualifications and unresolved relations in diagrams.
 Anchor substantive units to the relevant source passages and glossary entries.
 
-Keep the pair per book; a cross-book synthesis does not substitute for it.
-Preserve explicitly selected source-unit coverage instead of expanding every
-selection into whole-book work. An isolated explanation need not generate a
-complete pair. No separate per-book learning plan, local-practice reference,
-exercise pool, skimming reference or progress file is required in this mode.
-Overall priorities and existing recovery records retain their owners.
+Keep the selected book or paper's units legible even in cross-source discussion.
+For an isolated explanation, start with the actual passage and question.
+Follow agreed source coverage when preparing saved material. Keep overall
+priorities and recovery in existing records.
 
 All models working with the collection use its selected mode, independently
 of a Teacher persona. The collection resolver locates the pair. Use

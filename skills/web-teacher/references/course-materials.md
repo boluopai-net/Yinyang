@@ -2,13 +2,41 @@
 
 Use this branch when preparing, revising or validating saved Course material.
 The root Skill owns teaching, evidence, actor and State boundaries.
-Course, book and paper companions belong to their sources. For a practice
+Study companions belong to their respective sources. For a practice
 path, use [Learning-path governance](learning-path-governance.md#author-a-practice-path).
 
 When a course combines several source formats, apply
 [Course sources and entry](course-sources-and-entry.md) to their selection and
-integration. The documents below serve the learning object across its sources;
-they are not repeated once per medium or incidental reference.
+integration.
+
+## Three files for each named study source
+
+When the learner requests or chooses the three-file arrangement, maintain the
+set for each course, standalone book, paper and standalone experiment named
+in that study scope. For other requests, use the companion files their
+learning purpose calls for.
+
+1. **Study and research guide** develops the source and connects its units, questions and evidence.
+2. **Detailed glossary** explains source-specific terms and distinctions.
+3. **Practice file** develops practice suited to the source, with checked answers,
+   interpretation or evaluation grounds. A text can use argument or evidence
+   analysis, and an experiment can use predictions, observations and comparisons.
+
+A course with an adopted book uses a course-scoped trio following its units
+and mapped readings. A book also presented for standalone study has its own
+book-scoped trio, as does every named paper and standalone experiment.
+Prepare courses before standalone books when sequencing the work. Standalone
+books and supplementary sources still get their full set. Reuse each source's
+maintained trio across modules when the source and study scope match. For a
+named experiment presented as a unit within a course, give it an addressable
+section in each of the three course files and cross-link those sections.
+
+In each file, place direct links to both sibling files immediately after the
+title and before the study content. Link corresponding concepts, units and
+exercises in the body where the reader needs them. The module gives a course
+one contextual entrance, normally the guide; the three-way navigation belongs
+in the companion files. Before handoff, follow all six sibling links and check
+that each destination serves the same source and scope.
 
 Choose and combine three writing approaches: mathematics, technical study,
 and philosophy. Here technical study is a broad material-organizing category
@@ -82,12 +110,8 @@ writing distinction. Language learning keeps its own applicable method.
 
 ## Required independent glossary
 
-Use `术语与名词解释表` for each course, book, or paper's detailed glossary in
-Chinese. Count the glossary, main guide and applicable training document as
-that source's two- or three-document study set. The glossary owns definitions,
-conditions, distinctions, and compact examples. Preserve each distinct scope's
-companions and reuse the existing set when a source and selected scope recur.
-Standalone study uses the detailed glossary directly.
+Use `术语与名词解释表` for the detailed glossary in Chinese. The glossary owns
+definitions, conditions, distinctions and compact examples.
 
 Maintain one separate `词表` file per learning-path module. Keep the terms and
 their source-specific definitions in their respective vocabulary and glossary
@@ -192,30 +216,22 @@ actual attempts under the existing Course State contract, without treating an
 earlier success as permanent mastery. The teaching-method branch owns how to
 use this preparation in the encounter.
 
-For mathematics or technical study with exercises or labs, retain and prepare the applicable
-training for the selected study scope even if the learner is not doing it this
-turn. Select actual items adaptively during teaching; enough practice to address
-an observed gap need not mean completing every available item. Preserve explicit
-course exceptions and a deliberate no-practice scope. A source with only one
-training form needs only that form, not invented experiments or empty sections.
-The learner's choice not to attempt an activity now does not erase the training
-design; readiness does not compel immediate execution or gate explanation.
+Develop the training forms that suit the source and scope. If one form serves
+the source, develop it fully. Keep agreed reading-only or no-practice modes
+when choosing what to assign.
 Actual problem wording, solution checks, presentation, attempts and feedback
 follow the teaching-method branch. Code, data, notebooks and execution records
 stay in their real workspaces; link them rather than rewriting those artifacts.
 
-## Philosophical study: two connected documents
+## Philosophical study
 
-Use the same required independent glossary plus one main document developing
-the selected book's arguments, discussions and grounded connections to the
-learner, including current research where applicable.
-The [philosophy branch](philosophy.md#book-materials-and-research-connection)
-owns contextual depth and question-led explanation. Do not create a separate
-research-relationship file, per-book plan or progress file, or automatically
-apply technical exercise/lab preparation to philosophical text study.
-Keep each book's account distinct; a cross-book synthesis does not substitute
-for it. A genuinely selected technical activity has its own technical training,
-without turning the whole philosophical book into a technical course.
+Develop the selected work's arguments, discussions and grounded research
+connections in the guide. The [philosophy branch](philosophy.md#book-materials-and-research-connection)
+owns question-led explanation and contextual depth. When preparing a practice
+file, develop tasks such as reconstructing an argument, comparing interpretations,
+or testing a distinction against a case. Give source passages and grounds for
+comparing answers. Keep each work's account distinct and keep progress in
+the learner's existing records.
 
 ## Relate material to the actual learner
 
@@ -284,7 +300,7 @@ here and link deeper work without maintaining a competing copy.
 
 ### Explanatory visuals within the existing documents
 
-The two/three-document arrangement includes explanatory visuals inside both the
+Include explanatory visuals inside both the
 glossary's detailed entries and the main guide, beyond the opening concept map.
 Neither a substantial glossary nor a substantial guide should become only
 prose and formulas after treating that map as sufficient visual support.
@@ -325,7 +341,7 @@ Use coherent problem/section order and transitions in the main document, not
 repeated mandatory slots for every unit. Keep the explanation self-contained
 at its intended depth; links support checking and deeper lookup rather than
 sending the reader away for every central connection. Align named units across
-glossary, guide and, for technical study, training. Use a shallow contents list
+the glossary, guide and practice file. Use a shallow contents list
 and direct section/block links instead of forcing the user through indexes.
 The guide's progression identifies the relevant training entry and return point
 without repeating the training specification.

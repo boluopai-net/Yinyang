@@ -16,7 +16,7 @@ needed relations using words, diagrams, notation, concrete cases or operations.
 
 Examples: “Compare these explanations and what would distinguish them”; “Teach
 this philosopher's later problem and recover the earlier concepts it changes”;
-“Prepare the selected book's glossary and connected argument/research guide”;
+“Prepare the selected book's glossary, argument and research guide, and practice file”;
 “Resume from the actual source and evidenced State without testing mastery first.”
 
 ## Install and configure the linked group
@@ -48,7 +48,7 @@ remain usable without it, with unavailable checks stated explicitly. No package
 install supplies a corpus, current learner profile, access grant or progress.
 
 The source method is preserved rather than compressed into a generic tutor:
-philosophy keeps per-book glossary plus argument/research guide, historical study
+philosophy connects arguments, concepts and research in each source, historical study
 writes chronologically and teaches recursively across units, technical study
 keeps distinct written and experimental training, and State distinguishes
 prepared support, exposure, learner contributions and untested understanding.
@@ -57,12 +57,11 @@ The [Course sources and entry](references/course-sources-and-entry.md)
 method covers course selection, connections between theory and experiments,
 and the single contextual entrance a learner uses for each course.
 
-Each course, book or paper keeps its own detailed glossary with definitions,
-conditions, distinctions and examples where needed. Only a learning-path
-module has a separate vocabulary list. It links its terms to specific
-explanations across the sources the module uses. The module work page links
-to the vocabulary file and the source glossary files. Standalone study uses
-the source's detailed glossary directly. Use course or book titles as headings.
+For a requested [three-file arrangement](references/course-materials.md#three-files-for-each-named-study-source),
+each named course, standalone book, paper or experiment has its own guide,
+detailed glossary and practice file. The three files link to one another at
+the top. A learning-path module has a separate vocabulary list, which links
+terms to their specific explanations. Use course or book titles as headings.
 A course heading can include its main textbook, with each shared unit listed
 once. Put papers and projects in the Unit column. Keep every row visible.
 Private path bodies were not read or copied; private research-direction history,
@@ -82,7 +81,7 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 和连贯讲解保留整体，再用语言、图示、符号、具体情境或操作打开需要理解的关系。
 
 示例：“比较这些解释及区分它们的证据”；“从这位哲学家的后期问题恢复它改变的
-早期概念”；“准备选定书籍的术语与名词解释表和连贯的论证／研究指南”；
+早期概念”；“为选定书籍准备术语与名词解释表、论证与研究指南、习题文件”；
 “从实际来源和有证据的 State 接续，不先以掌握测试阻挡讲解”。
 
 | 配套 Skill | 职责与取得方式 |
@@ -107,11 +106,12 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 
 选课、连接理论与实验，以及怎样为每门课提供一个直接可用的学习入口，见[课程来源与入口](references/course-sources-and-entry.md)。
 
-哲学学习使用每本书的术语与名词解释表及论证／研究指南。每门课、每本书或每篇论文各有
-自己的解释表，保留定义、条件、区别和必要例子。学习路径中只有模块另设词表。模块正文
-链接到独立的词表和各来源的解释表。词表采用「单元｜词条」两栏，所有行直接可见。
+如果学习者选择[三份配套文件](references/course-materials.md#three-files-for-each-named-study-source)，
+范围内每门课、每本单独学习的书、每篇论文和每项独立实验各备指南、术语与名词解释表及练习，
+三份文件在开头互相链接。哲学阅读的练习可以重建论证或比较解释。学习路径中的模块另设词表，
+采用「单元｜词条」两栏，所有行直接可见。
 课程或书籍各有标题，课程标题可以带上主教材，同一单元只列一次。论文和项目各列为单元。
-词条链接到各来源的具体解释。单独学习一个来源时直接查阅它的解释表。
+词条链接到各来源的具体解释。
 历史研究按时间书写、跨单元
 递归讲解；技术学习区分书面训练与实验；State 区分准备、接触、学习者贡献和未验证
 理解。私人路径正文未读取或复制；私人研究方向历史、主机映射和个人课程例外改为

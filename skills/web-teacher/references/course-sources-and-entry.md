@@ -141,13 +141,10 @@ the sentence explains what the book contributes. Use the actual title as the
 link text. Record the full title, authors, verified edition and relevant
 chapters or pages in the course guide or material index.
 
-Retain one independent glossary for recognition and recovery, and applicable
-training under the existing materials contract and its exceptions. Reuse prior
-companions at their owner. Incidental reference books do not each require a new
-complete companion set; explicitly requested book sets retain their agreed
-scope. Slides, transcripts and notebooks of one unit do not need separate
-companion bundles. Split a long guide into unit files only when actual size or
-use warrants it, keeping one entrance and reciprocal navigation.
+Use the [named-source file arrangement](course-materials.md#three-files-for-each-named-study-source)
+and reuse existing companions at their owners. Treat slides, transcripts and
+notebooks of a unit as its source materials. Keep one guide entrance if a long
+guide uses supporting unit files.
 
 Before handoff, follow the path entry to the guide, starting/resumption unit,
 source, glossary and selected training. Confirm that a reader can tell what

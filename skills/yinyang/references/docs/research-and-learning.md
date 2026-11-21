@@ -70,13 +70,13 @@ For a systematic course, a book, a single paper, or a question pursued across se
 
 This self-study route starts from native-language texts and AI-prepared material, without assigning original lectures to watch or listen to. **Use the course guide to locate the current unit, then open the relevant chapters of the main textbook or reference book checked at course selection and the assigned readings.** Books already written in the learner's native language can be read directly; have the model translate foreign-language sources first. Original texts and faithful translations have a different role from AI-written explanations, guides, and practice. See the [reading priority among materials](#reading-order).
 
-Use the two or three companion documents below for course theory or for reading a book or paper. The model explains concepts and relationships, retains chapter, lecture, page, or paper-passage locators, adds examples and useful diagrams, and connects existing understanding, interests, and actual questions. The [practice path](#practice-learning-path) starts from a specific task.
+In this learning setup, prepare three companion files for each named course, standalone book, paper, or experiment being studied. Open a course from its module through one contextual link. At the top of each companion, link directly to both of the others. The model explains concepts and relationships with original locators, examples, and diagrams. The [practice path](#practice-learning-path) starts from a specific task.
 
-| Material | Mathematics and technical study: three connected documents | Humanities reading (such as philosophy): two connected documents |
+| Material | Mathematics and technical study | Humanities reading, including philosophy |
 | --- | --- | --- |
 | <a id="term-explanations"></a>Glossary and definitions | Keep concepts, notation, conditions, and important distinctions independently accessible, with a concept map showing relationships. | Explain terms in the context of the work, author, and historical setting, connecting them through a concept map. |
 | <a id="main-study-guide"></a>Main guide | A study and research guide develops the knowledge structure, principles, derivations, examples, reading order, and connections to your questions. | A reading guide develops themes, textual structure, background, source material, and interpretation; where arguments are made, explain claims, reasons, objections, and responses, preserving interpretive differences and relevant connections. |
-| <a id="exercises-and-experiments"></a>Exercises and experiments | Distinguish written exercises from experimentation or making; keep questions, solutions, and evaluation grounds separately readable, with links to the guide and relevant definitions. | Discussion, interpretation, comparison, and counterexamples can develop through reading; prepare technical training when such an activity is actually selected. |
+| <a id="exercises-and-experiments"></a>Exercises and experiments | Develop written exercises or experiments suited to the source. Keep questions, solutions, and evaluation grounds separately readable. | Reconstruct an argument, compare interpretations, or test a distinction against a case. Anchor the exercise in the text and give grounds for comparing answers. |
 
 <a id="term-list-use"></a>
 
@@ -84,7 +84,7 @@ The theory side of a module has a standalone **term list** that readers can open
 
 Use source headings only for the courses and books actually studied. Under a source heading, put only the name of the lecture, chapter, or coherent chapter group in the unit cell. If a course and its main textbook cover the same learning units, both titles can share one heading and each unit appears once. A paper normally occupies one row, using a short, recognizable form of its title in the unit cell. If a paper has several parts that can be studied separately, use a row per part and add the part name after the short title. Use the actual units of work for project rows. Apply the same arrangement to supplemental sources.
 
-Keep the module’s term list even when its sources have their own glossaries, so readers can look up terms across the module. For a standalone course, book, or paper, use the two or three companion documents above, with definitions, examples, and concept relationships in that source’s **glossary and definitions**.
+Keep the module’s term list for looking up terms across sources. A course and its adopted book share the course’s three files. A book studied independently has its own three, even when that study follows the course. Named papers and standalone experiments have their own sets too. Give a lab taught within a course a linked section in each of the course’s files.
 
 <a id="term-list"></a>
 
@@ -162,13 +162,13 @@ When discussing a book in the module, explain what it contributes and link its r
 
 When a source's language is unsuitable for direct reading, have the model translate the complete book, chapter, or paper selected for study into the learner's native language. For the Chinese learner described here, prepare a Chinese translation. Preserve chapter, page, or paragraph correspondence, equations, figures, quotations, and references; check terminology and consequential passages. Use an appropriate existing Chinese edition when available, and read books originally written in Chinese directly. Translation makes the original work readable; a summary does not replace the book or paper.
 
-For course reading, use these sources to prepare a glossary with definitions, a main guide, and any relevant exercises or experiments. These files help explain structure, clarify concepts, supply background, and select practice. Where the original already develops the subject clearly, the guide points to its passages and adds the necessary explanation; finishing the guide is not a prerequisite for reading the original.
+For this course reading arrangement, prepare the glossary, main guide, and exercises and experiments file. Use them to explain structure, clarify concepts, supply background, and choose practice. The guide points to the original passages where they develop the subject and adds explanation where it helps.
 
 <a id="reading-order"></a>
 
 #### Reading priority among the materials
 
-**Relevant chapters of the verified main textbook or reference book and assigned readings → the course’s two or three AI preparation files → supplementary lecture notes → slides → transcripts.** Read foreign-language material in the learner's native language or in translation. For a course built around continuous attributed lecture notes, follow the notes and consult the corresponding chapters of the reference book.
+**Relevant chapters of the verified main textbook or reference book and assigned readings → the course’s three AI preparation files → supplementary lecture notes → slides → transcripts.** Read foreign-language material in the learner's native language or in translation. For a course built around continuous attributed lecture notes, follow the notes and consult the corresponding chapters of the reference book.
 
 | Priority | Material | How to use it |
 | --- | --- | --- |

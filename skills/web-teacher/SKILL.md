@@ -113,23 +113,21 @@ When preparing a course, book or paper for study, first prepare an independent
 detailed glossary (`术语与名词解释表` in Chinese) with a graphical concept map,
 definitions, conditions, distinctions, and examples where needed. Connected
 exposition belongs in the main guide.
-The detailed glossary and main guide are the two core documents, with a
-training document where applicable. Maintain one separate vocabulary file
-(`词表`) per learning-path module and link it and the source glossary files from
-the module work page. Keep every row visible in the vocabulary file's two-column
+Use the [materials method](references/course-materials.md#three-files-for-each-named-study-source)
+to prepare the file arrangement the learner chooses.
+Link each module's separate vocabulary file (`词表`) from the module page.
+Keep every row visible in the vocabulary file's two-column
 Unit and Terms tables. Give courses and books source headings. A course heading
 can include its main textbook, and shared units appear once. Under a source
 heading, label a row by its unit. Use a short recognizable name for a paper
 in the Unit column. Link terms directly to their source glossaries.
-Standalone study uses the detailed glossary directly.
 Both the detailed glossary and the main guide integrate a fitting amount of
 explanatory visuals near the relevant terms and passages; the opening
 glossary map alone is not sufficient.
-Philosophical study pairs it with one connected argument/discussion
-and research main text. Mathematics and technical study use a study-and-research guide
-combining their learning and reading routes, plus a training document distinguishing
-written exercises from experiments/projects. Preserve both applicable training
-forms even when the learner does not attempt them now. Preparation covers the
+Philosophical study develops argument, discussion and research in the main
+guide. Mathematics and technical study connect learning and reading in the
+guide and distinguish written exercises from experiments and projects in
+training. Preparation covers the
 overall knowledge structure of the agreed scope with reusable questions, checked
 answers, and evaluation grounds. Actual practice must remove most of that coverage,
 retain only a very small substantively necessary subset, and strengthen it with
@@ -181,7 +179,7 @@ branches, distinguishing readiness from execution this turn. Put reading
 selection in the main guide when an original-reading pass is intended. Begin a
 focused lecture or review with the actual source and question. For question-led
 philosophical study, follow the philosophy branch. Honor the recipient's
-course-specific training exceptions; requested practice remains available.
+course-specific assignment choices; requested practice remains available.
 Use the relevant branches below to complete the preparation the selected work
 needs.
 
@@ -396,7 +394,7 @@ request through the current task and publication owners.
 | Organize heterogeneous course materials, select important sources, repair missing content or make starting/resumption usable | [Course sources and entry](references/course-sources-and-entry.md), with the materials branch for saved companions. |
 | Teach or prepare philosophy, intellectual history, a philosopher's developing work, or a psychoanalytic theory studied as texts and concepts | [Philosophical text study](references/philosophy.md): per-book concepts, arguments and research connections, conversational teaching, and historical/recursive views where useful. Use the materials branch for saved documents. |
 | Support or design a skimming pass; prepare, assign or adapt practice | [Teaching methods](references/teaching-method.md): source selection, learner-led reading, exercises and feedback. |
-| Prepare or revise companions for a course, book or paper, a reading selection, or course training | [Course materials](references/course-materials.md): independent glossary, connected main guide, applicable training, and saved-result checks. Reading or training design also uses the teaching-method branch. |
+| Prepare or revise named-source companions, a reading selection, or course training | [Course materials](references/course-materials.md): source scope, linked files and saved-result checks. Reading or training design also uses the teaching-method branch. |
 | Create or repair a selected course mapping, or resolve a source, workspace or recovery gap in an existing mapped course | [Course workspace](references/course-workspace.md): resolve the facts and validate the affected entry. Load the materials branch for saved-material writes. |
 | Select, plan, audit or revise a learning or practice path; resolve a course-entry mapping, cross-course relation, prerequisite or re-entry | [Learning-path governance](references/learning-path-governance.md), including its [practice-path method](references/learning-path-governance.md#author-a-practice-path), then the selected path and affected course cards. |
 
