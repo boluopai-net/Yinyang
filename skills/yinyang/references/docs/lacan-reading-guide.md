@@ -16,7 +16,9 @@ One important line of inquiry Lacan offers this site is: **how do people express
 
 All three levels can belong to the same work, while a reader still needs to know what responsibility a particular sentence carries. For example, the subject Lacan discusses is not a database object; putting certain relations into a formal model makes selected relations inspectable. A derivation within a formal system is also different from having established a reliable personal model through actual conversations.
 
-Five short reading paths are available:
+Six short reading paths are available:
+
+- To understand who speaks from which position and who can answer, read [the four discourses](#four-discourses), then [relational positions and discursive rotation](relational-positions.md).
 
 - To understand “I,” “ego,” and “others,” begin with [language and the Other](#language-signifiers-and-the-other), then read [the ego and the divided subject](#the-ego-and-the-divided-subject).
 - To understand how a changed participant position can reorganize a problem, read [dialectical reversal](#dialectical-reversal-changing-understanding-and-position), then return to the main sequence's [how a solution becomes a new problem](speech-opposition-and-self-formation.md#how-a-solution-becomes-a-new-problem).
@@ -114,6 +116,8 @@ to material, comparing interpretations, and revising accounts it helped form.
 The account participates in the relationship without acquiring the position
 of determining the person's final truth.
 
+<a id="four-discourses"></a>
+
 ## The four discourses: from what place does one address the other?
 
 Read the places in the four formulas of Seminar XVII first, then the terms occupying them. The agent addresses the other across the top. Truth lies beneath the agent, production beneath the other. S₁ is the master signifier, S₂ knowledge, S̄ the divided subject, and a the object-cause of desire. Follow knowledge through the table to see it summoned as the other, occupying the speaking place itself, or produced through a challenge.
@@ -125,7 +129,9 @@ Read the places in the four formulas of Seminar XVII first, then the terms occup
 | Hysteric | S̄ | S₁ | a | S₂ |
 | Analyst | a | S̄ | S₂ | S₁ |
 
-[Bonomo's discourse architecture](https://doi.org/10.20944/preprints202606.1503.v1) borrows the configurations for four agents in a research workflow. Yinyang asks how the same reader can propose an interpretation and challenge the authority from which a model offers one. [Relational positions](relational-positions.md) follows a reading encounter through a change of contributor and a change of position within one participant's response.
+Follow S₂ through the table. The master puts knowledge to work for an organizing term. University discourse gives knowledge the authority to speak while its guiding standard occupies the place of truth. In the hysteric's discourse a subject whom an existing designation cannot accommodate questions the authority conferring it, producing knowledge. In analytic discourse knowledge occupies the place of truth; from the position of a the analyst elicits further speech, and a new naming can come from the subject.
+
+[Bonomo](https://doi.org/10.20944/preprints202606.1503.v1) relates Master to Planner, University to Researcher, Hysteric to Writer and Analyst to Reviewer. Planning passes a question to research, the writer develops a claim where plan and evidence diverge, and review returns a specific objection to the writer. The sequence follows the writing task. Rotation in Lacan's formulas describes the structural relation among four terms. [Core view YY-19](core-views.md#yy-19) extends this to either participant entering any discourse, including rotation within a model's own work. [Relational positions](relational-positions.md) follows that distinction through a manuscript.
 
 ## Dialectical reversal: changing understanding and position
 

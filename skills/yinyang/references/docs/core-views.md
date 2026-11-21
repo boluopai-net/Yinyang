@@ -19,6 +19,7 @@ its developmental purpose or writing a personal philosophy. See
 - [YY-01 · Reverse alignment: people develop with generative models](#yy-01)
 - [YY-02 · The person as an embodied multimodal generative model](#yy-02)
 - [YY-03 · Yinyang dialectics: role exchange and human generation](#yy-03)
+- [YY-19 · Relational positions: person and model can each move among the four discourses](#yy-19)
 - [YY-04 · Understand oneself, the model counterpart, and their relation together](#yy-04)
 - [YY-05 · Let literature, history, philosophy, psychology, and preference shape collaboration](#yy-05)
 - [YY-06 · Arrange contributions across listening, speaking, reading, and writing](#yy-06)
@@ -228,6 +229,16 @@ for mediation through the other, sublation of exclusive determinations, and pres
 [Turning and corrective feedback](yinyang-and-taiji.md#turning-and-corrective-feedback) connects feedback's
 design rationale with that argument. Examine what returns and how it changes successor activity so
 creation can continue and pursuit can finish, stop, or turn elsewhere.
+
+<a id="yy-19"></a>
+
+## YY-19 · Relational positions: person and model can each move among the four discourses
+
+**Work can change hands, and the grounds on which someone speaks can change.** When a person hands review to a model, each can question the same draft from the reviewer's position. When the model then rewrites the claim, it owes grounds for the new judgment. Following one contribution shows how the participants take it up in turn. Following one participant shows how the relation from which they speak can change.
+
+Yinyang adopts Bonomo's engineering interpretation of Lacan's four discourses. **Master · Planner** frames a question whose assumptions research must examine. **University · Researcher** speaks from organized knowledge and gives the writer evidence along with its gaps. **Hysteric · Writer** challenges the organizing term where question and material diverge, developing a claim open to scrutiny. **Analyst · Reviewer** locates the authority a passage claims and the point at which it speaks for another, returning the objection to the writer. Either participant can enter any position. Listening can precede planning when an intuition is still taking shape. A model entrusted with a work can rotate on its own, carrying an objection back to writing, inquiry or framing.
+
+What can the other's reply change? Can a research finding reopen a comparison whose premise the material fails to support? When the person identifies a purpose the model attributed to them, does the next draft change its argument? [Relational positions](relational-positions.md) follows this return into the work. The [Lacan reading guide](lacan-reading-guide.md#four-discourses) distinguishes the four structural places from the four configurations of discourse.
 
 <a id="yy-04"></a>
 
