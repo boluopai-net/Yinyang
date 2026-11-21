@@ -150,20 +150,7 @@ This model has mathematical and physical aspects. Mathematics expresses relation
 
 Recursion occurs when the four capacities themselves become objects: how relationships are selected, how simulations are generated, what evaluation overlooks, and why a modification failed to take effect can all improve through the practice. A more accurate model can improve the next simulation; failed expectations can revise modeling; implementation difficulty can change candidate generation so that later work considers actual entrances earlier. The object improved is therefore **the human–model system's capacity to improve the person's living and technical capacities**.
 
-## Listening, speaking, reading, and writing as interfaces for introspection and change
-
-The [division of work across listening, speaking, reading, and writing](core-views.md#yy-07) brings these functions into ordinary activity. A person can begin with intuition, sound, a sketch, criticism, or an unfinished utterance; the model unfolds relationships, checks details, and maintains works that can continue. The table considers different entrances into the same activity:
-
-| Entrance | How material about one's own operation becomes available | How it contributes to improvement |
-| --- | --- | --- |
-| Listening | Recognize meaning and mismatch in explanation, sound, rhythm, and hearing oneself speak. | Compare how explanations reach oneself; adjust presentation, examples, or communication. |
-| Speaking | Express wishes, intuitions, predictions, and objections, discovering relationships through expression. | The model reconstructs candidates, which further human expression can correct. |
-| Reading | Read sources, diagrams, one's own descriptions, and works; compare what is said with what is encountered. | Examine fidelity to activity and differences before and after a change. |
-| Writing | The person writes ideas, philosophy, and decisive judgments; the model develops and maintains arguments and implementations. | Put new understanding into readable, usable descriptions for subsequent activity. |
-
-These entrances can repeatedly connect. A person encounters an inaccessible explanation and voices a counterexample; the model reconstructs the relations and draws a candidate; the person listens, checks an omission, and revises the earlier understanding. Role return in [Yinyang dialectics](yinyang-and-taiji.md) gains technical content here: generation, scrutiny, and revision recur through the other's contribution, and the original division of work can change. Actual input channels determine what each participant can judge from.
-
-Existing capabilities distribute the technical work: language models organize material, unfold possibilities, write, and implement; memory and version tools support return; specialist tools handle relevant computation and measurement; people change their activity through participation, experience, judgment, and practice. An initial implementation can be simple: maintain six connected descriptions, use them in a real task, and connect expectations, results, and reasons for revision to the relevant accounts. Existing tools handle preservation and delivery. Concrete uses can later justify additional simulation or measurement.
+Through the [division of work across listening, speaking, reading, and writing in YY-07](core-views.md#yy-07), the participants can notice where their self-model diverges from experience. [Role exchange](yinyang-and-taiji.md) lets either participant offer an explanation or correct the other's. Recording the discrepancy, the reason for revision, and the changed practice in the relevant working account lets the next activity test whether the revision improved subsequent judgment and action.
 
 ## Self-referential introspection and the Gödel machine: the reach of the argument
 
