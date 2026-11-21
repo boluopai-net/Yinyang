@@ -17,6 +17,11 @@ source glossaries. Use course or book titles as headings in the vocabulary
 file. A course heading can include its main textbook. Put papers and projects
 in the Unit column and keep every row visible.
 
+Course selection requires a readable book matched to the course. Follow
+theory by course unit and book chapter, or use real experiments as the route
+through an experiment-led course. Each main experiment ties its test and
+interpretation to a named theory passage.
+
 ## Install the linked group
 
 Download complete sibling directories, preserving their names and resources:
@@ -65,6 +70,8 @@ Course 方法，不是弱化的实践副本。准确标识为 `local-teacher`。
 “为这份材料准备术语与名词解释表、指南及适用训练”。
 
 课程、书籍或论文各有自己的术语与名词解释表，保留定义、适用条件和必要例子。模块正文链接到独立的词表和各来源的解释表。词表按课程或书籍设标题，课程标题可以带上主教材，同一单元只列一次。论文和项目写在「单元」栏，相关词列在「词条」栏并链接到具体解释。所有行直接可见。
+
+选课要有可以阅读且与课程对应的书。理论按课程单元连接书的章节。实验主导的课程可以从真实实验进入，每个主要实验写明对应的理论章节、检验的内容及怎样理解结果。
 
 | 配套 Skill | 职责与取得方式 |
 | --- | --- |

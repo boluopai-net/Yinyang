@@ -52,6 +52,14 @@ philosophy keeps per-book glossary plus argument/research guide, historical stud
 writes chronologically and teaches recursively across units, technical study
 keeps distinct written and experimental training, and State distinguishes
 prepared support, exposure, learner contributions and untested understanding.
+
+Prefer recent courses from universities strong in the subject. Select one with
+a readable adopted book, an identified reference covering roughly 80% of its
+substantive material, or continuous course notes paired with a corresponding
+theory book. Tie each theory unit to named chapters. An experiment-led course
+can start with its real labs, with each main experiment tied to a theory
+passage, its test and interpretation. See [Course sources and entry](references/course-sources-and-entry.md).
+
 Each course, book or paper keeps its own detailed glossary with definitions,
 conditions, distinctions and examples where needed. Only a learning-path
 module has a separate vocabulary list. It links its terms to specific
@@ -99,6 +107,8 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 是源方法记录的阅读配置，可选 [PDF++](https://github.com/RyotaUshio/obsidian-pdf-plus)
 支持精确选择、高亮与反向链接验证。不安装时仍可使用普通来源位置与公式，但需说明
 无法完成的验证。安装包不提供材料库、当前学习者画像、访问授权或进度。
+
+选课优先考虑在该学科有实力的大学近年的课程。课程应有可读的指定教材、经核查覆盖约八成实质内容的参考书，或配有对应理论书的连续讲义。理论按课程单元连接书的章节。实验主导的课程可以从真实实验进入，每个主要实验写明理论章节、检验和结果解释。[课程来源与入口](references/course-sources-and-entry.md)
 
 哲学学习使用每本书的术语与名词解释表及论证／研究指南。每门课、每本书或每篇论文各有
 自己的解释表，保留定义、条件、区别和必要例子。学习路径中只有模块另设词表。模块正文

@@ -96,7 +96,7 @@ keep uncertain equivalence or recall open. Use a focused review when asked.
 
 | Current work | Shared resource and responsibility |
 | --- | --- |
-| Select or combine course sources; make the starting or resumption passage reachable | [Course sources and entry](../web-teacher/references/course-sources-and-entry.md): source-first reading, mixed formats, same-course companions and usable entry. |
+| Select or combine course sources; make the starting or resumption passage reachable | [Course sources and entry](../web-teacher/references/course-sources-and-entry.md) covers course eligibility, unit-to-book reading, experiment-led study and mixed formats. |
 | Prepare or revise saved materials for a course, book or paper | [Course materials](../web-teacher/references/course-materials.md): independent graphical glossary, connected main guide, applicable written/lab training and saved-result validation. |
 | Select a reading mode or prepare, assign or adapt practice | [Teaching methods](../web-teacher/references/teaching-method.md): reading, feedback and broad preparation with checked answers and evaluation grounds, narrowed to a small active practice subset. |
 | Study philosophy, intellectual history or psychoanalytic theory as texts and concepts | [Philosophical text study](../web-teacher/references/philosophy.md): per-book glossary, arguments, research connections, historical and recursive views. Combine with the materials branch for saved documents. |

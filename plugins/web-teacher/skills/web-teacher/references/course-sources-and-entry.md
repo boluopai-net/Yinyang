@@ -8,6 +8,41 @@ chooses direction and scope; this method makes the selected course teachable.
 The root owns teaching and learning evidence; [materials](course-materials.md)
 owns saved companions, and [workspace](course-workspace.md) resolves their owners.
 
+## Choose a course with a readable theory source
+
+Prefer a recent offering from a university with demonstrated strength in the
+subject. Inspect its actual teaching sequence and representative materials.
+Select a course when one of these reading routes is usable.
+
+- The course adopts a readable book, and its selected units can be followed
+  at specific chapters or sections in the verified edition.
+- A clearly identified, readable reference book covers roughly 80% of the
+  course's substantive content. Check the correspondence against the units
+  and the actual passages. Record the uncovered parts and their support.
+- Continuous course notes supply the course sequence, with a readable theory
+  book mapped to the corresponding concepts and units to support their
+  explanation and interpretation.
+
+Distinguish a course-adopted book from a reference selected by the teacher.
+Judge coverage by the meaningful material each source develops. Course
+titles, keywords and lecture counts alone cannot establish correspondence.
+Skip a course candidate when a suitable readable book is unavailable. A
+direct request to study a specific book, paper, or passage uses that source
+and its own study method.
+
+For a theory-led course, organize study by course unit and link to the book
+chapters or sections that develop it. An experiment-led course can follow
+its actual labs. For each main experiment, cite the corresponding theory
+chapter or section, state the question or hypothesis and name the actual
+comparison or test. Connect the measurement or observation to what its
+outcomes support or call into question. Put the relevant theory beside the
+experiment where the reader can use it.
+
+Use a paper selected within a module for its contribution to that topic or
+unit, with direct links to its explanations from the module vocabulary file.
+For standalone paper study, organize its guide around the paper's own question,
+method, evidence, interpretation and limits, and use its own detailed glossary.
+
 ## Select sources by their contribution
 
 Recover the selected scope, prior exposure and next unresolved relation from
@@ -28,8 +63,9 @@ across units; they are not permanent media rankings or required metadata labels.
 Judge importance through the learning purpose, conceptual dependencies,
 consequences of misunderstanding, source quality and distinct contribution.
 Preserve the theory needed to understand the object while reducing repetition
-and mechanical load. A textbook can be the spine for one unit and a notebook's
-model and explanation for another. The official course order can reveal
+and mechanical load. Use the mapped theory reading for an explanatory unit
+and an actual lab or notebook when it supports the experimental route above.
+The official course order can reveal
 dependencies without making its whole assessed workload compulsory. Keep
 selection and omission reasons intelligible; wider curriculum changes remain
 with the path owner.

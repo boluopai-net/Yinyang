@@ -99,6 +99,9 @@ Only reusable methods are packaged; current learning records remain with the rec
 
 For courses assembled from books, notes, slides, recordings, transcripts,
 notebooks or activities, use [Course sources and entry](references/course-sources-and-entry.md).
+Verify its required readable book before adopting a course. Organize theory by
+course unit and corresponding book passage. When actual experiments lead
+the course, connect each main test and interpretation to the theory passage.
 Select their contributions to the learning object, combine complementary
 content into a coherent lesson and provide a reachable guide entrance.
 Missing formats do not by themselves establish missing teaching content.
