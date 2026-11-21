@@ -234,7 +234,9 @@ creation can continue and pursuit can finish, stop, or turn elsewhere.
 
 ## YY-04 · Relational positions: person and model can each move among the four discourses
 
-[YY-03, Yinyang and Taiji](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html), argues why person and model can each generate and judge. YY-04 asks what gives someone standing to speak when work changes hands and what their answer can change. [Bonomo's discursive rotation](https://www.preprints.org/manuscript/202606.1503) shows the relation through the making of a manuscript.
+In [YY-03, Yinyang and Taiji](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html), a person can offer a conjecture for the model to test or take up the model's explanation and show where it breaks down. Yet checking the source of a quotation and placing two passages side by side so a reader can point to where they lost the thread are both acts of scrutiny. They give the reader different opportunities to answer. **A relational position concerns what gives one participant standing to address the other, which judgment they leave to the other, and what the answer can change.**
+
+[Bonomo's discursive rotation](https://www.preprints.org/manuscript/202606.1503) brings the four discourses into the making of a research manuscript. The master discourse sets a direction. The university discourse answers from available knowledge. The hysteric discourse questions what the plan cannot accommodate in the material. The analyst discourse gives the writer an occasion to reconsider a claim.
 
 ```mermaid
 flowchart TD
@@ -247,6 +249,8 @@ flowchart TD
     V -->|Reframe premise| P
 ```
 
+Follow the arrows down and a question passes to the researcher, evidence and gaps pass to the writer, and an argument passes to the reviewer. Follow the lines back up the side and the destination depends on the objection. Suppose a manuscript attributes a later scholar's interpretation to the original author. The reviewer can identify that difference. The researcher can recover the passage and the writer can correct the attribution. If the entire research question depended on that attribution, the planner has a reason to reconsider the question itself. Each position can settle something and leaves another judgment to someone else.
+
 | Discourse | Agent | Authority | Outside its remit |
 | --- | --- | --- | --- |
 | Master | Planner | Set the research objective and order of tasks | Conducting the research |
@@ -254,7 +258,7 @@ flowchart TD
 | Hysteric | Writer | Question tensions between the plan and the material, and develop an argument | Final verification |
 | Analyst | Reviewer | Challenge implicit authority, omissions and conflations | Rewriting the passage |
 
-In Yinyang either participant can enter any position. The person can take over review from the model, or the same model can move from review to writing and answer for its new claim. Listening can precede planning when the person's idea is still taking shape.
+The same model can review a passage and then take up the writing. As reviewer it contributes by finding a gap between evidence and conclusion. As writer it must supply grounds for its revised claim. The person can take up any of the positions too. Suppose they want to hear how a shift in stress changes the tone of a sung phrase, and the model ranks two recordings by pitch accuracy. Saying “I wanted to hear what the same lyric conveys in each performance” can change which excerpts the model retrieves and what it invites the person to compare. Who holds the relevant material and who notices a gap in the explanation can change from one encounter to the next.
 
 | Discursive position | How the person takes it up | How the language model takes it up |
 | --- | --- | --- |
@@ -263,7 +267,7 @@ In Yinyang either participant can enter any position. The person can take over r
 | Hysteric — question what fails to fit | Challenge a current explanation where something feels wrong and share an intuition still taking shape | Find a counterexample to the person's assumption or the model's earlier conclusion and develop another reading that can be tested |
 | Analyst — make room for a new judgment | Point out whom the model has spoken for or what it has conflated, then have it explain again and revise | Hear what remains open and offer material or candidate interpretations that the person can recognize and judge from experience |
 
-[Relational positions, the full essay for YY-04](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.html), develops these handoffs.
+Cooperation can begin with a difficulty. A reader says, “I understand each paragraph, but I lose the connection when I put them together.” The model can retrieve the adjacent passages and reconstruct a missing premise. Sometimes the reader wants to get on with the page. On another occasion they may want to try the inference on a new passage and have the model test it. The same difficulty can justify delegating the derivation today and leaving the next attempt to the reader tomorrow. The ability to move among positions lets the participants finish the present work and begin their next encounter differently. [Relational positions](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.html)
 
 <a id="yy-05"></a>
 
