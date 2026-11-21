@@ -70,7 +70,7 @@ For a systematic course, a book, a single paper, or a question pursued across se
 
 This self-study route starts from native-language texts and AI-prepared material, without assigning original lectures to watch or listen to. **Use the course guide to locate the current unit, then open the relevant chapters of the main textbook or reference book checked at course selection and the assigned readings.** Books already written in the learner's native language can be read directly; have the model translate foreign-language sources first. Original texts and faithful translations have a different role from AI-written explanations, guides, and practice. See the [reading priority among materials](#reading-order).
 
-In this learning setup, prepare three companion files for each named course, standalone book, paper, or experiment being studied. Open a course from its module through one contextual link. At the top of each companion, link directly to both of the others. The model explains concepts and relationships with original locators, examples, and diagrams. The [practice path](#practice-learning-path) starts from a specific task.
+In this learning setup, prepare three companion files for each named course, standalone book, paper, or experiment being studied. Start a module by explaining its subject. Give each source one entry in the paragraph where the reader sees what it contributes. At the top of each companion, link directly to both of the others. The model explains concepts and relationships with original locators, examples, and diagrams. The [practice path](#practice-learning-path) starts from a specific task.
 
 | Material | Mathematics and technical study | Humanities reading, including philosophy |
 | --- | --- | --- |

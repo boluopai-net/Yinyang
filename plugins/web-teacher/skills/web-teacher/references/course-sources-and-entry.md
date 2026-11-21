@@ -122,12 +122,17 @@ official transcript.
 
 ## Prepare a reachable learning entrance
 
-Give each course one contextual entry on the module work page. Introduce the
-actual concept, question or action the reader reaches at that point. Link
-to the useful starting or resumption unit and make clear why it is worth
-opening now. The existing main guide normally supplies this entrance.
-Keep the source inventory in the material index. On return, use State to
-resolve the current unit.
+Open the module with the subject it develops. Weave one reader entrance for
+each course, standalone book, paper or experiment into the paragraph where
+its contribution matters. Link to its guide or useful starting unit once
+the reader can see the question it addresses. Keep a source inventory in
+its material index, guide directories out of the module opening, and
+sibling links inside the companion files. On return, use State to resolve
+the current unit.
+
+A paragraph about why a sample supports a claim can introduce a source on
+sampling and explain what bias to check. A later paragraph about predictions
+on new observations can introduce a separate source on held-out evaluation.
 
 Develop connected explanations, examples and fitting visuals in the chosen
 knowledge order. At the point of use, the guide links directly to a relevant
@@ -146,7 +151,8 @@ and reuse existing companions at their owners. Treat slides, transcripts and
 notebooks of a unit as its source materials. Keep one guide entrance if a long
 guide uses supporting unit files.
 
-Before handoff, follow the path entry to the guide, starting/resumption unit,
+Before handoff, read the module opening and follow each entrance where its
+contribution is explained. Check the guide, starting/resumption unit,
 source, glossary and selected training. Confirm that a reader can tell what
 to use first, what to understand and where to continue without reconstructing
 the folders. Name real source/preparation gaps beside affected units.

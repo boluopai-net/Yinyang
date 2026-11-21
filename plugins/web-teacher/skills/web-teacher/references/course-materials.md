@@ -33,9 +33,9 @@ section in each of the three course files and cross-link those sections.
 
 In each file, place direct links to both sibling files immediately after the
 title and before the study content. Link corresponding concepts, units and
-exercises in the body where the reader needs them. The module gives a course
-one contextual entrance, normally the guide; the three-way navigation belongs
-in the companion files. Before handoff, follow all six sibling links and check
+exercises in the body where the reader needs them. Use the
+[module entrance method](course-sources-and-entry.md#prepare-a-reachable-learning-entrance)
+for the reader's entry into each source. Before handoff, follow all six sibling links and check
 that each destination serves the same source and scope.
 
 Choose and combine three writing approaches: mathematics, technical study,

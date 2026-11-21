@@ -55,7 +55,8 @@ prepared support, exposure, learner contributions and untested understanding.
 
 The [Course sources and entry](references/course-sources-and-entry.md)
 method covers course selection, connections between theory and experiments,
-and the single contextual entrance a learner uses for each course.
+and one entrance per source, woven into the module's explanation where the
+source helps the learner.
 
 For a requested [three-file arrangement](references/course-materials.md#three-files-for-each-named-study-source),
 each named course, standalone book, paper or experiment has its own guide,
@@ -104,7 +105,7 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 支持精确选择、高亮与反向链接验证。不安装时仍可使用普通来源位置与公式，但需说明
 无法完成的验证。安装包不提供材料库、当前学习者画像、访问授权或进度。
 
-选课、连接理论与实验，以及怎样为每门课提供一个直接可用的学习入口，见[课程来源与入口](references/course-sources-and-entry.md)。
+选课、连接理论与实验，以及怎样在正文讲到每个来源的用途时给出一个入口，见[课程来源与入口](references/course-sources-and-entry.md)。
 
 如果学习者选择[三份配套文件](references/course-materials.md#three-files-for-each-named-study-source)，
 范围内每门课、每本单独学习的书、每篇论文和每项独立实验各备指南、术语与名词解释表及练习，
