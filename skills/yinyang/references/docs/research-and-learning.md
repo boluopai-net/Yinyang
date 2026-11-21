@@ -70,7 +70,7 @@ For a systematic course, a book, a single paper, or a question pursued across se
 
 This self-study route starts from native-language texts and AI-prepared material, without assigning original lectures to watch or listen to. **Use the course guide to locate the current unit, then open the relevant chapters of the main textbook or reference book checked at course selection and the assigned readings.** Books already written in the learner's native language can be read directly; have the model translate foreign-language sources first. Original texts and faithful translations have a different role from AI-written explanations, guides, and practice. See the [reading priority among materials](#reading-order).
 
-Depending on the learning object, use the two- or three-document arrangement below. The model explains concepts and relationships, retains chapter, lecture, page, or paper-passage locators, adds examples and useful diagrams, and connects existing understanding, interests, and actual questions:
+Use the two or three companion documents below for course theory or for reading a book or paper. The model explains concepts and relationships, retains chapter, lecture, page, or paper-passage locators, adds examples and useful diagrams, and connects existing understanding, interests, and actual questions. The [practice path](#practice-learning-path) starts from a specific task.
 
 | Material | Mathematics and technical study: three connected documents | Humanities reading (such as philosophy): two connected documents |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ Depending on the learning object, use the two- or three-document arrangement bel
 
 <a id="term-list-use"></a>
 
-Each module in a learning path has a standalone **term list** that readers can open from the module work page for recall. All rows are visible when the reader opens the term list. Put the learning unit in the left column, **Unit**, and the terms to recall from that unit in the right column, **Terms**. Separate the terms with commas and link each one directly to its explanation in the relevant material.
+The theory side of a module has a standalone **term list** that readers can open from the module work page for recall. All rows are visible when the reader opens the term list. Put the learning unit in the left column, **Unit**, and the terms to recall from that unit in the right column, **Terms**. Separate the terms with commas and link each one directly to its explanation in the relevant material.
 
 Use source headings only for the courses and books actually studied. Under a source heading, put only the name of the lecture, chapter, or coherent chapter group in the unit cell. If a course and its main textbook cover the same learning units, both titles can share one heading and each unit appears once. A paper normally occupies one row, using a short, recognizable form of its title in the unit cell. If a paper has several parts that can be studied separately, use a row per part and add the part name after the short title. Use the actual units of work for project rows. Apply the same arrangement to supplemental sources.
 
@@ -144,13 +144,13 @@ The result at this point is a direction and a list of candidate courses. Verify 
 
 Start from the draft curriculum and look primarily for online courses from outside China with matching topics or names. Prefer recent offerings from universities with strong research and teaching in the field. Check the syllabus, year, sessions, and assigned readings. Where titles differ, record how the contents correspond. Use the earlier entrance-examination reading lists and curricula to compare candidates.
 
-**Before adding a course to the core, obtain and verify the book that supports it.** Prefer the main textbook assigned or used by the course, including a textbook written by its teaching team. Where the course has no adopted textbook, identify a reference book and map it to the course unit by unit. Compare substantive content such as concepts, methods, and derivations. Use the book if it covers roughly 80 percent of the course units. A course built around a continuous series of attributed lecture notes also requires a corresponding reference book with passages mapped to the notes. Download a complete copy to the appropriate book collection or verify a complete copy already there. Open the book, check its title page, authors and edition, and inspect the relevant passages. If a suitable book cannot be obtained, tell the learner which book is missing and why, then choose another core course.
+**Before adding a course to the core, obtain and verify the book that supports it.** Prefer the main textbook assigned or used by the course, including a textbook written by its teaching team. Where the course has no adopted textbook, identify a reference book and map it to the course unit by unit. Compare substantive content such as concepts, methods, and derivations. Use the book if it covers roughly 80 percent of the course units. A course built around a continuous series of attributed lecture notes also requires a corresponding reference book with passages mapped to the notes.
+
+Download a complete copy to the appropriate book collection or verify a complete copy already there. Open the book, check its title page, authors, and edition, and read representative passages to verify readability and correspondence to the course. If a suitable book cannot be obtained, tell the learner which book is missing and why, then choose another core course.
 
 Map each unit in a theory course to textbook or reference-book chapters and use that mapping to organize the reading. An experiment-led course can follow its main experiments. For each central experiment, cite the corresponding book section and explain the theory and assumptions it uses and what the results can test. Papers, slides, assignments, code, and transcripts can supplement specific units.
 
-After selecting the course, have the model organize the verified book's relevant chapters, assigned readings, and supplementary lecture notes, slides, assignments, or code. Have the model process video only when necessary to obtain relevant subtitles or figures. For supplementary downloads the model cannot complete, list the material, original link, and reason for manual completion. Distinguish downloaded materials, online-only entrances, and outstanding items in the index.
-
-When discussing a book in the module, link its recognizable short title in the sentence explaining what it contributes. Record the full title, authors, verified edition, and relevant chapters or pages in the course guide or material index.
+After selecting the course, have the model organize the verified book's relevant chapters, assigned readings, and supplementary lecture notes, slides, assignments, or code. Have the model process video only when necessary to obtain relevant subtitles or figures. For supplementary downloads the model cannot complete, record the material, original link, and reason. Distinguish downloaded materials, online-only entrances, and outstanding items in the index.
 
 <a id="source-translation"></a>
 
@@ -158,9 +158,11 @@ When discussing a book in the module, link its recognizable short title in the s
 
 Prepare readable editions of the main textbook or reference book verified at selection, its relevant chapters, and the assigned readings. Organize papers discussed in the course by unit. Carry the verified correspondence between the course and the book into the AI preparation files.
 
+When discussing a book in the module, explain what it contributes and link its recognizable short title directly to the section or edition in that sentence. Record the full title, authors, verified edition, and relevant chapters or pages in the course guide or material index. For an academic citation, include enough information to identify the authors, edition, and cited passage.
+
 When a source's language is unsuitable for direct reading, have the model translate the complete book, chapter, or paper selected for study into the learner's native language. For the Chinese learner described here, prepare a Chinese translation. Preserve chapter, page, or paragraph correspondence, equations, figures, quotations, and references; check terminology and consequential passages. Use an appropriate existing Chinese edition when available, and read books originally written in Chinese directly. Translation makes the original work readable; a summary does not replace the book or paper.
 
-Then use these sources to prepare a glossary with definitions, a main guide, and any relevant exercises or experiments. These files help explain structure, clarify concepts, supply background, and select practice. Where the original already develops the subject clearly, the guide points to its passages and adds the necessary explanation; finishing the guide is not a prerequisite for reading the original.
+For course reading, use these sources to prepare a glossary with definitions, a main guide, and any relevant exercises or experiments. These files help explain structure, clarify concepts, supply background, and select practice. Where the original already develops the subject clearly, the guide points to its passages and adds the necessary explanation; finishing the guide is not a prerequisite for reading the original.
 
 <a id="reading-order"></a>
 
@@ -180,13 +182,13 @@ Select what the current unit needs, starting at the top of the table. Have the m
 
 #### Check the preparation files and reading entrances
 
-Check that the original or translated texts and the two or three preparation files open correctly and link to the corresponding passages. Where training materials are useful, prepare questions, solutions, and evaluation grounds across the course's scope, checking answers and keeping them separate from questions for later selection. This systematic course route prepares materials, an environment, and learning paths before reading and practice; other reading entrances can develop materials during reading.
+For course reading, check that the original or translated texts and preparation files open and link to the corresponding passages. Where written training is useful, prepare questions, checked solutions, and evaluation grounds across the course’s scope. Keep solutions separate from questions. For practice, prepare the inputs, tools, starting point, and checks for the selected task. Other reading entrances can develop materials during reading.
 
 <a id="practice-environment"></a>
 
 ### 3. Prepare practical tools and an environment
 
-After preparing materials and notes, have the model connect the environment needed by the curriculum draft, acquired resources, and abilities you want to develop. Software may be installed for later use or operated with model assistance. Installation, payment, usable capability, and personal familiarity are separate judgments.
+After selecting the experiment or task, have the model set up the environment for its actual inputs, tools, and required result. Software may be installed for later use or operated with model assistance. Installation, payment, usable capability, and personal familiarity are separate judgments.
 
 | What to prepare | Contribution to learning |
 | --- | --- |
@@ -206,22 +208,22 @@ Retain the tool capabilities, usable materials, and operation entrances establis
 
 ### 4. Write the theory and practice learning paths
 
-Once the materials and practical environment are ready, have the model organize the connections developed during preparation into two usable paths. The theory path should point to acquired courses, books, notes, and passages; the practice path should point to available tools, materials, operation entrances, and abilities to develop. The earlier curriculum draft supplies direction; this step supplies grounded, specific learning paths.
+Use the verified course materials and available environment to create two paths that are ready to start. The theory path points to courses and book chapters. The practice path opens an actual experiment, project, or task from a suitable course and shows how to inspect or check the result.
 
-**The theory path organizes knowledge; the practice path organizes abilities and tools.** A course usually includes both theory and practice, but these forms of organization answer different questions. Courses help explain concepts, principles, and methods; practice develops the abilities to design, analyze, and make things. Difficulties encountered in practice reveal which theories deserve closer study.
+**The theory path organizes what to understand. The practice path organizes what to do.** A course’s book chapters can explain concepts and methods, and its experiments and projects can produce results that send you back to the book with a question.
 
 | Path | What it organizes | How to use it |
 | --- | --- | --- |
 | <a id="theory-learning-path"></a>Theory learning path | Questions in the field, course modules, conceptual relationships, prerequisites, and readings | Develop an overall understanding and select courses or passages for deeper inquiry. |
-| <a id="practice-learning-path"></a>Practice learning path | Abilities in expression and judgment, tool use, making or experimentation, checking results, and revision | Begin with an ability you want to develop, practice with an actual object, and return to relevant theory. |
+| <a id="practice-learning-path"></a>Practice learning path | An experiment, project, or task, its materials and tools, and a way to check its results | Open the task and work until you can test or deliver a result. |
 
 <a id="contextual-course-entrance"></a>
 
-Give each course one entry on the module work page. Describe the question or activity that makes it useful now and link to the relevant unit of the main guide. The guide leads readers to definitions, practice, and original readings at the point of need.
+Give each course one entry on the module work page for theory study. Describe the current question and link to the relevant unit of the main guide. The guide leads readers to definitions, practice, and original readings at the point of need.
 
 > If you want to use a survey to learn about the whole class, start with [sampling in Data 100](#data100-sampling-guide) to tell who you could reach and who actually answered.
 
-Write the practice path as an **outline of abilities and tools**. Design might distinguish paper sketches, visual expression, information and interaction structure, prototypes, motion, platform differences, and design handoff. Statistics might distinguish data preparation, visualization, model selection, interpretation, and checking. These are capability areas; the particular work, dataset, or task used for practice can be chosen when learning actually takes place.
+Choose the practice task by the result you want. **To learn a method**, use an experiment or project from a suitable course, perform the step you want to learn, and change the dataset or situation to test whether you can reproduce and explain it. **To deliver work**, select or adapt a course task to the real work requirements. Produce an analysis, prototype, or other result the intended user can check, and validate it against the delivery criteria.
 
 For employment, have the model examine real job requirements and work materials, separating common foundations, specialties, experience requirements, and alternative tools. For curiosity, creation, or research, select from the relevant works, questions, and methods.
 
@@ -252,11 +254,13 @@ to connect its reasons to the source, a counterexample, or an actual result, the
 in the next explanation, prediction, or design. [Amplification and correction](yinyang-and-taiji.md#turning-and-corrective-feedback)
 concern how return changes the next attempt; encouragement and criticism retain their communicative roles.
 
-#### Work backward from practice to theory, then return
+<a id="practice-task-entry"></a>
 
-Select an ability currently needed from the practice outline. Have the teacher use the actual object to specify what to do, compare, and check. For example, begin by comparing interface transitions; when a response makes the system's state hard to judge, enter the relevant theory of motion, feedback, or perception. When a dataset needs interpretation, select an appropriate statistical model and its conditions. If the theory remains unclear, supply the foundations it actually depends on, then bring that understanding back to the original design or analysis.
+#### Start with the task and use theory to explain the result
 
-The path supplies an outline. Concrete tasks, theoretical passages, and the question to return to are selected during the activity, with sequence determined by actual knowledge dependencies. Choose and change practice objects as needs develop. The necessary theory may be small or warrant substantial depth, depending on the problem and the remaining gap in understanding.
+Open the actual experiment, project, or task and decide what to change, what to hold fixed, and how to check the result. When you need to plan a comparison or interpret an outcome, read the relevant textbook or reference-book passage and return to the task to test it. The practice path keeps the task instructions, working resources, checks, and results. Preparing and consulting the explanatory glossary belongs to course theory reading.
+
+For example, open the [Data 100 election sampling exercise](https://ds100.org/course-notes/sampling/#id-simple-random-sample-srs) and repeatedly draw simple random samples from the same election data. Change only sample size and plot the two distributions of estimated vote shares to compare their variability. Use section 17.6 of [*Learning Data Science*](https://learningds.org/ch/17/inf_pred_gen_prob.html) to explain the difference. Save the plots and conclusion with the sampling conditions that produced them.
 
 Tool familiarity includes knowing what a tool can do, how files and operations are organized, when to use it, how to express an intention, and how to judge the result. Models can operate complex interfaces, write code, and carry repetitive production; people can participate through paper sketches, photographs, speech, comparison, and revision. Preserve hands-on attempts when developing your own drawing or direct-operation ability. Where a job or examination requires personal performance, check against that requirement. Report what you performed and what the model supplied when evaluating.
 
