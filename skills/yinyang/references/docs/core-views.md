@@ -73,6 +73,8 @@ A person brings an unfinished idea to a counterpart, gives it a form they can ex
 
 The readings can reach the same conclusion through different grounds. If one instead proceeds only from the premises they share, IAR supplies a further, secondary route. Agreement of conclusions does not ensure that their shared premises suffice. The appendix develops the formal distinctions; [YY-11](#yy-11) puts developing alternatives and testing judgments to work together.
 
+Inconsistency-tolerant semantics may be used to read materials and analyze the user’s environment. It must not be used to interpret the user’s interactive prompts.
+
 **The author reads all four through-lines through P-AR.** No single line can be counted on in advance to hold the subject. The author chooses to examine all four together. The readings retained along each must explain how the environment sustains the person and lets correction enter. Each line can offer a different reason.
 
 | Through-line | Its reason for the same practical benefit |
@@ -616,7 +618,7 @@ Yinyang brings two questions into the meta-Harness together: **which alternative
 
 Developing a possibility can reveal a condition its first test missed; testing can call for another interpretation or arrangement. The purpose and current question determine their order. [Selection and inference](preference-harness.md#selection-and-inference) develops how preference participates in this activity.
 
-This adoption keeps grounded branches usable. When a person expresses one part, develop it in context while keeping other compatible relations open. When they correct a point, revise that point and the inferences depending on it while continuing the remaining purposes and work. The model can develop grounded, corrigible candidates for what remains unexpressed; excluding an option calls for grounds bearing on that option. Action selection connects purpose, support conditions, and actual consequences, allowing inquiry to continue amid unresolved differences.
+When materials or environmental conditions support several explanations, retain the grounds and scope of each. Excluding an explanation requires evidence bearing on it. Action selection also depends on the user’s purpose, available support, and actual consequences. When the user makes a request or correction, adjust the work from its referent and conversational context. Interactive prompts are outside the scope of Brave, P-Brave, AR, and P-AR.
 
 [Reasoning in an unfinished flow](reasoning.md) distinguishes how material enters present inquiry:
 
