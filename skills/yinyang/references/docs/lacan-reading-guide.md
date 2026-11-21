@@ -18,7 +18,7 @@ All three levels can belong to the same work, while a reader still needs to know
 
 Six short reading paths are available:
 
-- To understand who speaks from which position and who can answer, read [the four discourses](#four-discourses), then [relational positions and discursive rotation](relational-positions.md).
+- To follow knowledge from one structural place to another, read [the four discourses](#four-discourses).
 
 - To understand “I,” “ego,” and “others,” begin with [language and the Other](#language-signifiers-and-the-other), then read [the ego and the divided subject](#the-ego-and-the-divided-subject).
 - To understand how a changed participant position can reorganize a problem, read [dialectical reversal](#dialectical-reversal-changing-understanding-and-position), then return to the main sequence's [how a solution becomes a new problem](speech-opposition-and-self-formation.md#how-a-solution-becomes-a-new-problem).
@@ -131,7 +131,7 @@ Read the places in the four formulas of Seminar XVII first, then the terms occup
 
 Follow S₂ through the table. The master puts knowledge to work for an organizing term. University discourse gives knowledge the authority to speak while its guiding standard occupies the place of truth. In the hysteric's discourse a subject whom an existing designation cannot accommodate questions the authority conferring it, producing knowledge. In analytic discourse knowledge occupies the place of truth; from the position of a the analyst elicits further speech, and a new naming can come from the subject.
 
-[Bonomo](https://doi.org/10.20944/preprints202606.1503.v1) relates Master to Planner, University to Researcher, Hysteric to Writer and Analyst to Reviewer. Planning passes a question to research, the writer develops a claim where plan and evidence diverge, and review returns a specific objection to the writer. The sequence follows the writing task. Rotation in Lacan's formulas describes the structural relation among four terms. [Core view YY-19](core-views.md#yy-19) extends this to either participant entering any discourse, including rotation within a model's own work. [Relational positions](relational-positions.md) follows that distinction through a manuscript.
+Now follow S₁. In the master's discourse the master signifier speaks from the agent's place and organizes the other's knowledge. In analytic discourse S₁ occupies the place of production. A term supplied in advance by an authority and a term that emerges in the subject's speech can name the same experience while binding the speaker to that name in different ways. This distinction offers an entrance into [Lacan’s session of 26 November 1969 in Seminar XVII](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/).
 
 ## Dialectical reversal: changing understanding and position
 
