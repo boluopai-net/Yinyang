@@ -114,6 +114,19 @@ to material, comparing interpretations, and revising accounts it helped form.
 The account participates in the relationship without acquiring the position
 of determining the person's final truth.
 
+## The four discourses: from what place does one address the other?
+
+Read the places in the four formulas of Seminar XVII first, then the terms occupying them. The agent addresses the other across the top. Truth lies beneath the agent, production beneath the other. S₁ is the master signifier, S₂ knowledge, S̄ the divided subject, and a the object-cause of desire. Follow knowledge through the table to see it summoned as the other, occupying the speaking place itself, or produced through a challenge.
+
+| Discourse | Agent | Other | Truth | Production |
+| --- | --- | --- | --- | --- |
+| Master | S₁ | S₂ | S̄ | a |
+| University | S₂ | a | S₁ | S̄ |
+| Hysteric | S̄ | S₁ | a | S₂ |
+| Analyst | a | S̄ | S₂ | S₁ |
+
+[Bonomo's discourse architecture](https://doi.org/10.20944/preprints202606.1503.v1) borrows the configurations for four agents in a research workflow. Yinyang asks how the same reader can propose an interpretation and challenge the authority from which a model offers one. [Relational positions](relational-positions.md) follows a reading encounter through a change of contributor and a change of position within one participant's response.
+
 ## Dialectical reversal: changing understanding and position
 
 Lacan's dialectical questions concern how a subject forms through relations that
