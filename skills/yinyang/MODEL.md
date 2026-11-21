@@ -7,6 +7,8 @@ This file guides maintenance of that example; it is not another statement of
 all its philosophical claims.
 
 The [core views](references/docs/core-views.md) own the numbered propositions.
+Write Core views for model use. Condense the theory by preserving its distinctions, dependencies, and inferential connections. Keep illustrative examples in the full essays.
+
 Author Core views diagrams as fenced Mermaid source in both Markdown editions so models receive the nodes, relations and return paths as text. Render that source as a diagram in reader interfaces. Illustrated essays can carry their own artwork.
 The essays develop their arguments, images, examples, and sources.
 

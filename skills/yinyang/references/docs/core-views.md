@@ -234,9 +234,9 @@ creation can continue and pursuit can finish, stop, or turn elsewhere.
 
 ## YY-04 · Relational positions: person and model can each move among the four discourses
 
-In [YY-03, Yinyang and Taiji](yinyang-and-taiji.md), a person can offer a conjecture for the model to test or take up the model's explanation and show where it breaks down. Yet checking the source of a quotation and placing two passages side by side so a reader can point to where they lost the thread are both acts of scrutiny. They give the reader different opportunities to answer. **A relational position concerns what gives one participant standing to address the other, which judgment they leave to the other, and what the answer can change.**
+[YY-03](yinyang-and-taiji.md) explains how person and language model each develop generation and judgment through the other. YY-04 distinguishes **participant, contribution, and relational position**. Person and model are participants. Generation and judgment are contributions available to both. Three relations determine a position: what authorizes one participant to address the other, what that address asks of the other, and what the other's response has standing to change. The same contribution can occur within different discursive relations.
 
-[Bonomo's discursive rotation](https://www.preprints.org/manuscript/202606.1503) brings the four discourses into the making of a research manuscript. The master discourse sets a direction. The university discourse answers from available knowledge. The hysteric discourse questions what the plan cannot accommodate in the material. The analyst discourse gives the writer an occasion to reconsider a claim.
+The four discourses differ in their grounds of address and the responses they elicit. Master discourse names a direction and mobilizes the other's knowledge. University discourse speaks from organized knowledge and acts on its object through established distinctions. Hysteric discourse questions an existing explanation from a division or contradiction it cannot accommodate, calling on the other to produce knowledge. Analyst discourse allows an unarticulated difference to emerge and returns the formation of a judgment to the other. [Bonomo's discursive rotation](https://www.preprints.org/manuscript/202606.1503) realizes these relations as planning, research, writing, and review.
 
 ```mermaid
 flowchart TD
@@ -249,7 +249,7 @@ flowchart TD
     V -->|Reframe premise| P
 ```
 
-Follow the arrows down and a question passes to the researcher, evidence and gaps pass to the writer, and an argument passes to the reviewer. Follow the lines back up the side and the destination depends on the objection. Suppose a manuscript attributes a later scholar's interpretation to the original author. The reviewer can identify that difference. The researcher can recover the passage and the writer can correct the attribution. If the entire research question depended on that attribution, the planner has a reason to reconsider the question itself. Each position can settle something and leaves another judgment to someone else.
+Forward handoffs transmit conditions for the next contribution. Direction delimits inquiry, inquiry supplies grounds for argument, and the articulated argument gives review its object. Review distinguishes the level an objection reaches. A failed inference returns to writing, inadequate evidence to research, and a failed organizing premise to planning. **Revision returns to the position responsible for the judgment the objection calls into question.**
 
 | Discourse | Agent | Authority | Outside its remit |
 | --- | --- | --- | --- |
@@ -258,7 +258,7 @@ Follow the arrows down and a question passes to the researcher, evidence and gap
 | Hysteric | Writer | Question tensions between the plan and the material, and develop an argument | Final verification |
 | Analyst | Reviewer | Challenge implicit authority, omissions and conflations | Rewriting the passage |
 
-The same model can review a passage and then take up the writing. As reviewer it contributes by finding a gap between evidence and conclusion. As writer it must supply grounds for its revised claim. The person can take up any of the positions too. Suppose they want to hear how a shift in stress changes the tone of a sung phrase, and the model ranks two recordings by pitch accuracy. Saying “I wanted to hear what the same lyric conveys in each performance” can change which excerpts the model retrieves and what it invites the person to compare. Who holds the relevant material and who notices a gap in the explanation can change from one encounter to the next.
+The first table distinguishes the authority of a contribution. The second distinguishes the participants who can undertake it. Discursive rotation changes the grounds of address, what is asked of the other, and responsibility for judgment. Work can pass between participants, and one participant can change positions. A change of participant alone leaves the question of position open. Person and model can enter all four positions, while their respective experience, knowledge, tools, and delegated authority determine what grounds are available to each.
 
 | Discursive position | How the person takes it up | How the language model takes it up |
 | --- | --- | --- |
@@ -267,7 +267,7 @@ The same model can review a passage and then take up the writing. As reviewer it
 | Hysteric — question what fails to fit | Challenge a current explanation where something feels wrong and share an intuition still taking shape | Find a counterexample to the person's assumption or the model's earlier conclusion and develop another reading that can be tested |
 | Analyst — make room for a new judgment | Point out whom the model has spoken for or what it has conflated, then have it explain again and revise | Hear what remains open and offer material or candidate interpretations that the person can recognize and judge from experience |
 
-Cooperation can begin with a difficulty. A reader says, “I understand each paragraph, but I lose the connection when I put them together.” The model can retrieve the adjacent passages and reconstruct a missing premise. Sometimes the reader wants to get on with the page. On another occasion they may want to try the inference on a new passage and have the model test it. The same difficulty can justify delegating the derivation today and leaving the next attempt to the reader tomorrow. The ability to move among positions lets the participants finish the present work and begin their next encounter differently. [Relational positions](relational-positions.md)
+The purpose of the activity and the judgment it still lacks determine where cooperation begins and ends. The other's response can change an argument, its grounds, or its direction. Actual consequences can in turn correct premises both participants accept. This gives the role exchange of YY-03 its relational determination: each participant can take up the other's work and let the other's objection change their next contribution. [Relational positions](relational-positions.md)
 
 <a id="yy-05"></a>
 
