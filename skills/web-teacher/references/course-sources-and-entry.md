@@ -26,9 +26,13 @@ Select a course when one of these reading routes is usable.
 Distinguish a course-adopted book from a reference selected by the teacher.
 Judge coverage by the meaningful material each source develops. Course
 titles, keywords and lecture counts alone cannot establish correspondence.
-Skip a course candidate when a suitable readable book is unavailable. A
-direct request to study a specific book, paper, or passage uses that source
-and its own study method.
+Before adopting a core course, download the complete adopted or matched book
+to the learner's appropriate book collection, or use a complete copy already
+there. Open it and check the title page, authors, edition and readability of
+the passages the course uses. If a suitable book cannot be obtained, tell the
+learner which book is missing and why, then pass over the candidate and look
+for a course with usable material. A direct request to study a specific book,
+paper, or passage uses that source and its own study method.
 
 For a theory-led course, organize study by course unit and link to the book
 chapters or sections that develop it. An experiment-led course can follow
@@ -125,6 +129,11 @@ original passage, glossary entry or exercise. Label the destination in terms
 of what the reader needs to understand or do, and make the next connection
 or return apparent. The module's separate vocabulary file remains a direct
 lookup route from terms to source-specific explanations.
+
+When discussing a book in the module, link its recognizable short title where
+the sentence explains what the book contributes. Use the actual title as the
+link text. Record the full title, authors, verified edition and relevant
+chapters or pages in the course guide or material index.
 
 Retain one independent glossary for recognition and recovery, and applicable
 training under the existing materials contract and its exceptions. Reuse prior
