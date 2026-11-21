@@ -374,7 +374,7 @@ Obsidian 的多个库也采用**一套共享基础配置**：主题、插件选�
 
 这里的“内外”取决于选定的系统边界。执行内环也包含工具、实际运行和结果反馈。在控制工程中，[内环与外环](https://www.mathworks.com/help/control/ug/designing-cascade-control-system-with-pi-controllers.html)是常见的结构用语；这里借它说明人机协作的反馈层次。
 
-这两层不把生成永久分给模型、评价永久分给人。你可以先提出未完成的解释或设计，让模型展开和检验；双方随后都能提出、审查和修订。结果可用，支持的是任务完成；个人发展还要看借助现有支持，后来能够辨认、生成、判断或行动到什么程度。当选择、练习、检查或再次修订的方法本身得到改进时，改进方法也成为[个人递归改进](core-views.zh-CN.md#yy-16)的对象。
+这两层不把生成永久分给模型、评价永久分给人。你可以先提出未完成的解释或设计，让模型展开和检验；双方随后都能提出、审查和修订。结果可用，支持的是任务完成；个人发展还要看借助现有支持，后来能够辨认、生成、判断或行动到什么程度。当选择、练习、检查或再次修订的方法本身得到改进时，改进方法也成为[个人递归改进](core-views.zh-CN.md#yy-17)的对象。
 
 复杂任务中存在独立调查或实现工作时，模型可以分派适合的部分、组织依赖，继续负责整合与最终结果检查。这种协调属于执行内部；你仍通过工作中有意义的选择与结果参与。
 
@@ -393,7 +393,7 @@ Obsidian 的多个库也采用**一套共享基础配置**：主题、插件选�
 
 [借火与创造能力的培养](https://boluopai.net/philosophy/stealing-fire/)的结论，可以落到三种相互连接的方式：用已有的生成能力帮助理解，让想法成为可用作品，再让日常环境承载它们。目标是兼具人的优势与模型的优势。人的身体经验、兴趣、感知与情境判断，和模型的检索、比较、显式推理、编辑与执行相互补充；双方可以按实际工作调整贡献。听说读写贯穿其中：你听、看、画、表达、批评和尝试，模型接住这些贡献，整理材料并把下一步工作做出来。
 
-**本指南建议，把新增的练习优先投给图像与绘画、声音与听说、身体感知及现实情境中的判断，把可靠的文字展开、转写、记录和整理交给模型。**[经济现实中的个人递归自改进](https://boluopai.net/philosophy/economic-personal-rsi/)给出的理由是机会成本与互补：有限的时间应比较还能发展什么，模型已经能稳定提供的能力则接成可用支持。[具身多模态参与](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/core-views.zh-CN.html#yy-02)与[听说读写的分工](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/core-views.zh-CN.html#yy-06)把这种选择接到实际参与。
+**本指南建议，把新增的练习优先投给图像与绘画、声音与听说、身体感知及现实情境中的判断，把可靠的文字展开、转写、记录和整理交给模型。**[经济现实中的个人递归自改进](https://boluopai.net/philosophy/economic-personal-rsi/)给出的理由是机会成本与互补：有限的时间应比较还能发展什么，模型已经能稳定提供的能力则接成可用支持。[具身多模态参与](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/core-views.zh-CN.html#yy-02)与[听说读写的分工](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/core-views.zh-CN.html#yy-07)把这种选择接到实际参与。
 
 **如果还不熟悉键盘，可以先练习日常打字。**中文输入可以练双拼，每个拼音音节只按两键，例如「双」的全拼是 `shuang`，小鹤双拼只需输入 `ul`（`u` 代表 `sh`，`l` 代表 `uang`）。
 

@@ -19,22 +19,22 @@ its developmental purpose or writing a personal philosophy. See
 - [YY-01 · Reverse alignment: people develop with generative models](#yy-01)
 - [YY-02 · The person as an embodied multimodal generative model](#yy-02)
 - [YY-03 · Yinyang dialectics: role exchange and human generation](#yy-03)
-- [YY-19 · Relational positions: person and model can each move among the four discourses](#yy-19)
-- [YY-04 · Understand oneself, the model counterpart, and their relation together](#yy-04)
-- [YY-05 · Let literature, history, philosophy, psychology, and preference shape collaboration](#yy-05)
-- [YY-06 · Arrange contributions across listening, speaking, reading, and writing](#yy-06)
-- [YY-07 · Let the environment carry memory and return attention to understanding](#yy-07)
-- [YY-08 · Synchronize with the model, stay asynchronous with society, align for evaluation](#yy-08)
-- [YY-09 · Connect philosophical understanding, models, and practice](#yy-09)
-- [YY-10 · Develop alternatives, test judgments, and revise selection](#yy-10)
-- [YY-11 · The world constrains the shared account](#yy-11)
-- [YY-12 · Make the views perceptible, discussable, and continuable](#yy-12)
-- [YY-13 · Sinthome and Trinity](#yy-13)
-- [YY-14 · Cultivate generative capacities with available fire](#yy-14)
-- [YY-15 · Cultivate a garden of becoming with friends](#yy-15)
-- [YY-16 · Personal recursive self-improvement](#yy-16)
-- [YY-17 · Personal recursive self-improvement in economic reality](#yy-17)
-- [YY-18 · Cognitive complexity in personal recursive self-evolution](#yy-18)
+- [YY-04 · Relational positions: person and model can each move among the four discourses](#yy-04)
+- [YY-05 · Understand oneself, the model counterpart, and their relation together](#yy-05)
+- [YY-06 · Let literature, history, philosophy, psychology, and preference shape collaboration](#yy-06)
+- [YY-07 · Arrange contributions across listening, speaking, reading, and writing](#yy-07)
+- [YY-08 · Let the environment carry memory and return attention to understanding](#yy-08)
+- [YY-09 · Synchronize with the model, stay asynchronous with society, align for evaluation](#yy-09)
+- [YY-10 · Connect philosophical understanding, models, and practice](#yy-10)
+- [YY-11 · Develop alternatives, test judgments, and revise selection](#yy-11)
+- [YY-12 · The world constrains the shared account](#yy-12)
+- [YY-13 · Make the views perceptible, discussable, and continuable](#yy-13)
+- [YY-14 · Sinthome and Trinity](#yy-14)
+- [YY-15 · Cultivate generative capacities with available fire](#yy-15)
+- [YY-16 · Cultivate a garden of becoming with friends](#yy-16)
+- [YY-17 · Personal recursive self-improvement](#yy-17)
+- [YY-18 · Personal recursive self-improvement in economic reality](#yy-18)
+- [YY-19 · Cognitive complexity in personal recursive self-evolution](#yy-19)
 
 </details>
 
@@ -71,7 +71,7 @@ A person brings an unfinished idea to a counterpart, gives it a form they can ex
 
 [Inconsistency-tolerant semantics](inconsistency-tolerant-semantics.md#two-dimensional-framework) first separates two questions in ordinary language. Which grounded readings remain eligible for this judgment? What support does the judgment need from them? The ordinary case considers the full eligible family; applicable preferences can select readings first. In the formal appendix, P specifically selects Pareto-optimal repairs. Brave keeps a claim available as a possibility when at least one eligible reading supports it. AR accepts the same claim only when every eligible reading supports it. Thus Brave and AR can each be used with the ordinary family or with the preference-selected family, giving P-Brave and P-AR. Choosing readings and judging their consequences are distinct choices.
 
-The readings can reach the same conclusion through different grounds. If one instead proceeds only from the premises they share, IAR supplies a further, secondary route. Agreement of conclusions does not ensure that their shared premises suffice. The appendix develops the formal distinctions; [YY-10](#yy-10) puts developing alternatives and testing judgments to work together.
+The readings can reach the same conclusion through different grounds. If one instead proceeds only from the premises they share, IAR supplies a further, secondary route. Agreement of conclusions does not ensure that their shared premises suffice. The appendix develops the formal distinctions; [YY-11](#yy-11) puts developing alternatives and testing judgments to work together.
 
 **The author reads all four through-lines through P-AR.** No single line can be counted on in advance to hold the subject. The author chooses to examine all four together. The readings retained along each must explain how the environment sustains the person and lets correction enter. Each line can offer a different reason.
 
@@ -79,8 +79,8 @@ The readings can reach the same conclusion through different grounds. If one ins
 | --- | --- |
 | [Inconsistency-tolerant semantics](inconsistency-tolerant-semantics.md) | Developing grounded alternatives and checking the judgment across the selected readings makes it possible to locate an unsupported inference, qualify a claim, and change a mistaken arrangement. |
 | [Yinyang dialectics](#yy-03) | Person and model enter generation and scrutiny through one another; the return preserves more ways to participate and lets either contribution correct the next attempt. |
-| [Sinthome and Trinity](#yy-13) | Philosophy, psychological understanding, and engineering acquire a concrete knotting: works, counterparts, and usable conditions sustain an activity and give correction a place to return. |
-| [Personal recursive self-improvement](#yy-16) | The method organizing improvement can itself change, so what is learned from one arrangement can improve how its successor is designed and realized. |
+| [Sinthome and Trinity](#yy-14) | Philosophy, psychological understanding, and engineering acquire a concrete knotting: works, counterparts, and usable conditions sustain an activity and give correction a place to return. |
+| [Personal recursive self-improvement](#yy-17) | The method organizing improvement can itself change, so what is learned from one arrangement can improve how its successor is designed and realized. |
 
 This way of reasoning runs through the other three lines as well. In dialectical exchange, a counterpart can offer another reading. Both readings can remain open while the participants check which judgments survive each. In the sinthome table, each of eight rows explains from its own standpoint how an environment holds the subject. In recursive self-improvement, one failure can suggest several changes, and the consequences of trying one can alter the next choice. Their joint support makes the account more complete across the author's selected concerns. Whether the arrangement actually brings that benefit must still be checked: can the person resume the work, change a delegation, encounter a consequential objection, and finish or leave the activity? A failure in use can return through any line and revise the shared judgment. The following views develop the reasons, images, and means for that continuing work.
 
@@ -123,7 +123,7 @@ the world, beyond receiving several data formats.
 Participation has cognitive costs: which relations a representation requires
 one to retain, what prior knowledge makes directly recognizable, and what it
 takes to translate sensation into language or resume after interruption all
-affect usable capability. [YY06](#yy-06) realizes this account through allocation:
+affect usable capability. [YY07](#yy-07) realizes this account through allocation:
 the model carries elaborate linguistic work, the person cultivates capacities
 through fitting multimodal participation, and both revise the arrangement
 against actual benefit and total cost.
@@ -160,7 +160,7 @@ Why reverse these positions? A model can reuse formal capacities acquired in tra
 
 When the person generates first, they can begin with something they saw, heard, or discovered by trying, offer a conjecture in their own words, and say why it seems plausible. The model formalizes the conjecture, derives consequences, and looks for counterexamples. Knowing what they set out to explain, the person can judge where a counterexample matters and try a better explanation. The same trained formal capacity can serve many such attempts. Generating again gives the person practice in embodied, natural-language, and intuitive reasoning.
 
-The author chooses a division of work within this exchange. **The person cultivates embodied reasoning and reasoning in natural language. The model takes full responsibility for formal reasoning and implementation.** A reader follows a footnote, returns to the passage, and loses the thread. Comparing the two moments of reading, she recognizes what she wanted to recover: the connection between two paragraphs. She develops and tests that explanation in her own words by giving an example where she returns to the same line yet still loses the connection. The model can formulate the claim that returning to the same place suffices to resume an argument, use her counterexample to identify a missing condition, and build a view that keeps the passage and note visible together. After trying that view, the reader may notice, on another occasion, that two sentences need to be read together before she opens the note. A relation she once had to articulate, test, and try out has become one she can recognize directly in a new passage. In this way, the exchange can cultivate intuition itself. [YY-06](#yy-06) follows this exchange into listening, speaking, reading, and writing.
+The author chooses a division of work within this exchange. **The person cultivates embodied reasoning and reasoning in natural language. The model takes full responsibility for formal reasoning and implementation.** A reader follows a footnote, returns to the passage, and loses the thread. Comparing the two moments of reading, she recognizes what she wanted to recover: the connection between two paragraphs. She develops and tests that explanation in her own words by giving an example where she returns to the same line yet still loses the connection. The model can formulate the claim that returning to the same place suffices to resume an argument, use her counterexample to identify a missing condition, and build a view that keeps the passage and note visible together. After trying that view, the reader may notice, on another occasion, that two sentences need to be read together before she opens the note. A relation she once had to articulate, test, and try out has become one she can recognize directly in a new passage. In this way, the exchange can cultivate intuition itself. [YY-07](#yy-07) follows this exchange into listening, speaking, reading, and writing.
 
 ### Mutual grounding and the two fish
 
@@ -230,9 +230,9 @@ for mediation through the other, sublation of exclusive determinations, and pres
 design rationale with that argument. Examine what returns and how it changes successor activity so
 creation can continue and pursuit can finish, stop, or turn elsewhere.
 
-<a id="yy-19"></a>
+<a id="yy-04"></a>
 
-## YY-19 · Relational positions: person and model can each move among the four discourses
+## YY-04 · Relational positions: person and model can each move among the four discourses
 
 **Work can change hands, and the grounds on which someone speaks can change.** When a person hands review to a model, each can question the same draft from the reviewer's position. When the model then rewrites the claim, it owes grounds for the new judgment. Following one contribution shows how the participants take it up in turn. Following one participant shows how the relation from which they speak can change.
 
@@ -240,9 +240,9 @@ Yinyang adopts Bonomo's engineering interpretation of Lacan's four discourses. *
 
 What can the other's reply change? Can a research finding reopen a comparison whose premise the material fails to support? When the person identifies a purpose the model attributed to them, does the next draft change its argument? [Relational positions](relational-positions.md) follows this return into the work. The [Lacan reading guide](lacan-reading-guide.md#four-discourses) distinguishes the four structural places from the four configurations of discourse.
 
-<a id="yy-04"></a>
+<a id="yy-05"></a>
 
-## YY-04 · Understand oneself, the model counterpart, and their relation together
+## YY-05 · Understand oneself, the model counterpart, and their relation together
 
 A role acquires its situated purpose through a relationship. An account of how
 the person attends, desires, and interprets, or of how they prefer to learn
@@ -293,9 +293,9 @@ The [Forming and revising working models](../design-and-revision.md)
 and its permanent guides develop their writing. Selectively using this approach
 does not require forming all question-defined working models.
 
-<a id="yy-05"></a>
+<a id="yy-06"></a>
 
-## YY-05 · Let literature, history, philosophy, psychology, and preference shape collaboration
+## YY-06 · Let literature, history, philosophy, psychology, and preference shape collaboration
 
 Literature offers characters, situations, and expressive possibilities; history
 makes formation and transformation visible; philosophy articulates objects,
@@ -337,9 +337,9 @@ leaving the image available for further generation. Precision can itself be
 written in prose. [Preference and reasoning](preference-harness.md) develops a
 bounded formal comparison alongside this expressive practice.
 
-<a id="yy-06"></a>
+<a id="yy-07"></a>
 
-## YY-06 · Arrange contributions across listening, speaking, reading, and writing
+## YY-07 · Arrange contributions across listening, speaking, reading, and writing
 
 **Listening, speaking, reading, and writing give the embodied participation of [YY-02](#yy-02) and the role exchange of [YY-03](#yy-03) a place in practice.** A person exercises reasoning in natural language by speaking a reason, writing a conjecture, or revising a claim after reading a counterexample. The model can develop those few sentences into a complete document, carry out the formal derivation, implement and check the result, and return it for the person to try. People develop understanding through sensation,
 sound, images, action, situations, and language. The model carries elaborate
@@ -395,9 +395,9 @@ develops the allocation through listening, speaking, reading, and writing across
 examines access and its costs. [Preparing the encounter](stealing-fire.md#a-way-of-learning-prepare-the-encounter)
 connects selected texts, diagrams, audio, and exercises to learning.
 
-<a id="yy-07"></a>
+<a id="yy-08"></a>
 
-## YY-07 · Let the environment carry memory and return attention to understanding
+## YY-08 · Let the environment carry memory and return attention to understanding
 
 Retrievable records and works provide shared external memory. The model can
 retrieve, compare, and maintain relevant material so the person need not
@@ -434,9 +434,9 @@ available in later participation. Each is worth investigating on its own terms.
 develops this arrangement through externalization and distributed cognition, while [Continuation, records, and relief](participation-and-support.md#continuation-records-and-relief)
 asks when support actually reduces the burden of participation.
 
-<a id="yy-08"></a>
+<a id="yy-09"></a>
 
-## YY-08 · Synchronize with the model, stay asynchronous with society, align for evaluation
+## YY-09 · Synchronize with the model, stay asynchronous with society, align for evaluation
 
 Ordinary collaboration can stay synchronous with the model and asynchronous
 with society. Synchrony means continuing questions, context, corrections, and
@@ -455,14 +455,14 @@ capability and work into what the assessment can receive, aligning tools,
 support, timing, and task conditions where its rules require them. Afterwards,
 return to the ordinary arrangement shown to work better. The assessment's
 slice need not become a permanent ceiling on capability or life.
-[YY-15](#yy-15) distinguishes common-condition performance from supported
+[YY-16](#yy-16) distinguishes common-condition performance from supported
 person–environment capability. [Borrowing fire and cultivating creative capacity](stealing-fire.md#a-way-of-living-choose-the-rhythm-of-the-fire)
 develops this chosen rhythm and its limits; it does not presume that every
 model or local arrangement is superior.
 
-<a id="yy-09"></a>
+<a id="yy-10"></a>
 
-## YY-09 · Connect philosophical understanding, models, and practice
+## YY-10 · Connect philosophical understanding, models, and practice
 
 The framework develops modest naturalism, process ontology,
 correspondence truth for claims about reality, fallible embodied
@@ -566,9 +566,9 @@ explains the six dimensions, and [The trinity of philosophy, psychology, and eng
 connects philosophy, psychology, and engineering within one natural world
 to their practical forms.
 
-<a id="yy-10"></a>
+<a id="yy-11"></a>
 
-## YY-10 · Develop alternatives, test judgments, and revise selection
+## YY-11 · Develop alternatives, test judgments, and revise selection
 
 Retaining incompatible sources and interpretations keeps inquiry supplied with
 material beyond its present understanding. A working view organizes sufficiently
@@ -583,7 +583,7 @@ Yinyang brings two questions into the meta-Harness together: **which alternative
 
 **Develop alternatives through Brave or P-Brave.** A coherent reading with grounds keeps a possibility available for further work. The model's familiarity with another reading, or the Harness's customary procedure, gives it no grounds to exclude this one. When the user has expressed an applicable preference, give it priority in the tradeoff while retaining other relevant grounds for judgment.
 
-**Test a proposed judgment through AR or P-AR.** Ask how each relevant reading supports the same judgment. The reasons can differ; a disagreement can expose a missing condition or a claim that needs qualification. [YY-13](#yy-13) adopts P-AR across the perspectives selected by preference. Where shared grounds already suffice for the work, IAR offers a secondary route from those common premises.
+**Test a proposed judgment through AR or P-AR.** Ask how each relevant reading supports the same judgment. The reasons can differ; a disagreement can expose a missing condition or a claim that needs qualification. [YY-14](#yy-14) adopts P-AR across the perspectives selected by preference. Where shared grounds already suffice for the work, IAR offers a secondary route from those common premises.
 
 Developing a possibility can reveal a condition its first test missed; testing can call for another interpretation or arrangement. The purpose and current question determine their order. [Selection and inference](preference-harness.md#selection-and-inference) develops how preference participates in this activity.
 
@@ -634,9 +634,9 @@ relations, and checkable support; revision addresses both erased differences
 and ungrounded associations. [Reading rich accounts](preference-harness.md#reading-a-rich-account-through-supported-branches)
 develops this application.
 
-<a id="yy-11"></a>
+<a id="yy-12"></a>
 
-## YY-11 · The world constrains the shared account
+## YY-12 · The world constrains the shared account
 
 Texts, theories, programs, and actions meet use, resistance, counterexamples,
 and unintended consequences. Agreement between participants and coherence
@@ -670,9 +670,9 @@ connects revisability with completion and replacing obsolete means.
 
 These questions give correction an object: unfold relations when meaning is unclear, revise descriptions when concepts are missing, change tools and arrangements when realization fails, and reconsider explanations when predictions fail. Results can thus revise both works and the methods producing them.
 
-<a id="yy-12"></a>
+<a id="yy-13"></a>
 
-## YY-12 · Make the views perceptible, discussable, and continuable
+## YY-13 · Make the views perceptible, discussable, and continuable
 
 Expression gives others something they can encounter and respond to. A diagram,
 dynamic process, or manipulable example can show what changes when a premise,
@@ -694,9 +694,9 @@ develops selective expression; [The trinity of philosophy, psychology, and engin
 explains how the environment, repository, and website let work be used,
 continued, and discussed.
 
-<a id="yy-13"></a>
+<a id="yy-14"></a>
 
-## YY-13 · Sinthome and Trinity
+## YY-14 · Sinthome and Trinity
 
 **Philosophy, psychology, and engineering jointly organize a practice in which one can live, create, and revise.** Philosophy articulates world, purposes, and reasons; psychology understands how actual participants experience, know, and care; engineering makes the understood relations usable conditions. [The trinity of philosophy, psychology, and engineering](local-source-and-website.md) distinguishes two levels of their shared belonging:
 
@@ -758,9 +758,9 @@ Different carriers give this knotting its effects:
 
 Yinyang carries this understanding of both participants' Meta-Harness in a Skill. Readable philosophy, core views, and six practical accounts can organize their material differently while agreeing in consequential concepts, relations, and conclusions. If an essay has the model receive unfinished expression, the practical account should enable investigation, construction, and delivery from it. If a table expresses reciprocal revision, realization should let results return to the relevant understanding. Writing, counterpart, and environment thus become one life practice that can continue changing.
 
-<a id="yy-14"></a>
+<a id="yy-15"></a>
 
-## YY-14 · Cultivate generative capacities with available fire
+## YY-15 · Cultivate generative capacities with available fire
 
 Model companies, researchers, and the wider collective make generative capability
 available: materials, electricity, machines, knowledge, data, and training
@@ -816,9 +816,9 @@ algorithm. [Borrowing fire and cultivating creative capacity](stealing-fire.md) 
 developmental, and practical argument; [Personal-First Humanism](personal-first-humanism.md)
 develops its value orientation.
 
-<a id="yy-15"></a>
+<a id="yy-16"></a>
 
-## YY-15 · Cultivate a garden of becoming with friends
+## YY-16 · Cultivate a garden of becoming with friends
 
 One person's development can become another's condition for growth. Friends
 bring questions, works, methods, and objections into one another's environments
@@ -845,16 +845,16 @@ quality and costs passed to others. Evaluation must specify its object:
 performance under common tools, support, time, and task conditions answers
 one question; what a person–environment combination can achieve, including
 maintenance costs, answers another. Both can be reported with their conditions;
-neither substitutes for the other. [YY-08](#yy-08) locates temporary comparison
+neither substitutes for the other. [YY-09](#yy-09) locates temporary comparison
 within ordinary life. [Borrowing fire and cultivating creative capacity](stealing-fire.md#cultivating-a-garden-of-becoming-with-friends)
 develops this garden's reciprocal cultivation and limited circulation;
 [the personal Gödel-machine analogy](metaphor-and-self-revision.md#the-personal-gödel-machine-analogy)
 develops the connected image of self-revision. The garden remains a chosen
 image whose value is answered by participants' experiences and consequences.
 
-<a id="yy-16"></a>
+<a id="yy-17"></a>
 
-## YY-16 · Personal recursive self-improvement
+## YY-17 · Personal recursive self-improvement
 
 Assisting personal recursive self-improvement connects Yinyang's philosophy, working descriptions, and environment. **Recursive self-improvement improves the methods producing improvement, making later understanding, judgment, creation, and realization of change more capable.** Its subject is this person with the model and actual support relations. Capacities may be internalized or reliably distributed within their shared environment.
 
@@ -994,9 +994,9 @@ These gains can support one another and develop at different rates. Retaining in
 
 A recursive loop describes functional return to itself; a directed acyclic commit history records each return happening later. Versions connected to purposes, reasons, and consequences make improvement intelligible, comparable, and continuable. External model progress and local method development jointly change support conditions. Stability, completion, and letting go can also be worthwhile results within this personal practice.
 
-<a id="yy-17"></a>
+<a id="yy-18"></a>
 
-## YY-17 · Personal recursive self-improvement in economic reality
+## YY-18 · Personal recursive self-improvement in economic reality
 
 **Invest finite cultivation in embodied, multimodal reasoning in real situations, use available model capabilities as tools, and reselect work allocation as technology and society change.** Personal RSI thereby improves capabilities and the methods for judging which capabilities deserve cultivation.
 
@@ -1043,9 +1043,9 @@ Consider a designer walking with a device. They notice where movement interrupts
 
 If each prototype takes longer to check than it saves in implementation, supervision changes the value of that division of work. Carrying this finding into the next project improves how the person chooses what to practice and what to delegate. [The full essay](economic-personal-rsi.md) develops the argument.
 
-<a id="yy-18"></a>
+<a id="yy-19"></a>
 
-## YY-18 · Cognitive complexity in personal recursive self-evolution
+## YY-19 · Cognitive complexity in personal recursive self-evolution
 
 **Control the cognitive complexity of the personal environment within a range the person finds acceptable.** Interfaces, materials, workflows, and model assistance determine what the person has to understand, find, remember, choose, operate, and resume. The range depends on the person, the activity, and the abilities they choose to develop.
 
@@ -1072,7 +1072,7 @@ Connect the demands of an activity with the person's actual processing by examin
 
 In formal systems, selecting a restricted language fragment can change the problem class and its computational complexity. At the human–model interface, choosing enough expressive scope to begin lets the model carry further development. Even when text and diagrams convey the same information, location, adjacency, and shape can change search and inference costs. Bring relations that need joint judgment together, and count translation between media, supervision, and resumption within the whole activity when judging whether a form actually reduces effort.
 
-Judge the whole activity by the effort it asks and what the person can recognize, explain, judge, and do with dependable model and tool support. Use actual experience to revise the arrangement and the methods that produce and evaluate it. This division follows [YY-02](#yy-02), [YY-03](#yy-03), [YY-06](#yy-06), and [YY-17](#yy-17). [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) develops the argument.
+Judge the whole activity by the effort it asks and what the person can recognize, explain, judge, and do with dependable model and tool support. Use actual experience to revise the arrangement and the methods that produce and evaluate it. This division follows [YY-02](#yy-02), [YY-03](#yy-03), [YY-07](#yy-07), and [YY-18](#yy-18). [Cognitive Complexity in Personal Recursive Self-Evolution](cognitive-complexity.md) develops the argument.
 
 ## Sources and the author's synthesis
 

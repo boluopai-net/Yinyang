@@ -123,7 +123,7 @@ clearer relations and adequate grounds. Writing order supplies the history
 of this development; the quality of the accounts supplies the reasons for
 retaining or changing them.
 
-To write a core view, find the table in the chapter that carries its central comparison. Include its headings and rows in the view. Draw on the surrounding argument to explain what is being compared and what follows from the differences between rows. In YY-17, the four questions connect the division of work to a later choice about where to invest effort. Let that connection determine how much prose the view needs.
+To write a core view, find the table in the chapter that carries its central comparison. Include its headings and rows in the view. Draw on the surrounding argument to explain what is being compared and what follows from the differences between rows. In YY-18, the four questions connect the division of work to a later choice about where to invest effort. Let that connection determine how much prose the view needs.
 
 | Part of the whole | What revision must carry through |
 | --- | --- |
@@ -424,7 +424,7 @@ and what limits their use. Several summaries of one source add no independent
 support.
 
 Rewrite current accounts through the [relative weight of correspondence, coherence, and current
-interpretation](../core-views.md#yy-09), keeping original words and context at their source.
+interpretation](../core-views.md#yy-10), keeping original words and context at their source.
 Later clarification usually helps interpret the present; factual grounds and coherence of the whole
 determine the account adopted. Completing a useful arrangement and establishing an explanation of
 it each require their appropriate checks.

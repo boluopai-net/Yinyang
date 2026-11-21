@@ -38,7 +38,7 @@ slot with commitments nobody has chosen.
 
 ## Connect orientation with situated understanding
 
-State the current orientation through the [Core account of grounds and selection](../core-views.md#yy-09):
+State the current orientation through the [Core account of grounds and selection](../core-views.md#yy-10):
 correspondence with actuality and coherence of the whole outweigh matching original wording; later
 clarifications usually outweigh earlier wording when judging present understanding. Preserve the
 original's attribution and state the meaning now adopted. This Yinyang usually chooses

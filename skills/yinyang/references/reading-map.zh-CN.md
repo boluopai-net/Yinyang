@@ -45,11 +45,11 @@
 | --- | --- |
 | 容纳不一致语义、阴阳辩证法、圣状与三位一体、个人递归自改进怎样形成同一份说明？ | [YY-00](docs/core-views.zh-CN.md#yy-00)提出共同判断，并沿选定的四条主线各自保留的读法逐一检验；下列各行通往每项贡献展开的论证。 |
 | 为什么生成还需要不同根据，正负反馈怎样支持阴阳辩证法？ | [YY-03](docs/core-views.zh-CN.md#yy-03)与[转动与纠偏反馈](docs/yinyang-and-taiji.zh-CN.md#转动与纠偏反馈)联系放大、纠正、独立伙伴与世界，以及角色返回怎样改变下一次生成。 |
-| 哪些值得本人练习，哪些交给模型承担？ | 先读[阴阳与太极](docs/yinyang-and-taiji.zh-CN.md)与 [YY-03](docs/core-views.zh-CN.md#yy-03)，理解人怎样锻炼具身推理和自然语言推理，模型怎样承担形式推理与实现。再读 [YY-06](docs/core-views.zh-CN.md#yy-06)，看这种往返怎样进入听说读写。[认知复杂度与表达范围](docs/cognitive-complexity.zh-CN.md#认知复杂度与表达范围)比较不同安排的表达、监督与恢复成本。 |
-| 人与模型怎样在设计、理解和构造之间换位？ | [YY-13](docs/core-views.zh-CN.md#yy-13)与[三个位置之间的往返](docs/local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)，将交互设计、认知与行为、AI／计算接到哲学、心理与工程。 |
-| 改好一件作品，怎样进一步改善产生下一件作品的方法？ | [YY-16](docs/core-views.zh-CN.md#yy-16)与[递归改进专章](docs/literary-recursive-improvement.zh-CN.md)展开描述、解释器、身体、自建模、评价，以及仍能继续修订的后继。 |
-| 有限时间、注意力、身体精力和费用应该投到哪里？ | [YY-17](docs/core-views.zh-CN.md#yy-17)与[经济现实](docs/economic-personal-rsi.zh-CN.md)比较培养、模型帮助、支持与恢复，再让结果返回选择投入的方法；神经经济、心理和社会经济视角解释同一选择中的不同关系。 |
-| 哪些复杂性值得理解并练习，哪些需要时检索，哪些交给模型？ | [YY-18](docs/core-views.zh-CN.md#yy-18)与[个人递归自我进化中的认知复杂性](docs/cognitive-complexity.zh-CN.md)区分任务复杂性、情境中的认知负荷与学习，比较不同安排所需的注意力，并让后来的参与修订方法。 |
+| 哪些值得本人练习，哪些交给模型承担？ | 先读[阴阳与太极](docs/yinyang-and-taiji.zh-CN.md)与 [YY-03](docs/core-views.zh-CN.md#yy-03)，理解人怎样锻炼具身推理和自然语言推理，模型怎样承担形式推理与实现。再读 [YY-07](docs/core-views.zh-CN.md#yy-07)，看这种往返怎样进入听说读写。[认知复杂度与表达范围](docs/cognitive-complexity.zh-CN.md#认知复杂度与表达范围)比较不同安排的表达、监督与恢复成本。 |
+| 人与模型怎样在设计、理解和构造之间换位？ | [YY-14](docs/core-views.zh-CN.md#yy-14)与[三个位置之间的往返](docs/local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)，将交互设计、认知与行为、AI／计算接到哲学、心理与工程。 |
+| 改好一件作品，怎样进一步改善产生下一件作品的方法？ | [YY-17](docs/core-views.zh-CN.md#yy-17)与[递归改进专章](docs/literary-recursive-improvement.zh-CN.md)展开描述、解释器、身体、自建模、评价，以及仍能继续修订的后继。 |
+| 有限时间、注意力、身体精力和费用应该投到哪里？ | [YY-18](docs/core-views.zh-CN.md#yy-18)与[经济现实](docs/economic-personal-rsi.zh-CN.md)比较培养、模型帮助、支持与恢复，再让结果返回选择投入的方法；神经经济、心理和社会经济视角解释同一选择中的不同关系。 |
+| 哪些复杂性值得理解并练习，哪些需要时检索，哪些交给模型？ | [YY-19](docs/core-views.zh-CN.md#yy-19)与[个人递归自我进化中的认知复杂性](docs/cognitive-complexity.zh-CN.md)区分任务复杂性、情境中的认知负荷与学习，比较不同安排所需的注意力，并让后来的参与修订方法。 |
 
 联动修订哲学、personal 材料、描述与实际 Skill 时，使用[如何修订](formation/revision.zh-CN.md)，发展适合本人的实际修订方法。
 
@@ -84,7 +84,7 @@
 | 记住未完成行动、完成它、感到缓解与发展能力 | [共同反思与继续培育](docs/participation-and-support.zh-CN.md#继续记录与缓解)说明这些结果怎样相接而不相互替代。由此可以判断尚余的需要，是可检索的描述、承担行动、体验中的负担改变，还是后来参与所显示的成长。 |
 | 关于同一件事的冲突，与描述不同时间或条件的说法 | [生活轨迹的形成](docs/flow-and-time.zh-CN.md)区分发生、指称、经验与更新速率。它帮助重建每项表述涉及什么；时间区分可以澄清分歧，却不自动消除真正的矛盾。 |
 | 什么存在、什么有根据、想要什么与怎样进行 | [个人优先的人本主义](docs/personal-first-humanism.zh-CN.md)把作者的价值方向与本体论、认识论和多元方法一起展开。它帮助辨认目的在哪里选择方向、事实主张在哪里仍须独立根据，以及改进应当计入谁的代价。 |
-| 成功的产出、更合适的协作与人的发展 | [阴阳的基本观点](docs/core-views.zh-CN.md)，尤其是 [YY-01](docs/core-views.zh-CN.md#yy-01)、[YY-07](docs/core-views.zh-CN.md#yy-07) 与 [YY-14](docs/core-views.zh-CN.md#yy-14)，把主张接到展开的论证。稳定编号用于辨认正在讨论的主张；需要理由或成立条件时，继续进入相应文章。 |
+| 成功的产出、更合适的协作与人的发展 | [阴阳的基本观点](docs/core-views.zh-CN.md)，尤其是 [YY-01](docs/core-views.zh-CN.md#yy-01)、[YY-08](docs/core-views.zh-CN.md#yy-08) 与 [YY-15](docs/core-views.zh-CN.md#yy-15)，把主张接到展开的论证。稳定编号用于辨认正在讨论的主张；需要理由或成立条件时，继续进入相应文章。 |
 
 ## 调查有争议的解释或推论
 
@@ -93,7 +93,7 @@
 
 | 探究中出现的问题 | 阅读及其贡献 |
 | --- | --- |
-| 哪些可能有支撑，什么在不同读法之间成立，偏好何时影响它们？ | [容纳不一致语义附录](docs/inconsistency-tolerant-semantics.zh-CN.md)维护形式修复族与答案条件；[YY-10](docs/core-views.zh-CN.md#yy-10)与[选择与推理](docs/preference-harness.zh-CN.md#选择与推理)展开它们在自然语言判断中的用法：Brave 保留有支撑的可能，AR 从相关读法逐一检查同一结论，IAR 从共同根据继续推理。适用偏好可以先选择读法，再检验答案；分别有支撑的主张若要一同断言，仍需共同支撑。 |
+| 哪些可能有支撑，什么在不同读法之间成立，偏好何时影响它们？ | [容纳不一致语义附录](docs/inconsistency-tolerant-semantics.zh-CN.md)维护形式修复族与答案条件；[YY-11](docs/core-views.zh-CN.md#yy-11)与[选择与推理](docs/preference-harness.zh-CN.md#选择与推理)展开它们在自然语言判断中的用法：Brave 保留有支撑的可能，AR 从相关读法逐一检查同一结论，IAR 从共同根据继续推理。适用偏好可以先选择读法，再检验答案；分别有支撑的主张若要一同断言，仍需共同支撑。 |
 | 共同工作怎样留下能够探索和反思的生活轨迹？ | [生活轨迹的形成](docs/flow-and-time.zh-CN.md)以共同改善阅读环境为例，通过 Git/GitHub 的版本历史与 ChatGPT 的 Computer History 两个主要入口汇集历史，区分事件来源和当前说明，并展开保留、时间与修订怎样支持接续。 |
 | 问题怎样形成，什么能够区分竞争解释？ | [未完成的流中的推理](docs/reasoning.zh-CN.md)展开事件流、相对于问题的视图、溯因、预测、保留的来源、候选与嵌套反馈。它帮助生成候选，并推出进一步互动确实能够区分的后果。 |
 | 怎样保留冲突材料，同时让融贯的视图支持行动？ | [偏好怎样参与选择与推理](docs/preference-harness.zh-CN.md)区分保留来源、选择视图与在视图内推论。它帮助保留当前退出使用的候选供重新考虑，而不把不相容的断言当作共同采纳的内容。其中的心理与形式来源承担不同作用。 |

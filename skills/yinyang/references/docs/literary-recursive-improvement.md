@@ -152,7 +152,7 @@ Recursion occurs when the four capacities themselves become objects: how relatio
 
 ## Listening, speaking, reading, and writing as interfaces for introspection and change
 
-The [division of work across listening, speaking, reading, and writing](core-views.md#yy-06) brings these functions into ordinary activity. A person can begin with intuition, sound, a sketch, criticism, or an unfinished utterance; the model unfolds relationships, checks details, and maintains works that can continue. The table considers different entrances into the same activity:
+The [division of work across listening, speaking, reading, and writing](core-views.md#yy-07) brings these functions into ordinary activity. A person can begin with intuition, sound, a sketch, criticism, or an unfinished utterance; the model unfolds relationships, checks details, and maintains works that can continue. The table considers different entrances into the same activity:
 
 | Entrance | How material about one's own operation becomes available | How it contributes to improvement |
 | --- | --- | --- |
@@ -189,7 +189,7 @@ The result here is **an argument for human–model practice with a self-referent
 
 Improvement requires seeing possibilities beyond the current arrangement. A failure, reports from different people, and an earlier abandoned proposal may point to incompatible explanations. Retaining them as material for comparison allows the current description to continue encountering difference. Action also requires sufficiently definite grounds: what object is to be addressed, which relations matter, and what predictions and choices follow?
 
-The earlier essay's **working view** answers the latter questions. It organizes the materials, interpretations, and reasons worth using in the present task. [YY-00](core-views.md#yy-00) introduces [inconsistency-tolerant semantics](inconsistency-tolerant-semantics.md) among the four through-lines; [YY-10](core-views.md#yy-10) carries its selection-and-acceptance distinction [[6]](#source-6) into natural-language judgment throughout the Harness. A grounded reading can continue on its own merits. Where the user has an applicable preference, give it priority and develop the possibilities that still have grounds. In the absence of such a preference, the model's customary choice remains one approach open to examination.
+The earlier essay's **working view** answers the latter questions. It organizes the materials, interpretations, and reasons worth using in the present task. [YY-00](core-views.md#yy-00) introduces [inconsistency-tolerant semantics](inconsistency-tolerant-semantics.md) among the four through-lines; [YY-11](core-views.md#yy-11) carries its selection-and-acceptance distinction [[6]](#source-6) into natural-language judgment throughout the Harness. A grounded reading can continue on its own merits. Where the user has an applicable preference, give it priority and develop the possibilities that still have grounds. In the absence of such a preference, the model's customary choice remains one approach open to examination.
 
 This leaves room to revise the method itself. A result can make a deferred reading newly important, or lead the person to reconsider an earlier preference. History connects the reasons for taking up or deferring a reading with actual attempts and their consequences, so the partners can recover and reconsider those reasons later.
 

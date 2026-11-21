@@ -1,6 +1,6 @@
 # How preference participates in choice and reasoning
 
-[Home](../../README.md) · [Core views](core-views.md#yy-10) · [简体中文](preference-harness.zh-CN.md)
+[Home](../../README.md) · [Core views](core-views.md#yy-11) · [简体中文](preference-harness.zh-CN.md)
 
 A person encounters more accounts, impressions, and possibilities than they can settle at once. Some conflict; others remain uncertain. To continue, they judge which grounds to work with and which possibilities to develop. Preference participates in that judgment before it necessarily becomes an explicit account of what they prefer.
 
@@ -120,7 +120,7 @@ and economy are the primary practical comparison criteria, considering gains wit
 time, attention, expense, supervision, and maintenance burden. Useful conventions ordinarily continue;
 revision can retire obsolete or more burdensome conventions, compensations, and compatibility layers
 so the new arrangement realizes the present purpose more directly. This practical comparison and
-[correspondence of factual claims and coherence of accounts](core-views.md#yy-09) answer their respective questions.
+[correspondence of factual claims and coherence of accounts](core-views.md#yy-10) answer their respective questions.
 
 ## Sources and contribution
 
