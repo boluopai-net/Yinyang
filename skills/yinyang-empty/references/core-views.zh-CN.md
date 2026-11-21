@@ -187,17 +187,14 @@
 
 [YY-03《阴阳与太极》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.zh-CN.html)先论证人和模型为什么都能生成、也都能判断。YY-04 接着问：当一方接过另一方的工作，他凭什么发言，他的回答能改变什么？[Bonomo 的话语轮转](https://www.preprints.org/manuscript/202606.1503)用一份研究稿把这个关系画了出来。
 
-```text
-主人话语 · Planner      确定问题
-    ↓ 把问题交给研究者
-大学话语 · Researcher   核对材料
-    ↓ 把证据与缺口交给写作者
-癔症话语 · Writer       形成论证
-    ↓ 把论证交给审阅者
-分析家话语 · Reviewer   指出异议
-    ↳ 论证有跳步 → 回到 Writer 修订
-    ↳ 出处有疑问 → 回到 Researcher 查证
-    ↳ 题目前提失效 → 回到 Planner 改题
+```mermaid
+flowchart TD
+    P["主人话语 · Planner"] -->|研究问题| R["大学话语 · Researcher"]
+    R -->|证据与缺口| W["癔症话语 · Writer"]
+    W -->|待检验的论证| V["分析家话语 · Reviewer"]
+    V -->|论证有跳步：修订| W
+    V -->|出处有疑问：查证| R
+    V -->|前提失效：改题| P
 ```
 
 | 话语 | Agent | 有权做什么 | 不负责什么 |

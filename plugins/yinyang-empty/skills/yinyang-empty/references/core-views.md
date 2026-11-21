@@ -236,17 +236,14 @@ creation can continue and pursuit can finish, stop, or turn elsewhere.
 
 [YY-03, Yinyang and Taiji](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html), argues why person and model can each generate and judge. YY-04 asks what gives someone standing to speak when work changes hands and what their answer can change. [Bonomo's discursive rotation](https://www.preprints.org/manuscript/202606.1503) shows the relation through the making of a manuscript.
 
-```text
-Master · Planner       Frame the question
-    ↓ Pass the question to research
-University · Researcher   Check the sources
-    ↓ Return evidence and gaps to the writer
-Hysteric · Writer      Develop the argument
-    ↓ Submit the claim for review
-Analyst · Reviewer     Locate the objection
-    ↳ Inference fails → Writer revises
-    ↳ Source disputed → Researcher checks
-    ↳ Premise fails → Planner reframes
+```mermaid
+flowchart TD
+    P["Master · Planner"] -->|Research question| R["University · Researcher"]
+    R -->|Evidence and gaps| W["Hysteric · Writer"]
+    W -->|Claim to examine| V["Analyst · Reviewer"]
+    V -->|Revise inference| W
+    V -->|Check source| R
+    V -->|Reframe premise| P
 ```
 
 | Discourse | Agent | Authority | Outside its remit |
