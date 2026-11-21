@@ -68,7 +68,7 @@ These entrances can connect. Research reading can reveal a substantial gap that 
 
 For a systematic course, a book, a single paper, or a question pursued across several papers, give the source and learning purpose to **Dot or local Codex**. Have the model use a **Teacher Skill** to write connected reference materials, then work with a teacher to read, explain, and discuss them. **Preparing materials and using a Teacher support all these learning entrances.**
 
-This self-study route starts from native-language texts and AI-prepared material, without assigning original lectures to watch or listen to. **In the systematic course route, read the main textbook, chapters, or papers used by the selected course in the learner's native language, or in translation, before that course's AI preparation files.** Books already written in the learner's native language can be read directly; have the model translate foreign-language sources first. Original texts and faithful translations have a different role from AI-written explanations, guides, and practice. See the [reading priority among materials](#reading-order).
+This self-study route starts from native-language texts and AI-prepared material, without assigning original lectures to watch or listen to. **In the systematic course route, start with the relevant chapters of the main textbook or reference book checked at course selection, along with the assigned readings, before using the course’s AI preparation files.** Books already written in the learner's native language can be read directly; have the model translate foreign-language sources first. Original texts and faithful translations have a different role from AI-written explanations, guides, and practice. See the [reading priority among materials](#reading-order).
 
 Depending on the learning object, use the two- or three-document arrangement below. The model explains concepts and relationships, retains chapter, lecture, page, or paper-passage locators, adds examples and useful diagrams, and connects existing understanding, interests, and actual questions:
 
@@ -134,23 +134,27 @@ Where programs emphasize engineering, psychology, or design, or sit in computer 
 
 Ask AI to judge which curriculum fits your interests, responses to courses, and intended activities, explaining its reasons so you can choose or revise the judgment. **Use the most interesting curriculum as the main structure and fill gaps from the others**: merge duplicates, add missing foundations and methods, arrange prerequisites, and distinguish core courses from interest-led extensions. Each course should have a clear purpose and relationship to the others.
 
-The result at this point is an adjustable curriculum draft. As materials and tools are prepared, record which courses, books, and practical abilities can connect; organize the learning paths once those resources are in place. Preparation may reveal an uninteresting course, unsuitable materials, or changed tool conditions. Return to replace a course, revise the curriculum, or choose a more interesting direction when needed.
+The result at this point is a direction and a list of candidate courses. Verify the actual course offering and its textbook before adding it to the learning path. Preparation may reveal an uninteresting course, unsuitable materials, or changed tool conditions. Return to replace a course, revise the curriculum, or choose a more interesting direction when needed.
 
 <a id="study-materials"></a>
 
 ### 2. Turn courses and books into readable materials
 
-#### Find matching resources and download them
+#### Verify the book before selecting a course
 
-Search primarily for **online courses from outside China with matching topics or course names, selecting the latest available versions**. Check syllabi and teaching years; explain content matches across different names and identify older versions when those are all that is available. Use the earlier entrance-examination reading lists and curricula to select and assess courses. Once a self-study course is selected, follow its syllabus, textbook list, and session plan to obtain the main textbook, chapters, and papers it actually uses, identifying their corresponding units.
+Start from the draft curriculum and look primarily for online courses from outside China with matching topics or names. Prefer recent offerings from universities with strong research and teaching in the field. Check the syllabus, year, sessions, and assigned readings. Where titles differ, record how the contents correspond. Use the earlier entrance-examination reading lists and curricula to compare candidates.
 
-Have the model first obtain the main textbook, required chapters, and papers assigned or actually used by the selected course, then the relevant lecture notes, slides, subtitles or transcripts, assignments, and code. Organize them by course and check completeness. Online courses supply a curriculum and source materials here, not lectures the learner must watch or listen through. Have the model process video only when necessary to obtain relevant subtitles or figures. Where the model cannot complete a download, list the material, original link, and reason for manual completion. Distinguish downloaded materials, online-only entrances, and outstanding items in the index.
+**Before adding a course to the core, verify that a book adequately supports it.** Prefer the main textbook assigned or used by the course, including a textbook written by its teaching team. Where the course has no adopted textbook, identify a reference book and map it to the course unit by unit. Compare substantive content such as concepts, methods, and derivations. Use the book if it covers roughly 80 percent of the course units. A course built around a continuous series of attributed lecture notes also requires a corresponding reference book with passages mapped to the notes. Leave candidates without an adequate book out of the core.
+
+Map each unit in a theory course to textbook or reference-book chapters and use that mapping to organize the reading. An experiment-led course can follow its main experiments. For each central experiment, cite the corresponding book section and explain the theory and assumptions it uses and what the results can test. Papers, slides, assignments, code, and transcripts can supplement specific units.
+
+After selecting the course, have the model obtain the verified book, relevant chapters, and assigned readings, then organize lecture notes, slides, assignments, code, and other supplementary material as needed. Have the model process video only when necessary to obtain relevant subtitles or figures. Where the model cannot complete a download, list the material, original link, and reason for manual completion. Distinguish downloaded materials, online-only entrances, and outstanding items in the index.
 
 <a id="source-translation"></a>
 
 #### Translate the sources before writing preparation files
 
-Here, the original books and papers belong to the self-study course already selected: its main textbook, chapters assigned for a unit, or papers actually discussed in the course. Establish that correspondence before preparing readable editions; prioritizing original works does not call for assembling a separate extracurricular reading list. Where the course uses no corresponding textbook or paper, use the AI preparation files built from its existing sources.
+Prepare readable editions of the main textbook or reference book verified at selection, its relevant chapters, and the assigned readings. Organize papers discussed in the course by unit. Carry the verified correspondence between the course and the book into the AI preparation files.
 
 When a source's language is unsuitable for direct reading, have the model translate the complete book, chapter, or paper selected for study into the learner's native language. For the Chinese learner described here, prepare a Chinese translation. Preserve chapter, page, or paragraph correspondence, equations, figures, quotations, and references; check terminology and consequential passages. Use an appropriate existing Chinese edition when available, and read books originally written in Chinese directly. Translation makes the original work readable; a summary does not replace the book or paper.
 
@@ -160,17 +164,17 @@ Then use these sources to prepare a glossary with definitions, a main guide, and
 
 #### Reading priority among the materials
 
-**Main textbook, chapters, or papers used by the selected course, in the learner's native language or in translation → that course's two or three AI preparation files → its necessary lecture notes → slides → transcripts.**
+**Relevant chapters of the verified main textbook or reference book and assigned readings → the course’s two or three AI preparation files → supplementary lecture notes → slides → transcripts.** Read foreign-language material in the learner's native language or in translation. For a course built around continuous attributed lecture notes, follow the notes and consult the corresponding chapters of the reference book.
 
 | Priority | Material | How to use it |
 | --- | --- | --- |
-| 1 | Chinese editions or translations of the main textbook, chapters, or papers used by the selected course | Use them as the main reading, following the author's concepts, arguments, derivations, and evidence. |
+| 1 | Corresponding chapters of the verified main textbook or reference book and assigned readings | Follow the author's concepts, arguments, derivations, and evidence. Where continuous attributed lecture notes structure the course, read the notes alongside the corresponding book chapters. |
 | 2 | An AI-written glossary with definitions, a main guide, and relevant exercises or experiments | Use alongside the original to clarify terms, supply background, connect knowledge, explain difficult passages, and select practice. |
-| 3 | Necessary lecture notes | Read the relevant model-translated and organized portions when the first two layers leave a gap needed now. |
+| 3 | Supplementary lecture notes | Read the relevant model-translated and organized portions when the first two layers leave a gap needed now. |
 | 4 | Slides | Use model-organized figures and points to fill a specific gap, without repeating material page by page. |
 | 5 | Transcripts | Only when earlier materials remain insufficient, use relevant explanations translated and organized by the model from subtitles or transcription. |
 
-This is a priority for selecting reading, not a requirement to complete every layer. Use a sufficient textbook or paper adopted by that course as the main text; where the course uses no corresponding original, begin with its existing AI preparation files. Lecture notes, slides, and transcripts are reserve sources, translated and organized by the model for the relevant need, rather than an additional full set of unprocessed course material to read. Retain brief course or unit overviews for orientation, without replacing the main texts or returning the learner to a lecture-watching sequence.
+Select what the current unit needs, starting at the top of the table. Have the model translate and organize supplementary notes, slides, and transcripts as needed. A brief course or unit overview helps orient the reader to the current reading and practice.
 
 #### Check the preparation files and reading entrances
 
