@@ -2,6 +2,8 @@
 
 Use this branch when preparing, revising or validating saved Course material.
 The root Skill owns teaching, evidence, actor and State boundaries.
+Course, book and paper companions belong to their sources. For a practice
+path, use [Learning-path governance](learning-path-governance.md#author-a-practice-path).
 
 When a course combines several source formats, apply
 [Course sources and entry](course-sources-and-entry.md) to their selection and

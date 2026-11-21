@@ -31,14 +31,26 @@ their actual semantic and publication owners.
 
 ## Path maintenance and source ownership
 
-### Outline authoring and practice-first traversal
+### Outline authoring
 
 A learning path normally outlines knowledge, abilities and materials. Numbering
 organizes the outline; only actual subject dependencies establish prerequisites.
-A practice path can organize abilities and tools without specifying exercises,
-invented projects or every possible return to theory. Keep these authoring rules
-in this method rather than repeating them as purpose-and-order boilerplate in
-each path. Concrete activities and source detours belong to the actual lesson.
+
+### Author a practice path
+
+Start with an actual task, experiment or project. Give the learner the task
+entrance, a result to produce, compare or test, and a way to inspect that
+result. For course-based practice, use a real assignment or experiment from a
+suitable course. Link the book section needed to plan the work or interpret
+the evidence through [Course sources and entry](course-sources-and-entry.md#choose-a-course-with-a-readable-theory-source).
+Keep abilities and tools at the depth useful for choosing work. Keep
+glossaries and vocabulary lists with the learning materials that own them.
+Do not create, assign or link a glossary or vocabulary list in a practice path.
+
+Give distinct purposes their own paths and success criteria. Learning a
+method begins with a question or inference the learner can test. Delivering
+work begins with the actual brief, required output and acceptance evidence.
+One project can contribute to both when its results serve both purposes.
 
 Except for a selected purely theoretical inquiry, begin with practice. Work
 backward from employment, project, assignment or making requirements to the

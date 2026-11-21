@@ -109,9 +109,10 @@ three-approach distinction. Technical study can emphasize scientific
 investigation, methods/tools and engineering realization; identify the primary
 approach and meaningful supporting emphases instead of classifying by folder.
 `course` is a source and study corpus; its name does not make every book a class.
-All three first prepare an independent detailed glossary (`术语与名词解释表` in
-Chinese) with a graphical concept map, definitions, conditions, distinctions,
-and examples where needed. Connected exposition belongs in the main guide.
+When preparing a course, book or paper for study, first prepare an independent
+detailed glossary (`术语与名词解释表` in Chinese) with a graphical concept map,
+definitions, conditions, distinctions, and examples where needed. Connected
+exposition belongs in the main guide.
 The detailed glossary and main guide are the two core documents, with a
 training document where applicable. Maintain one separate vocabulary file
 (`词表`) per learning-path module and link it and the source glossary files from
@@ -395,9 +396,9 @@ request through the current task and publication owners.
 | Organize heterogeneous course materials, select important sources, repair missing content or make starting/resumption usable | [Course sources and entry](references/course-sources-and-entry.md), with the materials branch for saved companions. |
 | Teach or prepare philosophy, intellectual history, a philosopher's developing work, or a psychoanalytic theory studied as texts and concepts | [Philosophical text study](references/philosophy.md): per-book concepts, arguments and research connections, conversational teaching, and historical/recursive views where useful. Use the materials branch for saved documents. |
 | Support or design a skimming pass; prepare, assign or adapt practice | [Teaching methods](references/teaching-method.md): source selection, learner-led reading, exercises and feedback. |
-| Create, revise or integrate saved study materials, including existing plans, practice/reading references, glossaries and research connections | [Course materials](references/course-materials.md): independent glossary, connected main guide, technical written/lab training, source/research ownership, reduced duplication, Markdown and saved-result checks. Reading or training design also uses the teaching-method branch. |
+| Prepare or revise companions for a course, book or paper, a reading selection, or course training | [Course materials](references/course-materials.md): independent glossary, connected main guide, applicable training, and saved-result checks. Reading or training design also uses the teaching-method branch. |
 | Create or repair a selected course mapping, or resolve a source, workspace or recovery gap in an existing mapped course | [Course workspace](references/course-workspace.md): resolve the facts and validate the affected entry. Load the materials branch for saved-material writes. |
-| Select, plan, audit or revise a learning path; resolve a course-entry mapping, cross-course relation, prerequisite or re-entry | [Learning-path governance](references/learning-path-governance.md), then its two path-data children and affected course cards. An established exact-source explanation does not require this branch. |
+| Select, plan, audit or revise a learning or practice path; resolve a course-entry mapping, cross-course relation, prerequisite or re-entry | [Learning-path governance](references/learning-path-governance.md), including its [practice-path method](references/learning-path-governance.md#author-a-practice-path), then the selected path and affected course cards. |
 
 These are task conditions, not a fixed itinerary. Complete all branches needed
 by the actual work; do not load unrelated branches merely to teach one known

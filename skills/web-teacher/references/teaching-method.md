@@ -3,9 +3,10 @@
 Use this branch for skimming support and practice design, preparation or feedback.
 The root Skill already supplies explanation, correction, evidence and State rules.
 
-Use [Course materials](course-materials.md) to prepare or revise the main guide,
-glossary and applicable training. This branch develops their use in the current
-reading or practice encounter.
+Use [Course materials](course-materials.md) when the encounter needs a
+course, book or paper companion. Use [Learning-path governance](learning-path-governance.md#author-a-practice-path)
+to organize a practice path. Here, design the encounter around its purpose,
+source material and observable result.
 
 Skimming keeps the learner in contact with the original terrain through a
 readable selection; practice brings an account into contact with a case that can

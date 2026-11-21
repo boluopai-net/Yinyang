@@ -101,7 +101,7 @@ keep uncertain equivalence or recall open. Use a focused review when asked.
 | Select a reading mode or prepare, assign or adapt practice | [Teaching methods](../web-teacher/references/teaching-method.md): reading, feedback and broad preparation with checked answers and evaluation grounds, narrowed to a small active practice subset. |
 | Study philosophy, intellectual history or psychoanalytic theory as texts and concepts | [Philosophical text study](../web-teacher/references/philosophy.md): per-book glossary, arguments, research connections, historical and recursive views. Combine with the materials branch for saved documents. |
 | Establish or repair an actual course mapping where source access, workspace preparation or recovery needs it | [Course workspace](../web-teacher/references/course-workspace.md): actual course facts, workspace preparation and validation. |
-| Select or revise a path, course mapping, prerequisite, cross-course relation or re-entry | [Learning-path governance](../web-teacher/references/learning-path-governance.md): path judgment and bounded maintenance under its owners. |
+| Select or revise a learning or practice path, course mapping, prerequisite, cross-course relation or re-entry | [Learning-path governance](../web-teacher/references/learning-path-governance.md), including the shared [practice-path method](../web-teacher/references/learning-path-governance.md#author-a-practice-path). |
 
 Use the materials branch's source-ordered glossary support for dense or
 unfamiliar course terminology, including lectures without teacher questions.
