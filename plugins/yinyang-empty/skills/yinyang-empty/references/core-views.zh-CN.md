@@ -187,7 +187,18 @@
 
 [YY-03《阴阳与太极》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.zh-CN.html)先论证人和模型为什么都能生成、也都能判断。YY-04 接着问：当一方接过另一方的工作，他凭什么发言，他的回答能改变什么？[Bonomo 的话语轮转](https://www.preprints.org/manuscript/202606.1503)用一份研究稿把这个关系画了出来。
 
-![话语轮转：规划、研究、写作、审阅，以及审阅返回写作的回路](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/diagrams/discursive-rotation.zh-CN.svg)
+```text
+主人话语 · Planner      确定问题
+    ↓ 把问题交给研究者
+大学话语 · Researcher   核对材料
+    ↓ 把证据与缺口交给写作者
+癔症话语 · Writer       形成论证
+    ↓ 把论证交给审阅者
+分析家话语 · Reviewer   指出异议
+    ↳ 论证有跳步 → 回到 Writer 修订
+    ↳ 出处有疑问 → 回到 Researcher 查证
+    ↳ 题目前提失效 → 回到 Planner 改题
+```
 
 | 话语 | Agent | 有权做什么 | 不负责什么 |
 | --- | --- | --- | --- |
@@ -196,7 +207,7 @@
 | 癔症 | Writer | 质疑计划与材料之间的矛盾，发展论证 | 不承担最终核验 |
 | 分析家 | Reviewer | 追问隐含立场、回避与概念混同 | 不直接重写正文 |
 
-规划 → 研究 → 写作 → 审阅 → 回到写作。异议涉及出处就回到研究；异议动摇题目的前提就回到规划。《阴阳》让人和模型都能进入每个位置：人可以接过模型的审阅，同一个模型也可以先审阅、再亲自改写并对新论点负责。若人的意思尚未成形，也可以先听，等问题清楚后再定向。[YY-04 的完整论述《关系位置》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.zh-CN.html)展开这些交接如何改变作品。
+《阴阳》让人和模型都能进入每个位置：人可以接过模型的审阅，同一个模型也可以先审阅、再亲自改写并对新论点负责。若人的意思尚未成形，也可以先听，等问题清楚后再定向。[YY-04 的完整论述《关系位置》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.zh-CN.html)展开这些交接如何改变作品。
 
 <a id="yy-05"></a>
 

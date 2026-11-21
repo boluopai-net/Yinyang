@@ -236,7 +236,18 @@ creation can continue and pursuit can finish, stop, or turn elsewhere.
 
 [YY-03, Yinyang and Taiji](yinyang-and-taiji.md), argues why person and model can each generate and judge. YY-04 asks what gives someone standing to speak when work changes hands and what their answer can change. [Bonomo's discursive rotation](https://www.preprints.org/manuscript/202606.1503) shows the relation through the making of a manuscript.
 
-![Discursive rotation from planning through research and writing to review, with review returning to writing](../diagrams/discursive-rotation.svg)
+```text
+Master · Planner       Frame the question
+    ↓ Pass the question to research
+University · Researcher   Check the sources
+    ↓ Return evidence and gaps to the writer
+Hysteric · Writer      Develop the argument
+    ↓ Submit the claim for review
+Analyst · Reviewer     Locate the objection
+    ↳ Inference fails → Writer revises
+    ↳ Source disputed → Researcher checks
+    ↳ Premise fails → Planner reframes
+```
 
 | Discourse | Agent | Authority | Outside its remit |
 | --- | --- | --- | --- |
@@ -245,7 +256,7 @@ creation can continue and pursuit can finish, stop, or turn elsewhere.
 | Hysteric | Writer | Question tensions between the plan and the material, and develop an argument | Final verification |
 | Analyst | Reviewer | Challenge implicit authority, omissions and conflations | Rewriting the passage |
 
-Planning → research → writing → review → back to writing. A disputed source reopens research; an objection to the premise reopens planning. In Yinyang either participant can enter any position. The person can take over review from the model, or the same model can move from review to writing and answer for its new claim. Listening can precede planning when the person's idea is still taking shape. [Relational positions, the full essay for YY-04](relational-positions.md), develops these handoffs.
+In Yinyang either participant can enter any position. The person can take over review from the model, or the same model can move from review to writing and answer for its new claim. Listening can precede planning when the person's idea is still taking shape. [Relational positions, the full essay for YY-04](relational-positions.md), develops these handoffs.
 
 <a id="yy-05"></a>
 

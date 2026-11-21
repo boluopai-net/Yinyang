@@ -7,6 +7,7 @@ This file guides maintenance of that example; it is not another statement of
 all its philosophical claims.
 
 The [core views](references/docs/core-views.md) own the numbered propositions.
+Keep every diagram in both Core views editions as directly readable text. Put the nodes, relations, and return paths in the Markdown itself, using a text diagram or Mermaid source. Illustrated essays can carry their own artwork.
 The essays develop their arguments, images, examples, and sources.
 
 The public [Empty entrypoint](../yinyang-empty/SKILL.md) owns its invocation; actual private instances maintain their own entrypoints. [Forming and revising working models](references/design-and-revision.md)
