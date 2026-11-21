@@ -1,5 +1,7 @@
 # Relational positions: who speaks to whom, and who gets to answer
 
+This essay develops [YY-04, relational positions](core-views.md#yy-04). [YY-03, Yinyang and Taiji](yinyang-and-taiji.md), has established why person and model can exchange generation and judgment. Once work changes hands, who can frame the question, who can object, and to whom does the objection return?
+
 Two people can take turns throughout a conversation while only one can change the question. A teacher asks why a student reads a passage a certain way and marks the answer against a key. A coauthor asks the same question, hears the reason, discovers an error in her own reading and revises the manuscript. The difference becomes visible when the answer arrives. Whose judgment can it change, and what difference can it make to their work?
 
 [Shared reflection](participation-and-support.md) needs an account of this difference. **A relational position concerns what gives someone standing to speak, whom the utterance addresses the other as, and in what capacity the other can reply.** Someone can choose what to investigate and still depend on another to judge the evidence. Someone who has all the sources may have little standing to say what the reader wanted from them. Direction, interpretation, firsthand testimony and the authority to call for reasons can be differently distributed within a single encounter.

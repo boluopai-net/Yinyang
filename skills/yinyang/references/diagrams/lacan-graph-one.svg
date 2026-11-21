@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="250" viewBox="0 0 460 250" role="img" aria-label="Graphe I">
+<title>Graphe I</title>
+<rect width="460" height="250" fill="#fafaf7" rx="12"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L9 4L0 8Z" fill="#1d403a"/></marker></defs>
+<g fill="none" stroke="#1d403a" stroke-width="2.4" marker-end="url(#arrow)"><path d="M50 141C117 38 339 38 412 141"/><path d="M280 205L305 92C321 -2 140 -2 156 92L181 205"/></g><g fill="#172d2a" font-family="Georgia,serif" font-size="26"><text x="32" y="165">S</text><text x="405" y="168">S′</text><text x="170" y="235">S̄</text><text x="270" y="235">Δ</text></g>
+</svg>

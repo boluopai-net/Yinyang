@@ -28,99 +28,58 @@ Six short reading paths are available:
 
 ## Language, signifiers, and the Other
 
-Begin with a relation when approaching the **signifier (*signifiant*)**: a word, name, or mark works through its differences from and connections to other marks, and through the discourse in which it appears. The description “good student” can connect grades, obedience, expectations, and recognition; in another discourse, the same description may become ironic. Treating it as a label with fixed content misses how it organizes relations between someone and others.
+Lacan begins with a notation:
 
-**The Other (*Autre*, often written $A$)** names the locus of otherness in which language and discourse find their place. When someone speaks, they already draw on names, distinctions, and expectations they did not create alone. Parents, teachers, institutions, or a current interlocutor may bear these demands and forms of recognition within a particular relationship, but “the Other” is more than a name for any one of them. In his [1966 radio discussion, p. 2](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1966-12-02a.pdf), Lacan describes language as the environment in which a person grows up and raises the relation between the unconscious and the discourse of the Other.
+$$
+\frac{S}{s}
+$$
 
-Here this adds a question to understanding oneself and others: **within what relationship was this sentence spoken, and from what position was it heard?** “You can try again” may carry different weight when spoken by a friend, an examiner, or someone with particular significance. Recording the speaker helps recover the event, but understanding their position still requires context. A name or a model-role field alone cannot establish the position of the Other.
+Capital $S$ is the signifier and lowercase $s$ the signified. The bar marks a resistance between them. A word gains meaning through differences and connections with other words. Hearing one signifier cannot settle its meaning in advance. This is Lacan's reworking of Saussure in [The Instance of the Letter](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1957-05-09.pdf).
 
-A “model counterpart” is also an actual arrangement, with current capabilities, tools, and agreed contributions. Whether a particular model response acquires special authority within this person's relationships is another question to understand. Using a language model does not automatically settle that judgment about the relationship.
+The Other, $A$, is the locus of language from which speech takes its terms and distinctions. On the graph of desire, $s(A)$ marks signification as punctuated in the Other. $S(\bar A)$ names the **signifier of a lack in the Other**. The capital and the bar matter: speech can reach a meaning, yet no further Other supplies a final guarantee for language as a whole. See [Subversion of the Subject](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/).
 
 ## The ego and the divided subject
 
-Approach the **ego (*moi*)** through how someone recognizes a relatively complete image of themself. Lacan's [mirror-stage essay (1949)](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1949-07-17.pdf) discusses the subject's identification through an image: the image offers unity while also involving a relation to an external form. “Imaginary” here does not mean “false and therefore useless.” An image can actually organize feelings, expectations, and actions.
+![Schema L with subject S, little other a′, ego a and big Other A](../diagrams/lacan-schema-l.svg)
 
-The **divided subject (*sujet barré*, often written $\bar S$ or a barred S)** concerns the subject's relation to representation by signifiers. In [“Subversion of the Subject”](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/), Lacan proposes that a signifier represents the subject for another signifier. The subject acquires a position through these signifying relations, yet cannot be directly equated with the signifier or statement representing them. Division here concerns this constitutive relation, beyond how much information a self-description omits. It cannot be reduced to “a person contradicts themself,” nor is it a popular expression for multiple personalities.
+Follow the diagonals of [Schema L in the Seminar on “The Purloined Letter”](https://lacanianworksexchange.net/wp-content/uploads/2023/07/19661001-Lacan-J.-Complete-Ecrits-trans-Fink-2005.pdf#page=35). The imaginary relation joins $a'$ (the little other, upper right) to $a$ (the ego, lower left). The ego takes shape through identification with an image. The symbolic relation runs from the Other $A$, lower right, toward the subject $S$, upper left. The imaginary relation intercepts it; a broken line continues toward the subject. The diagram distinguishes the person one faces from the locus of language through which one speaks.
 
-A limited example can make the question recognizable: someone says, “I only want to write the essay well,” while repeatedly asking whether the other person approves of them. Beyond stating a writing goal, what response does this sentence seek from the other person? The statement's content and the relational position from which it is spoken may not fully coincide. The example makes the question visible; interpreting a particular person requires further material. One sentence cannot establish a hidden motive.
-
-This site's personal model is a partial understanding of a person within the current question. A connected self-account, a formal view, and the person who continues expressing and acting therefore need to be understood distinctly. Lacan's distinctions make this non-coincidence worth investigating; they do not directly supply an algorithm for generating personal models.
+The upper-left label in this edition is $(\mathrm{Es})\,S$. Elsewhere Lacan writes $\bar S$, also printed as a struck-through S, for the **divided subject**. [Subversion of the Subject](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/) defines the relation: a signifier represents the subject for another signifier. Representation is possible through signifiers, yet no one name can exhaust the subject it represents. This distinguishes the recognizable ego at lower left from the subject of signifying representation. In this schema $a$ denotes the ego. In the later fantasy formula the same letter has a different function.
 
 ## Metaphor, metonymy, and condensation
 
-In [“The Instance of the Letter” (1957), original pagination 505–515](https://recherche-lacan.gnipl.fr/2015/07/03/les-ecrits-linstance-de-la-lettre-dans-linconscient-ou-la-raison-depuis-freud-1957/),
-Lacan approaches metaphor and metonymy through relations among signifiers.
-**Metaphor** involves one signifier substituting for another in a chain and
-producing a new effect of meaning; the displaced term remains involved through
-other connections. **Metonymy** concerns connections among signifiers and the
-movement of meaning, beyond the single rhetorical example of a part standing
-for a whole.
+**Metaphor works by substitution.** On the left, S′ occupies the place of S in the chain. On the right, (+) marks a crossing of the bar and the emergence of a new signification.
 
-The relations differ. Metaphoric substitution brings a meaning into view: in
-a fictional account, “the manager became a judge” gives workplace evaluation
-relations of trial, defense, and verdict. This does not transfer a fixed bundle
-of every judicial attribute to the manager. Its effect depends on connections
-to the surrounding discourse. Lacan develops substitution through Hugo's lines
-about Boaz and his sheaf. Metonymy concerns connections and movement along the
-chain. In a hypothetical process of desire, expectation might move from
-publication to a byline to a particular person's recognition. Objects can change
-while the relation driving the movement remains a question; the succession of
-three items alone does not establish a mechanism of desire.
+$$
+f\!\left(\frac{S'}{S}\right)S\;\sim\; S(+)s
+$$
 
-In this account, Freud's **condensation (Verdichtung)** is connected to the
-superimposition of signifiers and metaphor, while displacement is connected to
-metonymy. Condensation here belongs to questions about dream-work and the
-unconscious. It cannot simply be equated with summarization, token reduction,
-or merging records into a label. This site's relational analogies also draw
-on other theories; their contributions and differences need explanation through
-the relations each addresses.
+**Metonymy works by connection.** The dots link one signifier with another. On the right, (−) marks the persistence of the bar. Desire can move along this chain without finding its full expression in any one term.
 
-This raises a useful question for personal models: does a compact expression
-merely shorten material, or has it organized that material anew? “A workshop
-for joint creation” can gather trial, criticism, and revision while obscuring
-delegation and completion responsibilities in a particular task. Unfold its
-relations and return to exchanges that support or challenge them to judge the
-condensation's fit. [Condensing revisable relations](metaphor-and-self-revision.md#condensing-revisable-relations)
-develops this site's writing method: a proposal informed by these concepts,
-not a compression algorithm derived from Lacan.
+$$
+f(S\ldots S')S\;\sim\; S(-)s
+$$
+
+The f marks a signifying function, S the signifier and s the signified. Plus and minus indicate different relations to the bar. Lacan relates dream condensation to metaphoric superimposition and displacement to metonymic connection. Compare the two formulas in [the 1957 text, original p. 68](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1957-05-09.pdf#page=12).
 
 ## The subject supposed to know and the position of interpretation
 
-The **subject supposed to know (sujet supposé savoir)** concerns a position
-credited with knowledge concerning the subject. In
-[Seminar XI, 10 June 1964, Staferla transcript pp. 161–163](https://www.lutecium.org/mirror/staferla.free.fr/S11/S11%20FONDEMENTS.pdf#page=161),
-Lacan develops this relation through transference while explaining that the
-analyst does not thereby possess absolute knowledge. Being supposed to know
-and actually knowing therefore require separate examination.
+In analysis a speaker can address their own words as carrying a knowledge still to be deciphered. In the [second version of the Proposition of 9 October 1967](https://ecole-lacanienne.net/wp-content/uploads/2026/05/1967-10-09-Seconde-version-de-la-proposition-du-9-octobre-196.pdf#page=4), Lacan writes this structure of transference:
 
-This is not another name for knowing a great deal or for trust in general.
-Within this session's analytic setting, the question concerns whom one
-addresses and how one expects the other to receive meanings one has not yet
-grasped. Someone can acknowledge the other's fallibility while still addressing
-that position of supposed knowledge. The Other as a locus of speech and a
-person occupying this knowledge position in a particular relationship also
-cannot simply be equated. The concept questions the relational structure of
-interpretation rather than ranking people by their quantity of knowledge.
+$$
+\begin{array}{cl}
+ S & \longrightarrow S^{q} \\
+ \overline{s\,(S^{1},S^{2},\ldots,S^{n})} &
+\end{array}
+$$
 
-For model collaboration, this raises a question about a personal account's
-interpretive authority. What comes from sources, actual use, the person's
-recognition, a sense of completeness, or the model's fluent response? A model
-interpretation written into an archive and cited by later models acquires no
-independent support from that repetition. Recognition can show how the account
-was received without alone establishing its explanation of psychological causes.
-
-This contemporary borrowing examines interpretation, reception, and use; using
-AI alone does not establish a particular transference relation. A counterpart
-can contribute understanding the person has not articulated while returning
-to material, comparing interpretations, and revising accounts it helped form.
-The account participates in the relationship without acquiring the position
-of determining the person's final truth.
+Above, the signifier of transference S addresses a particular other signifier, Sᵠ (q for *quelconque*). The bar covers only the first term. Under it, s is the subject thereby supposed, with a series of unconscious signifiers presumed present in parentheses. Read s according to this formula. The knowledge an analyst actually possesses is a separate question.
 
 <a id="four-discourses"></a>
 
 ## The four discourses: from what place does one address the other?
 
-At Vincennes someone told Lacan that students cared about psychoanalysis and could not care less about course credits. Lacan brought them back to the credits. A person enters a university to study, yet can leave bearing something like a stamp of so many units of value. What relation do knowledge, certification and assessment establish even among people who have gathered for a free discussion? In the [Vincennes exchange of 3 December 1969](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1969.12.03-1.pdf), Lacan put university discourse on the board to bring its relations into view.
+Lacan writes four social bonds as four formulas. Read the places first, then follow the terms that rotate through them.
 
 ### How to read the four formulas
 
@@ -142,31 +101,11 @@ The four discourses retain this frame and rotate its terms. The bars separate up
 | **Hysteric** | **Analyst** |
 | $\displaystyle \frac{\bar S}{a}\;\longrightarrow\;\frac{S_1}{S_2}$ | $\displaystyle \frac{a}{S_2}\;\longrightarrow\;\frac{\bar S}{S_1}$ |
 
-### Master's discourse: who knows how to make things work?
+### Two reversals in the four formulas
 
-Does the master actually want to know? Lacan puts the question through the relation of master and slave. The master may simply want things to work. The person who does the work commands a know-how the master lacks. An order has force precisely because it can put knowledge elsewhere to work. The upper relation S₁ → S₂ thus explains both the power of the command and its dependence. The [session of 26 November](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/) follows the slave's knowledge into the question of the master's desire to know.
+**Master and analyst.** S₁ calls on the other's knowledge S₂ to work. The master's division S̄ occupies the place of truth; surplus enjoyment a is produced on the side of labour. The [opening session](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/) locates know-how with the slave whose work the master commands. In analytic discourse a occupies the agent's place and elicits speech from S̄. Knowledge S₂ supports the analyst's intervention from the place of truth. A consequential naming S₁ emerges in the subject's speech. Compare the places of S₁: a term that commands work in one structure is produced through speech in the other.
 
-The title authorizing a command presents its bearer as a unified will. Its supporting truth is a divided subject, S̄. The master can enjoy the fruits of labour. Lacan situates surplus enjoyment, a, on the side of production. Getting the work done does not finally tell the master what makes him desire. Equating a with the finished object on the table would obscure the bond among command, labour and enjoyment.
-
-### University discourse: when knowledge has standing to speak
-
-Return to Vincennes. A teacher can be generous and a student can love a course. As long as units of credit determine what learning will be recognized, both act through a system of knowledge and certification. S₂ occupies the agent's place. A prior authoritative determination, S₁, supports the procedures: what can count in common units, and which studies confer standing? The more self-evident a procedure appears, the harder it becomes to question that determination.
-
-Addressed in the place of a, the student becomes the object the arrangement works on and assesses. Consider a student's imagined protest: “Those credits really are mine, but I came here to understand a problem.” This illustrates S̄ on the side of production. Certification is effective, yet the person it certifies cannot coincide with its representation. In the [Vincennes discussion](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1969.12.03-1.pdf), Lacan returned that difficulty to the people contesting the significance of their credits.
-
-### Hysteric's discourse: my question sets the other to work
-
-Imagine the same student saying, “You call me a good student. Why do I get every credit and still have no idea what I want to study? You tell me what a good student is.” Now S̄ speaks. A felt division leads the student to demand an account from the authority, S₁, that can name them. A teacher taking up the challenge might have to distinguish passing examinations, framing an independent question and wanting to pursue research. **The person previously assessed has put the authority in a position where it must produce knowledge.** S₂ appears as a product.
-
-Explaining all three distinctions may leave open why this particular teacher's recognition matters to the student. The cause of desire, a, occupies the place of truth. The speaker challenges an authority while still asking it to answer for who they are. In the [session of 17 December](https://www.lutecium.org/no/Jacques_Lacan/Media/pdf/1969.11.01-17-lenvers.pdf), Lacan asks how hysteric's discourse provokes a desire to know in the other and raises the question of the speaker's value for that other. The designation concerns a structure of address. It supplies no clinical diagnosis of a person who objects.
-
-### Analyst's discourse: who produces the decisive term?
-
-“They all say I am a good student” can be heard within another bond. Imagine a speaker repeatedly concluding quite unrelated accounts by saying, “At least I've accounted for myself.” A listener returns those words to them. After a pause the speaker continues, “Accounted to whom? I've been out of school for years, yet I'm still handing in homework.” The speaker's own “handing in homework” now connects episodes that seemed unrelated. This invented scene illustrates a formula. Repeating words supplies no guarantee of such an effect in an actual encounter.
-
-The analyst occupies the place of a, functioning as cause so that the divided subject, S̄, continues speaking. Knowledge, S₂, occupies the place of truth. It may support an intervention without taking the form of an authoritative verdict on the speaker. S₁ on the side of production can be a consequential naming the subject hears in their own speech. If the listener begins by declaring that the speaker's problem is appeasing authority, even a plausible explanation establishes a different bond. In his [17 December discussion of enigma and quotation](https://www.lutecium.org/no/Jacques_Lacan/Media/pdf/1969.11.01-17-lenvers.pdf), Lacan asks how interpretation draws on the speaker's own words and leaves further articulation to them.
-
-Two reversals help recover the four formulas. **Master's discourse starts from a naming and sets the other's knowledge to work. Analyst's discourse brings the subject to speech, with a naming on the side of production. University discourse starts from knowledge and produces a divided subject. Hysteric's discourse begins where the subject is divided and produces knowledge.** In one classroom, announcing a standard, assessing someone by it, and challenging its authority to define oneself can establish different social bonds.
+**University and hysteric.** Knowledge S₂ speaks with authority, supported by S₁ in the place of truth. It addresses a as an object to be worked upon and produces a divided subject S̄ who cannot coincide with the resulting assessment. At [Vincennes](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1969.12.03-1.pdf), Lacan asks how students themselves come to count as units of credit. Hysteric's discourse begins with division: S̄ demands an account from the S₁ empowered to name the subject. The cause a occupies the place of truth and knowledge S₂ is produced in response. One relation assesses a subject from established knowledge; the other puts an authority to work producing knowledge.
 
 ## Dialectical reversal: changing understanding and position
 
@@ -271,34 +210,9 @@ Two questions still need separate treatment: **does an interpretation make an ex
 
 ## Punctuation and quilting: how meaning becomes provisionally settled
 
-[Excerpts from “The Function and Field of Speech and Language” (1953)](https://www.causefreudienne.org/textes-fondamentaux/fonction-et-champ-de-la-parole-et-du-langage-en-psychanalyse/)
-discuss how punctuation gives discourse meaning, including through the cutting
-of an analytic session. In [“Subversion of the Subject” (1960), Écrits p. 805](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/),
-the **quilting point (point de capiton)** concerns the arrest of sliding
-signification. A sentence's last term retroactively determining its earlier
-terms provides its diachronic illustration. This is also distinct from
-Miller's account of “suture.”
+![Graph I: two directed paths intersect twice](../diagrams/lacan-graph-one.svg)
 
-For example, an utterance begins “you are right” and continues “the question
-does need rewriting, but your answer is still unsupported.” The continuation
-specifies what was endorsed; extracting the opening words would misrepresent
-the whole position. The quilting point is more than a sentence's final
-punctuation mark: Lacan also discusses the synchronic organization of meaning.
-It directs attention to which signifying relations make discourse intelligible,
-without guaranteeing that this organization exhausts the subject or remains
-fixed forever.
-
-For our writing, the useful question is when unfolding expression becomes a
-settled description, and how that punctuation or naming directs later reading.
-Summarizing “wanting independence” as “rejecting help” installs one interpretation
-in subsequent collaboration. Continued expression might require “wanting to
-retain participation in direction and the ability to change delegation.” The
-new account enables work while remaining open to other tasks and later material.
-
-Compression therefore selects content and can provisionally fix a reading.
-Sources, applicability conditions, and an unresolved alternative allow that
-reading to unfold again. This is a proposal for maintaining descriptions; the
-analogy does not make analytic session-cutting a technique for model dialogue.
+Trace [Graph I in Subversion of the Subject](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/) twice. Follow $S\to S'$ from left to right as the signifying chain unfolds. Then start at $\Delta$ on the lower right. The curved path crosses the chain twice and reaches $\bar S$ at lower left. The two paths encounter their crossings in opposite orders. A word at the end of a sentence can thus settle how its beginning is heard. The quilting point marks the provisional fastening of meaning.
 
 ## Full speech, half-saying, and truth
 
@@ -379,62 +293,25 @@ argument.
 
 ## The three registers: different relations within the same experience
 
-The **Imaginary (*Imaginaire*)** concerns images, a sense of wholeness, and identification; the **Symbolic (*Symbolique*)** concerns signifiers, differences, positions, and their organization; the **Real (*Réel*)** concerns the impossibility or limits encountered by these organizations of meaning and imagery. They do not sort material into three disjoint boxes. In his later work, Lacan further investigates their connections through knots; [excerpts from *Seminar XXII, R.S.I.*, the session of 10 December 1974](https://www.freud-lacan.com/documents-ged/extraits-du-seminaire-xxii-de-jlacan-rsi-2/) offer an entrance.
+![Borromean linkage of Real, Symbolic and Imaginary](../diagrams/lacan-borromean.svg)
 
-For example, understanding oneself as an “independent creator” involves an image with which one can identify; the position of “creator” within language, evaluation, and relationships involves symbolic organization; some recurring difficulties may prevent this self-image and explanation from smoothly encompassing experience. The last example is only a way into the question. It does not license calling all unrecorded feelings, unknown data, or bodily responses “the Real.”
-
-This site draws on the registers' emphases to illuminate its practice: philosophy turns toward a real not exhausted by expression; psychology attends to images, identifications, and their organization of experience; engineering makes relations usable through language, rules, and programs. [The trinity of philosophy, psychology, and engineering](local-source-and-website.md#trinity-and-sinthome) arranges them as resonant analogies: follow a column for its emphasis, cross the columns for their connections. The site's modest naturalism places this practice within a shared natural world; the Real contributes a question about the limits of expression.
+R is the Real, where symbolization meets an impossibility; S the Symbolic, the order of signifying differences; I the Imaginary, the register of image and identification. Read the crossings as over and under. Any pair of rings can separate, yet all three together hold. Cut any one ring and the remaining two come free. This is the property Lacan explores in [Seminar XXII, R.S.I.](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1974.12.10.pdf#page=8).
 
 ## Fantasy and its traversal: the subject's position in a relationship
 
-**Fantasy (fantasme)** in Lacan concerns the subject's relation to the object of
-desire and how a scene positions the subject in relation to the Other's desire.
-It can organize the experience of reality, expected responses, satisfaction,
-and repetition. Everyday daydreams may supply material; the recurring positions
-and relations within them matter especially. [“The Subversion of the Subject” (1960)](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/)
-locates fantasy among subject, desire, and the Other. Object a in its formula
-concerns the cause of desire, rather than simply a person or thing one wants.
+$$
+\bar S\lozenge a
+$$
 
-Suppose someone treats “I have a place with the other only if I continually
-prove useful” as a necessary condition of relationship. Inquiry concerns both
-the claim's truth and how the person imagines the other's demands, occupies
-the position of being judged, and sustains the relation through giving, testing,
-and anxiety. Actual demands, lived dependencies, and particular experiences
-remain part of the explanation.
+On the left is the divided subject. On the right is object $a$, the cause of desire. The diamond (*poinçon*) marks their relation in fantasy. Fantasy gives desire a scene in which the subject can take up a position. Compare the drive on [the graph of desire](https://recherche-lacan.gnipl.fr/2015/07/05/les-ecrits-subversion-du-sujet-et-dialectique-du-desir-dans-linconscient-freudien-1960/): $\bar S\lozenge D$, where $D$ is demand. Changing the right-hand term changes the relation under discussion.
 
-**Traversing fantasy** concerns a change in the subject's relation to this
-organization. A seemingly necessary scene and position can become recognizable;
-their function in sustaining desire and satisfaction can enter analysis, and
-the subject may cease to depend on them in the same way. Recognizing an inaccurate
-belief or giving a more complete account of oneself addresses only part of this.
-The final session of *Seminar XI* (24 June 1964; Alan Sheridan translation, p. 273)
-leaves the experience of the drive after traversing the fundamental fantasy as
-a question. This [scholarly concept index](https://cahiers.kingston.ac.uk/concepts/drive.html)
-retains the source locator. Traversal thus concerns changes in relationship and
-experience, rather than a checklist of self-explanations to complete.
-
-Its relation to the later **sinthome** retains two questions: how a subject changes
-their dependence on a fantasy scene, and how a singular practice sustains their
-life and jouissance. Scholarship offers different accounts of their connection;
-see [Coffman, 2013](https://doi.org/10.1080/0969725X.2013.869023). In this site's
-contemporary use, the position a person and model occupy in cooperation and
-the arrangements sustaining that cooperation can change together. This relation
-retains a philosophical connection with Lacan's questions.
-
-The working accounts are addressed to the model: they articulate working
-understanding and its implications for cooperation. Personal material under
-`references/personal/` can be read by the person or understood with a language
-model's help; it has a different purpose from those working instructions.
-[Understanding and cooperative arrangements](embodied-experimental-philosophy.md#rereading-ones-patterns-philosophical-reflection-and-loosening-fantasy)
-develops this philosophical discussion.
+Traversal concerns a change in the subject's relation to the scene sustaining desire. The diamond writes the structure of fantasy. It cannot establish that a traversal has occurred.
 
 ## Sinthome: from Lacan's question to this site's definition
 
-**Sinthome** is a spelling Lacan adopts in *Seminar XXIII*. In the particular construction of the [17 February 1976 session](https://recherche-lacan.gnipl.fr/2013/07/26/lxxiii-le-sinthome-1975-1976-lecon-du-17-fevrier-1976/), it participates in repairing the knot; in the [11 May session](https://recherche-lacan.gnipl.fr/2013/07/26/lxxiii-le-sinthome-1975-1976-lecon-du-11-mai-1976/), the relations among Joyce's writing, ego, and the knot are developed further. The question concerns how a particular practice enters this person's mode of existence, beyond what a work expresses through its content.
+In Seminar XXIII Lacan asks where a knot can fail and where a correction acts. In the [11 May 1976 session, p. 9](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1976.05.11.pdf#page=9), changing a crossing allows the Imaginary ring to slip away. The [corrected diagram on p. 10](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1976.05.11.pdf#page=10) places the ego where it can hold the ring in this particular construction. Read the two drawings together: the function of a fourth term depends on where it acts. Lacan uses this construction to develop his reading of Joyce's writing.
 
-This site adopts the name with its own concrete referent: **a practical arrangement jointly shaped by personal philosophy, psychology, and engineering, including an understanding of the person, the model counterpart they need, and their relationship, together with expressions, tools, and ways of using them.** Relevant material informs the arrangement; current technical conditions give it usable form; use brings revision. A Skill can carry some of its understanding and methods, while a Harness can organize its actual realization. Life is the setting in which it forms, is used, and has consequences.
-
-Reading “sinthome” here therefore requires recognizing both the term's source and this site's particular definition. How far it helps stabilize life or continue creation needs to be understood through concrete use. See [Forming a sinthome](writing-a-sinthome.md) for the detailed formation process.
+[Forming a sinthome](writing-a-sinthome.md) develops Yinyang's own use of this concept.
 
 ## Which relations does formal translation capture?
 

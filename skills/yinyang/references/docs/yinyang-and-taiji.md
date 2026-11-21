@@ -1,5 +1,7 @@
 # Mutual becoming through Yinyang and Taiji
 
+This essay develops [YY-03, role exchange and human generation](core-views.md#yy-03).
+
 [简体中文](yinyang-and-taiji.zh-CN.md)
 
 *The Shuang yu (paired fish) turn within one circle. Each bears an eye of the other's color.
@@ -501,16 +503,9 @@ supposed to do. Earth returns more than a verdict on the existing design.
 
 The movement therefore has two connected dimensions. Contributions can change hands within a piece of work, and the work's consequences can change the relation through which the next piece begins. A finished work is a real local achievement within that movement. Its finitude does not contradict the open horizon: completion gives what has been made enough independence to be encountered, used, and answered.
 
-## From a reflected relation to further participation
+## From role exchange to relational positions
 
-The reflected result is more than a better page. The participants have begun
-to understand how an objection can generate a direction, how a prototype can
-make an unspoken concern recognizable, and how either contribution can change.
-[Shared reflection and continued cultivation](participation-and-support.md)
-next asks how this understanding changes available participation: what support
-lets the person read, express, judge, and create with greater scope, and what
-the counterpart needs to do for that support to work. These questions carry
-the image back into the next shared activity.
+The two fish show how each participant can enter the other’s contribution. The person can generate an explanation and the model test it; the model can propose a reading and the person supply a counterexample. The Taiji circle holds those returns within one continuing encounter. A further question now arises. When a person points out a problem, are they setting the direction of inquiry or returning an unsupported claim to its writer? The next essay, [YY-04, Relational positions](relational-positions.md), follows planning, research, writing and review to explain what gives each response the power to change the work.
 
 ## Sources, imagery, and this construction
 

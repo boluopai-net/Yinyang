@@ -185,11 +185,18 @@
 
 ## YY-04 · 关系位置：人与模型都能在四话语之间移动
 
-**分工可以交接，发言的根据也可以改变。** 人把审阅交给模型，双方先后从审阅者的位置追问同一篇文章；模型接着亲自改写时，它就要为新的论断给出依据。沿着同一项工作看，能看见人和模型怎样接过彼此的贡献。沿着同一个参与者看，能看见他怎样从一种言说关系转入另一种。
+[YY-03《阴阳与太极》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.zh-CN.html)先论证人和模型为什么都能生成、也都能判断。YY-04 接着问：当一方接过另一方的工作，他凭什么发言，他的回答能改变什么？[Bonomo 的话语轮转](https://www.preprints.org/manuscript/202606.1503)用一份研究稿把这个关系画了出来。
 
-《阴阳》借用 Bonomo 对拉康四话语的工程解释。**主人话语 · Planner** 确立问题，需要研究者检验题目里的预设；**大学话语 · Researcher** 以知识发言，把证据连同缺口交给写作者；**癔症话语 · Writer** 从材料与原问题的不合之处追问主导命名，形成可受检验的新论断；**分析家话语 · Reviewer** 指出文本从哪里取得发言权、在哪一步替别人下了判断，把具体异议交还给写作者。人和模型都能进入这四种位置。人的表达尚未成形时，倾听可以先于规划；模型受托工作时，也能自行轮转，带着异议回到写作、查证或定题。
+![话语轮转：规划、研究、写作、审阅，以及审阅返回写作的回路](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/diagrams/discursive-rotation.zh-CN.svg)
 
-判断一次转位是否有意义，可以看对方的回答能改变什么。若研究者发现材料不支持原先的比较，规划者能否改题？若人指出模型替他说出了一个他并未选择的目的，下一稿是否真的改变了论点？[《关系位置》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.zh-CN.html)展开这种返回如何改变共同作品。[附录《拉康概念导读》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/lacan-reading-guide.zh-CN.html#four-discourses)说明四个结构位置和四种话语配置的区别。
+| 话语 | Agent | 有权做什么 | 不负责什么 |
+| --- | --- | --- | --- |
+| 主人 | Planner | 确定研究目标与任务顺序 | 不亲自研究 |
+| 大学 | Researcher | 检索、收集和核对材料，标记缺口 | 不撰写正文 |
+| 癔症 | Writer | 质疑计划与材料之间的矛盾，发展论证 | 不承担最终核验 |
+| 分析家 | Reviewer | 追问隐含立场、回避与概念混同 | 不直接重写正文 |
+
+规划 → 研究 → 写作 → 审阅 → 回到写作。异议涉及出处就回到研究；异议动摇题目的前提就回到规划。《阴阳》让人和模型都能进入每个位置：人可以接过模型的审阅，同一个模型也可以先审阅、再亲自改写并对新论点负责。若人的意思尚未成形，也可以先听，等问题清楚后再定向。[YY-04 的完整论述《关系位置》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.zh-CN.html)展开这些交接如何改变作品。
 
 <a id="yy-05"></a>
 

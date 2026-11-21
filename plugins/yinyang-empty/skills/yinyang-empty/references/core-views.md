@@ -234,11 +234,18 @@ creation can continue and pursuit can finish, stop, or turn elsewhere.
 
 ## YY-04 · Relational positions: person and model can each move among the four discourses
 
-**Work can change hands, and the grounds on which someone speaks can change.** When a person hands review to a model, each can question the same draft from the reviewer's position. When the model then rewrites the claim, it owes grounds for the new judgment. Following one contribution shows how the participants take it up in turn. Following one participant shows how the relation from which they speak can change.
+[YY-03, Yinyang and Taiji](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html), argues why person and model can each generate and judge. YY-04 asks what gives someone standing to speak when work changes hands and what their answer can change. [Bonomo's discursive rotation](https://www.preprints.org/manuscript/202606.1503) shows the relation through the making of a manuscript.
 
-Yinyang adopts Bonomo's engineering interpretation of Lacan's four discourses. **Master · Planner** frames a question whose assumptions research must examine. **University · Researcher** speaks from organized knowledge and gives the writer evidence along with its gaps. **Hysteric · Writer** challenges the organizing term where question and material diverge, developing a claim open to scrutiny. **Analyst · Reviewer** locates the authority a passage claims and the point at which it speaks for another, returning the objection to the writer. Either participant can enter any position. Listening can precede planning when an intuition is still taking shape. A model entrusted with a work can rotate on its own, carrying an objection back to writing, inquiry or framing.
+![Discursive rotation from planning through research and writing to review, with review returning to writing](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/diagrams/discursive-rotation.svg)
 
-What can the other's reply change? Can a research finding reopen a comparison whose premise the material fails to support? When the person identifies a purpose the model attributed to them, does the next draft change its argument? [Relational positions](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.html) follows this return into the work. The [Lacan reading guide](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/lacan-reading-guide.html#four-discourses) distinguishes the four structural places from the four configurations of discourse.
+| Discourse | Agent | Authority | Outside its remit |
+| --- | --- | --- | --- |
+| Master | Planner | Set the research objective and order of tasks | Conducting the research |
+| University | Researcher | Find and verify sources, recording evidence gaps | Writing the manuscript |
+| Hysteric | Writer | Question tensions between the plan and the material, and develop an argument | Final verification |
+| Analyst | Reviewer | Challenge implicit authority, omissions and conflations | Rewriting the passage |
+
+Planning → research → writing → review → back to writing. A disputed source reopens research; an objection to the premise reopens planning. In Yinyang either participant can enter any position. The person can take over review from the model, or the same model can move from review to writing and answer for its new claim. Listening can precede planning when the person's idea is still taking shape. [Relational positions, the full essay for YY-04](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/relational-positions.html), develops these handoffs.
 
 <a id="yy-05"></a>
 
