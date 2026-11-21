@@ -68,7 +68,7 @@ These entrances can connect. Research reading can reveal a substantial gap that 
 
 For a systematic course, a book, a single paper, or a question pursued across several papers, give the source and learning purpose to **Dot or local Codex**. Have the model use a **Teacher Skill** to write connected reference materials, then work with a teacher to read, explain, and discuss them. **Preparing materials and using a Teacher support all these learning entrances.**
 
-This self-study route starts from native-language texts and AI-prepared material, without assigning original lectures to watch or listen to. **In the systematic course route, start with the relevant chapters of the main textbook or reference book checked at course selection, along with the assigned readings, before using the course’s AI preparation files.** Books already written in the learner's native language can be read directly; have the model translate foreign-language sources first. Original texts and faithful translations have a different role from AI-written explanations, guides, and practice. See the [reading priority among materials](#reading-order).
+This self-study route starts from native-language texts and AI-prepared material, without assigning original lectures to watch or listen to. **Use the course guide to locate the current unit, then open the relevant chapters of the main textbook or reference book checked at course selection and the assigned readings.** Books already written in the learner's native language can be read directly; have the model translate foreign-language sources first. Original texts and faithful translations have a different role from AI-written explanations, guides, and practice. See the [reading priority among materials](#reading-order).
 
 Depending on the learning object, use the two- or three-document arrangement below. The model explains concepts and relationships, retains chapter, lecture, page, or paper-passage locators, adds examples and useful diagrams, and connects existing understanding, interests, and actual questions:
 
@@ -80,7 +80,7 @@ Depending on the learning object, use the two- or three-document arrangement bel
 
 <a id="term-list-use"></a>
 
-Each module in a learning path has a standalone **term list**. The module’s work page organizes learning activities and navigation and links to the separate term list and source glossaries. All rows are visible when the reader opens the term list. Put the learning unit in the left column, **Unit**, and the terms to recall from that unit in the right column, **Terms**. Separate the terms with commas and link each one directly to its explanation in the relevant material.
+Each module in a learning path has a standalone **term list** that readers can open from the module work page for recall. All rows are visible when the reader opens the term list. Put the learning unit in the left column, **Unit**, and the terms to recall from that unit in the right column, **Terms**. Separate the terms with commas and link each one directly to its explanation in the relevant material.
 
 Use source headings only for the courses and books actually studied. Under a source heading, put only the name of the lecture, chapter, or coherent chapter group in the unit cell. If a course and its main textbook cover the same learning units, both titles can share one heading and each unit appears once. A paper normally occupies one row, using a short, recognizable form of its title in the unit cell. If a paper has several parts that can be studied separately, use a row per part and add the part name after the short title. Use the actual units of work for project rows. Apply the same arrangement to supplemental sources.
 
@@ -213,6 +213,12 @@ Once the materials and practical environment are ready, have the model organize 
 | <a id="theory-learning-path"></a>Theory learning path | Questions in the field, course modules, conceptual relationships, prerequisites, and readings | Develop an overall understanding and select courses or passages for deeper inquiry. |
 | <a id="practice-learning-path"></a>Practice learning path | Abilities in expression and judgment, tool use, making or experimentation, checking results, and revision | Begin with an ability you want to develop, practice with an actual object, and return to relevant theory. |
 
+<a id="contextual-course-entrance"></a>
+
+Give each course one entry on the module work page. Describe the question or activity that makes it useful now and link to the relevant unit of the main guide. The guide leads readers to definitions, practice, and original readings at the point of need.
+
+> If you want to use a survey to learn about the whole class, start with [sampling in Data 100](#data100-sampling-guide) to tell who you could reach and who actually answered.
+
 Write the practice path as an **outline of abilities and tools**. Design might distinguish paper sketches, visual expression, information and interaction structure, prototypes, motion, platform differences, and design handoff. Statistics might distinguish data preparation, visualization, model selection, interpretation, and checking. These are capability areas; the particular work, dataset, or task used for practice can be chosen when learning actually takes place.
 
 For employment, have the model examine real job requirements and work materials, separating common foundations, specialties, experience requirements, and alternative tools. For curiosity, creation, or research, select from the relevant works, questions, and methods.
@@ -229,7 +235,11 @@ Choose the convenient teacher through the [shared teacher entrance](#learning), 
 
 #### Begin with the current question
 
-Follow the [reading priority](#reading-order): open the main textbook, chapter, paper, or Chinese translation used in the selected course's current unit. A brief unit overview can orient the reading before following the author's development. Use the glossary for definitions and the main guide for difficult background or arguments, then return to the corresponding original passage. Where that course uses no corresponding original, begin with its AI main guide. Have the model check the cited original when a translation, derivation, or piece of evidence needs verification, and correct the materials accordingly.
+Enter the course guide from the module work page and find the unit that addresses your current question. Use the [reading priority](#reading-order) to open the verified book chapter or assigned reading. Follow the links from the unit when you need a term explained, background filled in, or an argument clarified, then return to the original passage. Have the model check the cited original when a translation, derivation, or piece of evidence needs verification, and correct the materials accordingly.
+
+<a id="data100-sampling-guide"></a>
+
+**Example guide for the Data 100 sampling unit.** Suppose you survey the people who leave the classroom first, but want to understand the whole class. Sketch the whole class, the people you can reach, and the people who actually answer. If the boundaries are unclear, [check the definitions for the three sets](https://ds100.org/course-notes/sampling/#censuses-and-surveys). To see how the people you can reach can differ from the target population, read [section 2.2 of *Learning Data Science*](https://learningds.org/ch/02/data_scope_construct.html). Propose a different way to distribute the survey, then try [the simple random sampling example](https://ds100.org/course-notes/sampling/#example-scheme-2-simple-random-sample) to check how the sample is selected.
 
 Use diagrams to see relationships and discussion to express your understanding and questions. Ask the teacher to connect new and existing knowledge, compare explanations, and develop what remains unclear, then check whether it misunderstood. Saved notes and current explanations can revise one another: add useful examples, explanations, and new questions to the existing materials.
 
