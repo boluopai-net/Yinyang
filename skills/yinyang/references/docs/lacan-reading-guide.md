@@ -128,12 +128,19 @@ A discourse, in this sense, is a social bond that can persist. Before anyone spe
 
 Four terms rotate through the places. **S₁, the master signifier**, organizes other terms around a naming, such as a title to which people respond with obedience, identification or protest. **S₂, knowledge**, is articulated through a chain of signifiers. It can reside in a worker's know-how. **S̄, the divided subject**, marks a gap between a speaker and the signifier that represents them. Saying “I am a good student” can represent me without accounting for why that designation matters so much to me. **a, objet petit a**, marks the cause of desire. In the place of production in the master's discourse it also marks surplus enjoyment. Substituting a coveted possession for a would miss its function. The terms retain their relative order. A quarter-turn changes the discourse. See the [opening session of Seminar XVII](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/).
 
-| Discourse | Agent | Other | Truth | Production |
-| --- | --- | --- | --- | --- |
-| Master | S₁ | S₂ | S̄ | a |
-| University | S₂ | a | S₁ | S̄ |
-| Hysteric | S̄ | S₁ | a | S₂ |
-| Analyst | a | S̄ | S₂ | S₁ |
+Read the places first:
+
+$$
+\frac{\text{agent}}{\text{truth}}\;\longrightarrow\;\frac{\text{other}}{\text{production}}
+$$
+
+The four discourses retain this frame and rotate its terms. The bars separate upper and lower places; the arrow goes from agent to other.
+
+| **Master** | **University** |
+| :---: | :---: |
+| $\displaystyle \frac{S_1}{\bar S}\;\longrightarrow\;\frac{S_2}{a}$ | $\displaystyle \frac{S_2}{S_1}\;\longrightarrow\;\frac{a}{\bar S}$ |
+| **Hysteric** | **Analyst** |
+| $\displaystyle \frac{\bar S}{a}\;\longrightarrow\;\frac{S_1}{S_2}$ | $\displaystyle \frac{a}{S_2}\;\longrightarrow\;\frac{\bar S}{S_1}$ |
 
 ### Master's discourse: who knows how to make things work?
 

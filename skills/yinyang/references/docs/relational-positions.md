@@ -58,7 +58,18 @@ This preprint offers a design argument. Its writing workflow follows task depend
 
 ## Discursive rotation while the model works
 
-Bonomo calls this arrangement *Gira Discursiva*. Follow one manuscript: **Planner frames the question → Researcher returns evidence → Writer develops a claim → Reviewer challenges its grounds → Writer revises**. The last arrow makes the objection a judgment the writer must take up. A disputed citation goes back to research. Evidence that undermines the premise of the comparison sends the question back to planning. Each agent in the paper leaves something for another: the planner does not research, the researcher does not write the essay, the writer does not perform final verification, and the reviewer returns the problem without rewriting the passage.
+Bonomo calls this research and writing architecture *Gira Discursiva*. Follow the manuscript through four positions. When review returns an objection, the writer must decide how to revise the claim.
+
+![Discursive rotation from planning through research and writing to review, with review returning to writing](../diagrams/discursive-rotation.svg)
+
+| Discourse | Agent | Authority | Outside its remit |
+| --- | --- | --- | --- |
+| Master | Planner | Set the research objective and order of tasks | Conducting the research |
+| University | Researcher | Find and verify sources, recording evidence gaps | Writing the manuscript |
+| Hysteric | Writer | Question tensions between the plan and the material, and develop an argument | Final verification |
+| Analyst | Reviewer | Challenge implicit authority, omissions and conflations | Rewriting the passage |
+
+Revision returns to the writer. A disputed citation may reopen research. Evidence that undermines the premise of the comparison can send the question back to planning.
 
 Yinyang brings the rotation into the model's work. A single model entrusted with an essay can carry it through the circuit. Suppose it plans to explain how two authors use the same concept, then discovers the word in only a translation of one author. Writing may yield a new thesis: the translation produced the apparent equivalence. Reviewing should challenge the strength of “produced.” What warrants that causal claim given the editions examined? The writer may conclude only that lexical overlap in these editions cannot establish conceptual identity, or return to research for another edition. **One can recognize rotation in what set the strength of the final claim: evidence and an objection encountered after planning.** Rereading one's own draft can reproduce the same mistake without independent checks or fresh material.
 

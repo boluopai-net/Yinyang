@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="456" viewBox="0 0 600 456" role="img" aria-labelledby="title desc">
+<title id="title">Gira Discursiva</title>
+<desc id="desc">From planning through research and writing to review. Objections return to the writer.</desc>
+<defs><marker id="tip" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#216659"/></marker></defs>
+<rect x="1" y="1" width="598" height="454" rx="16" fill="#f7faf8" stroke="#c4d5cf"/>
+<g font-family="Helvetica Neue,PingFang SC,sans-serif" text-anchor="middle">
+<rect x="22" y="16" width="398" height="78" rx="10" fill="white" stroke="#a4bbb1"/>
+<text x="221" y="49" font-size="23" font-weight="600" fill="#15473e">Master · Planner</text>
+<text x="221" y="76" font-size="17" fill="#344d46">Frame the question and order the work</text>
+<path d="M221 95v22" stroke="#216659" stroke-width="2" marker-end="url(#tip)"/>
+<rect x="22" y="120" width="398" height="78" rx="10" fill="white" stroke="#a4bbb1"/>
+<text x="221" y="153" font-size="23" font-weight="600" fill="#15473e">University · Researcher</text>
+<text x="221" y="180" font-size="17" fill="#344d46">Collect evidence and record gaps</text>
+<path d="M221 199v22" stroke="#216659" stroke-width="2" marker-end="url(#tip)"/>
+<rect x="22" y="224" width="398" height="78" rx="10" fill="white" stroke="#a4bbb1"/>
+<text x="221" y="257" font-size="23" font-weight="600" fill="#15473e">Hysteric · Writer</text>
+<text x="221" y="284" font-size="17" fill="#344d46">Develop the tension into an argument</text>
+<path d="M221 303v22" stroke="#216659" stroke-width="2" marker-end="url(#tip)"/>
+<rect x="22" y="328" width="398" height="78" rx="10" fill="white" stroke="#a4bbb1"/>
+<text x="221" y="361" font-size="23" font-weight="600" fill="#15473e">Analyst · Reviewer</text>
+<text x="221" y="388" font-size="17" fill="#344d46">Locate forced equivalences and omissions</text>
+<path d="M420 368h48V265h-46" fill="none" stroke="#216659" stroke-width="2.5" marker-end="url(#tip)"/>
+<text x="522" y="313" font-size="16" fill="#15473e">Objection</text>
+<text x="522" y="337" font-size="16" fill="#15473e">to writer</text>
+<text x="300" y="434" font-size="16" fill="#344d46">Reopen research for evidence or planning for a changed question.</text>
+</g></svg>
