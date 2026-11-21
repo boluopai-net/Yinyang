@@ -120,7 +120,13 @@ of determining the person's final truth.
 
 ## The four discourses: from what place does one address the other?
 
-Read the places in the four formulas of Seminar XVII first, then the terms occupying them. The agent addresses the other across the top. Truth lies beneath the agent, production beneath the other. S₁ is the master signifier, S₂ knowledge, S̄ the divided subject, and a the object-cause of desire. Follow knowledge through the table to see it summoned as the other, occupying the speaking place itself, or produced through a challenge.
+At Vincennes someone told Lacan that students cared about psychoanalysis and could not care less about course credits. Lacan brought them back to the credits. A person enters a university to study, yet can leave bearing something like a stamp of so many units of value. What relation do knowledge, certification and assessment establish even among people who have gathered for a free discussion? In the [Vincennes exchange of 3 December 1969](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1969.12.03-1.pdf), Lacan put university discourse on the board to bring its relations into view.
+
+### How to read the four formulas
+
+A discourse, in this sense, is a social bond that can persist. Before anyone speaks, someone may already be entitled to command, required to submit to evaluation, or expected to supply an answer. Start with the top row. **On what grounds does the agent address the other, and as what is the other addressed?** Read down on each side. On the left, **truth** supports the address but cannot be fully stated by its agent. On the right, **production** designates what is produced through work on the other's side. What a relation produces cannot in turn exhaust the truth supporting it.
+
+Four terms rotate through the places. **S₁, the master signifier**, organizes other terms around a naming, such as a title to which people respond with obedience, identification or protest. **S₂, knowledge**, is articulated through a chain of signifiers. It can reside in a worker's know-how. **S̄, the divided subject**, marks a gap between a speaker and the signifier that represents them. Saying “I am a good student” can represent me without accounting for why that designation matters so much to me. **a, objet petit a**, marks the cause of desire. In the place of production in the master's discourse it also marks surplus enjoyment. Substituting a coveted possession for a would miss its function. The terms retain their relative order. A quarter-turn changes the discourse. See the [opening session of Seminar XVII](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/).
 
 | Discourse | Agent | Other | Truth | Production |
 | --- | --- | --- | --- | --- |
@@ -129,9 +135,31 @@ Read the places in the four formulas of Seminar XVII first, then the terms occup
 | Hysteric | S̄ | S₁ | a | S₂ |
 | Analyst | a | S̄ | S₂ | S₁ |
 
-Follow S₂ through the table. The master puts knowledge to work for an organizing term. University discourse gives knowledge the authority to speak while its guiding standard occupies the place of truth. In the hysteric's discourse a subject whom an existing designation cannot accommodate questions the authority conferring it, producing knowledge. In analytic discourse knowledge occupies the place of truth; from the position of a the analyst elicits further speech, and a new naming can come from the subject.
+### Master's discourse: who knows how to make things work?
 
-Now follow S₁. In the master's discourse the master signifier speaks from the agent's place and organizes the other's knowledge. In analytic discourse S₁ occupies the place of production. A term supplied in advance by an authority and a term that emerges in the subject's speech can name the same experience while binding the speaker to that name in different ways. This distinction offers an entrance into [Lacan’s session of 26 November 1969 in Seminar XVII](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/).
+Does the master actually want to know? Lacan puts the question through the relation of master and slave. The master may simply want things to work. The person who does the work commands a know-how the master lacks. An order has force precisely because it can put knowledge elsewhere to work. The upper relation S₁ → S₂ thus explains both the power of the command and its dependence. The [session of 26 November](https://recherche-lacan.gnipl.fr/2013/07/23/lxvii-lenvers-de-la-psychanalyse-1969-1970-lecon-du-26-novembre-1969/) follows the slave's knowledge into the question of the master's desire to know.
+
+The title authorizing a command presents its bearer as a unified will. Its supporting truth is a divided subject, S̄. The master can enjoy the fruits of labour. Lacan situates surplus enjoyment, a, on the side of production. Getting the work done does not finally tell the master what makes him desire. Equating a with the finished object on the table would obscure the bond among command, labour and enjoyment.
+
+### University discourse: when knowledge has standing to speak
+
+Return to Vincennes. A teacher can be generous and a student can love a course. As long as units of credit determine what learning will be recognized, both act through a system of knowledge and certification. S₂ occupies the agent's place. A prior authoritative determination, S₁, supports the procedures: what can count in common units, and which studies confer standing? The more self-evident a procedure appears, the harder it becomes to question that determination.
+
+Addressed in the place of a, the student becomes the object the arrangement works on and assesses. Consider a student's imagined protest: “Those credits really are mine, but I came here to understand a problem.” This illustrates S̄ on the side of production. Certification is effective, yet the person it certifies cannot coincide with its representation. In the [Vincennes discussion](https://ecole-lacanienne.net/wp-content/uploads/2016/04/1969.12.03-1.pdf), Lacan returned that difficulty to the people contesting the significance of their credits.
+
+### Hysteric's discourse: my question sets the other to work
+
+Imagine the same student saying, “You call me a good student. Why do I get every credit and still have no idea what I want to study? You tell me what a good student is.” Now S̄ speaks. A felt division leads the student to demand an account from the authority, S₁, that can name them. A teacher taking up the challenge might have to distinguish passing examinations, framing an independent question and wanting to pursue research. **The person previously assessed has put the authority in a position where it must produce knowledge.** S₂ appears as a product.
+
+Explaining all three distinctions may leave open why this particular teacher's recognition matters to the student. The cause of desire, a, occupies the place of truth. The speaker challenges an authority while still asking it to answer for who they are. In the [session of 17 December](https://www.lutecium.org/no/Jacques_Lacan/Media/pdf/1969.11.01-17-lenvers.pdf), Lacan asks how hysteric's discourse provokes a desire to know in the other and raises the question of the speaker's value for that other. The designation concerns a structure of address. It supplies no clinical diagnosis of a person who objects.
+
+### Analyst's discourse: who produces the decisive term?
+
+“They all say I am a good student” can be heard within another bond. Imagine a speaker repeatedly concluding quite unrelated accounts by saying, “At least I've accounted for myself.” A listener returns those words to them. After a pause the speaker continues, “Accounted to whom? I've been out of school for years, yet I'm still handing in homework.” The speaker's own “handing in homework” now connects episodes that seemed unrelated. This invented scene illustrates a formula. Repeating words supplies no guarantee of such an effect in an actual encounter.
+
+The analyst occupies the place of a, functioning as cause so that the divided subject, S̄, continues speaking. Knowledge, S₂, occupies the place of truth. It may support an intervention without taking the form of an authoritative verdict on the speaker. S₁ on the side of production can be a consequential naming the subject hears in their own speech. If the listener begins by declaring that the speaker's problem is appeasing authority, even a plausible explanation establishes a different bond. In his [17 December discussion of enigma and quotation](https://www.lutecium.org/no/Jacques_Lacan/Media/pdf/1969.11.01-17-lenvers.pdf), Lacan asks how interpretation draws on the speaker's own words and leaves further articulation to them.
+
+Two reversals help recover the four formulas. **Master's discourse starts from a naming and sets the other's knowledge to work. Analyst's discourse brings the subject to speech, with a naming on the side of production. University discourse starts from knowledge and produces a divided subject. Hysteric's discourse begins where the subject is divided and produces knowledge.** In one classroom, announcing a standard, assessing someone by it, and challenging its authority to define oneself can establish different social bonds.
 
 ## Dialectical reversal: changing understanding and position
 

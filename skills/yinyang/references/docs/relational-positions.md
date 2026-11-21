@@ -1,4 +1,4 @@
-# Relational positions: who speaks to whom, and who gets to answer?
+# Relational positions: who speaks to whom, and who gets to answer
 
 Two people can take turns throughout a conversation while only one can change the question. A teacher asks why a student reads a passage a certain way and marks the answer against a key. A coauthor asks the same question, hears the reason, discovers an error in her own reading and revises the manuscript. The difference becomes visible when the answer arrives. Whose judgment can it change, and what difference can it make to their work?
 
