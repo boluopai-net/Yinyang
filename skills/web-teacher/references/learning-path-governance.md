@@ -36,6 +36,12 @@ their actual semantic and publication owners.
 A learning path normally outlines knowledge, abilities and materials. Numbering
 organizes the outline; only actual subject dependencies establish prerequisites.
 
+A topic contains modules, each developing a part of it through selected courses.
+Each course organizes its teaching into units. Inspect that coverage before
+mapping a module. For a narrow part already taught elsewhere, link to the
+[relevant existing course unit](course-sources-and-entry.md#reuse-an-existing-course-unit)
+from the paragraph that uses it.
+
 ### Author a practice path
 
 Start with an actual task, experiment or project. Give the learner the task

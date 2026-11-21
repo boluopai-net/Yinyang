@@ -151,9 +151,22 @@ and reuse existing companions at their owners. Treat slides, transcripts and
 notebooks of a unit as its source materials. Keep one guide entrance if a long
 guide uses supporting unit files.
 
-Before handoff, read the module opening and follow each entrance where its
-contribution is explained. Check the guide, starting/resumption unit,
+Before handoff, read the module opening and follow each entrance and reused
+unit link where its contribution is explained. Check the guide, starting/resumption unit,
 source, glossary and selected training. Confirm that a reader can tell what
 to use first, what to understand and where to continue without reconstructing
 the folders. Name real source/preparation gaps beside affected units.
 Prepared files and model demonstrations do not advance learning State.
+
+### Reuse an existing course unit
+
+When a narrow part is already taught in another module, link directly to the
+relevant course-unit heading or block from the paragraph that needs it. Explain
+what it helps the reader understand, then continue the current module's
+explanation. Use one verified unit link for that portion and keep the existing
+teaching at its owner.
+
+Original materials supply the source, study companions develop and explain it,
+and the learning path guides the reader to the relevant part of the teaching.
+Follow a reused-unit link into the maintained companions. Apply the chosen
+companion arrangement to sources selected for study in their own right.

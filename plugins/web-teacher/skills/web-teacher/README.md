@@ -57,6 +57,9 @@ The [Course sources and entry](references/course-sources-and-entry.md)
 method covers course selection, connections between theory and experiments,
 and one entrance per source, woven into the module's explanation where the
 source helps the learner.
+The [learning-path method](references/learning-path-governance.md#outline-authoring)
+connects topics, modules, courses and units. A module can link to the relevant
+unit of an existing course where another module already teaches a needed part.
 
 For a requested [three-file arrangement](references/course-materials.md#three-files-for-each-named-study-source),
 each named course, standalone book, paper or experiment has its own guide,
@@ -106,6 +109,8 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 无法完成的验证。安装包不提供材料库、当前学习者画像、访问授权或进度。
 
 选课、连接理论与实验，以及怎样在正文讲到每个来源的用途时给出一个入口，见[课程来源与入口](references/course-sources-and-entry.md)。
+[学习路径方法](references/learning-path-governance.md#outline-authoring)把主题、模块、课程和单元串起来。
+需要的内容已在其他模块讲过时，正文直接链接到相关课程单元。
 
 如果学习者选择[三份配套文件](references/course-materials.md#three-files-for-each-named-study-source)，
 范围内每门课、每本单独学习的书、每篇论文和每项独立实验各备指南、术语与名词解释表及练习，

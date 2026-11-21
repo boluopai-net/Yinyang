@@ -219,7 +219,9 @@ Use the verified course materials and available environment to create two paths 
 
 <a id="contextual-course-entrance"></a>
 
-Give each course one entry on the module work page for theory study. Describe the current question and link to the relevant unit of the main guide. The guide leads readers to definitions, practice, and original readings at the point of need.
+A topic contains modules. Each module develops part of that topic through its courses, and each course teaches it through units. Give each course one entry where the module explains what it contributes. If another module already teaches the specific part you need, link straight to that course unit in the paragraph that uses it. Explain what the reader should learn there before continuing with the current question.
+
+The path guides the reader to the relevant teaching. Original readings or experiment instructions supply the source, and study companions explain it, clarify terms, or provide practice.
 
 > If you want to use a survey to learn about the whole class, start with [sampling in Data 100](#data100-sampling-guide) to tell who you could reach and who actually answered.
 
