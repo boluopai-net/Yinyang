@@ -84,7 +84,7 @@ Prompts, Skills, and Harnesses bring these understandings into actual work. Prom
 Revision connects these contributions without making them interchangeable.
 Philosophy can change the meaning of a chosen direction; personal understanding
 can change which contribution fits; engineering can reveal what a proposed
-relationship permits in actual work. The [revision guide](../formation/revision.md)
+relationship permits in actual work. The [actual revision method](../formation/revision-method.md)
 owns the method for maintaining the six working files. Their philosophical
 significance lies in this reciprocal dependence: a changed document matters
 through changed understanding, participation, and conditions of use.
@@ -95,7 +95,7 @@ through changed understanding, participation, and conditions of use.
 
 <a id="philosophy-psychology-and-engineering-develop-the-missing-connection"></a>
 
-For starting a new formation, the maintained [starting conditions](../design-and-revision.md#start-from-available-material-and-practice)
+For starting a new formation, the maintained [starting conditions](creation-method.md#start-from-available-material-and-practice)
 distinguish available philosophical writing, psychological or life materials,
 and an actual working environment, singly or in pairs. They recover the learning
 sequence by developing the missing contribution; this essay examines how those

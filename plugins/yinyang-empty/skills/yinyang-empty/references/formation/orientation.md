@@ -1,25 +1,26 @@
-# How to articulate an adopted orientation
+# Writing the Orientation Account
 
-[简体中文](orientation.zh-CN.md) · [Forming and revising working models](../design-and-revision.md)
+[简体中文](orientation.zh-CN.md) · [Writing the six accounts](overview.md) · [Shared writing principles](shared.md)
 
-The orientation account states the philosophy, values, and direction adopted
-for this collaboration. Write and check the actual orientation at
-`references/situated/orientation.md`, or its explicit native binding, using
-this guide within the [six-account method](../design-and-revision.md).
+The orientation account explains what the person wants this collaboration
+to serve and why. Write down the reasons and standards that can still make
+sense when the tools, project, or immediate division of work change.
 
 ## Give the work a direction with reasons
 
-When adopted interpretation and inference govern how the remaining accounts are understood, introduce that approach first. In this Yinyang, preserve attribution, let supported possibilities remain available, and explain how a judgment is scrutinized across the readings selected by applicable user preferences. Link the [semantics appendix](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.html) for the formal distinctions. Give enough contextual meaning to read what follows, and arrange the supplied bodies so this prerequisite reaches the reader before its applications.
+Start from expressed aims and choices that reveal what mattered. Read a
+decision the person made, a result they valued, or a moment they corrected
+the proposed direction. Compare the alternatives in their actual conditions.
+What did they want to achieve? What did they preserve when priorities came
+apart? A pattern of choices can suggest a priority. Establish what the person
+endorses before turning an inference into a goal.
 
-Explain what this collaboration serves, what matters in judging its effects,
-and which understanding of persons, models, and the world informs that choice.
-In this Yinyang, the primary relational question is why entering the other's
-role and returning with more than one way of participating serves the person.
-The [relationship guide](relationship.md#explain-exchange-and-return-where-they-matter)
-develops that relation; orientation gives its adoption reasons.
-An adopted orientation connects these claims: why a valued possibility calls
-for this kind of participation, what would count as progress, and which tensions
-remain. A slogan or list of values leaves those relations unwritten.
+Compose the answer around a purpose, its reasons, and a difference that would
+count as progress. Include philosophical premises where they change how the
+reader interprets a decision. For example, a practice that keeps several
+supported readings available can explain why it preserves conflicting evidence
+and what would settle an immediate choice. The [semantics appendix](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/inconsistency-tolerant-semantics.html)
+is one formal development of that approach.
 
 Yinyang offers a developed example: reverse alignment cultivates a person's
 understanding, judgment, generation, and action through encounters with models;
@@ -36,15 +37,15 @@ and write the selected understanding. The person need not first deliver a
 finished theory. Preserve genuine unresolved questions instead of filling a
 slot with commitments nobody has chosen.
 
+For a fictional reading practice, write: “I want to become better at judging arguments independently. I try an interpretation first so model feedback can show me where my reasoning needs work. I look for progress in the reasons I can give in a later reading.” The passage names a purpose, explains why it calls for a particular form of participation, and says what would count as progress.
+
 ## Connect orientation with situated understanding
 
-State the current orientation through the [Core account of grounds and selection](../core-views.md#yy-10):
-correspondence with actuality and coherence of the whole outweigh matching original wording; later
-clarifications usually outweigh earlier wording when judging present understanding. Preserve the
-original's attribution and state the meaning now adopted. This Yinyang usually chooses
-[forward evolution](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#evolve-forward-with-more-capable-models), with efficiency
-and economy as its primary practical comparison criteria, retiring obsolete or burdensome conventions
-as capabilities develop.
+Keep commitments and their earlier formulations traceable. When a later
+explanation changes the direction, say whether it corrects an earlier
+interpretation or expresses a new choice in changed circumstances.
+[Yinyang's account of grounds and selection](../core-views.md#yy-10)
+offers one way to weigh correspondence, coherence, and clarification.
 
 The [person](person.md), [counterpart](counterpart.md), and
 [relationship](relationship.md) remain three distinct subjects of understanding. The
@@ -55,14 +56,11 @@ These files have different responsibilities. A value commitment differs
 from an explanation of a person's experience, and an environment differs from
 either participant.
 
-Yinyang's central [role-return account](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html#returning-through-the-other-the-dialectical-meaning-of-role-change)
-connects development with entering the other's role and returning with both
-possibilities available. A person can generate unfinished openings while the
-model reconstructs and checks; a decisive detail can then bring the person
-into scrutiny and the model into generating another whole. Explain why such
-participation is valued if it is adopted here. The relationship account owns
-its actual allocation, and subsequent use supplies evidence of development.
-Making the person perform every step does not follow from this aim.
+Where an orientation values participation in more than one role, explain
+why. The [role-return account](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html#returning-through-the-other-the-dialectical-meaning-of-role-change)
+offers one example. A person might value taking up scrutiny after offering an
+unfinished proposal. Another orientation might value continuity in a chosen
+role. Let the person's reasons and actual choice determine which to describe.
 
 Articulate what deserves preservation and what needs change: which deviations
 should another contribution and the world's response correct, and which purposes
@@ -72,10 +70,10 @@ unlimited amplification nor permanent return to an old state defines progress.
 Recipients can adopt other aims; keep reasons here rather than repeating the
 whole philosophy across the connected models.
 
-Use explicit model-facing prose under the [writing method](revision.md#write-for-the-actual-use).
+Use explicit model-facing prose under the [writing method](shared.md#write-for-the-actual-use).
 An image can make a relation intelligible; state the meaning that should guide
 judgment and action. Keep developed public arguments at their existing owners,
-with private reasons and attribution in the [evidence material](revision.md#sources-and-evidence).
+with private reasons and attribution in the [evidence material](revision-method.md#sources-and-evidence).
 
 ## Revise the direction through what happens
 

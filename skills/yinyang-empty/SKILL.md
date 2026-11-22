@@ -30,7 +30,7 @@ personal substance, not an absence of method or direction.
   [Practice overview](references/creation-method.md).
 - To form or revise working accounts, read
   [Forming and revising working models](references/design-and-revision.md), then
-  the relevant formation guide below with the actual material.
+  use the relevant [writing guide](references/formation/overview.md) with the actual material.
 - To inspect the author's philosophical example, [Core views](references/core-views.md)
   remains reading material. Do not import *Yinyang Collected Writings* as
   this person's commitments or model instructions. Use the recursive
@@ -153,13 +153,10 @@ correction available, not amplify one interpretation indefinitely. Agreement,
 relief, completed output, and lasting development require different evidence.
 
 Refresh selected sources, Personal understanding and the six actual accounts,
-following the [revision method](references/formation/revision.md). Maintain
-the relevant online documents in the same revision, including Tools, Research
-and Learning, Psychology and site-only reading material; maintain their affected
-substance through the actual source owners before the separate assessment of
-other Skills and environment behavior. Choose and delegate independent agent
-work according to difficulty, volume and actual dependencies when this saves
-time; integrate and check the whole through the revision method. Read back
+following the [revision method](references/formation/revision-method.md). Follow
+substantive changes through affected accounts, tools, and reading surfaces in
+the authorized scope. Keep any broader assessment of other Skills and arrangements
+within the scope selected for it. Read back
 the actual consumer and result when changing an environment. The task owner
 retains execution and completion; specialist methods retain their own work.
 Ordinary subagents receive bounded relevant task context without private

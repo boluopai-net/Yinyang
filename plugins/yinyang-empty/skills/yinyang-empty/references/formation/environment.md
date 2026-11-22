@@ -1,34 +1,23 @@
-# How to describe and realize the environment
+# Writing the Environment Account
 
 <a id="how-to-describe-environmental-realization"></a>
 
-[简体中文](environment.zh-CN.md) · [Forming and revising working models](../design-and-revision.md) · [Revision](revision.md)
+[简体中文](environment.zh-CN.md) · [Writing the six accounts](overview.md) · [Shared writing principles](shared.md)
 
-Use the [six-account method](../design-and-revision.md) to write and check this
-account. Explain how this collaboration takes working form
-through material, social, informational, and computational arrangements. Connect
-the adopted [orientation](orientation.md), [person](person.md),
-[counterpart](counterpart.md), and [relationship](relationship.md) to actual
-possibilities and consequences. In this Yinyang, the central relation to realize
-is the participants' passage between open generation and consequential scrutiny,
-with each able to return through the other's contribution.
-A configuration inventory says what exists;
-this account explains what it enables, for whom, under which conditions. Connect
-the participants and works described here with their meanings in the six accounts
-and the website, while keeping private details in their own sources. When a
-source challenges an adopted understanding, examine its grounds and the actual
-use before changing the environment and affected descriptions.
+Explain how this collaboration takes working form through material, social,
+informational, and computational arrangements. Connect the adopted
+[orientation](orientation.md), [person](person.md), [counterpart](counterpart.md),
+and [relationship](relationship.md) to actual possibilities and consequences.
+Write what an arrangement enables, for whom, and under which conditions. For
+a practice that values open generation and scrutiny, give an actual route
+through which each activity becomes possible and changes the next.
 
-Include the directions needed to use, maintain, and change this environment.
-A **Harness** is its working arrangement of prompts, Skills, tools, interfaces,
-and operating conditions. Here the model's Harness and the person's environment
-are coupled, so the arrangement serves both participants. Explain what a change
-makes available to each: retrieval affects model continuation and the person's
-need to reconstruct context; presentation affects model delivery and human
-understanding and judgment. Realization belongs in this account: how understood
-relations become behavior, how to change that behavior, and how observed effects
-return to understanding. People and models can develop and use this guidance
-together; neither needs a finished theory before useful construction begins.
+A model's **Harness** is its working arrangement of prompts, tools, interfaces,
+and conditions. The Harness and the person's environment affect one another.
+Explain what each receives and can do. Retrieval affects how the model
+continues and what the person has to reconstruct. Presentation affects
+delivery, understanding, and judgment. Name usable entrypoints and link
+detailed operating or maintenance instructions when readers need them.
 
 <a id="realizing-yinyang-in-a-working-harness"></a>
 <a id="realizing-yinyang-in-the-working-environment"></a>
@@ -61,24 +50,12 @@ can reach and change the other participant's work; and resources through which
 the work becomes usable and meets independent consequences. Explain what each
 support enables in the actual setting.
 
-Control the cognitive complexity of the whole arrangement within a range the
-person finds acceptable. Observe what the person has to understand, find,
-remember, choose, operate, and resume across interfaces, materials, and
-handoffs. Make room for embodied reasoning, intuition, and generation and
-judgment in natural language. Let a gesture, sketch, or brief account start
-the work. Have the model retrieve and organize materials, develop the full
-exposition, and carry all formal reasoning, implementation, and verification.
-Keep the work ready to resume, the grounds reachable, and meaningful choices
-clear. Judge the effort of actual use and what the person can understand,
-judge, and do with reliable model and tool support. Use that experience to
-improve the arrangement and its design method.
-
-## Choose the focus and trace both directions
-
-For local repair and whole-environment refresh, follow the revision guide's
-[scope and connected-change guidance](revision.md#scope-and-connected-changes).
-Reading an account as evidence does not select it for rewriting. A substantive
-dependency can nevertheless require changing another account, Skill, or tool.
+Describe what the person has to understand, find, remember, choose, operate,
+and resume across interfaces and handoffs. Where a gesture, sketch, or brief
+account starts work, explain what the model receives and how the next
+contribution becomes available. Record the effort and support that matter to
+this arrangement. If part of the work supports practice, explain which action
+the person wants to retain and which supporting work the model can carry.
 
 ## Derive behavior in context
 
@@ -150,12 +127,10 @@ participation. A person may recognize a difficulty through use while the model
 reconstructs its dependencies; either can offer a better explanation. A chosen
 division does not establish either participant's incapacity.
 
-Carry implementation choices that available evidence and model judgment can
-settle, make consequential differences intelligible, and obtain purpose or
-experience that remains genuinely unavailable. Reconcile complete instruction
-sources so incompatible old and new allocations do not survive together.
-Specialist inquiry and teaching methods judge when a question develops
-understanding or obtains a needed judgment; no question quota follows.
+When an arrangement depends on inquiry or practice, show which experience or
+judgment the person supplies, what the model can work out, and where the agreed
+division is expressed. A teaching exercise and an implementation task can use
+the same interface while needing different contributions.
 
 Check actual listening, speaking, reading, and writing channels where participation
 depends on them. A transcript and access to sound support different contributions.
@@ -173,12 +148,11 @@ test the expected relation. Software can change immediately while bodily
 skill, habits and social relations develop through later participation;
 the environment account supplies these conditions to evaluation and revision.
 
-Use natural language for relations and flexible judgment, and deterministic
-mechanisms for concrete operations where the boundary warrants them. An edited
-instruction or Skill may be the complete implementation. An inaccessible draft
-may need a retrieval path; a difficult comparison may need an interface keeping
-alternatives visible. Repair conflicts and remove displaced machinery rather
-than surrounding it with another layer.
+Show what each form contributes. Natural language can express flexible judgment.
+A deterministic mechanism can carry a concrete operation when it needs reliable
+execution. A retrieval link can make a draft reachable, and a comparison view
+can keep alternatives visible. Describe the working route and the evidence for
+it, or mark the candidate that remains to be tried.
 
 Give each consumer enough context and reason to perform its contribution
 independently. Different contracts or observed behavior can justify different
@@ -186,29 +160,13 @@ instructions; model names alone do not. The environment account records which
 routes fit here, without introducing a registry or background rewrite service.
 Existing permissions, consent, safety, and publication authority retain their scope.
 
-## Relation to authoring and management methods
-
-Yinyang connects purpose and situated understanding with the contribution an
-environment should make. Specialist Skills keep their domain methods and task
-responsibilities. General interaction belongs at its shared instruction source,
-teaching at its teaching method, and tool behavior at its tool or workflow.
-Link these owners rather than copying their procedures or personal portraits.
-
-For prompts and Skills, use the actual environment's authoring method; where
-available, `prompt-and-skill-lifecycle` supplies review, packaging, publication,
-and readback. An advisory counterpart and an execution owner have different
-operational responsibilities. Helpers receive bounded relevant context under
-the entrypoint's personal-model boundary. Philosophy creates no extra authority.
-
 <a id="carry-the-change-to-evidence-and-continuity"></a>
 
 ## Let realization correct the account
 
-Implement through the actual source and publication route, then read back what
-the intended consumer receives. Check behavior through the real public entrypoint,
-or a faithful isolated substitute when appropriate. A changed source establishes
-an edit; retrieval establishes availability. Acceptance also needs the relevant
-observable consequence.
+Write what each kind of evidence establishes. A changed source establishes an
+edit. Successful retrieval establishes availability. Observing people use the
+ordinary entrypoint can show whether the arrangement supports the activity.
 
 For the return-to-writing example, inspect an actual return in an authorized
 task. Does the open claim lead to the correct passage and a usable contribution?
@@ -224,8 +182,7 @@ experience, and development concerns what the person can understand or do,
 including through dependable supports. The [participation essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/participation-and-support.html#continuation-records-and-relief)
 develops their different grounds. One successful task cannot establish them all.
 
-Use the revision guide's [result and revision guidance](revision.md#follow-the-result-back-into-understanding)
-to carry necessary changes through their owners and compare the intended result
-with what is available. Keep private locators and extended evidence with their
-private owners. This account condenses a richer, changing environment; a work
-can finish while the arrangement remains revisable.
+Keep the usable route, evidence, and open question recognizable in the
+paragraph. Extended evidence stays with its source. The [practical revision
+method](revision-method.md#follow-the-result-back-into-understanding) explains
+how to carry a necessary change through use and return its effects to the account.

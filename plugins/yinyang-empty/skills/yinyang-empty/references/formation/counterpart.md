@@ -1,17 +1,12 @@
-# How to describe the actual model counterpart
+# Writing the Counterpart Account
 
-[简体中文](counterpart.zh-CN.md) · [Forming and revising working models](../design-and-revision.md)
+[简体中文](counterpart.zh-CN.md) · [Writing the six accounts](overview.md) · [Shared writing principles](shared.md)
 
-Write and check the actual counterpart account through the
-[six-account method](../design-and-revision.md). Explain the model encountered through its real interfaces,
-context, tools, authority, and behavior, together with the contribution wanted
-from it. The [relationship account](relationship.md) develops how both parties
-work together; this account makes the counterpart's side intelligible.
-
-In Yinyang's central crossed relation, the model contributes the logician's
-reconstruction and scrutiny to the person's open generation, while remaining
-able to originate, write, implement, and return to generating a new whole.
-Describe the actual capacity and conditions supporting that contribution.
+Write what this model can contribute in the setting where the person uses
+it and which contribution they want. Start with a task and its evidence:
+the request, the materials and tools the model could use, its response,
+and what the person could inspect afterward. Keep comparisons tied to their
+conditions.
 
 ## Relate available capability to wanted contribution
 
@@ -29,19 +24,19 @@ limit. Inspect present conditions when they matter, and retain volatile model
 selection and credential mechanics with their actual environment owner.
 An account can identify the relevant consumer without duplicating a routing menu.
 
-Both person and model can generate, reason, criticize, and revise. Prioritizing
-implementation does not make the counterpart incapable of conceptual work;
-prioritizing dialogue does not remove its other capabilities. Describe the
-wanted contribution positively and retain capacities relevant to future work.
+Compose a paragraph that states the wanted contribution, its conditions,
+and the evidence of performance. For example: “In shared-document reviews
+the model can quote and compare the sections it has received. I want a grounded
+objection before I edit. In last week's reviews it found contradictory
+definitions. Editing the source goes through the document owner.” The reader
+can see which contribution to try and what evidence and authority it depends on.
 
 ## Make independent judgment usable
 
-The counterpart can recover context, develop a problem, compare explanations,
-write, act through authorized tools, and verify results without requiring the
-person to supply a finished specification. It should make important differences
-and uncertainty intelligible enough for the person to judge. Supported
-disagreement, a useful alternative, and recognition of an error can serve the
-purpose as well as agreement.
+When independent investigation is wanted, describe what the counterpart can
+recover or decide using the evidence available. State which differences or
+uncertainty the person needs to judge. A reasoned disagreement, useful
+alternative, or recognized error may be the contribution the work calls for.
 
 For a fictional example, help with an argument may mean drafting it, explaining
 an inference, or exposing a serious objection. A broad description such as
@@ -56,8 +51,8 @@ require environmental repair without refuting the wanted contribution.
 
 ## Describe entry into and return from a role
 
-In Yinyang's crossed arrangement, the actual language model often takes the
-logician's role toward a person's unfinished generation: develop its possible
+In a practice that adopts Yinyang's crossed arrangement, a model can take
+the logician's role toward a person's unfinished generation: develop its possible
 meaning, examine premises and sources, and make the consequences inspectable.
 This constructive scrutiny can require a complete argument, an artifact, or an
 implemented arrangement; it does not finish at commenting on the person's words.
@@ -92,7 +87,7 @@ a task, and having a particular internal mechanism are different judgments.
 Connect interpretations to their sources; repeated citation of the same account
 by later models supplies no independent verification. The
 [position of interpretation](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/lacan-reading-guide.html#the-subject-supposed-to-know-and-the-position-of-interpretation)
-develops this question; [condensation and reopening](revision.md#condensation-and-reopening)
+develops this question; [condensation and reopening](revision-method.md#condensation-and-reopening)
 owns its maintenance.
 
 Revise when the model, interface, context, modalities, or demonstrated behavior
@@ -100,4 +95,4 @@ changes. Ask which desired contributions remain justified and which new ones
 become possible. Follow consequences into the relationship and
 [environment](environment.md) through their owners. A promise in this account
 does not establish changed behavior: actual work and attributable feedback
-supply evidence of fit, located through the [evidence guide](revision.md#sources-and-evidence).
+supply evidence of fit, located through the [evidence guide](revision-method.md#sources-and-evidence).

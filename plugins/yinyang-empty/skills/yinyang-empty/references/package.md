@@ -3,12 +3,13 @@
 [简体中文](package.zh-CN.md) · [Package entrance](../README.md)
 
 `skills/yinyang-empty/` is the public Yinyang method package:
-the shared dialectical core, six formation guides, selected suggestions, and
+the shared dialectical core, writing guides for the six accounts, selected suggestions, and
 practical method entrances. It is a complete package for this purpose and includes no actual personal accounts. Empty
 includes unfilled Personal and Situated starters, for formation in a private copy.
 
 Empty has no `docs/` or `diagrams/` tree. Its `references/formation/` contains the
-six guides in both languages. `references/` also holds Core views, practice
+[eight writing guides](formation/overview.md) and [practical revision method](formation/revision-method.md)
+in both languages. `references/` also holds Core views, practice
 overview, formation and revision, Personal organization, and this package guide.
 The entrypoint owns daily collaboration. Links to the author's essays are optional
 website reading, not missing package dependencies or an instruction to fetch the

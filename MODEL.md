@@ -52,8 +52,7 @@ Both practice routes start from Empty. Keep one shared philosophy/method source 
 
 Shared method content remains authored under `skills/yinyang/references/`. `scripts/build-yinyang-empty.py`
 projects its declared selection into Empty, relocating the selected guides and
-converting links to omitted essays into optional public reading links. It adapts
-the shared source's distribution sentence to Empty's unfilled starters.
+converting links to omitted essays into optional public reading links.
 Empty's
 entrypoint, README editions, and package guidance are authored in its own tree.
 Do not edit generated Empty references independently. `build-plugins.py` invokes

@@ -1,21 +1,11 @@
-# How to develop a grounded person account
+# Writing the Person Account
 
-[简体中文](person.zh-CN.md) · [Forming and revising working models](../design-and-revision.md)
+[简体中文](person.zh-CN.md) · [Writing the six accounts](overview.md) · [Shared writing principles](shared.md)
 
-Use the [six-account method](../design-and-revision.md) to write and check this
-account. Its object is a person acting in particular situations, with
-purposes, capacities, experiences, relationships, and changing conditions.
-In the maintained Yinyang, describe this person as a participant in the
-[crossed relation](relationship.md#explain-exchange-and-return-where-they-matter):
-what they bring through open generation, how they take up consequential
-scrutiny, and what makes either contribution available. This focus helps a
-counterpart interpret requests and contribute fittingly. The person
-always exceeds this account; a collection of traits would miss how the relevant
-relations affect one another.
-
-Develop the account from attributable sources and corrected Personal
-understanding. Direct model writing and optional [Hindsight](../hindsight.md)
-assistance use the same content and evidential distinctions below.
+Write how this person participates in work that matters to them. Show what
+they actually do, which conditions make it possible, and what they want to
+sustain or develop. Start from a concrete episode with an identifiable source,
+then ask how far its interpretation can travel to other situations.
 
 ## Understand activity in its situation
 
@@ -28,15 +18,12 @@ overgeneralization and associations whose grounds remain missing. Organize
 the account around participation and the distinctions needed to understand it;
 current projects can then be situated within that fuller understanding.
 
-This file is the person-facing part of a collaboration working model. Give
-preferences and selection patterns, psychological experience and assessment
-evidence, and relevant personal conditions distinguishable, connected passages.
-Use them to explain participation and a fitting environment; keep the fuller
-material under private `references/personal/`. [Personal organization](../personal-material.md)
-owns its categories, evidence distinctions, and material-gap handling.
-Before updating this working account, follow the
-[philosophy, history, reference-refresh, and condensation sequence](revision.md#establish-the-current-material).
-The result helps organize cooperation; it is not a psychological model of the person.
+Group the material by the conditions and patterns that change collaboration.
+One account may need to explain how attention changes with the medium. Another
+may need the person's judgment about what they want to learn. Include
+psychological or assessment material when its interpretation bears on the
+question. Keep fuller sources reachable through their owners.
+[Personal organization](../personal-material.md) explains how.
 
 Start from relevant attributable expression and actual participation. A
 conversation about a decision can reveal competing concerns; a correction
@@ -52,34 +39,22 @@ support or obstruct that activity? What do they want to keep, change, or learn?
 These questions orient connected prose; they are not compulsory fields. Explain
 supported relations and keep an unknown relation unknown.
 
-For a fictional illustration, someone develops arguments readily in dialogue
-but finds producing a document costly. Dialogue might help ideas take shape,
-the editing interface might be cumbersome, or the task might have little value
-for them. Expression and work can distinguish those accounts. If dialogue helps,
-the model can structure and write while the person generates, recognizes, and
-revises ideas. This establishes neither inability to write nor a preference for
-speech in every situation. Preserve the person's generative contribution even
-when the counterpart authors the finished document. An objection can originate
-a new distinction as well as evaluate an existing one.
-
-Follow the dialogue example through its return: after receiving a model-authored
-passage, can the person question a decisive premise while retaining the freedom
-to generate unfinished thoughts? What becomes possible, and what still costs
-effort? These questions give the central relation personal content.
-The [Taiji account](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/yinyang-and-taiji.html) develops the interpretation
-of returning with both possibilities available.
-Distinguish the person's actual activity, the role they choose, and an aim for
-development. Neither the philosophical image nor a temporary allocation proves
-capacity, incapacity, or lasting change.
+A fictional paragraph might read: “In two discussions of an essay, a question
+about the author's conclusion helped me formulate my own reading. When the
+model supplied an outline first, I followed its argument and made fewer
+observations of my own. Next time I want to offer my reading first.” It
+connects a particular activity, the person's report, and a choice for a later
+occasion. Compare other episodes to distinguish the effect of timing from
+differences in text or prior knowledge. In work whose aim is a finished
+reference, the same person may prefer quicker delivery.
 
 <a id="event-stream-psychological-modeling"></a>
 <a id="psychological-modeling-from-event-history"></a>
 
 ## Condense personal models from event history, philosophy, and personal material
 
-This project distills event histories, philosophy, personal material, and
-psychological understanding of oneself and others into a person account for
-collaboration. Long-term conversation is one principal source: it leaves histories
+When the question benefits from past episodes, relate event histories, adopted
+philosophy, and relevant personal material. Long-term conversation can leave histories
 of expression, questions, responses, choices, corrections, and change whose
 events can be recovered in sequence and situation. Everyday habits, selected
 personal records, and actual work add material; philosophy contributes concepts,
@@ -127,7 +102,7 @@ Use the relevant authorized portion of available history. Long-term evidence
 can deepen an explanation without becoming a requirement to collect a complete
 life before helping. Preserve attributable originals with their owners and
 maintain the distilled account with its grounds under the
-[revision guide's evidence method](revision.md#sources-and-evidence).
+[revision guide's evidence method](revision-method.md#sources-and-evidence).
 Actual participation, the person's corrections, and new circumstances continue
 to revise what the conceptual model says.
 
@@ -182,7 +157,7 @@ object while richer Personal material retains the person's experience and histor
 Relate the account to the adopted [orientation](orientation.md), the actual
 [counterpart](counterpart.md), and the chosen [relationship](relationship.md).
 Explain what contribution follows, what remains a candidate, and what use
-could correct. The [revision guide](revision.md#sources-and-evidence) keeps identity, time, conflicting
+could correct. The [revision guide](revision-method.md#sources-and-evidence) keeps identity, time, conflicting
 material, and access limits navigable; extended episodes stay with private owners.
 
 Revise when the person corrects an interpretation, circumstances change, or

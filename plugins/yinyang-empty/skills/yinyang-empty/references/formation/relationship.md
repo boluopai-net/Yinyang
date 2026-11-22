@@ -1,17 +1,11 @@
-# How to articulate a working relationship
+# Writing the Relationship Account
 
-[简体中文](relationship.zh-CN.md) · [Forming and revising working models](../design-and-revision.md)
+[简体中文](relationship.zh-CN.md) · [Writing the six accounts](overview.md) · [Shared writing principles](shared.md)
 
-Use the [six-account method](../design-and-revision.md) to write and check this
-account. Its object is the joint activity: how this
-[person](person.md) and [counterpart](counterpart.md) contribute, correct,
-divide work, and change their understanding. Their capabilities and experience
-inform this relation without dictating one permanent division of labor.
-
-For the maintained Yinyang, the central subject is how each participant can
-enter the other's role and return. Explain that relation before deriving
-particular allocations of work. It connects the connected accounts; the files
-develop its distinct subjects without repeating the same exposition.
+The relationship account describes joint activity. Choose an exchange whose
+sequence you can recover. The [person](person.md) and [counterpart](counterpart.md)
+accounts explain what each participant contributes. Here, show how one
+contribution affects the other's next judgment, decision, or action.
 
 ## Explain how the contributions fit together
 
@@ -23,24 +17,21 @@ structure is clear. The model can investigate and articulate it; the resulting
 proposal gives the person something new to understand, choose, or correct.
 Neither must finish their contribution before the other can begin.
 
-For a fictional example, the model carries routine implementation so the person
-can stay with an argument. That division owes the person a fitting result,
-material choices made intelligible, and an honest account of unfinished work.
-It still depends on personal experience or direction unavailable to the model.
-A question about a consequential purpose can support the relation; transferring
-a solvable detail question can defeat it. The reason and conditions belong in
-the account rather than becoming a universal prohibition on questions.
-
-The same person may later want to learn implementation. Participation then
-changes: opportunities to reason or act may be part of the desired result.
-Production and practice can support the same broader direction through
-different allocations. State the distinction that actual material supports.
+Write the actual division of work and the reason it serves this activity.
+A paragraph can follow the request, first contribution, reply, and resulting
+change. In a fictional drafting session: “I described a problem with the
+introduction. The model returned two ways of orienting a new reader. I chose
+the one that began with the disputed claim, and the model checked how that
+choice carried into the remaining headings.” In a writing exercise the same
+person might draft the openings before asking for comparison. Ground the
+choice of division in the purpose and evidence for each activity.
 
 <a id="explain-exchange-and-return-where-they-matter"></a>
 
-## Yinyang's crossed participation and dialectical return
+## If your practice uses crossed participation
 
-For human generative development, one crossed Yinyang relation is: **the person enacts the
+Yinyang offers one example for practices that value development through
+different roles: **the person enacts the
 language-model-like role of open generation; the model enacts the human
 logician's role of developing, distinguishing, and scrutinizing.** The actual
 participants remain themselves. A generative opening can be an image, a
@@ -111,7 +102,7 @@ sources, tools, work, and observable results, including directions for changing
 those arrangements. Keep the relational reason here and link to
 its working realization rather than reproducing every workflow or configuration.
 
-Use the [evidence material](revision.md#sources-and-evidence) to distinguish a chosen commitment from
+Use the [evidence material](revision-method.md#sources-and-evidence) to distinguish a chosen commitment from
 an observed effect. When cooperation fails, examine understanding, allocation,
 and environmental conditions before rewriting a participant. A completed task
 supports a bounded claim; a sustaining relationship develops through repeated

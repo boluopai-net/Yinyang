@@ -2,11 +2,12 @@
 
 [English](package.md) · [本包入口](../README.zh-CN.md)
 
-`skills/yinyang-empty/` 是公开提供的阴阳方法包，保留共同的辩证核心、六份 formation 指南、选定的建议
+`skills/yinyang-empty/` 是公开提供的阴阳方法包，保留共同的辩证核心、六份描述的写作指南、选定的建议
 与实践方法入口。它是用途完整的包，不含任何人的私人实际描述。
 Empty 提供未填写的 Personal 与 Situated 起始结构，供在私人副本中形成内容。
 
-Empty 没有 `docs/` 或 `diagrams/`。`references/formation/` 中是六份指南及各自的中英文；
+Empty 没有 `docs/` 或 `diagrams/`。`references/formation/` 中是[八份写作指南](formation/overview.zh-CN.md)
+及[实际修订方法](formation/revision-method.zh-CN.md)的中英文版。
 `references/` 还保存基本观点、实践总览、形成与修订、Personal 整理和本说明。
 入口负责日常协作。通向作者文章的链接供选择阅读，不是缺少的包内依赖，也不要求
 先抓取整套哲学再工作。

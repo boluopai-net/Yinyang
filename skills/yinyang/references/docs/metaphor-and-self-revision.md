@@ -165,7 +165,7 @@ while consequential wording or an accurate example constrains its ambiguity.
 
 Condensation therefore remains answerable to material beyond its compact prose.
 A new formulation can change the counterpart's response, while a new encounter
-can expose what that formulation omitted. The [revision guide](../formation/revision.md)
+can expose what that formulation omitted. The [revision guide](../formation/revision-method.md)
 owns the method for maintaining these connected accounts.
 
 The [guide's account of metaphor, metonymy, and condensation](lacan-reading-guide.md#metaphor-metonymy-and-condensation)
@@ -228,7 +228,7 @@ Retaining that return makes it possible to examine how an account is used,
 rejected, or changed without treating later responses as prior proof of the
 portrait. Factual sources, current interpretations, and actual consequences
 can connect within one coherent account, without copying simulation studies'
-psychological scores or state equations. The [revision guide](../formation/revision.md#condensation-and-reopening)
+psychological scores or state equations. The [revision guide](../formation/revision-method.md#condensation-and-reopening)
 connects these relations to maintenance.
 
 <a id="conceptual-modeling-and-philosophical-clarification"></a>

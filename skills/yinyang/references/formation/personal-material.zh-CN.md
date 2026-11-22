@@ -1,6 +1,6 @@
 # 组织 Personal 个人材料
 
-[English](personal-material.md) · [人的文件](person.zh-CN.md) · [修订](revision.zh-CN.md)
+[English](personal-material.md) · [人的文件](person.zh-CN.md) · [修订](revision-method.zh-CN.md)
 
 Personal 是本人可以阅读的私人主题文章与支持材料集合，也为形成处境中的工作理解提供来源。按一份材料帮助理解什么来分类，同时在每个主题内部辨认原始证据、解释与本人现在的判断。Hindsight 可通过原生 Knowledge Pages 维护有实质内容的主题文章，Observations 在后台支持形成。原始证据保有维护者，不要求固定六文件输出或完整重复摘要。[原生形成](../hindsight.zh-CN.md)说明路线。
 
@@ -53,7 +53,7 @@ Git/GitHub 保存已提交作品与沿革，Computer History 提供不同范围�
 
 从相连模型的实际用途开始检查已有材料：哪些分类有相关根据，哪些信息过时或不确定，哪些缺口会改变说明。材料齐备意味着足以支持这些判断，不是穷尽传记或建立一个永远完成的档案。
 
-[修订方法](revision.zh-CN.md#选择本次修订的侧重)负责选择每次更新的侧重。分类提供可用的根据，
+[修订方法](revision-method.zh-CN.md#选择本次修订的侧重)负责选择每次更新的侧重。分类提供可用的根据，
 不是每次全量刷新的清单：一类或几类可以成为重点，其他材料通过会改变判断的条件或后果
 进入考察。问题或证据改变时，调整侧重，只维护受到影响的材料。
 

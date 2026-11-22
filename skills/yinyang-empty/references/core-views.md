@@ -315,7 +315,7 @@ interpretations can use native consolidation and maintained pages. Personal's
 four subject groups keep substantive, readable topic articles, with observations
 backstage. The person can read them or ask a model to help understand them.
 Six public writing guides explain how to form the working files, including
-[How to revise](formation/revision.md). Their revision connects adopted
+[How to revise](formation/revision-method.md). Their revision connects adopted
 philosophy and relevant personal understanding with the model's participation
 and environmental fit.
 Read all six complete answers together for coherence across their purposes,

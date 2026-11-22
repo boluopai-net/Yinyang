@@ -51,7 +51,7 @@
 | 有限时间、注意力、身体精力和费用应该投到哪里？ | [YY-18](docs/core-views.zh-CN.md#yy-18)与[经济现实](docs/economic-personal-rsi.zh-CN.md)比较培养、模型帮助、支持与恢复，再让结果返回选择投入的方法；神经经济、心理和社会经济视角解释同一选择中的不同关系。 |
 | 哪些复杂性值得理解并练习，哪些需要时检索，哪些交给模型？ | [YY-19](docs/core-views.zh-CN.md#yy-19)与[个人递归自改进中的认知复杂性](docs/cognitive-complexity.zh-CN.md)区分任务复杂性、情境中的认知负荷与学习，比较不同安排所需的注意力，并让后来的参与修订方法。 |
 
-联动修订哲学、personal 材料、描述与实际 Skill 时，使用[如何修订](formation/revision.zh-CN.md)，发展适合本人的实际修订方法。
+联动修订哲学、personal 材料、描述与实际 Skill 时，使用[实际工作的修订方法](formation/revision-method.zh-CN.md)，发展适合本人的实际修订方法。
 
 一个请求并不总已显明哪种帮助能够服务它。同一个愿望可能需要完成作品、给出解释、提出异议或共同尝试。
 以下路径帮助把这种差别变成可用安排，无须先让本人设计全部实现。
@@ -59,11 +59,11 @@
 | 工作中的问题 | 需要追问什么，阅读能提供什么 |
 | --- | --- |
 | 想理解个人心理材料 | 可以自己看私密的 `personal`，也可以请语言模型帮忙阅读和理解。[心理页](docs/psychological-support.zh-CN.md)说明模型如何协助材料、量表、统计与实际帮助。哲学文章和工作描述不承担心理自我分析练习。 |
-| 检查协作是否合适 | 模型维护工作描述；本人通过实际贡献和结果判断，无须重读画像。[描述维护与实际协作](formation/revision.zh-CN.md#重读个人材料检查工作模型)说明这一区分。 |
+| 检查协作是否合适 | 模型维护工作描述；本人通过实际贡献和结果判断，无须重读画像。[描述维护与实际协作](formation/revision-method.zh-CN.md#重读个人材料检查工作模型)说明这一区分。 |
 | 追赶已经成为义务，却不清楚它在生活中的位置 | [从追逐到生活中的修习](docs/stealing-fire.zh-CN.md#从追逐到生活中的修习)考察组织追逐的进步与自我图景，把哲学治疗、筏喻与可修订的手段联系起来，再把问题带回选定的活动与周围生活。 |
-| 已有起点，却找不到学习路线 | [已有材料与起步条件](design-and-revision.zh-CN.md#从已有材料与实践起步)区分已有哲学写作、心理或生活材料、可用环境及其两两组合，说明下一项与模型共同发展的贡献，不设置封闭阶段或三门学科的必修课程。 |
+| 已有起点，却找不到学习路线 | [已有材料与起步条件](docs/creation-method.zh-CN.md#从已有材料与实践起步)区分已有哲学写作、心理或生活材料、可用环境及其两两组合，说明下一项与模型共同发展的贡献，不设置封闭阶段或三门学科的必修课程。 |
 | 请求被理解了，伙伴的贡献却仍然不合适 | [工作模型的形成与修订](design-and-revision.zh-CN.md)联系人的描述、实际伙伴与双方关系。它帮助判断这里需要什么贡献及其理由，而不从一种偏好直接推出永久角色；由此能够一起修订相关理解与分工。 |
-| 需要把理解写成情境化描述 | [工作模型的形成与修订](design-and-revision.zh-CN.md#基于实际材料形成情境化版本)把理解与凝练的方法接到按问题定义的模型：[取向](formation/orientation.zh-CN.md)、[人](formation/person.zh-CN.md)、[伙伴](formation/counterpart.zh-CN.md)、[关系](formation/relationship.zh-CN.md)[环境](formation/environment.zh-CN.md)和[修订](formation/revision.zh-CN.md)。永久指引说明怎样写，实际描述有独立私人路径。[证据指引](formation/revision.zh-CN.md#来源与证据)支持按问题定义的模型。按受影响对象深入，不把指引当作个人内容。 |
+| 需要把理解写成情境化描述 | [工作模型的形成与修订](design-and-revision.zh-CN.md#基于实际材料形成情境化版本)把理解与凝练的方法接到按问题定义的模型：[取向](formation/orientation.zh-CN.md)、[人](formation/person.zh-CN.md)、[伙伴](formation/counterpart.zh-CN.md)、[关系](formation/relationship.zh-CN.md)、[环境](formation/environment.zh-CN.md)和[修订](formation/revision.zh-CN.md)。永久指引说明怎样写，实际描述有独立私人路径。[证据指引](formation/shared.zh-CN.md#从可归属的材料写起)支持按问题定义的模型。按受影响对象深入，不把指引当作个人内容。 |
 | 思路或意象很有吸引力，却不清楚它应怎样影响实际工作 | [阴阳的实践指南](docs/creation-method.zh-CN.md)追踪表达、解释、实现与后果之间的关系。它帮助辨认工作中什么需要改变，这项思路才产生实质作用；返回的结果又能怎样改变原来的理解。 |
 | 文字中的安排说得通，实际环境却做着别的事 | [环境写作指南](formation/environment.zh-CN.md)把预期贡献接到当前指令、工具、能力与权限。它帮助找到改变的实际维护位置，实现改变，再把结果行为与目的比较。 |
 | 模型提供更多解释，人却仍然无法继续 | [共同反思与继续培育](docs/participation-and-support.zh-CN.md)区分理解、提取术语、开始、选择回应、中断与切换。它帮助把贡献对准缺少的连接，并考察安排支持的协调成本是否消耗了它的收益。 |
@@ -144,7 +144,7 @@
 
 这些链接在完整的阴阳目录中解析。[阴阳的文件与更新约定](docs/skill-package.zh-CN.md)
 解释分发与私人支撑；材料缺失时应指出，不声称读过。实际私人出处位于已形成私人包的
-`references/personal/sources.md`；公开[证据指引](formation/revision.zh-CN.md#来源与证据)说明怎样维护。
+`references/personal/sources.md`；公开[证据指引](formation/shared.zh-CN.md#从可归属的材料写起)说明怎样维护。
 
 十张图提供直观入口，与[网站图集](https://boluopai.net/repositories/prometheus/#diagrams)相接：
 

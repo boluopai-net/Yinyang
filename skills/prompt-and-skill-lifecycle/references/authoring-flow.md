@@ -56,9 +56,13 @@ Present what meaning changed, why, and what evidence supports it in the active
 conversation. Name the comparison sides: observed baseline versus integrated
 change for a direct edit; previous delivered draft versus revised draft for an
 incremental revision; exact approved or promoted text versus installed readback
-where that owning workflow applies. Organize material differences by judgments
-the reader can assess, using prose or a comparison table as useful. A link is
-traceability, not a substitute for explaining the result.
+where that owning workflow applies. For material changes to wording or reasoning,
+show a table with the action, previous meaning and change; include the affected
+original wording when it matters. For visible interface changes, show the
+affected state through a readable screenshot or a working preview. Choose by
+the part being judged: a single revision can call for both forms at the same
+handoff. Identify which change the visual illustrates so that the reader can
+connect what the text now says with where and how it appears.
 
 Report any added approval requirement and its actual authorization explicitly.
 State separately what was authored, published, discovered, and behaviorally

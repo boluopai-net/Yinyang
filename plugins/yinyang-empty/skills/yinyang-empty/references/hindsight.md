@@ -53,7 +53,7 @@ retain their own runtime owner. Hindsight is not itself GitHub publication.
 
 ## Prepare sources and processing instructions
 
-The selected native route preserves the [revision dependency](formation/revision.md#refresh-the-selected-grounds):
+The selected native route preserves the [revision dependency](formation/revision-method.md#refresh-the-selected-grounds):
 read adopted philosophy, retrieve relevant new attributable sources, refresh and
 correct Personal understanding with its conflicts and uncertainty, then let
 Hindsight synthesize the six, check their coherence and realize necessary

@@ -174,7 +174,7 @@ substantive, readable articles, maintained directly or through optional native
 pages with observations backstage. The person can read them,
 or ask a language model to help understand them. The working accounts carry
 the implications for cooperation rather than assigning the person an exercise
-in interpreting their own psyche. Their [revision method](../formation/revision.md)
+in interpreting their own psyche. Their [revision method](../formation/revision-method.md)
 connects changed understanding with actual participation. Philosophy, working
 models, and arrangements can thus change together, without equating a sustainable
 arrangement with a final account of what a life should sustain.

@@ -2,273 +2,55 @@
 
 <a id="forming-a-personal-philosophy-and-personal-models"></a>
 
-The [Practice guide](creation-method.md) explains how to select or write views of your own. This appendix explains how to distill your essays and personal material into a personal model expressed in six working accounts. Maintain views separately. When an account draws on a view, cite it there.
-
-Keep the original material. Ask the model to draw out the relationships that matter to cooperation. Orientation records what you want to develop. Person, counterpart, and relationship distinguish how you participate, what the model can contribute, and how each contribution lets the other continue. Environment describes the software and arrangements you use. Revision records how to notice and correct a mistaken understanding. Have the model do a real task with these accounts. When something misses, return to the words, situation, or outcome and change the relevant account and environment. If the method for making corrections needs to change, test the new method on the next occasion. The [full argument for strong RSI](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/literary-recursive-improvement.html#from-rewriting-words-to-changing-the-next-activity) develops this return to the method itself.
-
-<a id="choose-the-implementation-keep-the-same-understanding"></a>
-
-## The shared formation and revision method
-
-Philosophy and the personal environment revise one another; either can come first. Philosophy first
-usually helps orient the work, while practice often begins with the environment. Once both have
-usable results, use them to reconsider their organizing meta-level methods, including this formation
-account and the six writing guides. Object and meta-level exchange roles with the current activity.
-The [practice guide](creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
-shows how to carry that change into practice.
-
-When synthesizing the six working accounts, read adopted philosophy and relevant fresh sources, correct Personal understanding, condense the accounts
-and check them together, then realize selected Skill/environment changes and read back their use.
-The [revision guide](formation/revision.md#refresh-the-selected-grounds) develops this dependency.
-Personal retains readable topic articles and original sources; the six accounts select their implications for cooperation.
-The current language model can write and revise directly; optional memory
-assistance supplies retention, integration and page generation through its
-configured interfaces. Select that assistance by its contribution to this method.
+A working model gives your language model context for cooperation. It makes clear what you are trying to develop, how you participate, what help you want, what conditions make it possible, and how the arrangement can change. This chapter explains how to form, check, and revise the six working accounts. The [Practice guide](creation-method.md) shows how that work fits into the wider practice.
 
 ## Form a situated version from actual material
 
-| Functional question and required reading role | Complete writing guide |
-| --- | --- |
-| **Orientation:** What philosophy, values and direction are actually adopted, why, and how should they guide and remain answerable to work? | [Orientation](formation/orientation.md) |
-| **Person:** What grounded understanding of this person, their purposes, participation, capacities, conditions and uncertainty changes cooperation? | [Person](formation/person.md) |
-| **Counterpart:** What can the actual model do under its real conditions, what contribution is wanted, and how should independent judgment and fallibility shape that contribution? | [Counterpart](formation/counterpart.md) |
-| **Relationship:** How do these distinct participants generate, scrutinize, delegate, correct and return through joint activity, with what responsibilities and consequences? | [Relationship](formation/relationship.md) |
-| **Environment:** How do the selected relations become reachable instructions, tools, interfaces and material arrangements, and how does actual use correct them? | [Environment](formation/environment.md) |
-| **Revision:** How does this person's actual practice connect changed purposes, source grounds, judgments, shared understanding and environmental change to checked results? | [Revision](formation/revision.md) |
+Use a real activity to give the writing a purpose. Ask the model to recover the relevant passages, events, and observed results from the material you already have. For each important inference, keep enough context to see what supports it, when it applies, and what difference it should make in the next collaboration. If a useful interpretation is still uncertain, say what would distinguish it from the alternatives. The [shared writing principles](formation/shared.md#write-from-attributable-evidence) explain what different kinds of sources can support.
 
-Before specifying or materially revising the model questions, read all
-six complete formation guides together with current accounts and relevant
-sources. Derive the synthesis instructions, or native `source_query`, from this connected
-scope; the table is an entrance, not a replacement for the guides' full content.
-Preserve each question's subject and full function while stating its relations
-to the others. Person, counterpart and relationship remain different objects;
-orientation, environment and revision supply direction, realization and continuing
-change. Do not collapse these questions into a smaller prototype grouping or
-make their source scopes artificially independent. Prose organization remains
-flexible. The simple route keeps the six-file contract; an explicit native
-binding must expose all six complete reading roles, including actual revision.
+Write the model as six connected accounts. Each answers a different question about the same practice.
+
+| Account | Question it answers |
+| --- | --- |
+| [Orientation](formation/orientation.md) | What matters to the person, what do they want to develop, and how should that direction guide the work? |
+| [Person](formation/person.md) | What grounded understanding of the person's purposes, participation, capacities, and conditions changes cooperation? |
+| [Counterpart](formation/counterpart.md) | What can the actual model do under its current conditions, what contribution is wanted, and where does its judgment need checking? |
+| [Relationship](formation/relationship.md) | How do the participants create, scrutinize, delegate, and correct together? How does each contribution let the other continue? |
+| [Environment](formation/environment.md) | What instructions, tools, interfaces, and material conditions make that cooperation possible? How can their effect be checked? |
+| [Revision](formation/revision.md) | How does this practice bring a new purpose, objection, or observed result back to the relevant understanding or arrangement and check what changes? |
+
+Read the [How to Write the Six Accounts](formation/overview.md) together with the current accounts and relevant sources before defining the questions for synthesis or substantially changing them. Give each question its full scope. A source may inform several accounts, with a different implication in each. Give the model the connected context needed to write those implications. With direct writing, the six accounts remain available as six private files. If a tool generates them, the model still needs access to each complete account when it works.
+
+### Write what will matter in use
+
+Suppose a reader says, “I lost the thread after that question.” Find out what kind of question it was and at what point it interrupted the work. The person account might describe how interruptions affect sustained reading under those conditions. The counterpart account might say which implementation choices the model can make independently and which uncertainties deserve a question. The relationship account might say when to bundle those questions or how to help the reader resume. Each description makes a different contribution. Keep the report and any proposed explanation distinguishable so the next encounter can correct the interpretation.
+
+Ask the model to draft complete, readable accounts around those relations. Include the related passages, times, or source locators where they matter to a decision. Preserve a person's choice to participate differently in a different activity. Someone may want to implement a change personally while learning and delegate comparable implementation when a finished result is the aim. The [shared writing principles](formation/shared.md#write-for-the-actual-use) explain how to keep the conditions and relationships that make condensed understanding usable.
+
+<a id="the-shared-formation-and-revision-method"></a>
 
 ## Make the six accounts coherent through revision
 
-The [whole-collection revision method](formation/revision.md#revise-the-collection-as-a-connected-whole)
-keeps philosophical chapters, Core views and important tables,
-appendix guides and reading routes connected in the same revision. The
-six-account check below is one part of that whole; publication carries the
-affected source and reading surfaces together.
+Read all six complete accounts together, against key sources and what happens in use. Compare which activity each describes, whose judgment it represents, the time and conditions of its claims, and how its consequences meet those of the other accounts. Preserve real disagreements and unknowns. If two accounts make competing claims about the same situation, return to the source. An interpretation in one account can help locate a dependency in another. It cannot corroborate its own source.
 
-Read the complete six-account whole against the important sources and actual
-result. Check whether shared premises, concepts, referents, temporal scope,
-participation, responsibilities and practical consequences fit together. Preserve
-real conflicts and uncertainty; coherence does not require inventing agreement
-or treating different conditions as contradictions. A changed adopted aim can
-affect the person implications, wanted counterpart contribution, relationship,
-environment and revision method, rather than merely changing one page's wording.
+Follow a changed premise through the affected accounts. For example, if the person chooses to take a larger part in a task to learn, the orientation records the purpose, the person account carries the changed participation, and the counterpart account explains the help that now serves it. The relationship account can identify when the person takes over, the environment account can describe the conditions that make a handoff possible, and the revision account can say how to judge whether that participation helped. Revise the relevant passages so the model can recover the connection in use. Under the [six-account coherence check](formation/revision-method.md#check-the-coherence-of-the-six-accounts), correct the source interpretation or synthesis instruction if that is where the inconsistency arose. Read the affected accounts again within the whole.
 
-The website, the six accounts, and their realization in the personal environment
-share a working ontology: their accounts of participants, works, and relations
-must be intelligible together, while each retains its own purpose and disclosure
-boundary. Source assertions can conflict; keep their grounds and distinguish
-them from the interpretation currently guiding action. For example, a revised
-understanding of independence may change both an account of participation and
-how a reading interface offers help. Check the resulting use, then revise the
-affected descriptions and realization together.
-
-Sibling accounts can be read as current interpretations needing coordination.
-They do not become independent factual evidence for one another. Return to the
-original grounds when judging a consequential claim. Repair the affected source,
-synthesis instructions, native mission/question or realization, regenerate the dependent accounts, then
-read the six together again. Neither a shared bank, common source access nor
-six individually successful page operations guarantees this coherence. The
-[actual revision method](formation/revision.md#check-the-coherence-of-the-six-accounts)
-keeps that work situated in the person's purposes, materials and environment.
-No mandatory seventh summary is needed: the relations belong in the six accounts
-and their actual use.
-
-Empty ships the common guides, four empty Personal areas, and six
-actual starters marked `status: unfilled`. Form their grounded content through
-the simple route or the optional Hindsight implementation.
-
-Read back the complete synthesized accounts at the actual consumer rather than
-judging formation from saved instructions or successful requests. In the native
-route, inspect extraction, observations and generated models separately. Grounded unknowns
-are useful content. An invented person or copied portrait cannot supply it.
-Actual consumer retrieval, authorized work and subsequent correction test the
-formed understanding at different scales. Environment or website changes still
-need execution through their owners; forming a model alone does not finish them.
-
-## Start from available material and practice
-
-Personal works offer a direct entrance: an essay, story, piece of music, design,
-or program can express how someone understands the world, what they value,
-and how they live and create with others. Creation gives these relations a
-form that can be read, discussed, and revised. The participants interpret
-relevant meanings through the work, its making, and its actual consequences,
-then bring grounded implications into cooperation and the environment. The
-work can also change their earlier understanding.
-
-“Philosophy” has a broad sense here: reflection on these understandings, values,
-and practices runs through personal creation. A work can carry that reflection
-in its own genre. The philosophical contribution to forming working accounts
-is to develop the meanings and reasons relevant to the current use. Thus,
-“available philosophy” below also includes understanding still implicit in a
-work; “developing philosophy” can mean articulating it through creation and use.
-
-The connected practical terms are **the person's creation, the model as a
-writing and creative partner, and the environment of their activity**.
-Philosophy, psychology, and engineering name three contributions to understanding
-and improving that practice, each running through all three terms. The former
-offers perspectives; work, partner, and environment identify places to begin.
-
-Philosophy, understanding oneself and others psychologically, and engineering
-contribute together to forming personal accounts and a usable environment. The [trinity essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/local-source-and-website.html#philosophy-psychology-and-engineering-develop-the-missing-connection)
-develops their connection. The following combinations describe available
-material and missing connections within that practice:
-
-| Material or practice already available | Connection still needed and useful next contribution |
-| --- | --- |
-| Articulated philosophy or adopted direction, without a usable model environment or developed personal account | Connect the philosophy with event history and everyday life while preparing the model environment needed to develop and use the account. |
-| Relevant psychological understanding, conversation history, or life materials, without a usable model environment or articulated philosophy | Develop the grounded account and its philosophical meaning while making the needed model assistance available. |
-| A working model environment and experience using it, with personal understanding and philosophy still implicit | Interpret experience, preferences, and concepts together, articulating their philosophical meaning and revising arrangements through use. |
-| Articulated philosophy and grounded psychological understanding, without a usable realization | Realize their intended relations through the actual engineering environment. |
-| Articulated philosophy and a working environment, without concrete personal grounding | Read conversation history and everyday life materials with the philosophy, condense a grounded personal account, and revise it through current use. |
-| Grounded psychological understanding and a working environment, without articulated philosophy | Develop the philosophical understanding, values, and direction implicit in the practice. |
-
-These six combinations describe starting conditions, not separate formation
-routes or a fixed sequence. Prepare files, retrieval, tools, execution, and
-verification where their absence blocks the needed contribution; the person
-need not first learn to implement everything. Develop missing connections from
-what is available, with personal understanding, philosophy, and realization
-able to form and revise one another throughout the work.
-
-Where the purpose includes computer-mediated engineering, person and counterpart
-jointly develop the relevant computational articulation and environment: the selected activity,
-its states and conditions, continuity through change, and observable consequences.
-Files and tools realize and use that model; they do not supply its meaning merely
-by existing. Division of work runs through problem selection, modeling,
-realization, and feedback; the person need not personally complete an upstream
-model before the counterpart can contribute. [Environment writing guide](formation/environment.md#derive-behavior-in-context)
-develops this connection at the precision the actual use needs.
-
-The personal model brings preferences, psychological activity, experience,
-concepts, and philosophical understanding into one revisable natural-language
-account. The model helps reconstruct relevant history, develop interpretations,
-compare alternatives, and write; the person contributes purposes, lived
-experience, recognition, objection, and judgment. Known preferences can already
-guide an arrangement while their explanation remains open. An arrangement can
-also reflect constraint or a default, so its presence alone does not reveal
-what the person wants.
-
-Within this practice, [condensing personal models from material](formation/person.md#condense-personal-models-from-event-history-philosophy-and-personal-material)
-connects long-term conversation, everyday habits, life materials, and philosophy.
-Analysis, abduction, comparison, conceptual clarification, and further interaction
-make its proposed relations revisable. A reported preference, an explanatory
-psychological hypothesis, and a chosen philosophical direction can inform one
-another while supporting different conclusions. The person guide develops these
-grounds and explains why this understanding and condensation do not constitute psychological modeling.
-
-The developing personal model also informs a fitting counterpart
-model and chosen relationship. Distinguish the desired role and priorities from
-the counterpart's actual capabilities and response patterns: instructions,
-available tools, and behavior can be inspected even
-when internal processes remain partly inaccessible. Access to source code alone
-would not establish collaborative fit. Philosophy actively contributes here by
-articulating self-understanding, meaning, and possible relationships, while
-experience can revise its account.
-
-Philosophical writing can emphasize literature, engineering philosophy, Western
-philosophy, philosophy of science, logic, aesthetics, or another relevant question.
-These emphases develop the same practice, with starting material and order able to vary.
-Technical background does not select a different route for forming these accounts.
-Inquiry supplies hypotheses and criteria where fit
-is uncertain, without requiring a complete explanation before useful work.
-With model assistance, selected lived needs and relations take form in tools,
-information, instructions, and a computer environment mediating activities such
-as shopping, investment, conversation, and learning. Actual use returns to life:
-what becomes easier, what costs appear, what the person learns, and whether the
-relationship supports their chosen development. Revise the understanding and
-arrangement together. The environment condenses selected relations; it does not
-contain a complete person.
-
-Suppose someone always works at one desk. That observation fits several
-accounts: the arrangement may be preferred, it may be the only place with the
-needed equipment, or it may have persisted without comparison. Recommending a
-permanent fixed workspace on that evidence would turn the observed arrangement
-into a personal ideal. Relevant evidence might be an earlier freely chosen
-arrangement, the person's experience when an alternative was genuinely
-available, or an ordinary reversible trial when useful and authorized. If moving
-removes a valued resource, dislike of that trial does not isolate a preference
-for staying still. Compare the activity and costs that changed with the location.
-The model can inspect those dependencies and develop candidate accounts;
-the person's unavailable experience remains theirs to contribute. Keep the
-account conditional when the evidence does not discriminate. There is no need
-to settle a general personality trait to improve this workspace.
-
-Bring the relevant sources and relations into the direct synthesis instructions
-or optional native model questions
-specified above. Preserve the six complete functional questions and their
-cross-account coherence through checking and revision; native storage does not
-require the old physical six-file layout. The actual
-private source uses the six files or binds native bodies, and the actual revision
-method explains how this person's source refresh, synthesis, repair and environmental
-realization work. Read the integrated result at its real consumer and revise
-from use. Neither complete biography nor complete psychological understanding
-is needed before useful creation and practical work begin.
-
-## What the language does
-
-A passage can report experience, propose explanation, establish a chosen
-relation, or gather possibilities through an image. Recognize its function
-where it changes the conclusion. “I lost the thread after that question”
-reports experience; attributing the interruption to transferred implementation
-work proposes an explanation; choosing to let the model carry that work gives
-the relationship a direction. The account should make those connections usable
-without converting one episode into a universal prohibition.
-
-The person and counterpart accounts develop together. A role or division of
-labor does not exhaust either participant or establish incapacity. The
-[speech essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/speech-opposition-and-self-formation.html) develops how later
-expression can reinterpret an earlier statement and reconstruct its premises.
-The [revision guide](formation/revision.md#sources-and-evidence) explains how to
-retain the sources, competing interpretations, and uncertainty needed here.
-
-## Move between expression, relation, and realization
-
-`human-readable expression ⇄ explicit understanding of activity and relations ⇄ working behavior`
-
-Philosophical writing can explore possibilities beyond one working account;
-the accounts state the supported interpretation, consequences, and unresolved
-relations needed for collaboration. Either person or model can read both forms
-and move between them. Different uses of writing do not partition access by
-reader identity. Clear prose can make a relation usable without formalizing a
-complete person or encounter. [Environment writing guide](formation/environment.md)
-explains how the selected relation reaches actual instructions, tools, and use.
-
-## Use and continue the formed understanding
-
+<a id="choose-the-implementation-keep-the-same-understanding"></a>
+<a id="use-and-continue-the-formed-understanding"></a>
 <a id="maintain-the-private-material-through-use"></a>
 
-Keep public philosophy at its common owner and private experience at its
-supporting owners. The [revision guide](formation/revision.md#let-philosophy-revise-personal-support-material)
-owns the continuing reconciliation of those materials, their native model
-form through the selected route, and the environment. Mechanical preservation by a common-file projector
-does not prohibit authorized semantic revision or retirement of private notes.
-
-<a id="revise-from-the-changing-encounter"></a>
-
-A newly requested way of participating can change an account's application
-without erasing the older conditions. Participating in implementation to learn,
-for example, can coexist with delegating implementation in production work.
-Persistent counterexamples can also challenge the account itself. Use the
-[scope and connected-change method](formation/revision.md#scope-and-connected-changes)
-to decide whether this is a local correction or a broader revision and carry
-its actual dependencies, without automatically rewriting everything.
+## Revise the accounts from actual use
 
 <a id="assess-the-result-at-its-actual-scale"></a>
 
-Read the integrated accounts at the actual consumer and use them in the
-requested work. Grounding, availability, completed work, collaborative fit,
-and human development make different claims. The
-[revision guide's result check](formation/revision.md#follow-the-result-back-into-understanding)
-keeps those claims answerable to their evidence and returns a material mismatch
-to the appropriate understanding or realization. Forming the working models is
-part of a usable practice, whose subsequent experience can change any of them.
+Have the model retrieve all six complete accounts and use them in an actual task. Check what it read, how it interpreted the relevant relation, and what happened in the activity. When a memory or synthesis tool is involved, also read the complete resulting accounts and follow a consequential inference back to its source. Successful retrieval, grounded interpretation, a completed task, and improvement in human participation each have their own evidence.
+
+<a id="revise-from-the-changing-encounter"></a>
+
+Trace a mismatch to the understanding that needs to change. A new request might open an exception, narrow an existing condition, undermine an explanation, or change the direction of the work. Preserve earlier statements and observations with their sources.
+
+For instance, a relationship account might originally say, “The model carries implementation choices so the person can stay with the reading.” That helped the person continue reading when a minor change was needed. When they later set out to learn how to build a reading tool, they asked to try making the first consequential choice themselves.
+
+The revised account could say, “When the goal is a usable result, the model makes reversible implementation choices and bundles questions that can change the result. When the goal is to learn implementation, the model pauses at the first choice that would change the approach and lets the person try it.” The two occasions support different conditions for the same relationship. Check whether the revised passage lets the next model distinguish which task it is helping with and act accordingly.
+
+Follow the [actual revision method](formation/revision-method.md#scope-and-connected-changes) for changes that cross accounts or require fresh evidence. When the same problem keeps escaping detection, revise how these accounts collect evidence and absorb correction, and check whether the new method helps in subsequent work.

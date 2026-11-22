@@ -13,10 +13,10 @@ actual consumer contracts; remove repetition and obsolete scaffolding.
 ## Authored and situated sources
 
 The public [Empty entrypoint](../yinyang-empty/SKILL.md) owns its invocation; actual private entrypoints stay with their owners. [Forming and revising working models](references/design-and-revision.md)
-connects philosophical expression and models. The six writing guides
-under `references/formation/`, including [how to revise](references/formation/revision.md),
-own their actual directions. Environmental realization belongs to the environment
-guide; revision guidance belongs to the revision guide. [The package guide](references/docs/skill-package.md)
+connects philosophical expression and models. [Writing the six accounts](references/formation/overview.md)
+locates the common and question-specific writing guides. [Revising a situated
+practice](references/formation/revision-method.md) owns the general execution method.
+[The package guide](references/docs/skill-package.md)
 owns common/situated structure and projection. Refer to these owners where a
 document needs their method instead of restating it.
 

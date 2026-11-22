@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "yinyang-empty",
-      "version": "1.0.96",
+      "version": "1.0.97",
       "description": "<用户自制> 阴阳空白版：形成自己的个人阴阳，接入完整工作上下文，并按任务查阅资料与修订方法。 Form a personal Yinyang, connect its complete working context, and locate task-relevant materials and revision methods.",
       "source": {
         "source": "local",
@@ -114,7 +114,7 @@
     },
     {
       "name": "prompt-and-skill-lifecycle",
-      "version": "1.0.11",
+      "version": "1.0.12",
       "description": "<用户自制> 提示词与技能生命周期：编写、审查、维护和发布提示词与 Skill。 Connect instruction meaning, ownership, delivery, and evidence of use when authoring, auditing, and maintaining Prompts and Skills.",
       "source": {
         "source": "local",

@@ -1,6 +1,6 @@
 # Organizing Personal material
 
-[简体中文](personal-material.zh-CN.md) · [Person account](formation/person.md) · [Revision](formation/revision.md)
+[简体中文](personal-material.zh-CN.md) · [Person account](formation/person.md) · [Revision](formation/revision-method.md)
 
 Personal is a private, human-readable collection of topic articles and supporting material, as well as a source for forming situated working understanding. Organize it by the subject a record helps understand, while keeping original evidence, interpretation, and the person's current judgment distinguishable within that subject. Hindsight can maintain substantive topic articles through native Knowledge Pages; observations support their formation backstage. Original evidence retains its owners. No fixed six-file output or complete duplicate summary is required. [Native formation](hindsight.md) explains the route.
 
@@ -81,7 +81,7 @@ Git/GitHub preserves committed works and ancestry; Computer History supplies dif
 
 Begin with the intended use of the connected models and inspect the existing material. Determine which categories have relevant grounds, which have dated or uncertain information, and which material gaps would change the account. Completeness means adequate coverage for those judgments, not an exhaustive biography or a permanently finished dossier.
 
-The [revision method](formation/revision.md#choose-the-emphasis-of-this-revision) selects
+The [revision method](formation/revision-method.md#choose-the-emphasis-of-this-revision) selects
 the emphasis of each update. Categories are available grounds, not a checklist
 to refresh in full: one or several can be central, while others enter through
 conditions or consequences that could change the judgment. Revise that emphasis

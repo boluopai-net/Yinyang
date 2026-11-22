@@ -4,7 +4,8 @@
 
 [简体中文](README.zh-CN.md) · [Daily collaboration](SKILL.md) · [Philosophy](https://boluopai.net/philosophy/en/)
 
-Empty includes the six formation guides, Core views as attributed suggestions,
+Empty includes an overview, shared and account-specific writing guides, a
+practical revision method, Core views as attributed suggestions,
 the practice overview, formation and revision, daily collaboration, and guidance
 for organizing Personal. It does not contain `docs/` or `diagrams/`. The author's
 developed essays and diagrams remain on the website for optional reading.
@@ -21,6 +22,7 @@ and implementation; you need not do it unaided.
 | See the practice as a whole | [Practice overview](references/creation-method.md) |
 | Consider the author's suggestions | [Core views](references/core-views.md) |
 | Form or revise actual accounts | [Forming and revising working models](references/design-and-revision.md) |
+| Write one of the six accounts | [Writing the six accounts](references/formation/overview.md) |
 | Use the personal version in ordinary work | [Daily collaboration](SKILL.md) |
 | Configure required injection of all six complete accounts | [Personal context setup](references/package.md#connect-the-personal-context) |
 | Find practical tools, research/learning, or psychological materials | [The three practice entrances](SKILL.md#select-the-work) |

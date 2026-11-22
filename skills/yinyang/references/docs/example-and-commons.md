@@ -36,7 +36,7 @@ articles; observations work backstage. A writing-help model, for example, can re
 implications while the original episode and unresolved explanations remain
 reachable at their private owners. Each adopted version forms its own content;
 a copied portrait does not supply actual understanding. The
-[revision method](../formation/revision.md) connects native formation, result
+[revision method](../formation/revision-method.md) connects native formation, result
 checking and environmental changes. Public distribution contains no private
 accounts or supporting originals.
 

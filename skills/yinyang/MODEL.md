@@ -13,8 +13,9 @@ Author Core views diagrams as fenced Mermaid source in both Markdown editions so
 The essays develop their arguments, images, examples, and sources.
 
 The public [Empty entrypoint](../yinyang-empty/SKILL.md) owns its invocation; actual private instances maintain their own entrypoints. [Forming and revising working models](references/design-and-revision.md)
-explains their relationship; writing directions belong to the six public how-to
-guides, used to specify question-defined private models. Use the [reading map](references/reading-map.md) to locate
+explains their relationship. [Writing the six accounts](references/formation/overview.md)
+locates the shared and account-specific writing directions. The [revision
+method](references/formation/revision-method.md) develops general execution. Use the [reading map](references/reading-map.md) to locate
 the argument relevant to a change.
 
 ## Source and consumer roles
@@ -41,7 +42,7 @@ Keep the following uses of writing distinct:
   fits the person psychologically and practically. Psychological and life evidence
   and maintained interpretations principally belong in private `references/personal/`;
   the working models are not the primary self-analysis archive. Follow the
-  [writing method](references/formation/revision.md#write-for-the-actual-use);
+  [shared writing principles](references/formation/shared.md#write-for-the-actual-use);
   maintain correspondence with human-readable philosophy without making its
   literary form the default for working instructions.
 - **Maintenance instructions** locate sources, dependencies, publication, and

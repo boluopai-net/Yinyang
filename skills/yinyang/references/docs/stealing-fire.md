@@ -293,7 +293,7 @@ help understand it; its purpose differs from the model-facing working accounts.
 The situated working models condense what the collaboration needs and how the
 environment should fit this person's psychology, purposes, and circumstances.
 An account of a recurring fear can remain in the references while a working
-file retains the support that helps the next writing task. Their [revision](../formation/revision.md)
+file retains the support that helps the next writing task. Their [revision](../formation/revision-method.md)
 connects changed understanding with the model's participation and actual
 environment. A better arrangement gives evidence about
 cooperation without making the psychological interpretation certain.

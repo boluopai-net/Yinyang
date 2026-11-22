@@ -12,9 +12,10 @@ COMMON = ROOT / 'skills/yinyang'
 EMPTY = ROOT / 'skills/yinyang-empty'
 WEB = 'https://boluopai.net/repositories/prometheus/source/skills/yinyang/'
 GUIDES = ('orientation', 'person', 'counterpart', 'relationship', 'environment', 'revision')
+FORMATION = ('overview', 'shared', *GUIDES, 'revision-method')
 SELECTION = {'LICENSE': 'LICENSE'}
 for edition in ('.md', '.zh-CN.md'):
-    SELECTION.update({f'references/formation/{name}{edition}': f'references/formation/{name}{edition}' for name in GUIDES})
+    SELECTION.update({f'references/formation/{name}{edition}': f'references/formation/{name}{edition}' for name in FORMATION})
     SELECTION.update({
         f'references/formation/personal-material{edition}': f'references/personal-material{edition}',
         f'references/design-and-revision{edition}': f'references/design-and-revision{edition}',
@@ -36,21 +37,6 @@ AUTHORED.update(f'references/personal/{name}/.gitkeep' for name in
 
 def project(source, destination):
     text = (COMMON / source).read_text()
-    # Only this package fact differs: The writing source omits starters; Empty deliberately
-    # supplies blank ones. Formation methods and philosophical content are shared.
-    distribution = {
-        'references/design-and-revision.md': (
-            'Public distribution ships the common guides, with no filled or\nplaceholder private accounts.',
-            'Empty ships the common guides, four empty Personal areas, and six\nactual starters marked `status: unfilled`. Form their grounded content through\nthe simple route or the optional Hindsight implementation.'),
-        'references/design-and-revision.zh-CN.md': (
-            '公开分发提供\n共同指引，不附带已填或占位的私人描述。',
-            'Empty 提供共同指引、四个空 Personal 分区，以及六份标为 `status: unfilled` 的实际起始文件。\n通过简单路线或可选 Hindsight 实现形成有根据的内容。'),
-    }
-    if source in distribution:
-        old, new = distribution[source]
-        if text.count(old) != 1:
-            raise ValueError('Review the changed common-source distribution statement: ' + source)
-        text = text.replace(old, new)
 
     def link(match):
         href = match.group(1)
