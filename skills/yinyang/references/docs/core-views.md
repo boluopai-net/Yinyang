@@ -918,7 +918,7 @@ Once both have usable results, use them to revise their organizing meta-level me
 actual revision account, public use and writing guides, Core views, and reading entrances. A method
 being rewritten becomes an object; when used in the next activity it organizes that work. Object
 and meta-level can exchange roles. The
-[practice overview](creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
+[practice guide](creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
 develops an example and the connected maintenance.
 
 ### From heritable variation to successors that can continue introspection

@@ -1,4 +1,4 @@
-# Yinyang practice overview
+# Practice guide
 
 [Home](../README.md) · [Forming and revising working models](design-and-revision.md) · [Everyday collaboration](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) · [简体中文](creation-method.zh-CN.md)
 
@@ -10,67 +10,7 @@ Supply your selected views and six accounts in the model’s global prompt for e
 
 ## Philosophy and the personal environment revise one another
 
-This practice has two mutually revising objects. **Philosophy** develops an understanding of the world,
-values, participation, and life direction with its reasons. **The personal environment** gives that
-understanding working form in actual cooperation: Personal material, six working accounts, prompts,
-Skills, tools, interfaces, and relevant living conditions. Philosophy helps judge what environment is
-worth forming; actual work within that environment exposes philosophical premises, distinctions,
-and direction to correction.
-
-When a direction needs a reason, follow the argument for that view. To configure the environment, start with the work at hand: an awkward reading
-arrangement, a desired creative work, or a model's misunderstanding can initiate revision. Produce a
-usable result in the current object, then bring it into the other for examination and development.
-Once both have usable results, use those results to revise the **meta-level methods** organizing them.
-
-### Let usable results change their organizing methods
-
-A private version writes its actual revision method in the revision account among the six. The public
-version uses this overview, [formation and revision](design-and-revision.md), and the
-[six writing guides](design-and-revision.md#form-a-situated-version-from-actual-material) to explain
-how philosophy can inform your own practice. Core views and important tables, philosophical readings
-and other appendices, navigation, and diagrams also organize that use. Read the philosophical and
-environmental results together to reconsider the objects, order, questions, and grounds selected by
-these guides, carrying changed meaning back through each actual owner.
-
-Object and meta-level can exchange roles. When a revision guide is being rewritten, it is the current
-object, with philosophical and environmental results supplying material for judgment. When that guide
-next organizes revision of a reading environment, it acts at the meta-level. New reading experience
-can reopen the philosophy too. The model traces these dependencies through the connected whole and
-delivers affected arguments, appendices, working arrangements, and reading surfaces together,
-retaining checked content that still fits.
-
-Methods and realizations usually [evolve forward](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.html#evolve-forward-with-more-capable-models),
-comparing the whole activity's gains and burdens through efficiency and economy, continuing useful
-conventions and retiring obsolete ones during revision.
-
-When organizing shared working context, use the
-[division between host-wide instructions and personal Yinyang](formation/revision.md#coordinate-host-wide-instructions-and-personal-yinyang)
-to choose maintained sources, connect their carriers, and check actual context supply and execution.
-
-### Example: return from a reading arrangement to the learning method
-
-Imagine a reader who wants to resume understanding an argument after interruption. Starting with the environment,
-the model places the source, the reader's interpretation, and feedback where they can be compared,
-with an entrance back to the original passage. Bring this result into philosophy to ask whether the
-change supports access, shared judgment, or the cultivation of the person's interpretive capacity.
-Opening the page establishes access; resuming the argument supports continuity of this reading;
-development of capacity needs later actual attempts.
-
-Suppose the original criterion for independent understanding was “can resume alone,” but use shows
-that with external support the reader can recover the argument, judge interpretations, and change
-the help. This supplies grounds to reconsider the philosophical premise: valued independence can
-become “can recover the thread, judge it, and adjust the help used.” The earlier expression “I want
-to understand it myself” remains attributable material, while the current account expresses the
-understanding now adopted in light of later clarification, actual performance, and coherence of the
-whole. Whether the support actually helps and how it works each need their corresponding factual grounds.
-
-Once both objects have usable results, reconsider the revision method. If it checked only that a page
-opened, change the question to whether the reader can return to the source, recover the argument's
-relations, continue judging, and adjust the help. Revise the exercise in
-[Research and Learning](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/research-and-learning.html#learning-purposes), along with affected tool guidance,
-working accounts, and Core views. Subsequent use can judge whether the improved method helps learning.
-The [revision guide](formation/revision.md#revise-the-collection-as-a-connected-whole) develops the
-responsibilities of maintaining this whole.
+Begin with something you are doing. Have the model adjust the environment using the six accounts, try the change, and identify which understanding needs revision. If the difficulty recurs, revise the method for noticing and resolving it. On the next occasion, check whether the new method finds the problem earlier and makes an effective change easier. This is where strong RSI enters the practice. [Writing one's own recursive improvement through literature](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/literary-recursive-improvement.html#from-rewriting-words-to-changing-the-next-activity) develops the mechanism; [its reading example](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/literary-recursive-improvement.html#how-one-reading-changes-the-way-reading-is-improved) shows how to test improvement in the method itself.
 
 <a id="choose-2x2"></a>
 
@@ -138,9 +78,3 @@ develops the writing method; [everyday collaboration](https://github.com/boluopa
 Existing philosophy, personal experience, preferences, works, or a working environment can provide the starting point.
 The model helps form missing connections; actual work can also change the philosophy and collaboration.
 For further writing, [An example and a commons](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/example-and-commons.html) opens a path to personal essays and different works.
-
-## Sources and the method's contribution
-
-This overview presents the author's practice method. [Forming and revising working models](design-and-revision.md) and its six formation guides develop the writing objects; [Writing one's own recursive improvement through literature](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/literary-recursive-improvement.html) supplies the argument for returning changes in work to the methods producing them. The reading-resumption example is constructed here to distinguish access, continuity, and developing capacity. Those outcomes require their corresponding observations in actual use.
-
-[Hindsight](hindsight.md) is an optional implementation reference for memory and synthesis. Its availability does not establish that the whole philosophical practice improves a person's capacities. The contribution of this overview is to connect philosophy, situated accounts, and environmental realization into a revisable activity; readers can develop different content through the same method.

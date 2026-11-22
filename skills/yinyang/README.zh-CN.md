@@ -7,7 +7,7 @@
 作者实际使用的入口与个人模型保留在私人来源，不再提供 Full 包。
 
 这些文章展开阴阳所采用的个人 RSI 形式。作者与模型把哲学、个人文章和个人材料压缩成自己的工作模型，再依据合作的实际结果修订模型与形成它的方法。读者可以用同一形式，从自己的材料形成不同的工作模型。
-[实践总览](references/docs/creation-method.zh-CN.md)把阅读与 Empty 方法相连。
+[实践指南](references/docs/creation-method.zh-CN.md)把阅读与 Empty 方法相连。
 
 <a id="use-and-understand-yinyang"></a>
 
@@ -16,7 +16,7 @@
 | 目的 | 入口 |
 | --- | --- |
 | 阅读哲学论述 | [阅读地图](references/reading-map.zh-CN.md)与下列文章。 |
-| 形成自己的实践 | [Empty](../yinyang-empty/README.zh-CN.md)与[实践总览](references/docs/creation-method.zh-CN.md)。 |
+| 形成自己的实践 | [Empty](../yinyang-empty/README.zh-CN.md)与[实践指南](references/docs/creation-method.zh-CN.md)。 |
 | 理解共同形成方法 | [工作模型的形成与修订](references/design-and-revision.zh-CN.md)。 |
 
 ## 这些文本是什么关系
@@ -27,7 +27,7 @@
 | --- | --- |
 | 发展的目的是什么？ | [借火与创造能力的培养](references/docs/stealing-fire.zh-CN.md)连接可用能力、个人培养与相互理解。 |
 | 已采纳的论证怎样相连？ | [YY-00](references/docs/core-views.zh-CN.md#yy-00)以作者的 P-AR 读法引入四条相连主线：[容纳不一致语义](references/docs/inconsistency-tolerant-semantics.zh-CN.md)、阴阳辩证法、圣状与三位一体、个人递归自改进；其余核心观点分别展开这些主张。 |
-| 意义怎样取得工作形式？ | [实践总览](references/docs/creation-method.zh-CN.md)连接表达、关系、实现与证据。 |
+| 意义怎样取得工作形式？ | [实践指南](references/docs/creation-method.zh-CN.md)连接表达、关系、实现与证据。 |
 | 各项贡献怎样相接？ | [哲学、心理与工程的三位一体](references/docs/local-source-and-website.zh-CN.md)连接哲学、心理、工程及其实践载体。 |
 | 核心意象表达什么？ | [阴阳与太极中的共同生成](references/docs/yinyang-and-taiji.zh-CN.md)展开互为根、转化与日月地。 |
 | 具体论证和原典在哪里？ | [按任务问题阅读](references/reading-map.zh-CN.md)通向文章、图示及哲学、心理和工程来源。 |

@@ -1,4 +1,4 @@
-# 阴阳的实践总览
+# 实践指南
 
 [首页](../README.zh-CN.md) · [工作模型的形成与修订](design-and-revision.zh-CN.md) · [阴阳的日常协作](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.zh-CN.md) · [English](creation-method.md)
 
@@ -10,51 +10,7 @@
 
 ## 哲学与个人环境相互修订
 
-这项实践有两个相互修订的对象：**哲学**展开对世界、价值、参与和生活方向的理解与理由；
-**个人环境**使这些理解在实际合作中取得工作形式，包括 Personal 材料、六份工作描述、
-提示词、Skills、工具、界面及有关的生活条件。哲学帮助判断怎样的环境值得形成，环境中的
-实际工作则使哲学的前提、区分和方向接受纠正。
-
-想追问某个方向为什么值得，可以沿相应观点读论证。配置环境则可以从正在做的事入手：一个不顺手的阅读安排、一项想完成的创作，或一次模型误解，就足以发起修订。
-从当前对象做出可用结果，再把它带到另一对象中检验和发展。两者都有了可用结果以后，
-再用这两个结果反过来修订组织它们的**元层方法**。
-
-### 让可用结果改变组织它们的方法
-
-私人版本的实际修订方法写在六份描述中的修订篇；公共版本通过本页、
-[形成与修订](design-and-revision.zh-CN.md)及[六份写作指南](design-and-revision.zh-CN.md#基于实际材料形成情境化版本)
-说明怎样使用哲学形成自己的实践。基本观点及其重要表格、哲学阅读与其他附录、导航和图示，
-也参与组织这种使用。将哲学和个人环境的结果联系起来，检查这些指引原先选择的对象、
-顺序、问题与判断根据是否仍然合适，并把受到影响的含义带回其实际所有者。
-
-对象与元层可以交换角色。修订指南正在被改写时，它就是当前对象；哲学与环境的结果可以
-成为判断材料。下一次用这份指南修订阅读环境时，它又成为组织工作的元层。新的阅读经验
-还可以重开哲学问题。相连整体修订由模型追踪这些依赖，并把受影响的正文、附录、工作安排
-和阅读面一起交付；其余内容经检查仍适用时保留。
-
-方法与实现通常[向前演进](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/preference-harness.zh-CN.html#面向更有能力的模型向前演进)，
-以效率与经济性比较整项工作的所得与负担，沿用有贡献的惯例，并在修订中退役过时的约定。
-
-整理共享工作上下文时，按[宿主全局提示词与个人阴阳的分工](formation/revision.zh-CN.md#协调宿主全局提示词与个人阴阳)
-选择内容的维护源，接续相连载体并检查实际供给与执行。
-
-### 例子：从阅读安排返回学习方法
-
-设想一位读者希望在中断后继续理解一段论证。先从环境入手，模型把原文、读者的解释与反馈放在
-可同时参照的位置，并保留回到原段落的入口。接着联系哲学，辨认这项改变究竟支持了
-资料取得、共同判断，还是本人解释能力的培养：页面能打开支持取得，下一次能接续论证
-支持这次阅读的延续，能力发展则需要后来的实际尝试。
-
-假设原先把独立理解的标准写成「能独自接续」，实际使用却显示，读者借助这些外部支持，
-能够恢复论证、判断解释并改变帮助方式。这就为重考哲学前提提供了根据：所重视的独立性
-可以改为「能找回思路、作出判断并调整所用帮助」。原先说过「想自己读懂」仍是可归属材料，
-当前说明则按较后的澄清、实际表现与整体融贯表达现在采用的理解。外部支持是否确有帮助，
-以及它怎样起作用，仍各自需要相应事实根据。
-
-两边取得可用结果后，重考原来的修订方法。如果它只检查页面能否打开，就把检查问题改为
-能否回到原文、恢复论证关系、继续判断并调整帮助；同时修订[科研与学习](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/research-and-learning.zh-CN.html#learning-purposes)
-中的练习安排，以及受影响的工具指引、六份描述和基本观点。后来使用再判断这份改进后的
-方法是否帮助了学习。[修订指南](formation/revision.zh-CN.md#把文集作为相连整体修订)展开整体维护的职责。
+从一件正在做的事入手。让模型照六份描述调整环境，实际用一次，再判断哪处理解需要改。如果问题反复出现，就修订以后发现和处理它的方法；在下一件事中检验新方法能否更早发现问题、更容易做出有效改变。这一步关系到强 RSI。[《用文学写出自己的递归改进》](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/literary-recursive-improvement.zh-CN.html#从改写文字到改变下一轮活动)展开它的实现，[同篇的阅读例子](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/literary-recursive-improvement.zh-CN.html#一次阅读怎样改变改善阅读的方法)展示怎样检验方法本身的改进。
 
 <a id="choose-2x2"></a>
 
@@ -114,9 +70,3 @@
 已有哲学、个人经验、偏好、作品或工作环境，都可以成为起点。模型帮助形成缺少的联系；
 实际工作也能使你重新考虑哲学与合作方式。对进一步写作有兴趣时，
 [从采用、组合到自己的创作](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/example-and-commons.zh-CN.html)通向个人文章与不同作品。
-
-## 来源与方法贡献
-
-这份总览呈现作者的实践方法。[形成与修订](design-and-revision.zh-CN.md)及六份形成指南展开写作对象；[用文学写出自己的递归改进](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/literary-recursive-improvement.zh-CN.html)提供让作品变化返回其生成方法的论证。恢复阅读的例子由本文构造，用来区分访问、接续与能力发展；各项结果须有实际使用中相应的观察。
-
-[Hindsight](hindsight.zh-CN.md)是记忆与综合的可选实现参照。它的可用性并不独自证明整套哲学实践提高了个人能力。这份总览的贡献，是把哲学、情境描述与环境实现连成可修订的活动；读者可以借同一方法发展不同内容。

@@ -2,7 +2,7 @@
 
 <a id="participation-access-and-support"></a>
 
-[Yinyang guide](../../README.md) · [Practice overview](creation-method.md) · [完整中文版](participation-and-support.zh-CN.md)
+[Yinyang guide](../../README.md) · [Practice guide](creation-method.md) · [完整中文版](participation-and-support.zh-CN.md)
 
 Shared work has left a trajectory; person and model can now revisit how they
 participated in it. [Mutual becoming through Yinyang and Taiji](yinyang-and-taiji.md) gives their

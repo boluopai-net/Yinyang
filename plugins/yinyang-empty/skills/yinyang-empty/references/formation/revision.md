@@ -86,7 +86,7 @@ first usually helps clarify direction, while practice often begins with an actua
 difficulty. Make a usable result in the current object, then bring it into the other to develop
 understanding and realization together. Once both have usable results, use them to reconsider the
 source selection, questions, order, and evaluation methods organizing revision. The
-[practice overview](../creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
+[practice guide](../creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
 develops a reading-arrangement example.
 
 The private revision account carries the person's actual method; public formation and use guides

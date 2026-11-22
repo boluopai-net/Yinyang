@@ -43,7 +43,7 @@ cultivation of capacity. Once both have usable results, examine the learning met
 only that the material opened, change the check to whether you can return to the passage, recover
 its relations, and continue interpreting. Carry this change into exercises, tool guidance, and
 relevant working accounts. The next learning activity can examine the new method's contribution.
-The [practice overview](creation-method.md#example-return-from-a-reading-arrangement-to-the-learning-method)
+The [reading example in the RSI essay](literary-recursive-improvement.md#how-one-reading-changes-the-way-reading-is-improved)
 explains how object and meta-level exchange roles.
 
 Consider what you want this time. Do you want to finish a piece of work, make study easier to resume, or practice explaining, judging or coming up with an idea? A well-organized answer can help you continue. Your next attempt shows what you have learned. Once you choose an ability to practice, keep that part of the activity for yourself and let the model handle preparation it can reliably complete. Consider the time, attention, physical effort, supervision and maintenance the whole activity takes. Adjust the division of work as your interests and tools change. [Personal RSI in economic reality](economic-personal-rsi.md) explores how to choose which abilities to cultivate.

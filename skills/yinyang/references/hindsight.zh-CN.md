@@ -2,7 +2,7 @@
 
 [English](hindsight.md) · [形成与修订](design-and-revision.zh-CN.md)
 
-本页是[实践总览](docs/creation-method.zh-CN.md#choose-2x2)中可选记忆与综合辅助的配置入口，
+本页是[实践指南](docs/creation-method.zh-CN.md#choose-2x2)中可选记忆与综合辅助的配置入口，
 自己的实践从 Empty 采用这项方法，包内提供本配置指南。Hindsight 辅助保留来源、整合 Observations，并按六个问题形成
 持续维护的 Mental Models／Knowledge Pages；模型负责配置、检查和采用结果。
 

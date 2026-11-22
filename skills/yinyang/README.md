@@ -7,7 +7,7 @@ Yinyang's public Skill is **Empty**, where a person and model form their own
 philosophy, Personal material, and six working accounts. The author's actual
 entrypoint and personal models are maintained privately. No Full package is offered.
 
-The essays develop the form of personal RSI used in Yinyang. The author and a model condense philosophy, personal essays, and personal material into a working model, then use the results of collaboration to revise both the model and the way it was formed. Readers can use the same form to develop different working models from their own material. The [practice overview](references/docs/creation-method.md)
+The essays develop the form of personal RSI used in Yinyang. The author and a model condense philosophy, personal essays, and personal material into a working model, then use the results of collaboration to revise both the model and the way it was formed. Readers can use the same form to develop different working models from their own material. The [practice guide](references/docs/creation-method.md)
 connects these readings with the Empty method.
 
 <a id="use-and-understand-yinyang"></a>
@@ -17,7 +17,7 @@ connects these readings with the Empty method.
 | Purpose | Entrance |
 | --- | --- |
 | Read the philosophical account | [Reading map](references/reading-map.md) and the essays below. |
-| Form your own practice | [Empty](../yinyang-empty/README.md) and the [practice overview](references/docs/creation-method.md). |
+| Form your own practice | [Empty](../yinyang-empty/README.md) and the [practice guide](references/docs/creation-method.md). |
 | Understand the shared formation method | [Forming and revising working models](references/design-and-revision.md). |
 
 ## How the texts relate
@@ -28,7 +28,7 @@ The essays answer connected questions rather than forming a compulsory course:
 | --- | --- |
 | What is the developmental purpose? | [Borrowing fire and cultivating creative capacity](references/docs/stealing-fire.md) connects available capacities, personal cultivation, and reciprocal understanding. |
 | How do the adopted arguments fit together? | [YY-00](references/docs/core-views.md#yy-00) introduces four connected through-lines—[inconsistency-tolerant semantics](references/docs/inconsistency-tolerant-semantics.md), Yinyang dialectics, the sinthome and the Trinity, and personal recursive self-improvement—through the author's P-AR reading. The remaining Core views develop their claims. |
-| How does meaning acquire a working form? | [Practice overview](references/docs/creation-method.md) connects expression, relation, realization, and evidence. |
+| How does meaning acquire a working form? | [Practice guide](references/docs/creation-method.md) connects expression, relation, realization, and evidence. |
 | How do the contributions fit together? | [The trinity of philosophy, psychology, and engineering](references/docs/local-source-and-website.md) connects philosophy, psychology, engineering, and their practical carriers. |
 | What does the central image express? | [Mutual becoming through Yinyang and Taiji](references/docs/yinyang-and-taiji.md) develops mutual grounding, transformation, and Sun–Moon–Earth. |
 | Where do particular arguments and originals belong? | [Read by the work being done](references/reading-map.md) routes to the essays, diagrams, and philosophical, psychological, and engineering sources. |

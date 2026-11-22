@@ -2,69 +2,9 @@
 
 <a id="forming-a-personal-philosophy-and-personal-models"></a>
 
-Use this reference to form or revise the understanding of an actual person,
-their model counterpart, and their relationship. The six writing guides below
-supply the corresponding directions, including environmental realization and
-how to write one's own actual revision method. The
-[package guide](docs/skill-package.md) owns paths, common-content projection,
-and the complete/situated package contract. The [entrypoint](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) owns
-ordinary-use reading. Here the question is what to understand and write, on
-what evidence, and how the connected accounts can change. People and models can
-both read and use this method; its practical guidance develops how to create
-and revise the understanding introduced in the essays.
+The [Practice guide](docs/creation-method.md) explains how to begin. This appendix takes up the next question: how can selected views, your own writing, and personal material become six working accounts that can be used and revised?
 
-Yinyang's purpose is reverse alignment: the person's developing understanding,
-generation, and action through encounter with generative intelligence. The
-counterpart's adaptation and independent contribution support that purpose.
-Its Meta-Harness concerns both participants: the model's Harness is coupled
-with the person's environment, jointly shaping what each can take up and do.
-The working accounts connect understanding of that relation with its formation
-and revision in actual instructions and environmental arrangements.
-The organizing relation in this Yinyang is crossed participation: the person
-can enter language-model-like open generation, while the actual model enters
-the human logician's role of developing meaning and examining its grounds.
-A consequential detail can reverse the emphasis. Each can return through the
-other's contribution with both possibilities available. This relation gives
-reverse alignment its particular form here; it connects the working accounts.
-
-The [relationship writing guide](formation/relationship.md#explain-exchange-and-return-where-they-matter)
-develops this movement and its dialectical meaning. The other five guides
-explain its direction, the actual participants, its working conditions, and
-how it can be revised. Let that relation organize the connected accounts,
-while each file develops its own subject. Adoption of this Yinyang and borrowing
-a method remain different choices; another author can organize a different relation.
-
-Human-readable philosophy and literature develop the meaning of that
-arrangement; model-facing accounts state the relevant understanding and
-requirements explicitly. Both can help form and revise a usable relation before
-complete self-understanding; [From personal models to a sinthome](docs/writing-a-sinthome.md)
-develops the philosophical proposal.
-
-In the author's chosen arrangement, as model capabilities develop, designing and
-revising the environment becomes a principal continuing task: it brings the
-participants' understanding into forms that can be used and tested in life.
-This describes that arrangement, not a required allocation for every reader.
-
-These methods maintain one developed example. A request may instead call for
-another philosophy or literary form. Support that work at its own source, even
-when its images and organization no longer resemble Yinyang; the
-[example and commons essay](docs/example-and-commons.md) explains the distinction.
-
-Readers can study the example, borrow a method, or form their six working accounts.
-The [practice overview](docs/creation-method.md#choose-2x2) distinguishes the
-philosophical reading from Empty, the entrance for forming one's own practice.
-This page develops how to write the six accounts and revise them together.
-
-The same accounts support personal recursive self-improvement. Orientation
-explains what improvement serves; person describes actual participation and
-conditions; counterpart connects available capability with wanted contribution;
-relationship explains how contributions return and alter later cooperation;
-environment realizes the descriptions; revision makes the improvement method
-itself available for reconsideration. Develop these connections within each
-subject rather than repeating one declaration six times. Use the
-[RSI argument](docs/literary-recursive-improvement.md) as a direct ground where
-relevant. A revised account changes an expression; subsequent use supplies
-evidence about the method and the person's developing possibilities.
+Keep the original material. Ask the model to draw out the relationships that matter to cooperation. Orientation records what you want to develop. Person, counterpart, and relationship distinguish how you participate, what the model can contribute, and how each contribution lets the other continue. Environment describes the software and arrangements you use. Revision records how to notice and correct a mistaken understanding. Have the model do a real task with these accounts. When something misses, return to the words, situation, or outcome and change the relevant account and environment. If the method for making corrections needs to change, test the new method on the next occasion. The [full argument for strong RSI](docs/literary-recursive-improvement.md#from-rewriting-words-to-changing-the-next-activity) develops this return to the method itself.
 
 <a id="choose-the-implementation-keep-the-same-understanding"></a>
 
@@ -74,8 +14,8 @@ Philosophy and the personal environment revise one another; either can come firs
 usually helps orient the work, while practice often begins with the environment. Once both have
 usable results, use them to reconsider their organizing meta-level methods, including this formation
 account and the six writing guides. Object and meta-level exchange roles with the current activity.
-The [practice overview](docs/creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
-develops the movement and a concrete example.
+The [practice guide](docs/creation-method.md#philosophy-and-the-personal-environment-revise-one-another)
+shows how to carry that change into practice.
 
 When synthesizing the six working accounts, read adopted philosophy and relevant fresh sources, correct Personal understanding, condense the accounts
 and check them together, then realize selected Skill/environment changes and read back their use.

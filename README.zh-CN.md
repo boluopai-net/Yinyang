@@ -54,7 +54,7 @@
 而不另开一个写作项目；愿意写时，[例子与知识共有地](skills/yinyang/references/docs/example-and-commons.zh-CN.md)
 提供这条创作路径。实际起步可沿[工具使用](https://boluopai.net/getting-started/)。
 
-采用阴阳时，用[实践总览](skills/yinyang/references/docs/creation-method.zh-CN.md#choose-2x2)
+采用阴阳时，用[实践指南](skills/yinyang/references/docs/creation-method.zh-CN.md#choose-2x2)
 通过 **Empty 的递归自我改进方法**形成自己的内容：由模型直接凝练工作描述，或由 Hindsight 等社区项目辅助处理。哲学文章继续作为阅读材料公开。
 
 [个人模型的凝练指引](skills/yinyang/references/formation/person.zh-CN.md#从事件历史哲学与个人材料凝练个人模型)

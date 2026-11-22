@@ -46,7 +46,7 @@ methods when the task calls for them.
 
 For how philosophy and the personal environment revise each other, and how their usable results
 return to meta-level methods, begin with the
-[practice overview](docs/creation-method.md#philosophy-and-the-personal-environment-revise-one-another).
+[practice guide](docs/creation-method.md#philosophy-and-the-personal-environment-revise-one-another).
 Whether starting from philosophy or an actual environment, use the questions below to locate the
 contribution currently missing.
 
