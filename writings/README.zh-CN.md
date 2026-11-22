@@ -1,13 +1,10 @@
 # Yinyang 哲学与共同方法
 
-[English](README.md) · [哲学文章](https://boluopai.net/philosophy/) · [Empty 方法包](../yinyang-empty/README.zh-CN.md)
+[English](README.md) · [哲学文章](https://boluopai.net/philosophy/) · [Empty 方法包](../skills/yinyang-empty/README.zh-CN.md)
 
-本目录维护公开文章、图示与共同形成指南。公开提供的阴阳 Skill 是 **Empty**，
-由使用者与模型形成自己的哲学、Personal 材料和六份实际工作描述。
-作者实际使用的入口与个人模型保留在私人来源，不再提供 Full 包。
+这里是阴阳的公开文集，收录文章、观点、图示与写作方法。你可以请模型从这些文章或其他材料中摘出观点，选择有根据的几条，改写、补充，也可以直接写自己的观点。
 
-这些文章展开阴阳所采用的个人 RSI 形式。作者与模型把哲学、个人文章和个人材料压缩成自己的工作模型，再依据合作的实际结果修订模型与形成它的方法。读者可以用同一形式，从自己的材料形成不同的工作模型。
-[实践指南](references/docs/creation-method.zh-CN.md)把阅读与 Empty 方法相连。
+另从你采用的哲学、自己的文章、经历和印象中凝练工作模型。六份描述用你的材料说明具体处境，只在需要时引用独立保存的观点。用 [Empty 方法包](../skills/yinyang-empty/README.zh-CN.md)形成自己的版本；[实践指南](references/docs/creation-method.zh-CN.md)说明如何开始。
 
 <a id="use-and-understand-yinyang"></a>
 
@@ -16,7 +13,7 @@
 | 目的 | 入口 |
 | --- | --- |
 | 阅读哲学论述 | [阅读地图](references/reading-map.zh-CN.md)与下列文章。 |
-| 形成自己的实践 | [Empty](../yinyang-empty/README.zh-CN.md)与[实践指南](references/docs/creation-method.zh-CN.md)。 |
+| 形成自己的实践 | [Empty](../skills/yinyang-empty/README.zh-CN.md)与[实践指南](references/docs/creation-method.zh-CN.md)。 |
 | 理解共同形成方法 | [工作模型的形成与修订](references/design-and-revision.zh-CN.md)。 |
 
 ## 这些文本是什么关系

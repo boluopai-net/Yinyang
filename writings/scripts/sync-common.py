@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compare or project Yinyang's common files between two source packages.
+"""Compare or project Yinyang's common writings into a private Skill source.
 
 This is a source maintenance command, not a runtime installer or an exporter.
 It never reads or copies either private reference tree. Legacy account layouts
@@ -21,6 +21,7 @@ LEGACY_ACCOUNTS = {
 }
 PRIVATE_TREES = {"references/situated", "references/personal"}
 PRIVATE_ENTRYPOINTS = {
+    "agents/openai.yaml",
     "scripts/check_injection_tokens.py",
     "SKILL.md",
     "SKILL.zh-CN.md",

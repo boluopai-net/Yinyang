@@ -6,10 +6,10 @@ Its own package guide owns recipient installation and updates.
 
 [Home](../../README.md) · [简体中文](skill-package.zh-CN.md)
 
-The established `skills/yinyang/` path maintains essays, diagrams and shared
-formation methods. Actual entrypoints and personal accounts stay with their
-private owners. Readers can study the philosophy or form their own practice
-from Empty; the shared writing directory is not a Full Skill distribution.
+The public `writings/` directory maintains essays, diagrams, and shared formation
+methods. Actual private entrypoints and personal accounts stay with their
+owners. Readers can study the philosophy here or use Empty to form their own
+practice.
 
 ## Common and situated content
 
@@ -111,12 +111,12 @@ another person's records or placeholder results.
 
 `scripts/sync-common.py` compares the common writing source with an existing
 private Skill. With `--apply`, it copies common resources, preserving the
-private entrypoints, README editions, MODEL and AGENTS files, and both
+private entrypoints and agent metadata, README editions, MODEL and AGENTS files, and both
 `references/personal/` and `references/situated/` trees.
 
 ```bash
-python3 /path/to/shared/yinyang/scripts/sync-common.py \
-  --source /path/to/shared/yinyang --target /path/to/private/yinyang
+python3 /path/to/collection/writings/scripts/sync-common.py \
+  --source /path/to/collection/writings --target /path/to/private/yinyang
 ```
 
 The source is identified by its formation method, the target by its actual

@@ -1,6 +1,6 @@
-# Yinyang package maintenance
+# Public Yinyang writings and shared methods
 
-Use [MODEL.md](MODEL.md) for the package's source roles, interpretive boundaries,
+Use [MODEL.md](MODEL.md) for the writings' source roles, interpretive boundaries,
 and maintenance method. The [core views](references/docs/core-views.md) state the
 numbered claims; essays develop their arguments. Read the affected source and
 its dependencies rather than reproducing the full philosophy in every file.
@@ -12,7 +12,7 @@ actual consumer contracts; remove repetition and obsolete scaffolding.
 
 ## Authored and situated sources
 
-The public [Empty entrypoint](../yinyang-empty/SKILL.md) owns its invocation; actual private entrypoints stay with their owners. [Forming and revising working models](references/design-and-revision.md)
+The public [Empty entrypoint](../skills/yinyang-empty/SKILL.md) owns its invocation; actual private entrypoints stay with their owners. [Forming and revising working models](references/design-and-revision.md)
 connects philosophical expression and models. [Writing the six accounts](references/formation/overview.md)
 locates the common and question-specific writing guides. [Revising a situated
 practice](references/formation/revision-method.md) owns the general execution method.

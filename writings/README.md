@@ -1,14 +1,10 @@
 # Yinyang philosophy and shared methods
 
-[简体中文](README.zh-CN.md) · [Philosophy](https://boluopai.net/philosophy/en/) · [Empty method package](../yinyang-empty/README.md)
+[简体中文](README.zh-CN.md) · [Philosophy](https://boluopai.net/philosophy/en/) · [Empty method package](../skills/yinyang-empty/README.md)
 
-This directory maintains the public essays, diagrams, and shared formation guides.
-Yinyang's public Skill is **Empty**, where a person and model form their own
-philosophy, Personal material, and six working accounts. The author's actual
-entrypoint and personal models are maintained privately. No Full package is offered.
+This public collection holds essays, views, diagrams, and writing guides. Ask a model to extract claims and reasons from these essays or other sources. Select views you adopt, revise or extend them, or write your own directly.
 
-The essays develop the form of personal RSI used in Yinyang. The author and a model condense philosophy, personal essays, and personal material into a working model, then use the results of collaboration to revise both the model and the way it was formed. Readers can use the same form to develop different working models from their own material. The [practice guide](references/docs/creation-method.md)
-connects these readings with the Empty method.
+Separately, distill your working model from the philosophy you adopt, your writing, experiences, and impressions. The six accounts explain your circumstances in light of your material and cite independently maintained views when needed. Use the [Empty method package](../skills/yinyang-empty/README.md) to form your version; the [practice guide](references/docs/creation-method.md) explains how to begin.
 
 <a id="use-and-understand-yinyang"></a>
 
@@ -17,7 +13,7 @@ connects these readings with the Empty method.
 | Purpose | Entrance |
 | --- | --- |
 | Read the philosophical account | [Reading map](references/reading-map.md) and the essays below. |
-| Form your own practice | [Empty](../yinyang-empty/README.md) and the [practice guide](references/docs/creation-method.md). |
+| Form your own practice | [Empty](../skills/yinyang-empty/README.md) and the [practice guide](references/docs/creation-method.md). |
 | Understand the shared formation method | [Forming and revising working models](references/design-and-revision.md). |
 
 ## How the texts relate

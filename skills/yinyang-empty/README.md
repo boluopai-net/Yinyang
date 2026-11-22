@@ -1,6 +1,6 @@
 # yinyang-empty
 
-**Use Empty to put personal RSI into practice. Work with a model to condense the philosophy you adopt, your own essays, and your personal material into a working model that fits you.**
+**Use Empty to practise personal recursive self-improvement.** Ask a model to extract claims and reasons from essays. Select those you adopt, revise them, add your own, or write a view directly. Separately, distill six working accounts from the philosophy you adopt, your own writing, material from life and work, and personal impressions. Keep views independent. When an account uses a view, cite it and explain how your own material supports the particular judgment.
 
 [简体中文](README.zh-CN.md) · [Daily collaboration](SKILL.md) · [Philosophy](https://boluopai.net/philosophy/en/)
 

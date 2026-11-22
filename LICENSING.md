@@ -7,7 +7,7 @@ not extend one package's permission to another.
 
 | Material | Current terms |
 | --- | --- |
-| Original Yinyang essays, shared methods, and Empty material, including text, instructions, code, and diagrams | [Yinyang Personal and Internal Use License 1.0](skills/yinyang/LICENSE) |
+| Original Yinyang essays, shared methods, and Empty material, including text, instructions, code, and diagrams | [Yinyang Personal and Internal Use License 1.0](writings/LICENSE) |
 | Other Skill packages and their generated plugins | Their package-local MIT licenses |
 | Original collection infrastructure outside Yinyang | [MIT](LICENSE-MIT), unless separately designated |
 | Third-party content and separately identified works | Their own rights and notices |
@@ -30,7 +30,7 @@ Without separate permission, you may not redistribute original or modified
 copies, mirror or republish the material, sell it, or provide it as a product
 or service for others to use. Share official links instead. Applicable legal
 exceptions and GitHub's public-repository platform permissions remain intact.
-The complete [license](skills/yinyang/LICENSE) governs, rather than this summary.
+The complete [license](writings/LICENSE) governs, rather than this summary.
 
 ## Earlier releases
 

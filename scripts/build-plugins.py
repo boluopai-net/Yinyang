@@ -25,7 +25,7 @@ def expected_files(entry):
         files[destination] = (path.read_bytes(), path.stat().st_mode & 0o777)
     if 'skills/' + name + '/SKILL.md' not in files:
         raise ValueError(f'Missing tracked Skill: {name}')
-    license_name = 'LicenseRef-Yinyang-Personal-Internal-1.0' if name in {'yinyang', 'yinyang-empty'} else 'MIT'
+    license_name = 'LicenseRef-Yinyang-Personal-Internal-1.0' if name == 'yinyang-empty' else 'MIT'
     manifest = {
         '$schema': 'https://agent-plugins.org/schemas/1.0.0/plugin.schema.json',
         'name': name,

@@ -5,6 +5,8 @@ description: "<用户自制> 阴阳空白版：形成自己的个人阴阳，接
 
 # yinyang-empty
 
+When forming a personal version, keep views and the working model independent. Help the person extract views from essays, select those they adopt, and add their own. They may write a view directly. Distill the six working accounts from their chosen philosophy, their own material and impressions; when an account cites a view, explain its situated grounds and consequences.
+
 The collection offers one way to work with a coherent ontology and often inconsistent data. When forming your own six accounts, choose concepts that work together across them and preserve the provenance of conflicting observations. Use these distinctions in your environment to interpret new reports, then revise an account or its underlying concepts when actual use gives a reason.
 
 Develop a person's understanding, judgment, generation, and action through

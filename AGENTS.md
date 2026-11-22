@@ -6,11 +6,10 @@ boundaries. The root README editions introduce the actual collection members.
 Keep English and Chinese reader editions semantically aligned.
 
 Each Skill under `skills/` owns its complete package and supporting resources.
-For Yinyang, read [its MODEL.md](skills/yinyang/MODEL.md) and
-[its AGENTS.md](skills/yinyang/AGENTS.md) before editing its philosophical account
-or formation method. Yinyang's `references/docs/` and `references/diagrams/` are
-package accessories, not root collections or independent Skills. Other actual
-Skills retain their specialist purpose and methods.
+The public Yinyang essays, diagrams, and shared methods live in `writings/`.
+Read [its MODEL.md](writings/MODEL.md) and [its AGENTS.md](writings/AGENTS.md)
+before editing them. [Yinyang Empty](skills/yinyang-empty/) is the installable
+method package. Other Skills retain their specialist purpose and methods.
 
 Keep changes within the affected owner. Verify local links and public source
 locators after relocation; preserve licenses, separate rights, third-party

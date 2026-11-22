@@ -6,8 +6,8 @@
 
 [首页](../../README.zh-CN.md) · [English](skill-package.md)
 
-现有 `skills/yinyang/` 路径维护文章、图示与共同形成方法。
-实际入口与个人模型保留在各自私人来源。读者可以阅读哲学，或从 Empty
+公开的 `writings/` 目录维护文章、图示与共同形成方法。
+实际私人入口与个人模型保留在各自来源。读者可以阅读哲学，或从 Empty
 形成自己的实践；这个写作源目录不再作为 Full Skill 分发。
 
 ## 公共内容与情境化内容
@@ -76,12 +76,12 @@ Philosophy 保有写作来源。Personal 在原有四个主题组内保留可读
 ## 投影公共资源到作者的私人实例
 
 `scripts/sync-common.py` 比较公共写作源与已有私人 Skill；加上 `--apply`
-复制公共资源，保留私人入口、README 阅读版、MODEL 与 AGENTS 文件，
+复制公共资源，保留私人入口及智能体元数据、README 阅读版、MODEL 与 AGENTS 文件，
 以及 `references/personal/`、`references/situated/` 两棵私人目录。
 
 ```bash
-python3 /path/to/shared/yinyang/scripts/sync-common.py \
-  --source /path/to/shared/yinyang --target /path/to/private/yinyang
+python3 /path/to/collection/writings/scripts/sync-common.py \
+  --source /path/to/collection/writings --target /path/to/private/yinyang
 ```
 
 源以形成方法识别，目标以实际 `SKILL.md` 识别。投影器不检查私人目录、

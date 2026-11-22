@@ -12,7 +12,7 @@ Write Core views for model use. Condense the theory by preserving its distinctio
 Author Core views diagrams as fenced Mermaid source in both Markdown editions so models receive the nodes, relations and return paths as text. Render that source as a diagram in reader interfaces. Illustrated essays can carry their own artwork.
 The essays develop their arguments, images, examples, and sources.
 
-The public [Empty entrypoint](../yinyang-empty/SKILL.md) owns its invocation; actual private instances maintain their own entrypoints. [Forming and revising working models](references/design-and-revision.md)
+The public [Empty entrypoint](../skills/yinyang-empty/SKILL.md) owns its invocation; actual private instances maintain their own entrypoints. [Forming and revising working models](references/design-and-revision.md)
 explains their relationship. [Writing the six accounts](references/formation/overview.md)
 locates the shared and account-specific writing directions. The [revision
 method](references/formation/revision-method.md) develops general execution. Use the [reading map](references/reading-map.md) to locate

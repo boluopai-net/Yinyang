@@ -12,7 +12,7 @@ singer can concentrate on singing. Technical observations serve the musical
 purpose; a list of accurate notes alone does not establish expressive impact.
 
 This specialist method can work within a broader user/model relationship such
-as [Yinyang](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang).
+as [Yinyang's writings](https://github.com/boluopai-net/Yinyang/tree/main/writings).
 That Skill owns its philosophical account and any separately maintained private
 model; this package owns the singing method and imports no personal portrait.
 For substantial accompaniment-source investigation, compose with

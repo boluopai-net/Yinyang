@@ -54,7 +54,7 @@ Once that personal Skill is active, disable the distribution plugin to avoid
 two competing Yinyang entrypoints. Verify the private entrypoint in a new chat.
 The simple route uses direct language-model synthesis of these six files and
 private Git/GitHub persistence; no Hindsight installation is required.
-[Optional Hindsight implementation](../skills/yinyang/references/hindsight.md)
+[Optional Hindsight implementation](../writings/references/hindsight.md)
 explains environment-specific native configuration for the same six questions,
 revision steps and whole-six coherence. It can project to the same paths or
 explicitly bind all six bodies through a private index. Both implementation routes start from Empty.
