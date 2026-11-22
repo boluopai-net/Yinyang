@@ -19,7 +19,7 @@ does not supply those capabilities.
 | --- | --- |
 | Required supporting Skills | None; the singing method is contained here. |
 | Optional [research](https://github.com/boluopai-net/Yinyang/tree/main/skills/research) | Investigate accompaniment sources; download its complete package if needed. Singing retains audition and practice judgment. |
-| Optional [Yinyang](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang) | Broader user/model relationship; download its complete package if wanted. No private portrait is included or required. |
+| Optional [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty) | Method package for developing a broader user/model working relationship. |
 | Python 3.9+ | Required only for the bundled WAV checker; obtain from [Python](https://www.python.org/downloads/). |
 | Recorder/DAW, audio playback, optional analysis tools | Required according to the requested operation, supplied by your host; routes and upstream links are in the tool guide. |
 

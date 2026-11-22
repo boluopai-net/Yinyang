@@ -12,7 +12,7 @@
 或从[集合压缩包](https://github.com/boluopai-net/Yinyang/archive/refs/heads/main.zip)
 取得本目录，将其放到智能体宿主支持的 Skill 位置。
 
-没有始终必需的配套 Skill。[Yinyang](../yinyang/README.zh-CN.md) 在接收方采用其
+没有始终必需的配套 Skill。[Yinyang Empty](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/README.zh-CN.md) 在接收方采用其
 情境账户时负责上下文关系；Shopping 使用有依据的接收方信息，不包含私人画像。
 [Research](../research/README.zh-CN.md) 在需要调查规格、兼容性或来源陈述时提供
 证据方法。二者是同一公开压缩包中的独立完整包。未安装时，仍可使用当前对话和

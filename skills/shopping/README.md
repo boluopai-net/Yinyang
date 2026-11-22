@@ -13,7 +13,7 @@ Download the [complete shopping directory](https://github.com/boluopai-net/Yinya
 or obtain it from the [collection archive](https://github.com/boluopai-net/Yinyang/archive/refs/heads/main.zip).
 Place the directory in a Skill location supported by your agent host.
 
-No companion Skill is universally required. [Yinyang](../yinyang/README.md)
+No companion Skill is universally required. [Yinyang Empty](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/README.md)
 is the contextual companion when the recipient adopts its situated account;
 Shopping uses supported recipient context without bundling a private portrait.
 [Research](../research/README.md) is the evidence companion when specifications,

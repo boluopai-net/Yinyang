@@ -15,7 +15,7 @@
 | --- | --- |
 | 必需的支持 Skill | 无；练唱方法完整保存在本包中。 |
 | 可选 [research](https://github.com/boluopai-net/Yinyang/tree/main/skills/research) | 调查伴奏来源；需要时下载完整包。伴奏试听和练唱判断仍由 singing 负责。 |
-| 可选 [Yinyang](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang) | 支持更广泛的用户与模型关系；需要时下载完整包。本包不含也不要求私人画像。 |
+| 可选 [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty) | 用于形成更广泛的人与模型工作关系的方法包。 |
 | Python 3.9+ | 仅 WAV 检查脚本需要；从 [Python](https://www.python.org/downloads/) 获取。 |
 | 录音工具或 DAW、音频播放及可选分析工具 | 按请求的操作需要，由宿主提供；路线和上游链接见工具说明。 |
 
