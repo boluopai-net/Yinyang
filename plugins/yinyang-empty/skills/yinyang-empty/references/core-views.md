@@ -1029,7 +1029,9 @@ A recursive loop describes functional return to itself; a directed acyclic commi
 
 ## YY-18 · Personal recursive self-improvement in economic reality
 
-**Invest finite cultivation in embodied, multimodal reasoning in real situations, use available model capabilities as tools, and reselect work allocation as technology and society change.** Personal RSI thereby improves capabilities and the methods for judging which capabilities deserve cultivation.
+Embodied reasoning connects perception, action, affect, memory, and language within an encounter. A person may notice where an account diverges from the situation before finding words to explain it. The consequences of action can then correct that first understanding.
+
+Low human metabolic power coexists with rich multimodal activity, offering grounds for research and cultivation. Brain power consumption, machine computational capacity, and full-brain simulation costs require comparisons appropriate to their respective objects. Machine embodiment is also developing; the scope of near-term substitution depends on actual reliability and expense. The economic value of a hard-to-automate capability still depends on demand and accessible opportunities.
 
 Time, attention, bodily energy, and money support combinations of cultivation,
 model assistance, recovery, and sustaining conditions. Their units and timescales
@@ -1038,6 +1040,8 @@ next allocation. Neuroeconomic research examines valuation and control,
 psychological inquiry examines effort and competing uses, and socioeconomic
 inquiry examines demand, institutions, and the distribution of costs. Together
 they help explain a situated choice and revise how worthwhile investment is judged.
+
+Social models, predictions, and rules change participants and subsequent data. Physiological, psychological, cultural, and institutional interactions require understanding to return continually to activity. Local formalization supplies testable explanations, while feedback following adoption can change their conditions.
 
 To decide whether delegating a task frees resources for practice, look at each resource in its own units.
 
@@ -1052,18 +1056,7 @@ A quicker delivery can leave more time for practice while increasing the attenti
 
 Interest, habit, ability, and economic opportunity can change independently. A research plan therefore asks separately what the person wants to investigate, under which conditions work continues, what they can currently do with support, and which contribution has accessible demand. Practice can test a proposed allocation while inquiry into opportunities supplies different evidence. [The economic essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html#give-a-research-plan-several-independent-grounds) develops this comparison.
 
-[The developed argument](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html) and the
-[psychological](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/psychological-readings.html#valuation-and-the-allocation-of-effort)
-and [engineering](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/engineering-readings.html#physical-conditions-measurement-and-feedback)
-reading routes retain the corresponding sources.
-
-Tasks readily formalized, simulated, and checked at low cost more easily enter scaled training and replication. Economic substitution also depends on reliability, demand, and deployment costs; complementarity can increase the value of another human contribution. A person retains foundations needed to understand, detect consequential errors, and connect results to reality while borrowing capabilities already reliably available.
-
-Social models, predictions, and rules change participants and subsequent data. Physiological, psychological, cultural, and institutional interactions require understanding to return continually to activity. Local formalization supplies testable explanations, while feedback following adoption can change their conditions. Embodied participation connects perception, movement, affect, memory, and language within action, bringing situated observation and social experience into calibration.
-
-Low human metabolic power coexists with rich multimodal activity, offering grounds for research and cultivation. Brain power consumption, machine computational capacity, and full-brain simulation costs require comparisons appropriate to their respective objects. Machine embodiment is also developing; the scope of near-term substitution depends on actual reliability and expense. The economic value of a hard-to-automate capability still depends on demand and accessible opportunities.
-
-Consider a designer walking with a device. They notice where movement interrupts an operation, and the model builds layouts they can try on the same walk. The whole activity gives the following comparisons a common basis.
+Compare practice, delegation, and joint work through the gains and costs of the whole activity.
 
 | Question worth comparing | Consequence for personal RSI |
 | --- | --- |
@@ -1072,7 +1065,16 @@ Consider a designer walking with a device. They notice where movement interrupts
 | How do the contributions strengthen one another? | Let observation change model-generated candidates and model elaboration enrich the next human attempt. |
 | Which investment remains worthwhile after conditions change? | Reselect practice, work allocation, and tools from actual capabilities, demand, and maintenance costs. |
 
-If each prototype takes longer to check than it saves in implementation, supervision changes the value of that division of work. Carrying this finding into the next project improves how the person chooses what to practice and what to delegate. [The full essay](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html) develops the argument.
+Tasks readily formalized, simulated, and checked at low cost more easily enter scaled training and replication. Economic substitution also depends on reliability, demand, and deployment costs; complementarity can increase the value of another human contribution. A person retains foundations needed to understand, detect consequential errors, and connect results to reality while borrowing capabilities already reliably available.
+
+**When formal reasoning becomes quickly and cheaply available through models, the relative priority of cultivating formal reasoning personally and cultivating embodied reasoning and reasoning in natural language reverses.** Training amortizes the cost of forming capabilities across tasks and users. Parallel search also shortens the wait for alternative derivations on a single task. Readers must still give fresh attention to understanding a new argument and checking its premises against the situation. Let the model develop consequences and counterexamples while people notice differences, articulate reasons, and revise their judgments in light of feedback. Borrowing reliable formal capabilities then makes practice in observation, generation, and judgment more valuable because these determine which questions are worth pursuing. [Amortization and cultivation priorities](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html#how-amortization-reverses-the-priorities-of-personal-cultivation)
+
+If verification costs more time than a division of work saves in implementation, revise the allocation. Carrying the result into the next activity improves the method for choosing what to cultivate and what to delegate.
+
+[The developed argument](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/economic-personal-rsi.html) and the
+[psychological](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/psychological-readings.html#valuation-and-the-allocation-of-effort)
+and [engineering](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/engineering-readings.html#physical-conditions-measurement-and-feedback)
+reading routes retain the corresponding sources.
 
 <a id="yy-19"></a>
 
@@ -1089,7 +1091,7 @@ If each prototype takes longer to check than it saves in implementation, supervi
 | Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
 | Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
 
-Following [YY-18](#yy-18), comparing representations and divisions of work requires accounting for the user's effort in giving instructions, switching media, supervising, and resuming. The understanding and judgment preserved in use test whether the burden has fallen and inform revisions to the methods that produce these arrangements. [Cognitive Complexity in Personal Recursive Self-Improvement](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html)
+[YY-18](#yy-18) explains why formal capabilities can be amortized while readers still have to give fresh attention to each new text. Consequently, comparing representations and divisions of work requires accounting for the user's effort in giving instructions, switching media, supervising, and resuming. The understanding and judgment preserved in use test whether the burden has fallen and inform revisions to the methods that produce these arrangements. [Cognitive Complexity in Personal Recursive Self-Improvement](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html)
 
 ## Sources and the author's synthesis
 
