@@ -2,7 +2,7 @@
 
 <a id="forming-a-personal-philosophy-and-personal-models"></a>
 
-The [Practice guide](docs/creation-method.md) explains how to begin. This appendix takes up the next question: how can selected views, your own writing, and personal material become six working accounts that can be used and revised?
+The [Practice guide](docs/creation-method.md) explains how to select or write views of your own. This appendix explains how to distill your essays and personal material into a personal model expressed in six working accounts. Maintain views separately. When an account draws on a view, cite it there.
 
 Keep the original material. Ask the model to draw out the relationships that matter to cooperation. Orientation records what you want to develop. Person, counterpart, and relationship distinguish how you participate, what the model can contribute, and how each contribution lets the other continue. Environment describes the software and arrangements you use. Revision records how to notice and correct a mistaken understanding. Have the model do a real task with these accounts. When something misses, return to the words, situation, or outcome and change the relevant account and environment. If the method for making corrections needs to change, test the new method on the next occasion. The [full argument for strong RSI](docs/literary-recursive-improvement.md#from-rewriting-words-to-changing-the-next-activity) develops this return to the method itself.
 
