@@ -2,8 +2,11 @@
 
 [Home](../../README.md) · [Forming and revising working models](../design-and-revision.md) · [Everyday collaboration](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) · [简体中文](creation-method.zh-CN.md)
 
-Forming your own Yinyang connects adopted philosophy, an understanding of the actual participants,
-and a shared working environment so you and the model can continue to understand, create, judge, and act.
+**To use Yinyang for your own personal recursive self-improvement (RSI), you can skip the philosophical essays.** Browse the [Core views](core-views.md), copy a few you like and want to use, and add ideas of your own. Bring any essays you have written and personal material you have already collected.
+
+Keep six working files: orientation, person, counterpart, relationship, environment, and revision. Have the model distill the views, essays, and material you chose into six accounts of your own practice. Your selected views and those six files together form your personal model. As new material arrives, the model can update your material, views, accounts, and essays automatically or help you revise them.
+
+Supply your selected views and six accounts in the model’s global prompt for everyday work. Have it configure and revise your software environment, including your own Skills, in light of them. Practice noticing a problem and explaining it in ordinary language, ask the model for a counterexample, and try your explanation in the situation itself. Let a mismatch change the relevant account or software setting and see what happens next. That negative feedback gives you a way to cultivate intuition, embodied reasoning, and everyday reasoning in language as you use the environment.
 
 ## Philosophy and the personal environment revise one another
 
@@ -14,8 +17,7 @@ Skills, tools, interfaces, and relevant living conditions. Philosophy helps judg
 worth forming; actual work within that environment exposes philosophical premises, distinctions,
 and direction to correction.
 
-Either object can come first. Reading and developing philosophy usually helps make the direction of
-environmental change clearer. Actual practice often begins with the environment: an awkward reading
+When a direction needs a reason, follow the argument for that view. To configure the environment, start with the work at hand: an awkward reading
 arrangement, a desired creative work, or a model's misunderstanding can initiate revision. Produce a
 usable result in the current object, then bring it into the other for examination and development.
 Once both have usable results, use those results to revise the **meta-level methods** organizing them.
