@@ -98,7 +98,7 @@ Together, these qualities constitute the “lion cub”: the strength to raise o
 
 We adopt a **person-first orientation**: evaluating social arrangements and tools by how they serve concrete people's lives, freedom, purposes, and needs. When a person and an existing arrangement do not fit, we give priority to examining and changing the arrangement; its mere existence does not give it a prior claim to demand personal adaptation.
 
-The priority in assigning adaptation responsibility is: **seek changes to social arrangements first, then software; requiring personal change needs justification from the actual conditions.**
+Any such change must comply with applicable laws and regulations. The priority in assigning adaptation responsibility is: **seek changes to social arrangements first, then software; requiring personal change needs justification from the actual conditions.**
 
 “Cultivating the baby” therefore also makes demands on the environment. Raising objections depends on room to speak and decide within a relationship; repeated trials depend on time, resources, and tools. Merely requiring more self-discipline may cultivate only the ability to endure obstacles. [Personal-first humanism](personal-first-humanism.md) develops this responsibility for adaptation; here it gives openness an opportunity to become capacity. Environmental improvement and voluntary learning can proceed together, without making personal growth the price of accommodating existing arrangements.
 

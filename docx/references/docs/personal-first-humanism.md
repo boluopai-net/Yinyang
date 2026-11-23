@@ -207,7 +207,7 @@ arrangement: when work happens, how decisions are shared, or what others need
 to receive. Others call for different software or an interface. A person can
 also choose to learn, practice, or change a habit for an end they recognize.
 
-Considering social arrangements and software before demanding personal
+Any such change must comply with applicable laws and regulations. Considering social arrangements and software before demanding personal
 adaptation is a productive direction. It opens alternatives that a fixed
 environment might conceal. Actual dependencies can require another order;
 the question is which change serves the purpose under the circumstances.
