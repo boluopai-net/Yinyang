@@ -34,7 +34,7 @@ its developmental purpose or writing a personal philosophy. See
 - [YY-16 · Cultivate a garden of becoming with friends](#yy-16)
 - [YY-17 · Personal recursive self-improvement](#yy-17)
 - [YY-18 · Personal recursive self-improvement in economic reality](#yy-18)
-- [YY-19 · Cognitive complexity in personal recursive self-improvement](#yy-19)
+- [YY-19 · Cognitive complexity and negative feedback in personal recursive self-improvement](#yy-19)
 
 </details>
 
@@ -1054,9 +1054,10 @@ If verification costs more time than a division of work saves in implementation,
 and [engineering](engineering-readings.md#physical-conditions-measurement-and-feedback)
 reading routes retain the corresponding sources.
 
+<a id="yy-19--cognitive-complexity-in-personal-recursive-self-improvement"></a>
 <a id="yy-19"></a>
 
-## YY-19 · Cognitive complexity in personal recursive self-improvement
+## YY-19 · Cognitive complexity and negative feedback in personal recursive self-improvement
 
 **Minimize the cognitive demands that text places on the user.** The person can begin with a relation they already perceive. The model recovers context, organizes material, and carries out formal reasoning and verification. When returning a result, it explains in everyday language what needs the person’s judgment, what evidence bears on it, which differences matter, and under what conditions the conclusion holds.
 
@@ -1073,9 +1074,9 @@ Three principles guide the model when it builds a personal environment.
 | Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
 | Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
 
-Reverse alignment makes human development the aim of collaboration. As the model becomes a more capable interpreter, a few words can set it to work and shape which materials and possibilities the person encounters next. The person's response in turn changes the question and the work the model receives. Drawing on the six working accounts and lived experience, the person can choose a capacity to cultivate through this exchange. When actual results depart from that aim, the two can change how they share the work, check it, or hand it back. If the change reduces the deviation in later collaboration, the loop supplies negative feedback.
+**Design negative feedback into human–AI collaboration so both participants can test their judgments against the facts.** If the model keeps finding reasons for the explanation the person prefers, and the person takes the model’s agreement as corroboration, successive rounds of positive feedback can strengthen a judgment even when it is mistaken. On a correspondence theory of truth, a judgment is true insofar as it accords with the facts. Reverse alignment on this basis means having the model help the person discover and correct errors in their own judgment.
 
-**Across many rounds, ask what the accumulated corrections contribute to the person's development.** Suppose the person wants to practice finding counterexamples. In several discussions the model returns the original material before developing an argument, leaving the person to look for a case that could overturn the conclusion. Later, do their joint arguments hold up against a wider range of counterexamples? On a new question, does the person notice a faulty premise earlier or initiate a test? Reliable model support can also become part of the person's lasting capacity. Weighing these gains against the repeated costs of handoffs, checking and picking up a line of thought gives the two grounds to redesign the feedback itself. They can change which differences they attend to, when a signal returns, and how they respond. Experience can also change the person's preferences and way of life, and with them the direction the feedback sustains.
+**Bring that negative feedback into everyday life by using the model to help revise judgments and actions.** Before acting, the two can say what they expect. Afterward, they can compare what happened with that expectation. A mismatch gives them a reason to revisit the original grounds and change the next attempt. Across many rounds, the person can ask whether the accumulated corrections make it easier to notice an error and change their mind, then adjust the feedback itself. This gives the facts more opportunities to change how the person lives.
 
 ## Sources and the author's synthesis
 
