@@ -1,10 +1,19 @@
 # Yinyang
 
-**Yinyang is one form of personal recursive self-improvement (RSI).** These essays describe how I work with a language model. To try the method in your own life, you can start with [yinyang-empty](skills/yinyang-empty/README.md) and read whichever essays interest you.
+**Yinyang is one form of personal recursive self-improvement (RSI).** These essays describe how I work with a language model. Together we can improve an essay. If we also learn how to spot a problem earlier when writing the next one, we have improved the method by which we improve our work.
 
+Try the method with something you are already doing. If you question an argument or get a different result in practice, you are welcome to [open an issue](https://github.com/boluopai-net/Yinyang/issues). Point to the passage and tell us what you noticed.
+
+| What would you like to do? | Where to go |
+| --- | --- |
+| Read online | [Website](https://boluopai.net/) · [Documents & diagrams](https://boluopai.net/repositories/prometheus/en/) · [简体中文 README](README.zh-CN.md) |
+| Download the illustrated book | [中文 PDF](docx/yinyang.zh-CN.pdf?raw=1) · [English PDF](docx/yinyang.en.pdf?raw=1) |
+| Start with your own material | [Empty Skill](skills/yinyang-empty/README.md) · [Practice guide](docx/references/docs/creation-method.md) |
+
+<!-- reading-cover:start -->
 ## Choose what to read and use
 
-Distill views worth keeping from your own philosophical writing, personal material, and impressions. You can also ask a language model to read this collection’s [Core views](docx/references/docs/core-views.md), select a few you want to adopt, and add judgments of your own.
+To use the method yourself, you can skip the philosophical essays. Distill views worth keeping from your own philosophical writing, personal material, and impressions. You can also ask a language model to read this collection’s [Core views](docx/references/docs/core-views.md), select a few you want to adopt, and add judgments of your own.
 
 Separately, have the language model draw on that material to develop a personal model of how the two of you work together. Write six accounts around the questions that arise in practice: orientation and direction, person, counterpart, relationship, environment, and revision. Where an account needs to explain a working arrangement, cite the relevant view and use your own material to show how it applies in your circumstances. [How to Write the Six Accounts](docx/references/formation/overview.md) explains the question each account addresses. Recurring methods in the material can also become tools or Skills. As new material arrives, the language model can update the relevant views, accounts, and tools automatically or help you revise them.
 
@@ -12,9 +21,9 @@ Include the chosen views and six accounts in the model’s global prompt. Have i
 
 Use that environment to practise intuition, embodied reasoning, and reasoning in everyday language. Notice a difference, propose an explanation in your own words, and test it against counterexamples and actual results. Let an unexpected result change your explanation, a working account, or a software setting, so feedback from life shapes your next attempt.
 
-## Read the collection
+<!-- reading-cover:end -->
 
-Illustrated PDF editions: [Chinese](docx/yinyang.zh-CN.pdf) · [English](docx/yinyang.en.pdf).
+## Read the collection
 
 The web collection, the six working accounts, and the personal environment share a direction: keep the ontology in use coherent while retaining inconsistencies in data from different sources. Another philosophy can supply different concepts and relations for understanding an activity. Events, testimony, and contrary observations keep their provenance and can test the new account.
 
@@ -24,8 +33,6 @@ realization and retain their specialist purposes. Begin with
 [core views](docx/references/docs/core-views.md), or follow the
 [recursive-improvement chapter](docx/references/docs/literary-recursive-improvement.md)
 for the connection between description, interpretation, practice, and changing methods.
-
-[Website](https://boluopai.net/) · [Documents & diagrams](https://boluopai.net/repositories/prometheus/en/) · [简体中文](README.zh-CN.md)
 
 
 <!-- repository-only:start -->

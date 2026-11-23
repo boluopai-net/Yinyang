@@ -1,10 +1,19 @@
 # Yinyang
 
-**阴阳是一种个人递归自改进（RSI）的形式。** 这部文集写的是我怎样与语言模型共同工作。想在自己的生活里用这个方法，可以直接从 [yinyang-empty](skills/yinyang-empty/README.zh-CN.md) 开始，哲学正文可以选读。
+**阴阳是一种个人递归自改进（RSI）的形式。** 这部文集写的是我怎样与语言模型共同工作。一次合作可以改好一篇文章；如果我和模型从中学会怎样更早发现问题，下次写别的文章也用得上，这次改进就改变了产生改进的方法。
 
+你可以挑一个正在做的事情来试。读到有疑问的论证，或试出了和书中预期不同的结果，欢迎[提 Issue](https://github.com/boluopai-net/Yinyang/issues)，指出具体段落，讲讲你看到的差别。
+
+| 想做什么 | 入口 |
+| --- | --- |
+| 在线阅读 | [网站](https://boluopai.net/) · [文档与图示](https://boluopai.net/repositories/prometheus/) · [English README](README.md) |
+| 下载带图电子书 | [中文 PDF](docx/yinyang.zh-CN.pdf?raw=1) · [English PDF](docx/yinyang.en.pdf?raw=1) |
+| 用自己的材料开始 | [Empty 方法包](skills/yinyang-empty/README.zh-CN.md) · [实践指南](docx/references/docs/creation-method.zh-CN.md) |
+
+<!-- reading-cover:start -->
 ## 选择怎样阅读与使用
 
-可以从自己的哲学写作、个人材料和印象中凝练值得保存的观点，也可以请语言模型读取这部文集的[基本观点](docx/references/docs/core-views.zh-CN.md)，挑出想采用的几条，再添上自己的判断。
+想自己用，可以跳过后面的哲学正文。可以从自己的哲学写作、个人材料和印象中凝练值得保存的观点，也可以请语言模型读取这部文集的[基本观点](docx/references/docs/core-views.zh-CN.md)，挑出想采用的几条，再添上自己的判断。
 
 另外，让语言模型从这些材料中独立凝练个人模型，围绕你和模型共同工作的实际问题，写成立场与方向、个人模型、伙伴模型、关系模型、实践环境和修订方式六份描述。需要说明某项安排的理由时，引用相应观点，并用自己的材料说明它怎样适用于你的处境。[如何写六份描述](docx/references/formation/overview.zh-CN.md)说明每份描述回答什么问题。材料里反复用到的方法，还可以提炼成工具或 Skills。以后有新材料，可由语言模型自动或协助更新相应的观点、工作描述和工具。
 
@@ -12,9 +21,9 @@
 
 在这个环境里练习直觉、具身推理和日常语言推理：自己察觉差别，用自己的话提出解释，再拿反例和实际结果来检验。让不合预期的结果改变你的解释、工作描述或软件设置，这样生活里的负反馈就能改变下一次实践。
 
-## 阅读文集
+<!-- reading-cover:end -->
 
-带图 PDF：[中文版](docx/yinyang.zh-CN.pdf) · [英文版](docx/yinyang.en.pdf)。
+## 阅读文集
 
 这部网页文集、六份工作说明和个人环境采用同一方向：让当前使用的本体协调，同时容纳多来源数据里的不一致。换用另一种哲学时，可以重新选取解释活动所需的概念和关系；已经发生的事、不同人的说法和相反的观察保留各自的来处，继续供新的理解检验。
 
@@ -23,8 +32,6 @@
 选读[基本观点](docx/references/docs/core-views.zh-CN.md)，
 或通过[递归改进一章](docx/references/docs/literary-recursive-improvement.zh-CN.md)
 理解描述、解释、实践与方法改变之间的联系。
-
-[网站首页](https://boluopai.net/) · [文档与图示](https://boluopai.net/repositories/prometheus/) · [English](README.md)
 
 
 <!-- repository-only:start -->
