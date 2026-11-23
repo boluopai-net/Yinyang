@@ -2,7 +2,7 @@
 
 **Yinyang is one form of personal recursive self-improvement (RSI).** In recursive self-improvement, the method that produces improvements can itself improve.
 
-If you see room to improve this design or have another question worth discussing, you are welcome to [open an issue](https://github.com/boluopai-net/Yinyang/issues).
+If you see room to improve the design, know of a technology worth incorporating, or have another question, you are welcome to [open an issue](https://github.com/boluopai-net/Yinyang/issues).
 
 | What would you like to do? | Where to go |
 | --- | --- |

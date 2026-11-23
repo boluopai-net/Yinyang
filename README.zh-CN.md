@@ -2,7 +2,7 @@
 
 **阴阳是一种个人递归自改进（RSI）的形式。** 递归自改进指的是，产生改进的方法本身也能得到改进。
 
-如果你觉得这套设计还有改进空间，或有其他值得讨论的问题，欢迎[提 Issue](https://github.com/boluopai-net/Yinyang/issues)。
+如果你觉得这套设计还有改进空间，有值得引入的技术，或有其他问题，欢迎[提 Issue](https://github.com/boluopai-net/Yinyang/issues)。
 
 | 想做什么 | 入口 |
 | --- | --- |
