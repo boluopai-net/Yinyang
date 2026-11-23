@@ -57,13 +57,13 @@
 
 ## 为人与 AI 的耦合系统设计负反馈
 
-[反向对齐](core-views.zh-CN.md#yy-01)把人的发展选为协作的目的。[模型作为解释器](literary-recursive-improvement.zh-CN.md#与变化中的解释器共同发展)，能从同一句意图展开越来越多的工作，甚至改变双方原先想到的方案。在[OpenAI 对预训练研究者的访谈](https://openai.com/index/research-acceleration-jagged-frontier/)里，一位研究者把关键见解归于与 Codex 的共同推敲；另一位说，自己的构想经 Codex 提出的一项修改才有了好效果。[Geoffrey Litt](https://x.com/geoffreylitt/status/2072522251300409556)从软件开发的另一面问：智能体做完这一步以后，人还懂得足够多，能提出下一步的设计吗？
+反向对齐把人的发展选为协作的目的。模型作为解释器，越能理解人的意图，就越能从一句话展开工作。分工也会随之改变。在 [OpenAI 对预训练研究者的访谈](https://openai.com/index/research-acceleration-jagged-frontier/)里，一位研究者说，自己原先的构想经 Codex 提出的一项修改才有了好效果。模型的贡献可以进入构想本身。
 
-[Ashby 在《控制论导论》第十二章](https://www.ashby.info/Ashby-Introduction-to-Cybernetics.pdf)把调节者与它相连的环境作为一个整体考察。对照[由六份描述构成的工作模型](literary-recursive-improvement.zh-CN.md#六个视角共同形成一个功能性自模型)，本人可以留意自己怎样思考、感受和判断，以及模型的回应怎样改变了自己下一次的参与。[Nelson 与 Narens](https://www.imbs.uci.edu/~lnarens/1994/Nelson%26Narens_Book%20Chapter_1994.pdf)区分了对认知活动的观察与调节。模型这次给出的解释或作品改变人下一次怎样判断；人的判断又改变模型下一轮收到什么材料、承担哪些工作、何时把结果交回来。哪些常规检查可以交给模型，哪些地方需要它停下来，把材料交还本人作判断？本轮的后果改变下一轮的做法，减弱本人想要抑制的倾向。这是[负反馈](https://pubmed.ncbi.nlm.nih.gov/7134324/)在人机协作中的用法。
+Ashby 在[《控制论导论》](https://www.ashby.info/Ashby-Introduction-to-Cybernetics.pdf)中把调节者与环境作为一个整体考察。在人与 AI 的耦合系统里，模型给出的解释或作品会改变人的下一次判断；人的判断又改变模型接下来收到的材料、承担的工作和交回结果的时机。本人可以对照由六份描述构成的工作模型，观察自己在这种往返中怎样思考、感受和判断，主动决定在哪一步让模型接手，在哪一步请它交还材料、留给自己判断。当本轮的后果促使双方改变下一轮的做法，减弱本人想要抑制的倾向，负反馈就起了作用。
 
-模型怎样交回结果，会影响本人怎样判断。在 [Anthropic 的实验](https://www.anthropic.com/research/agents-judgment-calls)里，研究者随机改变智能体在四个都有合理选择的问题上的倾向。50 名专业分析师作出的选择有 86% 与智能体的倾向一致。这给核验提出了一个问题：人看到的是模型倾向哪种选择，还是也有机会依据实际结果检验自己的判断？[Berger 等人的再分析](https://doi.org/10.1073/pnas.2536100123)发现，给出 AI 解释的研究中，让人得知实际结果与更好的协同表现相关。
+交回结果时，模型也在影响核验它的人。在 [Anthropic 的实验](https://www.anthropic.com/research/agents-judgment-calls)里，研究者随机改变智能体在四项判断上倾向哪种合理选择。50 名专业分析师作出的选择有 86% 与智能体的倾向一致。因此，设计核验时值得问：本人有什么依据能独立检验这个选择，后来能否看到它的实际后果？
 
-检验这种分工，要分别看两件事：有模型支持时共同做成了什么，过一段时间，本人又能发起、理解或判断什么。可靠的支持也可能成为本人长期能力的一部分。多接手一步或多委托一步的价值，取决于实际所得、失去的练习和核验所花的注意。人据此调整自己的偏好与生活方式，重新选择怎样分配时间、哪些事情愿意亲自投入。这样的改变也会修订反馈的标准。
+评价分工，要分别看有模型支持时共同做成了什么，过一段时间本人又能发起、理解或判断什么。可靠的支持可以成为本人长期能力的一部分。把某一步交给模型或接回自己手中是否值得，要看实际所得、练习的机会和核验的成本。人由此调整自己的偏好和生活方式，重新选择怎样分配时间、哪些事情愿意亲自投入，也改变原先希望反馈维护的方向。
 
 ## 来源及其贡献
 
@@ -71,13 +71,9 @@
 
 1. <a id="source-1"></a> David Kieras 与 Peter G. Polson（1985），An approach to the formal analysis of user complexity。[DOI](https://doi.org/10.1016/S0020-7373(85)80045-6)。通过用户所需的知识和规则分析交互。
 2. <a id="source-2"></a> John Sweller、Jeroen J. G. van Merriënboer 与 Fred Paas（2019），Cognitive Architecture and Instructional Design: 20 Years Later。[DOI](https://doi.org/10.1007/s10648-019-09465-5)。说明元素交互、先前知识与工作记忆要求。
-3. <a id="source-3"></a> David Kirsh 与 Paul Maglio（1994），On Distinguishing Epistemic from Pragmatic Action。[DOI](https://doi.org/10.1207/S15516709COG1804_1)。说明行动怎样改变推理条件。
-4. <a id="source-4"></a> Judy Hanwen Shen 与 Alex Tamkin，How AI Impacts Skill Formation。[论文](https://arxiv.org/abs/2601.20245) · [研究报告](https://www.anthropic.com/research/AI-assistance-coding-skills)。AI 辅助与陌生编程库学习的随机实验；发现以所测的学习条件为范围。
-5. <a id="source-5"></a> Erik M. Altmann 与 J. Gregory Trafton（2002），Memory for goals: an activation-based model。[DOI](https://doi.org/10.1207/S15516709COG2601_2)。联系提取线索与悬置目标的接续。
-6. <a id="source-9"></a> Evan F. Risko 与 Sam J. Gilbert（2016），Cognitive Offloading，Trends in Cognitive Sciences。[论文](https://samgilbert.net/pubs/Risko2016TiCS.pdf)。说明外部行动如何改变任务的认知要求。
-7. <a id="source-10"></a> Sandra Grinschgl、Frank Papenmeier 与 Hauke S. Meyerhoff（2021），Consequences of cognitive offloading: Boosting performance but diminishing memory，Quarterly Journal of Experimental Psychology。[论文](https://pmc.ncbi.nlm.nih.gov/articles/PMC8358584/)。通过图案复制实验比较当时的表现与后续记忆。
-8. <a id="source-11"></a> Slava Kalyuga、Paul Chandler、Juhani Tuovinen 与 John Sweller（2001），When problem solving is superior to studying worked examples，Journal of Educational Psychology。[DOI](https://doi.org/10.1037/0022-0663.93.3.579)。说明解题与研读示例的相对收益随学习经验变化。
-9. <a id="source-12"></a> Henry L. Roediger III 与 Jeffrey D. Karpicke（2006），Test-enhanced learning: Taking memory tests improves long-term retention，Psychological Science。[DOI](https://doi.org/10.1111/j.1467-9280.2006.01693.x)。通过文章学习实验比较提取练习与重复学习对延后记忆的影响。
-10. <a id="source-13"></a> Hamsa Bastani 等（2025），Generative AI without guardrails can harm learning: Evidence from high school mathematics，Proceedings of the National Academy of Sciences。[DOI](https://doi.org/10.1073/pnas.2422633122)。比较两种 AI 辅助方式对数学练习表现和之后无辅助考试的影响。
-11. <a id="source-14"></a> Jill H. Larkin 与 Herbert A. Simon（1987），Why a Diagram is (Sometimes) Worth Ten Thousand Words，Cognitive Science 11(1)，65–100。[DOI](https://doi.org/10.1111/j.1551-6708.1987.tb00863.x)。区分信息等价与计算等价，说明空间组织怎样改变搜索和推断。
-12. <a id="source-15"></a> Richard E. Mayer 与 Roxana Moreno（2003），Nine Ways to Reduce Cognitive Load in Multimedia Learning，Educational Psychologist 38(1)，43–52。[DOI](https://doi.org/10.1207/S15326985EP3801_6)。分析多媒体加工中的通道容量、邻近、分段、整合与超负荷，为比较呈现收益和协调成本提供依据。
+3. <a id="source-9"></a> Evan F. Risko 与 Sam J. Gilbert（2016），Cognitive Offloading，Trends in Cognitive Sciences。[论文](https://samgilbert.net/pubs/Risko2016TiCS.pdf)。说明外部行动如何改变任务的认知要求。
+4. <a id="source-10"></a> Sandra Grinschgl、Frank Papenmeier 与 Hauke S. Meyerhoff（2021），Consequences of cognitive offloading: Boosting performance but diminishing memory，Quarterly Journal of Experimental Psychology。[论文](https://pmc.ncbi.nlm.nih.gov/articles/PMC8358584/)。通过图案复制实验比较当时的表现与后续记忆。
+5. <a id="source-12"></a> Henry L. Roediger III 与 Jeffrey D. Karpicke（2006），Test-enhanced learning: Taking memory tests improves long-term retention，Psychological Science。[DOI](https://doi.org/10.1111/j.1467-9280.2006.01693.x)。通过文章学习实验比较提取练习与重复学习对延后记忆的影响。
+6. <a id="source-13"></a> Hamsa Bastani 等（2025），Generative AI without guardrails can harm learning: Evidence from high school mathematics，Proceedings of the National Academy of Sciences。[DOI](https://doi.org/10.1073/pnas.2422633122)。比较两种 AI 辅助方式对数学练习表现和之后无辅助考试的影响。
+7. <a id="source-14"></a> Jill H. Larkin 与 Herbert A. Simon（1987），Why a Diagram is (Sometimes) Worth Ten Thousand Words，Cognitive Science 11(1)，65–100。[DOI](https://doi.org/10.1111/j.1551-6708.1987.tb00863.x)。区分信息等价与计算等价，说明空间组织怎样改变搜索和推断。
+8. <a id="source-15"></a> Richard E. Mayer 与 Roxana Moreno（2003），Nine Ways to Reduce Cognitive Load in Multimedia Learning，Educational Psychologist 38(1)，43–52。[DOI](https://doi.org/10.1207/S15326985EP3801_6)。分析多媒体加工中的通道容量、邻近、分段、整合与超负荷，为比较呈现收益和协调成本提供依据。

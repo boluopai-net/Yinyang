@@ -1060,7 +1060,7 @@ reading routes retain the corresponding sources.
 
 **Minimize the cognitive demands that text places on the user.** The person can begin with a relation they already perceive. The model recovers context, organizes material, and carries out formal reasoning and verification. When returning a result, it explains in everyday language what needs the person’s judgment, what evidence bears on it, which differences matter, and under what conditions the conclusion holds.
 
-[YY-02](#yy-02), [YY-03](#yy-03), and [YY-07](#yy-07) describe how people form ideas and make judgments through perception and intuition. Three principles apply to everything the user sees, including interfaces, notes, and prompts.
+Three principles apply to everything the user sees, including interfaces, notes, and prompts.
 
 - **Visuals over text.** Shapes, trends, and changes in a diagram are easier to grasp intuitively.
 - **Clarity over complexity.** Define a concept by saying what it means intuitively in clear, everyday language. Unnecessary negations, explanations, endorsements, and closing caveats can bury the point and leave the reader circling a concept.
@@ -1073,7 +1073,7 @@ reading routes retain the corresponding sources.
 | Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
 | Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
 
-[Reverse alignment](#yy-01) makes human development the aim. As the model becomes better at interpreting intent and carrying work forward, the person can draw on the six working accounts and lived experience to [design feedback for the coupled human–AI system](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.html), adjusting the division of work, verification, and when the model hands work back. What the two accomplish together and what the person can later think through, judge, or initiate inform different decisions. People can change their preferences and way of life through that experience and reconsider what the feedback should sustain.
+Reverse alignment makes human development the aim. As the model becomes better at interpreting intent and carrying work forward, the person can draw on the six working accounts and lived experience to design feedback for the coupled human–AI system, adjusting the division of work, verification, and when the model hands work back. What the two accomplish together and what the person can later think through, judge, or initiate inform different decisions. People can change their preferences and way of life through that experience and reconsider what the feedback should sustain.
 
 ## Sources and the author's synthesis
 
