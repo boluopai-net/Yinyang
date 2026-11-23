@@ -1,30 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 1200 800" aria-labelledby="title desc"><title id="title">Three principles for presenting information</title><desc id="desc">Two lines coincide and then diverge. See the change, define the gap in everyday language, and turn to calculation when a number is needed.</desc><rect width="1200" height="800" fill="#f9f8f4" rx="12"/><g font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
-<text x="52" y="75" font-size="42" font-weight="600" fill="#233e38">Three principles for presenting information</text>
-<text x="54" y="122" font-size="28" font-weight="400" fill="#233e38">Where do the two curves begin to diverge?</text>
-<rect x="44" y="159" width="1112" height="315" rx="14" fill="#eaf0eb"/>
-<text x="71" y="215" font-size="30" font-weight="600" fill="#233e38">Visuals over text</text>
-<text x="73" y="267" font-size="19" font-weight="400" fill="#233e38">The shapes show where the lines</text>
-<text x="73" y="303" font-size="19" font-weight="400" fill="#233e38">part and how the gap changes.</text>
-<path d="M497 203V416H1107" fill="none" stroke="#9cac9f" stroke-width="2" />
-<text x="1060" y="450" font-size="18" font-weight="400" fill="#4e655c">Time</text>
-<path d="M521 365 C594 365 627 335 706 335 S779 332 809 323" fill="none" stroke="#455f54" stroke-width="5" />
-<path d="M809 323 C889 323 967 249 1064 212" fill="none" stroke="#354f46" stroke-width="5" />
-<path d="M809 323 C893 323 970 361 1064 364" fill="none" stroke="#698278" stroke-width="5" stroke-dasharray="12 7"/>
-<circle cx="809" cy="323" r="7" fill="#344f46"/>
-<path d="M809 338v38" fill="none" stroke="#597068" stroke-width="2" />
-<text x="770" y="402" font-size="19" font-weight="600" fill="#233e38">Divergence</text>
-<path d="M1075 213h12v150h-12" fill="none" stroke="#596e66" stroke-width="2.5" />
-<text x="1095" y="294" font-size="17" font-weight="600" fill="#233e38">Gap</text>
-<rect x="44" y="498" width="541" height="255" rx="14" fill="#f0f2ee"/>
-<rect x="602" y="498" width="554" height="255" rx="14" fill="#f0f2ee"/>
-<text x="72" y="553" font-size="30" font-weight="600" fill="#233e38">Clarity over complexity</text>
-<text x="72" y="603" font-size="22" font-weight="400" fill="#4e655c">What does “gap” mean here?</text>
-<text x="72" y="654" font-size="20" font-weight="400" fill="#233e38">At the same moment, how much higher</text>
-<text x="72" y="688" font-size="20" font-weight="400" fill="#233e38">is one line than the other? That difference</text>
-<text x="72" y="722" font-size="20" font-weight="400" fill="#233e38">is the gap.</text>
-<text x="630" y="553" font-size="30" font-weight="600" fill="#233e38">Intuition over formalism</text>
-<text x="630" y="600" font-size="20" font-weight="400" fill="#233e38">To tell which way things are changing, look:</text>
-<text x="630" y="634" font-size="20" font-weight="400" fill="#233e38">the gap grows after the lines part.</text>
-<path d="M630 659H1124" fill="none" stroke="#c0ccc3" stroke-width="1" />
-<text x="630" y="693" font-size="19" font-weight="400" fill="#4e655c">To find the size of the gap, take both values</text>
-<text x="630" y="724" font-size="19" font-weight="400" fill="#4e655c">at the same moment and subtract the smaller.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 1200 800" aria-labelledby="title desc"><title id="title">Three principles for building a personal environment</title><desc id="desc">The principles address building an environment, explaining a concept, and helping someone configure their own environment.</desc><rect width="1200" height="800" rx="12" fill="#f9f8f4"/><g font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
+<text x="54" y="91" font-size="41" font-weight="600" fill="#2b443b">Three principles for building a personal environment</text>
+<rect x="46" y="138" width="1108" height="185" rx="14" fill="#ebf0eb" stroke="#cbd6ce"/>
+<text x="77" y="180" font-size="19" font-weight="400" fill="#526b5f">Building the environment</text>
+<text x="76" y="238" font-size="32" font-weight="600" fill="#2b443b">Intuition over formalism</text>
+<path d="M456 166v129" stroke="#c0cec4" stroke-width="2"/>
+<text x="484" y="183" font-size="19" font-weight="400" fill="#2b443b">Make the purpose and use of the environment apparent through</text>
+<text x="484" y="208" font-size="19" font-weight="400" fill="#2b443b">everyday experience.</text>
+<text x="484" y="251" font-size="19" font-weight="400" fill="#2b443b">Introduce formal language when a precise definition,</text>
+<text x="484" y="276" font-size="19" font-weight="400" fill="#2b443b">calculation, or proof calls for it.</text>
+<rect x="46" y="351" width="1108" height="185" rx="14" fill="#eff1ec" stroke="#cbd6ce"/>
+<text x="77" y="393" font-size="19" font-weight="400" fill="#526b5f">Introducing a concept</text>
+<text x="76" y="451" font-size="32" font-weight="600" fill="#2b443b">Clarity over complexity</text>
+<path d="M456 379v129" stroke="#c0cec4" stroke-width="2"/>
+<text x="484" y="396" font-size="19" font-weight="400" fill="#2b443b">Say directly what the concept means in everyday language.</text>
+<text x="484" y="464" font-size="19" font-weight="400" fill="#2b443b">Keep distinctions that matter to its meaning. Omit repetition</text>
+<text x="484" y="489" font-size="19" font-weight="400" fill="#2b443b">and incidental caveats.</text>
+<rect x="46" y="564" width="1108" height="185" rx="14" fill="#e8efeb" stroke="#cbd6ce"/>
+<text x="77" y="606" font-size="19" font-weight="400" fill="#526b5f">Helping with personal configuration</text>
+<text x="76" y="664" font-size="32" font-weight="600" fill="#2b443b">Visuals over text</text>
+<path d="M456 592v129" stroke="#c0cec4" stroke-width="2"/>
+<text x="484" y="609" font-size="19" font-weight="400" fill="#2b443b">Show layouts, relationships, and changes so the person can see</text>
+<text x="484" y="634" font-size="19" font-weight="400" fill="#2b443b">them directly.</text>
+<text x="484" y="677" font-size="19" font-weight="400" fill="#2b443b">Use words for the names and conditions needed to judge the</text>
+<text x="484" y="702" font-size="19" font-weight="400" fill="#2b443b">configuration.</text></g></svg>

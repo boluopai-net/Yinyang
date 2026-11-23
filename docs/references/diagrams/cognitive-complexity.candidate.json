@@ -1,47 +1,62 @@
 {
   "zh-CN": {
-    "title": "处理文字的三条原则",
-    "description": "两条线从重合到分开。直接看形状辨认变化，用日常语言说明差距，只有求具体数值时才引入计算。",
-    "labels": [
-      "两条曲线从哪里开始分开？",
-      "图优于文字",
-      "看形状，就能找到分开的位置，",
-      "也能看出之后的走势。",
-      "时间",
-      "从这里分开",
-      "差距",
-      "清晰优于复杂",
-      "图里的「差距」是什么意思？",
-      "在同一时刻，一条线比另一条线",
-      "高出多少，就是它们的差距。",
-      "直观优于形式",
-      "想知道变化方向，看图就能说：",
-      "两条线分开后，差距越来越大。",
-      "要算差多少时，再取同一时刻的两个值，",
-      "用较大的减去较小的。"
+    "title": "模型构筑个人环境的三个原则",
+    "description": "三项原则分别说明模型如何构筑环境、介绍概念和帮助本人配置环境。",
+    "principles": [
+      {
+        "context": "构筑环境",
+        "principle": "直观优于形式",
+        "meaning": [
+          "让本人凭日常经验就能看懂环境怎样使用、能用来做什么。",
+          "需要精确定义、计算或证明时，再引入相应的形式语言。"
+        ]
+      },
+      {
+        "context": "介绍概念",
+        "principle": "清晰优于复杂",
+        "meaning": [
+          "用日常语言直接说清一个概念指什么。",
+          "保留决定含义的区别和条件，省去重复解释和琐碎限定。"
+        ]
+      },
+      {
+        "context": "帮助本人配置环境",
+        "principle": "图优于文字",
+        "meaning": [
+          "把布局、关系和变化画出来，让本人直接看见。",
+          "文字标明必要的名称和条件，本人就能对着配置作判断。"
+        ]
+      }
     ]
   },
   "en": {
-    "title": "Three principles for presenting information",
-    "description": "Two lines coincide and then diverge. See the change, define the gap in everyday language, and turn to calculation when a number is needed.",
-    "labels": [
-      "Where do the two curves begin to diverge?",
-      "Visuals over text",
-      "The shapes show where the lines",
-      "part and how the gap changes.",
-      "Time",
-      "Divergence",
-      "Gap",
-      "Clarity over complexity",
-      "What does “gap” mean here?",
-      "At the same moment, how much higher",
-      "is one line than the other? That difference",
-      "is the gap.",
-      "Intuition over formalism",
-      "To tell which way things are changing, look:",
-      "the gap grows after the lines part.",
-      "To find the size of the gap, take both values",
-      "at the same moment and subtract the smaller."
+    "title": "Three principles for building a personal environment",
+    "description": "The principles address building an environment, explaining a concept, and helping someone configure their own environment.",
+    "principles": [
+      {
+        "context": "Building the environment",
+        "principle": "Intuition over formalism",
+        "meaning": [
+          "Make the purpose and use of the environment apparent through everyday experience.",
+          "Introduce formal language when a precise definition, calculation, or proof calls for it."
+        ]
+      },
+      {
+        "context": "Introducing a concept",
+        "principle": "Clarity over complexity",
+        "meaning": [
+          "Say directly what the concept means in everyday language.",
+          "Keep distinctions that matter to its meaning. Omit repetition and incidental caveats."
+        ]
+      },
+      {
+        "context": "Helping with personal configuration",
+        "principle": "Visuals over text",
+        "meaning": [
+          "Show layouts, relationships, and changes so the person can see them directly.",
+          "Use words for the names and conditions needed to judge the configuration."
+        ]
+      }
     ]
   }
 }

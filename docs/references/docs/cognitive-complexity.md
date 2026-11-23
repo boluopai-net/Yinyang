@@ -1,6 +1,6 @@
 # Cognitive Complexity in Personal Recursive Self-Improvement
 
-![Visuals over text, clarity over complexity, intuition over formalism.](../diagrams/cognitive-complexity.svg)
+![Three principles for building a personal environment](../diagrams/cognitive-complexity.svg)
 
 [中文](cognitive-complexity.zh-CN.md)
 
@@ -10,13 +10,11 @@ To resume an argument, someone may first have to find the current draft, remembe
 
 ## Three Priorities for the Whole Environment
 
-Whether designing an interface, writing notes, or composing a prompt someone will read and edit, start with what the reader needs to grasp.
+**Intuition over formalism.** When building an environment, the model should make its purpose and use understandable through everyday experience. An interface, a note, or a prompt can express intent in ordinary language. Introduce formal language when the task needs a precise definition, a calculation, or a proof.
 
-**Visuals over text.** Shapes and changes in a diagram are easier to grasp intuitively. You can see where two curves begin to diverge. A point-by-point description leaves you to reconstruct the picture.
+**Clarity over complexity.** When introducing a concept, say directly what it means in everyday language. Make the distinctions and conditions that determine its meaning explicit. Repeated explanations, endorsements, and incidental qualifications can bury the definition.
 
-**Clarity over complexity.** A clear definition puts the intuitive meaning of a concept into everyday words. In a note, “resuming” can simply mean coming back to the question you were thinking about last time. Unnecessary prohibitions, repeated explanations, endorsements, and closing caveats can bury a point that takes one sentence to make.
-
-**Intuition over formalism.** When writing a prompt, start by saying in ordinary words what you want done. Introduce formal language only when the task calls for a precise definition, a calculation, or a proof.
+**Visuals over text.** When helping someone configure their environment, show its layout, relationships, and changes visually. Shapes, trends, and differences between arrangements can be recognized at a glance. A point-by-point description makes the person reconstruct them. Label what matters so the person can judge the configuration directly.
 
 Understanding an argument takes work to connect a claim with its grounds. Searching several tabs for the source adds work imposed by the environment. Cognitive complexity concerns the relations and steps the task requires, and cognitive load concerns how much of the person’s available capacity they occupy.
 
