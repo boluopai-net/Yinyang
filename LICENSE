@@ -4,8 +4,8 @@ Copyright (c) 2026 boluopai (GitHub: boluopaii)
 1. Scope and acceptance
 These terms apply to original text, Skill instructions, code, illustrations,
 diagrams, and other material expressly offered under this license (the
-"Material"), including the original material in the Yinyang Full and Empty
-packages. The copyright holder offering the Material is the "Licensor".
+"Material"), including the original Yinyang writings and shared methods and the
+original material in the yinyang-empty package. The copyright holder offering the Material is the "Licensor".
 By exercising rights granted by this license, you accept its conditions.
 These terms grant only rights that the Licensor has authority to grant.
 Third-party works, separately licensed packages, and your own original
@@ -16,8 +16,8 @@ The Licensor grants you a worldwide, royalty-free, non-exclusive,
 non-transferable, non-sublicensable license to download, retain private copies
 and backups, read, execute, and modify the Material for your personal use or
 your own internal work. This includes learning and assisting paid employment,
-freelance work, research, and business activities. No download application,
-individual approval, or publication of private modifications is required.
+freelance work, research, and business activities. You need no separate approval for these uses and may keep your
+modifications private.
 
 You may use a private repository, cloud storage, or a model or computing
 service to store or process the Material solely on your behalf for these
@@ -40,7 +40,8 @@ membership libraries, bundled content, and hosted assistants that provide
 customers access to the Material or its modified functionality. Using the
 Material privately as a tool to produce your own work for clients is permitted;
 providing clients with the Material, a modified copy, or access to it is not.
-Uses outside these permissions require separate permission from the Licensor.
+For uses that require permission and are not covered by this license, the
+Licensor may grant separate permission on different terms.
 
 4. Independent work, outputs, and links
 You retain rights in your original contributions. You may publish, sell, and
@@ -59,25 +60,20 @@ including viewing and forking through that service, remain unaffected.
 This exception does not independently authorize off-platform redistribution,
 commercial provision, or further uses beyond the platform grant.
 
-6. Separate grants
-The Licensor may separately license the Material on other terms.
-
-7. Termination and cure
+6. Termination and cure
 Rights under this license terminate if you violate its conditions. They are
 reinstated if you remedy the violation within 30 days after first learning of
 it, unless you have previously used this cure provision. Termination does not
 affect rights arising independently under law or another valid license.
 
-8. No warranty or liability
+7. No warranty or liability
 To the extent permitted by applicable law, the Material is provided "as is",
 without warranties of any kind, and the Licensor is not liable for claims,
 damages, or other liability arising from the Material or its use. Mandatory
 rights and liabilities that cannot lawfully be excluded remain unaffected.
 
-9. Interpretation
-This is a custom source-available license, not an open-source, Creative
-Commons, or PolyForm license. The English text is authoritative; reader
-summaries and translations explain it without expanding its permissions.
+8. Interpretation
+The English text is authoritative. Summaries and translations are provided
+for convenience and do not modify these terms.
 No trademark rights or endorsement are granted. If a provision is unenforceable,
 the remaining provisions continue to apply to the extent permitted by law.
-
