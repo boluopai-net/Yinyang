@@ -6,7 +6,7 @@ Try the method with something you are already doing. If you question an argument
 
 | What would you like to do? | Where to go |
 | --- | --- |
-| Read online | [Website](https://boluopai.net/) · [Documents & diagrams](https://boluopai.net/repositories/prometheus/en/) · [简体中文 README](README.zh-CN.md) |
+| Read online | [Yinyang](https://boluopai.net/yinyang/en/) · [Documents & diagrams](https://boluopai.net/repositories/prometheus/en/) · [简体中文 README](README.zh-CN.md) |
 | Download the illustrated book | [中文 PDF](docx/yinyang.zh-CN.pdf?raw=1) · [English PDF](docx/yinyang.en.pdf?raw=1) |
 | Start with your own material | [Empty Skill](skills/yinyang-empty/README.md) · [Practice guide](docx/references/docs/creation-method.md) |
 
@@ -15,7 +15,7 @@ Try the method with something you are already doing. If you question an argument
 
 To use the method yourself, you can skip the philosophical essays. Distill views worth keeping from your own philosophical writing, personal material, and impressions. You can also ask a language model to read this collection’s [Core views](docx/references/docs/core-views.md), select a few you want to adopt, and add judgments of your own.
 
-Separately, have the language model draw on that material to develop a personal model of how the two of you work together. Write six accounts around the questions that arise in practice: orientation and direction, person, counterpart, relationship, environment, and revision. Where an account needs to explain a working arrangement, cite the relevant view and use your own material to show how it applies in your circumstances. [How to Write the Six Accounts](docx/references/formation/overview.md) explains the question each account addresses. Recurring methods in the material can also become tools or Skills. As new material arrives, the language model can update the relevant views, accounts, and tools automatically or help you revise them.
+Separately, have the language model draw on that material to develop a working model of how the two of you work together. Write six accounts around the questions that arise in practice: orientation and direction, person, counterpart, relationship, environment, and revision. Where an account needs to explain a working arrangement, cite the relevant view and use your own material to show how it applies in your circumstances. [How to Write the Six Accounts](docx/references/formation/overview.md) explains the question each account addresses. Recurring methods in the material can also become tools or Skills. As new material arrives, the language model can update the relevant views, accounts, and tools automatically or help you revise them.
 
 Include the chosen views and six accounts in the model’s global prompt. Have it use them to configure and adjust your everyday software environment, including your own Skills. See the [Practice guide](docx/references/docs/creation-method.md).
 

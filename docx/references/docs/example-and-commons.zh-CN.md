@@ -76,9 +76,8 @@ Personal 的四个主题组保留有实质内容的可读文章，Observations �
 都可以由此相遇，不必合入作者的文集。
 
 通过 [Issue](https://github.com/boluopai-net/Yinyang/issues) 可以提问、纠错、
-提出建议、分享相关作品，或向 boluopai 点歌。[唱歌点播台](https://boluopai.net/singing/)
-只接受给作者的点歌，不接收其他人的录音投稿。本仓库不支持任何 PR，包括 Skills、代码、 [[2]](#source-2)。
-翻译、文档与录音；集合的修改和发布由作者维护。
+提出建议或分享相关作品。本仓库不支持任何 PR，包括 Skills、代码、翻译、文档与录音；
+集合的修改和发布由作者维护 [[2]](#source-2)。
 [交流说明](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.zh-CN.md)
 展开这些入口。
 

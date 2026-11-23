@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "yinyang-empty",
-      "version": "1.0.98",
+      "version": "1.0.99",
       "description": "<用户自制> 阴阳空白版：形成自己的个人阴阳，接入完整工作上下文，并按任务查阅资料与修订方法。 Form a personal Yinyang, connect its complete working context, and locate task-relevant materials and revision methods.",
       "source": {
         "source": "local",
@@ -21,7 +21,7 @@
         "displayName": "yinyang-empty",
         "shortDescription": "Dialectical core and methods for your own Yinyang",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty",
         "longDescription": "Keep reverse alignment, Yinyang dialectics, six formation guides, Core views as suggestions, practice overview, formation and revision, and daily collaboration. No docs or diagrams trees. Develop your own philosophy, Personal material, and six Situated accounts with your model. The author's essays remain optional website reading.",
         "category": "Education & Research",
         "capabilities": [],
@@ -33,7 +33,7 @@
     },
     {
       "name": "random-wheel",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "<用户自制> 随机转盘：把截图或选项做成可调速的动画转盘，随机抽选。 Turn screenshot choices or named options into a speed-adjustable animated wheel with equal-probability random selection.",
       "source": {
         "source": "local",
@@ -48,7 +48,7 @@
         "displayName": "random-wheel",
         "shortDescription": "Draw a fair random choice",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/random-wheel",
         "longDescription": "Turn screenshot choices or named options into a speed-adjustable animated wheel with equal-probability random selection. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -60,7 +60,7 @@
     },
     {
       "name": "research",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "description": "<用户自制> 搜索与研究：调查问题、比较方案、核实证据。 Investigate facts, product behavior, and alternatives with inspectable sources, observations, assumptions, and coverage limits.",
       "source": {
         "source": "local",
@@ -75,7 +75,7 @@
         "displayName": "research",
         "shortDescription": "Research with evidence",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/research",
         "longDescription": "Investigate facts, product behavior, and alternatives with inspectable sources, observations, assumptions, and coverage limits. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -87,7 +87,7 @@
     },
     {
       "name": "task-inquiry",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "description": "<用户自制> 任务探究：用证据与针对性提问澄清有实质影响的分歧。 Clarify consequential uncertainty through real tensions, evidence, reasoning, and useful questions.",
       "source": {
         "source": "local",
@@ -102,7 +102,7 @@
         "displayName": "task-inquiry",
         "shortDescription": "Clarify consequential choices",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/task-inquiry",
         "longDescription": "Clarify consequential uncertainty through real tensions, evidence, reasoning, and useful questions. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -114,7 +114,7 @@
     },
     {
       "name": "prompt-and-skill-lifecycle",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "description": "<用户自制> 提示词与技能生命周期：编写、审查、维护和发布提示词与 Skill。 Connect instruction meaning, ownership, delivery, and evidence of use when authoring, auditing, and maintaining Prompts and Skills.",
       "source": {
         "source": "local",
@@ -129,7 +129,7 @@
         "displayName": "prompt-and-skill-lifecycle",
         "shortDescription": "Author and maintain Skills",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/prompt-and-skill-lifecycle",
         "longDescription": "Connect instruction meaning, ownership, delivery, and evidence of use when authoring, auditing, and maintaining Prompts and Skills. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -141,7 +141,7 @@
     },
     {
       "name": "android-control",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 安卓控制：操作真实安卓手机，管理应用、界面、文件与连接。 Operate your Android device through ADB and native interfaces, verifying actual effects.",
       "source": {
         "source": "local",
@@ -156,7 +156,7 @@
         "displayName": "android-control",
         "shortDescription": "Operate your Android phone",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/android-control",
         "longDescription": "Operate your Android device through ADB and native interfaces, verifying actual effects. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -168,7 +168,7 @@
     },
     {
       "name": "personal-environment-design",
-      "version": "1.0.10",
+      "version": "1.0.11",
       "description": "<用户自制> 个人环境设计：统筹提示词、Skill、MCP、插件、应用、自动化、服务与使用体验的配置。 Configure connected instructions, tools, services, and human-facing workflows as one working environment.",
       "source": {
         "source": "local",
@@ -183,7 +183,7 @@
         "displayName": "personal-environment-design",
         "shortDescription": "Shape your working environment",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/personal-environment-design",
         "longDescription": "Configure connected instructions, tools, services, and human-facing workflows as one working environment. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -195,7 +195,7 @@
     },
     {
       "name": "model-upgrade-check",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 模型升级检查：按实际用途核对模型、推理档位与消费者。 Reconcile available models, purpose-specific selections, and actual consumers.",
       "source": {
         "source": "local",
@@ -210,7 +210,7 @@
         "displayName": "model-upgrade-check",
         "shortDescription": "Verify model upgrades",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/model-upgrade-check",
         "longDescription": "Reconcile available models, purpose-specific selections, and actual consumers. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -222,7 +222,7 @@
     },
     {
       "name": "paper-retrieval",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 论文检索：筛选中英文论文与学术书籍，核对题录、版本和全文。 Reconcile bibliography, editions, and full text to deliver verifiable scholarly material.",
       "source": {
         "source": "local",
@@ -237,7 +237,7 @@
         "displayName": "paper-retrieval",
         "shortDescription": "Find papers and books",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/paper-retrieval",
         "longDescription": "Reconcile bibliography, editions, and full text to deliver verifiable scholarly material. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -249,7 +249,7 @@
     },
     {
       "name": "video-subtitle",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 视频字幕：提取 YouTube 与 Bilibili 的字幕并依据实际读到的讲话文本作答。 Retrieve source-linked, timed spoken text and check it against the original video.",
       "source": {
         "source": "local",
@@ -264,7 +264,7 @@
         "displayName": "video-subtitle",
         "shortDescription": "Read video transcripts",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/video-subtitle",
         "longDescription": "Retrieve source-linked, timed spoken text and check it against the original video. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -276,7 +276,7 @@
     },
     {
       "name": "singing",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "description": "<用户自制> 练唱：寻找可用伴奏与 KTV，录音回听，并依据原唱和实际音频指导演唱。 Prepare accompaniment, recordings, and reference performances for evidence-based singing practice.",
       "source": {
         "source": "local",
@@ -291,7 +291,7 @@
         "displayName": "singing",
         "shortDescription": "Practice and review singing",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/singing",
         "longDescription": "Prepare accompaniment, recordings, and reference performances for evidence-based singing practice. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -303,7 +303,7 @@
     },
     {
       "name": "local-teacher",
-      "version": "1.0.22",
+      "version": "1.0.23",
       "description": "<用户自制> 本地老师：在本地 Codex 中讲解课程与概念，带领复习、练习和学习项目。 Explain, review, and practice in a local environment, developing understanding through real work.",
       "source": {
         "source": "local",
@@ -318,7 +318,7 @@
         "displayName": "local-teacher",
         "shortDescription": "Learn through local practice",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/local-teacher",
         "longDescription": "Explain, review, and practice in a local environment, developing understanding through real work. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -330,7 +330,7 @@
     },
     {
       "name": "web-teacher",
-      "version": "1.0.27",
+      "version": "1.0.28",
       "description": "<用户自制> 云端老师：依据材料教学与探究，组织课程、概念图、学习路径和进度接续。 Provide shared methods for course material, teaching, learning paths, and learning spaces.",
       "source": {
         "source": "local",
@@ -345,7 +345,7 @@
         "displayName": "web-teacher",
         "shortDescription": "Develop learning workflows",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/web-teacher",
         "longDescription": "Provide shared methods for course material, teaching, learning paths, and learning spaces. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -357,7 +357,7 @@
     },
     {
       "name": "shopping",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "description": "<用户自制> 购物与比价：搜索国内电商与闲鱼商品，比较价格、优惠和二手选择。 Compare products, prices, offers, and secondhand choices with inspectable evidence and conditions.",
       "source": {
         "source": "local",
@@ -372,7 +372,7 @@
         "displayName": "shopping",
         "shortDescription": "Compare products and prices",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/shopping",
         "longDescription": "Compare products, prices, offers, and secondhand choices with inspectable evidence and conditions. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -384,7 +384,7 @@
     },
     {
       "name": "prompt-audit-orchestration",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "description": "<用户自制> 提示词审计：按范围审计学习、工作与已保存任务的提示词和技能执行链。 Audit instructions and execution relationships across learning, work, Web, and automation within the requested scope.",
       "source": {
         "source": "local",
@@ -399,7 +399,7 @@
         "displayName": "prompt-audit-orchestration",
         "shortDescription": "Audit instructions and tasks",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/prompt-audit-orchestration",
         "longDescription": "Audit instructions and execution relationships across learning, work, Web, and automation within the requested scope. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -411,7 +411,7 @@
     },
     {
       "name": "agent-orchestration-master",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 多智能体协作：依据任务需要设计和运行智能体分工、委派、交接与依赖。 Organize contributions, handoffs, and dependencies around actual work, with the task owner integrating results.",
       "source": {
         "source": "local",
@@ -426,7 +426,7 @@
         "displayName": "agent-orchestration-master",
         "shortDescription": "Coordinate agent contributions",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/agent-orchestration-master",
         "longDescription": "Organize contributions, handoffs, and dependencies around actual work, with the task owner integrating results. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -438,7 +438,7 @@
     },
     {
       "name": "browser-relay",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "description": "<用户自制> 浏览器会话：管理任务专用的隔离浏览器、授权登录会话与清理。 Manage task-owned browsers, authenticated sessions, target ownership, and cleanup.",
       "source": {
         "source": "local",
@@ -453,7 +453,7 @@
         "displayName": "browser-relay",
         "shortDescription": "Manage isolated browser work",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/browser-relay",
         "longDescription": "Manage task-owned browsers, authenticated sessions, target ownership, and cleanup. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -465,7 +465,7 @@
     },
     {
       "name": "model-conversation-relay",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "description": "<用户自制> 模型对话接续：继续已绑定的 ChatGPT 咨询会话，读取、等待、发送并留存回执。 Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts.",
       "source": {
         "source": "local",
@@ -480,7 +480,7 @@
         "displayName": "model-conversation-relay",
         "shortDescription": "Continue an exact model exchange",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/model-conversation-relay",
         "longDescription": "Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts. For Codex users; includes the complete Skill and its supporting resources. Native conversation tools are conditional on host support. Browser operations require the public browser-relay companion and a configured carrier. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -492,7 +492,7 @@
     },
     {
       "name": "obsidian-sync",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 笔记同步：维护 Obsidian 多库共享配置、云端配置复制与反向同步。 Maintain shared configuration, cloud copies, and synchronization across Obsidian vaults.",
       "source": {
         "source": "local",
@@ -507,7 +507,7 @@
         "displayName": "obsidian-sync",
         "shortDescription": "Synchronize Obsidian settings",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/obsidian-sync",
         "longDescription": "Maintain shared configuration, cloud copies, and synchronization across Obsidian vaults. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -519,7 +519,7 @@
     },
     {
       "name": "chezmoi",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 系统配置持久化：将已授权的本机配置变更保存在仓库并同步到实际环境。 Persist authorized host configuration changes in source and converge them through the actual publication mechanism.",
       "source": {
         "source": "local",
@@ -534,7 +534,7 @@
         "displayName": "chezmoi",
         "shortDescription": "Maintain host configuration",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/chezmoi",
         "longDescription": "Persist authorized host configuration changes in source and converge them through the actual publication mechanism. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -546,7 +546,7 @@
     },
     {
       "name": "network",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 网络诊断：排查和修复本机域名解析、代理、网站连接与网络质量问题。 Diagnose DNS, proxies, website connectivity, and routing from host evidence.",
       "source": {
         "source": "local",
@@ -561,7 +561,7 @@
         "displayName": "network",
         "shortDescription": "Diagnose network connections",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/network",
         "longDescription": "Diagnose DNS, proxies, website connectivity, and routing from host evidence. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
@@ -573,7 +573,7 @@
     },
     {
       "name": "clash-auto-switch",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "description": "<用户自制> 节点自动切换：维护 Clash 节点选择、地区回退与 DNS/TUN 保护。 Maintain Clash node selection, regional fallback, and DNS/TUN protection.",
       "source": {
         "source": "local",
@@ -588,7 +588,7 @@
         "displayName": "clash-auto-switch",
         "shortDescription": "Maintain proxy node switching",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/clash-auto-switch",
         "longDescription": "Maintain Clash node selection, regional fallback, and DNS/TUN protection. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],

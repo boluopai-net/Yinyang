@@ -1,13 +1,13 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "singing",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "<用户自制> 练唱：寻找可用伴奏与 KTV，录音回听，并依据原唱和实际音频指导演唱。 Prepare accompaniment, recordings, and reference performances for evidence-based singing practice.",
   "author": {
     "name": "boluopai",
-    "url": "https://boluopai.net/"
+    "url": "https://github.com/boluopai-net"
   },
-  "homepage": "https://boluopai.net/repositories/",
+  "homepage": "https://github.com/boluopai-net/Yinyang/tree/main/skills/singing",
   "repository": "https://github.com/boluopai-net/Yinyang",
   "license": "MIT",
   "extensions": {
@@ -16,7 +16,7 @@
         "displayName": "singing",
         "shortDescription": "Practice and review singing",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/singing",
         "longDescription": "Prepare accompaniment, recordings, and reference performances for evidence-based singing practice. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],

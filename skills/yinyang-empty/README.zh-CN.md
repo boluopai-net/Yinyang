@@ -2,7 +2,7 @@
 
 **用 Empty 实践个人递归自我改进。** 请模型从文章中摘出观点和理由，挑选你认同的，也可以修改、补充或直接写出自己的观点。另从你采用的哲学、个人文章、生活和工作材料及自己的印象中，凝练出六份工作描述。观点独立保存；描述需要一条观点时，引用它，并说明你自己的材料怎样支持这项具体判断。
 
-[English](README.md) · [日常协作](SKILL.zh-CN.md) · [哲学文章](https://boluopai.net/philosophy/)
+[English](README.md) · [日常协作](SKILL.zh-CN.md) · [哲学文章](https://boluopai.net/yinyang/)
 
 Empty 包含写作总览、共同写法、六篇各自的写作方法、实际修订方法、作为作者建议的基本观点、实践总览、形成与修订、
 日常协作和 Personal 整理指引。不含 `docs/` 与 `diagrams/`；作者展开的文章和图示

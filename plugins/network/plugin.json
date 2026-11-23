@@ -1,13 +1,13 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "network",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "<用户自制> 网络诊断：排查和修复本机域名解析、代理、网站连接与网络质量问题。 Diagnose DNS, proxies, website connectivity, and routing from host evidence.",
   "author": {
     "name": "boluopai",
-    "url": "https://boluopai.net/"
+    "url": "https://github.com/boluopai-net"
   },
-  "homepage": "https://boluopai.net/repositories/",
+  "homepage": "https://github.com/boluopai-net/Yinyang/tree/main/skills/network",
   "repository": "https://github.com/boluopai-net/Yinyang",
   "license": "MIT",
   "extensions": {
@@ -16,7 +16,7 @@
         "displayName": "network",
         "shortDescription": "Diagnose network connections",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/network",
         "longDescription": "Diagnose DNS, proxies, website connectivity, and routing from host evidence. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],

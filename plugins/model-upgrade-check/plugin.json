@@ -1,13 +1,13 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "model-upgrade-check",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "<用户自制> 模型升级检查：按实际用途核对模型、推理档位与消费者。 Reconcile available models, purpose-specific selections, and actual consumers.",
   "author": {
     "name": "boluopai",
-    "url": "https://boluopai.net/"
+    "url": "https://github.com/boluopai-net"
   },
-  "homepage": "https://boluopai.net/repositories/",
+  "homepage": "https://github.com/boluopai-net/Yinyang/tree/main/skills/model-upgrade-check",
   "repository": "https://github.com/boluopai-net/Yinyang",
   "license": "MIT",
   "extensions": {
@@ -16,7 +16,7 @@
         "displayName": "model-upgrade-check",
         "shortDescription": "Verify model upgrades",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/model-upgrade-check",
         "longDescription": "Reconcile available models, purpose-specific selections, and actual consumers. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],

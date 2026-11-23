@@ -107,9 +107,7 @@ A reading response, criticism, technical account, or differently organized work
 can enter this conversation without being incorporated into the author's collection.
 
 Use an [Issue](https://github.com/boluopai-net/Yinyang/issues)
-to ask a question, discuss a correction or suggestion, share a relevant work,
-or request a song from boluopai. The [singing station](https://boluopai.net/singing/en/)
-is for requests to the author, not submissions of other people's recordings.
+to ask a question, discuss a correction or suggestion, or share a relevant work.
 This repository does not accept any PRs, including Skills, code, translations,
 documents, and recordings. The author maintains its changes and publication [[2]](#source-2).
 The [conversation guide](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.md)

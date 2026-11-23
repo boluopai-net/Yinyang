@@ -1,13 +1,13 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "android-control",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "<用户自制> 安卓控制：操作真实安卓手机，管理应用、界面、文件与连接。 Operate your Android device through ADB and native interfaces, verifying actual effects.",
   "author": {
     "name": "boluopai",
-    "url": "https://boluopai.net/"
+    "url": "https://github.com/boluopai-net"
   },
-  "homepage": "https://boluopai.net/repositories/",
+  "homepage": "https://github.com/boluopai-net/Yinyang/tree/main/skills/android-control",
   "repository": "https://github.com/boluopai-net/Yinyang",
   "license": "MIT",
   "extensions": {
@@ -16,7 +16,7 @@
         "displayName": "android-control",
         "shortDescription": "Operate your Android phone",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/android-control",
         "longDescription": "Operate your Android device through ADB and native interfaces, verifying actual effects. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],

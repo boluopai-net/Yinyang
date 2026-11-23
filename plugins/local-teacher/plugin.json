@@ -1,13 +1,13 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "local-teacher",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "<用户自制> 本地老师：在本地 Codex 中讲解课程与概念，带领复习、练习和学习项目。 Explain, review, and practice in a local environment, developing understanding through real work.",
   "author": {
     "name": "boluopai",
-    "url": "https://boluopai.net/"
+    "url": "https://github.com/boluopai-net"
   },
-  "homepage": "https://boluopai.net/repositories/",
+  "homepage": "https://github.com/boluopai-net/Yinyang/tree/main/skills/local-teacher",
   "repository": "https://github.com/boluopai-net/Yinyang",
   "license": "MIT",
   "extensions": {
@@ -16,7 +16,7 @@
         "displayName": "local-teacher",
         "shortDescription": "Learn through local practice",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/local-teacher",
         "longDescription": "Explain, review, and practice in a local environment, developing understanding through real work. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],

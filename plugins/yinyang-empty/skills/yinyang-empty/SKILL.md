@@ -167,5 +167,5 @@ portraits. Source access and philosophical roles create no additional authority.
 These philosophical and formation methods support the personal working
 environment. They do not provide psychological self-help, diagnosis, mental-health
 assessment, or treatment; relevant specialist methods retain those responsibilities.
-The complete public essays remain available at the [website](https://boluopai.net/philosophy/en/)
+The complete public essays remain available at the [website](https://boluopai.net/yinyang/en/)
 when a reader chooses to study them.

@@ -6,7 +6,7 @@
 
 | 想做什么 | 入口 |
 | --- | --- |
-| 在线阅读 | [网站](https://boluopai.net/) · [文档与图示](https://boluopai.net/repositories/prometheus/) · [English README](README.md) |
+| 在线阅读 | [阴阳文集](https://boluopai.net/yinyang/) · [文档与图示](https://boluopai.net/repositories/prometheus/) · [English README](README.md) |
 | 下载带图电子书 | [中文 PDF](docx/yinyang.zh-CN.pdf?raw=1) · [English PDF](docx/yinyang.en.pdf?raw=1) |
 | 用自己的材料开始 | [Empty 方法包](skills/yinyang-empty/README.zh-CN.md) · [实践指南](docx/references/docs/creation-method.zh-CN.md) |
 
@@ -15,7 +15,7 @@
 
 想自己用，可以跳过后面的哲学正文。可以从自己的哲学写作、个人材料和印象中凝练值得保存的观点，也可以请语言模型读取这部文集的[基本观点](docx/references/docs/core-views.zh-CN.md)，挑出想采用的几条，再添上自己的判断。
 
-另外，让语言模型从这些材料中独立凝练个人模型，围绕你和模型共同工作的实际问题，写成立场与方向、个人模型、伙伴模型、关系模型、实践环境和修订方式六份描述。需要说明某项安排的理由时，引用相应观点，并用自己的材料说明它怎样适用于你的处境。[如何写六份描述](docx/references/formation/overview.zh-CN.md)说明每份描述回答什么问题。材料里反复用到的方法，还可以提炼成工具或 Skills。以后有新材料，可由语言模型自动或协助更新相应的观点、工作描述和工具。
+另外，让语言模型从这些材料中独立凝练工作模型，围绕你和模型共同工作的实际问题，写成立场与方向、个人模型、伙伴模型、关系模型、实践环境和修订方式六份描述。需要说明某项安排的理由时，引用相应观点，并用自己的材料说明它怎样适用于你的处境。[如何写六份描述](docx/references/formation/overview.zh-CN.md)说明每份描述回答什么问题。材料里反复用到的方法，还可以提炼成工具或 Skills。以后有新材料，可由语言模型自动或协助更新相应的观点、工作描述和工具。
 
 把选定的观点和六份描述注入模型的全局提示词，再让它据此配置和调整你日常使用的软件环境，包括自制的 Skills。具体用法见[实践指南](docx/references/docs/creation-method.zh-CN.md)。
 

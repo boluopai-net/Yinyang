@@ -2,7 +2,7 @@
 
 **Use Empty to practise personal recursive self-improvement.** Ask a model to extract claims and reasons from essays. Select those you adopt, revise them, add your own, or write a view directly. Separately, distill six working accounts from the philosophy you adopt, your own writing, material from life and work, and personal impressions. Keep views independent. When an account uses a view, cite it and explain how your own material supports the particular judgment.
 
-[简体中文](README.zh-CN.md) · [Daily collaboration](SKILL.md) · [Philosophy](https://boluopai.net/philosophy/en/)
+[简体中文](README.zh-CN.md) · [Daily collaboration](SKILL.md) · [Philosophy](https://boluopai.net/yinyang/en/)
 
 Empty includes an overview, shared and account-specific writing guides, a
 practical revision method, Core views as attributed suggestions,

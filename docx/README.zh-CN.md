@@ -1,6 +1,6 @@
 # Yinyang 哲学与共同方法
 
-[English](README.md) · [哲学文章](https://boluopai.net/philosophy/) · [Empty 方法包](../skills/yinyang-empty/README.zh-CN.md)
+[English](README.md) · [哲学文章](https://boluopai.net/yinyang/) · [Empty 方法包](../skills/yinyang-empty/README.zh-CN.md)
 
 这里是阴阳的公开文集，收录文章、观点、图示与写作方法。你可以请模型从这些文章或其他材料中摘出观点，选择有根据的几条，改写、补充，也可以直接写自己的观点。
 

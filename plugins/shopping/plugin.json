@@ -1,13 +1,13 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "shopping",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "<用户自制> 购物与比价：搜索国内电商与闲鱼商品，比较价格、优惠和二手选择。 Compare products, prices, offers, and secondhand choices with inspectable evidence and conditions.",
   "author": {
     "name": "boluopai",
-    "url": "https://boluopai.net/"
+    "url": "https://github.com/boluopai-net"
   },
-  "homepage": "https://boluopai.net/repositories/",
+  "homepage": "https://github.com/boluopai-net/Yinyang/tree/main/skills/shopping",
   "repository": "https://github.com/boluopai-net/Yinyang",
   "license": "MIT",
   "extensions": {
@@ -16,7 +16,7 @@
         "displayName": "shopping",
         "shortDescription": "Compare products and prices",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/shopping",
         "longDescription": "Compare products, prices, offers, and secondhand choices with inspectable evidence and conditions. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],

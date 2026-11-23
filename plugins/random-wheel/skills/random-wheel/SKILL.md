@@ -80,11 +80,6 @@ Use the host's actual rendering contract; reading this Skill does not create
 an inline display capability. If execution or interactive display is missing,
 state the concrete limitation rather than claiming a wheel ran.
 
-The author's independent [public picker](https://start.boluopai.net/wheel.html)
-is an optional manual alternative. Its saved catalog belongs to that website;
-inspect its actual UI when the user explicitly refers to it. The standalone
-package does not fetch that catalog or depend on the website.
-
 ## Provenance
 
 The renderer and both HTML assets come from the author's maintained

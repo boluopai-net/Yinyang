@@ -1,6 +1,6 @@
 # Yinyang philosophy and shared methods
 
-[简体中文](README.zh-CN.md) · [Philosophy](https://boluopai.net/philosophy/en/) · [Empty method package](../skills/yinyang-empty/README.md)
+[简体中文](README.zh-CN.md) · [Philosophy](https://boluopai.net/yinyang/en/) · [Empty method package](../skills/yinyang-empty/README.md)
 
 This public collection holds essays, views, diagrams, and writing guides. Ask a model to extract claims and reasons from these essays or other sources. Select views you adopt, revise or extend them, or write your own directly.
 

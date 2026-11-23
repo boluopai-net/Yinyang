@@ -1,13 +1,13 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "paper-retrieval",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "<用户自制> 论文检索：筛选中英文论文与学术书籍，核对题录、版本和全文。 Reconcile bibliography, editions, and full text to deliver verifiable scholarly material.",
   "author": {
     "name": "boluopai",
-    "url": "https://boluopai.net/"
+    "url": "https://github.com/boluopai-net"
   },
-  "homepage": "https://boluopai.net/repositories/",
+  "homepage": "https://github.com/boluopai-net/Yinyang/tree/main/skills/paper-retrieval",
   "repository": "https://github.com/boluopai-net/Yinyang",
   "license": "MIT",
   "extensions": {
@@ -16,7 +16,7 @@
         "displayName": "paper-retrieval",
         "shortDescription": "Find papers and books",
         "developerName": "boluopai",
-        "websiteURL": "https://boluopai.net/",
+        "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/paper-retrieval",
         "longDescription": "Reconcile bibliography, editions, and full text to deliver verifiable scholarly material. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
