@@ -306,7 +306,7 @@
 | --- | --- |
 | [K-Dense Scientific Agents](https://github.com/K-Dense-AI/scientific-agents) | 不同学科的专家思考资料，给概念解释和跨学科讨论提供专业参考。 |
 | [K-Dense Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 文献检索、实验设计、统计分析、机器学习、科学绘图和引用管理等科研方法。 |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor) | 开源 AI 学习工作台，可围绕自己的教材或论文做带出处的问答、分步解题和练习题生成。<br>① 教学提示：Reading、Mastery（处理异议）。② 工具调用：KB Search 检索原文，SourceExplorer 探索材料，Math Animator 生成动画。 |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor) | 开源 AI 学习工作台，可围绕自己的教材或论文做带出处的问答、分步解题和练习题生成。<br>① 借鉴教学提示：Reading 指导原页核验，Mastery 用于处理异议。② 接入后端：SourceExplorer 用自带提示词设计查询、综合材料；Math Animator 用自带提示词设计场景、生成动画代码；KB Search 按 Teacher 的问题检索证据。 |
 
 <a id="resources"></a>
 
