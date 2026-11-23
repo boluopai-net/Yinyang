@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1200 410"><title id="title">处理文字的三条原则</title><desc id="desc">图优于文字，清晰优于复杂，直观优于形式。</desc><defs><marker id="tip" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M1 1 L7 4 L1 7" fill="none" stroke="#58736a" stroke-width="1.3"/></marker></defs><rect width="1200" height="410" rx="12" fill="#f9f8f4"/><g font-family="PingFang SC,Helvetica Neue,Arial,sans-serif"><text x="48" y="73" font-size="40" font-weight="600" fill="#263e39" text-anchor="start">处理文字的三条原则</text><text x="50" y="120" font-size="23" font-weight="400" fill="#4e625e" text-anchor="start">让读者把注意力留给自己要理解和判断的事。</text><rect x="42" y="164" width="362" height="202" rx="12" fill="#f2f4f0" stroke="#c6d1c9"/><text x="64" y="218" font-size="28" font-weight="600" fill="#263e39" text-anchor="start">图优于文字</text><text x="64" y="258" font-size="22" font-weight="400" fill="#4e625e" text-anchor="start">让关系直接可见</text><rect x="418" y="164" width="362" height="202" rx="12" fill="#f2f4f0" stroke="#c6d1c9"/><text x="440" y="218" font-size="28" font-weight="600" fill="#263e39" text-anchor="start">清晰优于复杂</text><text x="440" y="258" font-size="22" font-weight="400" fill="#4e625e" text-anchor="start">用日常语言说清概念</text><rect x="794" y="164" width="362" height="202" rx="12" fill="#f2f4f0" stroke="#c6d1c9"/><text x="816" y="218" font-size="28" font-weight="600" fill="#263e39" text-anchor="start">直观优于形式</text><text x="816" y="258" font-size="22" font-weight="400" fill="#4e625e" text-anchor="start">从读者能认出的情景讲起</text><text x="68" y="325" font-size="22" font-weight="400" fill="#263e39" text-anchor="start">发现差异</text><path d="M166 318h29" fill="none" stroke="#58736a" stroke-width="3" marker-end="url(#tip)"/><text x="210" y="325" font-size="22" font-weight="400" fill="#263e39" text-anchor="start">修改</text><path d="M267 318h25" fill="none" stroke="#58736a" stroke-width="3" marker-end="url(#tip)"/><text x="305" y="325" font-size="22" font-weight="400" fill="#263e39" text-anchor="start">再试</text><text x="440" y="308" font-size="21" font-weight="400" fill="#263e39" text-anchor="start">「恢复上下文」</text><text x="440" y="341" font-size="22" font-weight="600" fill="#263e39" text-anchor="start">→ 接上刚才的思路</text><text x="816" y="308" font-size="20" font-weight="400" fill="#263e39" text-anchor="start">翻完脚注，回到原行，</text><text x="816" y="341" font-size="22" font-weight="400" fill="#263e39" text-anchor="start">却忘了两段怎样相连。</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1200 800"><title id="title">处理文字的三条原则</title><desc id="desc">用相邻两段论证演示图优于文字、清晰优于复杂、直观优于形式。</desc><defs><marker id="tip" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M1 1 L7 4 L1 7" fill="none" stroke="#62776d" stroke-width="1.5"/></marker></defs><rect width="1200" height="800" rx="12" fill="#f9f8f4"/><g font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
+<text x="48" y="72" font-size="41" font-weight="600" text-anchor="start" fill="#2b423b">处理文字的三条原则</text>
+<text x="50" y="117" font-size="24" font-weight="400" text-anchor="start" fill="#2b423b">读一段论证时，把注意力留给段落之间的关系。</text>
+<rect x="42" y="154" width="1116" height="188" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
+<path d="M353 178v140" fill="none" stroke="#62776d" stroke-width="2.5"/>
+<text x="67" y="225" font-size="31" font-weight="600" text-anchor="start" fill="#2b423b">图优于文字</text>
+<text x="68" y="262" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">把关系画在一起</text>
+<rect x="42" y="364" width="1116" height="180" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
+<path d="M353 388v132" fill="none" stroke="#62776d" stroke-width="2.5"/>
+<text x="67" y="435" font-size="31" font-weight="600" text-anchor="start" fill="#2b423b">清晰优于复杂</text>
+<text x="68" y="472" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">把概念说成日常动作</text>
+<rect x="42" y="566" width="1116" height="196" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
+<path d="M353 590v148" fill="none" stroke="#62776d" stroke-width="2.5"/>
+<text x="67" y="637" font-size="31" font-weight="600" text-anchor="start" fill="#2b423b">直观优于形式</text>
+<text x="68" y="674" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">从能认出的情景讲起</text>
+<rect x="392" y="179" width="225" height="83" rx="12" fill="#dde6df" stroke="none"/>
+<rect x="885" y="179" width="222" height="83" rx="12" fill="#dde6df" stroke="none"/>
+<text x="505" y="211" font-size="21" font-weight="600" text-anchor="middle" fill="#2b423b">第一段</text>
+<text x="505" y="242" font-size="22" font-weight="400" text-anchor="middle" fill="#2b423b">提出判断</text>
+<text x="996" y="211" font-size="21" font-weight="600" text-anchor="middle" fill="#2b423b">第二段</text>
+<text x="996" y="242" font-size="22" font-weight="400" text-anchor="middle" fill="#2b423b">给出理由</text>
+<text x="750" y="209" font-size="20" font-weight="400" text-anchor="middle" fill="#2b423b">支持</text>
+<path d="M874 226H630" fill="none" stroke="#62776d" stroke-width="2.5" marker-end="url(#tip)"/>
+<text x="392" y="306" font-size="22" font-weight="400" text-anchor="start" fill="#2b423b">顺着箭头，就能看出哪一段在解释另一段。</text>
+<text x="392" y="408" font-size="22" font-weight="400" text-anchor="start" fill="#536961">恢复论证的上下文</text>
+<path d="M400 421v19h23" fill="none" stroke="#62776d" stroke-width="2.5" marker-end="url(#tip)"/>
+<text x="439" y="463" font-size="23" font-weight="600" text-anchor="start" fill="#2b423b">找回刚才读到的判断，看看作者凭什么这样说。</text>
+<text x="392" y="510" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">读者知道下一眼该看哪里。</text>
+<text x="392" y="616" font-size="24" font-weight="400" text-anchor="start" fill="#2b423b">你翻完脚注，回到原来那一行。</text>
+<text x="392" y="655" font-size="24" font-weight="400" text-anchor="start" fill="#2b423b">字还认得，却忘了上一段为什么要接到这里。</text>
+<path d="M392 677H1107" fill="none" stroke="#62776d" stroke-width="2.5"/>
+<text x="392" y="717" font-size="23" font-weight="600" text-anchor="start" fill="#2b423b">从这个差别理解：找回位置和接上思路，是两件事。</text></g></svg>

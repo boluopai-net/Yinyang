@@ -1,40 +1,64 @@
 {
   "zh-CN": {
     "title": "处理文字的三条原则",
-    "description": "图优于文字，清晰优于复杂，直观优于形式。",
+    "subtitle": "读一段论证时，把注意力留给段落之间的关系。",
+    "description": "用相邻两段论证演示图优于文字、清晰优于复杂、直观优于形式。",
     "examples": [
-      "图优于文字",
-      "让关系直接可见",
-      "发现差异",
-      "修改",
-      "再试",
-      "清晰优于复杂",
-      "用日常语言说清概念",
-      "「恢复上下文」",
-      "接上刚才的思路",
-      "直观优于形式",
-      "从读者能认出的情景讲起",
-      "翻完脚注，回到原行，",
-      "却忘了两段怎样相连。"
+      [
+        "图优于文字",
+        "把关系画在一起",
+        "第一段",
+        "提出判断",
+        "第二段",
+        "给出理由",
+        "支持",
+        "顺着箭头，就能看出哪一段在解释另一段。"
+      ],
+      [
+        "清晰优于复杂",
+        "把概念说成日常动作",
+        "恢复论证的上下文",
+        "找回刚才读到的判断，看看作者凭什么这样说。",
+        "读者知道下一眼该看哪里。"
+      ],
+      [
+        "直观优于形式",
+        "从能认出的情景讲起",
+        "你翻完脚注，回到原来那一行。",
+        "字还认得，却忘了上一段为什么要接到这里。",
+        "从这个差别理解：找回位置和接上思路，是两件事。"
+      ]
     ]
   },
   "en": {
     "title": "Three principles for presenting information",
-    "description": "Visuals over text, clarity over complexity, intuition over formalism.",
+    "subtitle": "When reading an argument, keep attention on how its passages fit together.",
+    "description": "Two passages in an argument illustrate visuals over text, clarity over complexity, and intuition over formalism.",
     "examples": [
-      "Visuals over text",
-      "Show the relationship",
-      "Notice",
-      "Revise",
-      "Try again",
-      "Clarity over complexity",
-      "Use everyday language",
-      "“Recover the context”",
-      "Pick up the thought",
-      "Intuition over formalism",
-      "Start with a familiar situation",
-      "Back on the same line,",
-      "you lose the link between paragraphs."
+      [
+        "Visuals over text",
+        "Put related ideas together",
+        "First passage",
+        "Makes a claim",
+        "Second passage",
+        "Gives a reason",
+        "supports",
+        "Follow the arrow to see which passage explains the other."
+      ],
+      [
+        "Clarity over complexity",
+        "Name the action in plain words",
+        "Restore the context of the argument",
+        "Find the claim you were reading. What reason does the author give?",
+        "The reader knows where to look next."
+      ],
+      [
+        "Intuition over formalism",
+        "Start with a recognizable situation",
+        "You follow a footnote and return to the same line.",
+        "You recognize the words. How did the previous passage lead here?",
+        "That difference gives two ideas meaning: finding your place and recovering the thought."
+      ]
     ]
   }
 }
