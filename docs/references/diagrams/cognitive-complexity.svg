@@ -1,32 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1200 800"><title id="title">Three principles for presenting information</title><desc id="desc">Two passages in an argument illustrate visuals over text, clarity over complexity, and intuition over formalism.</desc><defs><marker id="tip" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M1 1 L7 4 L1 7" fill="none" stroke="#62776d" stroke-width="1.5"/></marker></defs><rect width="1200" height="800" rx="12" fill="#f9f8f4"/><g font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
-<text x="48" y="72" font-size="41" font-weight="600" text-anchor="start" fill="#2b423b">Three principles for presenting information</text>
-<text x="50" y="117" font-size="24" font-weight="400" text-anchor="start" fill="#2b423b">When reading an argument, keep attention on how its passages fit together.</text>
-<rect x="42" y="154" width="1116" height="188" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
-<path d="M353 178v140" fill="none" stroke="#62776d" stroke-width="2.5"/>
-<text x="67" y="225" font-size="24" font-weight="600" text-anchor="start" fill="#2b423b">Visuals over text</text>
-<text x="68" y="262" font-size="16" font-weight="400" text-anchor="start" fill="#2b423b">Put related ideas together</text>
-<rect x="42" y="364" width="1116" height="180" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
-<path d="M353 388v132" fill="none" stroke="#62776d" stroke-width="2.5"/>
-<text x="67" y="435" font-size="24" font-weight="600" text-anchor="start" fill="#2b423b">Clarity over complexity</text>
-<text x="68" y="472" font-size="16" font-weight="400" text-anchor="start" fill="#2b423b">Name the action in plain words</text>
-<rect x="42" y="566" width="1116" height="196" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
-<path d="M353 590v148" fill="none" stroke="#62776d" stroke-width="2.5"/>
-<text x="67" y="637" font-size="24" font-weight="600" text-anchor="start" fill="#2b423b">Intuition over formalism</text>
-<text x="68" y="674" font-size="16" font-weight="400" text-anchor="start" fill="#2b423b">Start with a recognizable situation</text>
-<rect x="392" y="179" width="225" height="83" rx="12" fill="#dde6df" stroke="none"/>
-<rect x="885" y="179" width="222" height="83" rx="12" fill="#dde6df" stroke="none"/>
-<text x="505" y="211" font-size="21" font-weight="600" text-anchor="middle" fill="#2b423b">First passage</text>
-<text x="505" y="242" font-size="22" font-weight="400" text-anchor="middle" fill="#2b423b">Makes a claim</text>
-<text x="996" y="211" font-size="21" font-weight="600" text-anchor="middle" fill="#2b423b">Second passage</text>
-<text x="996" y="242" font-size="22" font-weight="400" text-anchor="middle" fill="#2b423b">Gives a reason</text>
-<text x="750" y="209" font-size="20" font-weight="400" text-anchor="middle" fill="#2b423b">supports</text>
-<path d="M874 226H630" fill="none" stroke="#62776d" stroke-width="2.5" marker-end="url(#tip)"/>
-<text x="392" y="306" font-size="20" font-weight="400" text-anchor="start" fill="#2b423b">Follow the arrow to see which passage explains the other.</text>
-<text x="392" y="408" font-size="22" font-weight="400" text-anchor="start" fill="#536961">Restore the context of the argument</text>
-<path d="M400 421v19h23" fill="none" stroke="#62776d" stroke-width="2.5" marker-end="url(#tip)"/>
-<text x="439" y="463" font-size="20" font-weight="600" text-anchor="start" fill="#2b423b">Find the claim you were reading. What reason does the author give?</text>
-<text x="392" y="510" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">The reader knows where to look next.</text>
-<text x="392" y="616" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">You follow a footnote and return to the same line.</text>
-<text x="392" y="655" font-size="20" font-weight="400" text-anchor="start" fill="#2b423b">You recognize the words. How did the previous passage lead here?</text>
-<path d="M392 677H1107" fill="none" stroke="#62776d" stroke-width="2.5"/>
-<text x="392" y="717" font-size="17" font-weight="600" text-anchor="start" fill="#2b423b">That difference gives two ideas meaning: finding your place and recovering the thought.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 1200 800" aria-labelledby="title desc"><title id="title">Three principles for presenting information</title><desc id="desc">Two lines coincide and then diverge. See the change, define the gap in everyday language, and turn to calculation when a number is needed.</desc><rect width="1200" height="800" fill="#f9f8f4" rx="12"/><g font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
+<text x="52" y="75" font-size="42" font-weight="600" fill="#233e38">Three principles for presenting information</text>
+<text x="54" y="122" font-size="28" font-weight="400" fill="#233e38">Where do the two curves begin to diverge?</text>
+<rect x="44" y="159" width="1112" height="315" rx="14" fill="#eaf0eb"/>
+<text x="71" y="215" font-size="30" font-weight="600" fill="#233e38">Visuals over text</text>
+<text x="73" y="267" font-size="19" font-weight="400" fill="#233e38">The shapes show where the lines</text>
+<text x="73" y="303" font-size="19" font-weight="400" fill="#233e38">part and how the gap changes.</text>
+<path d="M497 203V416H1107" fill="none" stroke="#9cac9f" stroke-width="2" />
+<text x="1060" y="450" font-size="18" font-weight="400" fill="#4e655c">Time</text>
+<path d="M521 365 C594 365 627 335 706 335 S779 332 809 323" fill="none" stroke="#455f54" stroke-width="5" />
+<path d="M809 323 C889 323 967 249 1064 212" fill="none" stroke="#354f46" stroke-width="5" />
+<path d="M809 323 C893 323 970 361 1064 364" fill="none" stroke="#698278" stroke-width="5" stroke-dasharray="12 7"/>
+<circle cx="809" cy="323" r="7" fill="#344f46"/>
+<path d="M809 338v38" fill="none" stroke="#597068" stroke-width="2" />
+<text x="770" y="402" font-size="19" font-weight="600" fill="#233e38">Divergence</text>
+<path d="M1075 213h12v150h-12" fill="none" stroke="#596e66" stroke-width="2.5" />
+<text x="1095" y="294" font-size="17" font-weight="600" fill="#233e38">Gap</text>
+<rect x="44" y="498" width="541" height="255" rx="14" fill="#f0f2ee"/>
+<rect x="602" y="498" width="554" height="255" rx="14" fill="#f0f2ee"/>
+<text x="72" y="553" font-size="30" font-weight="600" fill="#233e38">Clarity over complexity</text>
+<text x="72" y="603" font-size="22" font-weight="400" fill="#4e655c">What does “gap” mean here?</text>
+<text x="72" y="654" font-size="20" font-weight="400" fill="#233e38">At the same moment, how much higher</text>
+<text x="72" y="688" font-size="20" font-weight="400" fill="#233e38">is one line than the other? That difference</text>
+<text x="72" y="722" font-size="20" font-weight="400" fill="#233e38">is the gap.</text>
+<text x="630" y="553" font-size="30" font-weight="600" fill="#233e38">Intuition over formalism</text>
+<text x="630" y="600" font-size="20" font-weight="400" fill="#233e38">To tell which way things are changing, look:</text>
+<text x="630" y="634" font-size="20" font-weight="400" fill="#233e38">the gap grows after the lines part.</text>
+<path d="M630 659H1124" fill="none" stroke="#c0ccc3" stroke-width="1" />
+<text x="630" y="693" font-size="19" font-weight="400" fill="#4e655c">To find the size of the gap, take both values</text>
+<text x="630" y="724" font-size="19" font-weight="400" fill="#4e655c">at the same moment and subtract the smaller.</text></g></svg>

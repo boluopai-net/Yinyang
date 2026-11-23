@@ -1,32 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1200 800"><title id="title">处理文字的三条原则</title><desc id="desc">用相邻两段论证演示图优于文字、清晰优于复杂、直观优于形式。</desc><defs><marker id="tip" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M1 1 L7 4 L1 7" fill="none" stroke="#62776d" stroke-width="1.5"/></marker></defs><rect width="1200" height="800" rx="12" fill="#f9f8f4"/><g font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
-<text x="48" y="72" font-size="41" font-weight="600" text-anchor="start" fill="#2b423b">处理文字的三条原则</text>
-<text x="50" y="117" font-size="24" font-weight="400" text-anchor="start" fill="#2b423b">读一段论证时，把注意力留给段落之间的关系。</text>
-<rect x="42" y="154" width="1116" height="188" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
-<path d="M353 178v140" fill="none" stroke="#62776d" stroke-width="2.5"/>
-<text x="67" y="225" font-size="31" font-weight="600" text-anchor="start" fill="#2b423b">图优于文字</text>
-<text x="68" y="262" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">把关系画在一起</text>
-<rect x="42" y="364" width="1116" height="180" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
-<path d="M353 388v132" fill="none" stroke="#62776d" stroke-width="2.5"/>
-<text x="67" y="435" font-size="31" font-weight="600" text-anchor="start" fill="#2b423b">清晰优于复杂</text>
-<text x="68" y="472" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">把概念说成日常动作</text>
-<rect x="42" y="566" width="1116" height="196" rx="12" fill="#f0f3ef" stroke="#c8d3cb"/>
-<path d="M353 590v148" fill="none" stroke="#62776d" stroke-width="2.5"/>
-<text x="67" y="637" font-size="31" font-weight="600" text-anchor="start" fill="#2b423b">直观优于形式</text>
-<text x="68" y="674" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">从能认出的情景讲起</text>
-<rect x="392" y="179" width="225" height="83" rx="12" fill="#dde6df" stroke="none"/>
-<rect x="885" y="179" width="222" height="83" rx="12" fill="#dde6df" stroke="none"/>
-<text x="505" y="211" font-size="21" font-weight="600" text-anchor="middle" fill="#2b423b">第一段</text>
-<text x="505" y="242" font-size="22" font-weight="400" text-anchor="middle" fill="#2b423b">提出判断</text>
-<text x="996" y="211" font-size="21" font-weight="600" text-anchor="middle" fill="#2b423b">第二段</text>
-<text x="996" y="242" font-size="22" font-weight="400" text-anchor="middle" fill="#2b423b">给出理由</text>
-<text x="750" y="209" font-size="20" font-weight="400" text-anchor="middle" fill="#2b423b">支持</text>
-<path d="M874 226H630" fill="none" stroke="#62776d" stroke-width="2.5" marker-end="url(#tip)"/>
-<text x="392" y="306" font-size="22" font-weight="400" text-anchor="start" fill="#2b423b">顺着箭头，就能看出哪一段在解释另一段。</text>
-<text x="392" y="408" font-size="22" font-weight="400" text-anchor="start" fill="#536961">恢复论证的上下文</text>
-<path d="M400 421v19h23" fill="none" stroke="#62776d" stroke-width="2.5" marker-end="url(#tip)"/>
-<text x="439" y="463" font-size="23" font-weight="600" text-anchor="start" fill="#2b423b">找回刚才读到的判断，看看作者凭什么这样说。</text>
-<text x="392" y="510" font-size="21" font-weight="400" text-anchor="start" fill="#2b423b">读者知道下一眼该看哪里。</text>
-<text x="392" y="616" font-size="24" font-weight="400" text-anchor="start" fill="#2b423b">你翻完脚注，回到原来那一行。</text>
-<text x="392" y="655" font-size="24" font-weight="400" text-anchor="start" fill="#2b423b">字还认得，却忘了上一段为什么要接到这里。</text>
-<path d="M392 677H1107" fill="none" stroke="#62776d" stroke-width="2.5"/>
-<text x="392" y="717" font-size="23" font-weight="600" text-anchor="start" fill="#2b423b">从这个差别理解：找回位置和接上思路，是两件事。</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 1200 800" aria-labelledby="title desc"><title id="title">处理文字的三条原则</title><desc id="desc">两条线从重合到分开。直接看形状辨认变化，用日常语言说明差距，只有求具体数值时才引入计算。</desc><rect width="1200" height="800" fill="#f9f8f4" rx="12"/><g font-family="PingFang SC,Helvetica Neue,Arial,sans-serif">
+<text x="52" y="75" font-size="42" font-weight="600" fill="#233e38">处理文字的三条原则</text>
+<text x="54" y="122" font-size="28" font-weight="400" fill="#233e38">两条曲线从哪里开始分开？</text>
+<rect x="44" y="159" width="1112" height="315" rx="14" fill="#eaf0eb"/>
+<text x="71" y="215" font-size="30" font-weight="600" fill="#233e38">图优于文字</text>
+<text x="73" y="267" font-size="22" font-weight="400" fill="#233e38">看形状，就能找到分开的位置，</text>
+<text x="73" y="303" font-size="22" font-weight="400" fill="#233e38">也能看出之后的走势。</text>
+<path d="M497 203V416H1107" fill="none" stroke="#9cac9f" stroke-width="2" />
+<text x="1060" y="450" font-size="18" font-weight="400" fill="#4e655c">时间</text>
+<path d="M521 365 C594 365 627 335 706 335 S779 332 809 323" fill="none" stroke="#455f54" stroke-width="5" />
+<path d="M809 323 C889 323 967 249 1064 212" fill="none" stroke="#354f46" stroke-width="5" />
+<path d="M809 323 C893 323 970 361 1064 364" fill="none" stroke="#698278" stroke-width="5" stroke-dasharray="12 7"/>
+<circle cx="809" cy="323" r="7" fill="#344f46"/>
+<path d="M809 338v38" fill="none" stroke="#597068" stroke-width="2" />
+<text x="770" y="402" font-size="19" font-weight="600" fill="#233e38">从这里分开</text>
+<path d="M1075 213h12v150h-12" fill="none" stroke="#596e66" stroke-width="2.5" />
+<text x="1095" y="294" font-size="19" font-weight="600" fill="#233e38">差距</text>
+<rect x="44" y="498" width="541" height="255" rx="14" fill="#f0f2ee"/>
+<rect x="602" y="498" width="554" height="255" rx="14" fill="#f0f2ee"/>
+<text x="72" y="553" font-size="30" font-weight="600" fill="#233e38">清晰优于复杂</text>
+<text x="72" y="603" font-size="23" font-weight="400" fill="#4e655c">图里的「差距」是什么意思？</text>
+<text x="72" y="654" font-size="24" font-weight="400" fill="#233e38">在同一时刻，一条线比另一条线</text>
+<text x="72" y="688" font-size="24" font-weight="400" fill="#233e38">高出多少，就是它们的差距。</text>
+<text x="630" y="553" font-size="30" font-weight="600" fill="#233e38">直观优于形式</text>
+<text x="630" y="600" font-size="23" font-weight="400" fill="#233e38">想知道变化方向，看图就能说：</text>
+<text x="630" y="634" font-size="23" font-weight="400" fill="#233e38">两条线分开后，差距越来越大。</text>
+<path d="M630 659H1124" fill="none" stroke="#c0ccc3" stroke-width="1" />
+<text x="630" y="693" font-size="21" font-weight="400" fill="#4e655c">要算差多少时，再取同一时刻的两个值，</text>
+<text x="630" y="724" font-size="21" font-weight="400" fill="#4e655c">用较大的减去较小的。</text></g></svg>

@@ -1,64 +1,47 @@
 {
   "zh-CN": {
     "title": "处理文字的三条原则",
-    "subtitle": "读一段论证时，把注意力留给段落之间的关系。",
-    "description": "用相邻两段论证演示图优于文字、清晰优于复杂、直观优于形式。",
-    "examples": [
-      [
-        "图优于文字",
-        "把关系画在一起",
-        "第一段",
-        "提出判断",
-        "第二段",
-        "给出理由",
-        "支持",
-        "顺着箭头，就能看出哪一段在解释另一段。"
-      ],
-      [
-        "清晰优于复杂",
-        "把概念说成日常动作",
-        "恢复论证的上下文",
-        "找回刚才读到的判断，看看作者凭什么这样说。",
-        "读者知道下一眼该看哪里。"
-      ],
-      [
-        "直观优于形式",
-        "从能认出的情景讲起",
-        "你翻完脚注，回到原来那一行。",
-        "字还认得，却忘了上一段为什么要接到这里。",
-        "从这个差别理解：找回位置和接上思路，是两件事。"
-      ]
+    "description": "两条线从重合到分开。直接看形状辨认变化，用日常语言说明差距，只有求具体数值时才引入计算。",
+    "labels": [
+      "两条曲线从哪里开始分开？",
+      "图优于文字",
+      "看形状，就能找到分开的位置，",
+      "也能看出之后的走势。",
+      "时间",
+      "从这里分开",
+      "差距",
+      "清晰优于复杂",
+      "图里的「差距」是什么意思？",
+      "在同一时刻，一条线比另一条线",
+      "高出多少，就是它们的差距。",
+      "直观优于形式",
+      "想知道变化方向，看图就能说：",
+      "两条线分开后，差距越来越大。",
+      "要算差多少时，再取同一时刻的两个值，",
+      "用较大的减去较小的。"
     ]
   },
   "en": {
     "title": "Three principles for presenting information",
-    "subtitle": "When reading an argument, keep attention on how its passages fit together.",
-    "description": "Two passages in an argument illustrate visuals over text, clarity over complexity, and intuition over formalism.",
-    "examples": [
-      [
-        "Visuals over text",
-        "Put related ideas together",
-        "First passage",
-        "Makes a claim",
-        "Second passage",
-        "Gives a reason",
-        "supports",
-        "Follow the arrow to see which passage explains the other."
-      ],
-      [
-        "Clarity over complexity",
-        "Name the action in plain words",
-        "Restore the context of the argument",
-        "Find the claim you were reading. What reason does the author give?",
-        "The reader knows where to look next."
-      ],
-      [
-        "Intuition over formalism",
-        "Start with a recognizable situation",
-        "You follow a footnote and return to the same line.",
-        "You recognize the words. How did the previous passage lead here?",
-        "That difference gives two ideas meaning: finding your place and recovering the thought."
-      ]
+    "description": "Two lines coincide and then diverge. See the change, define the gap in everyday language, and turn to calculation when a number is needed.",
+    "labels": [
+      "Where do the two curves begin to diverge?",
+      "Visuals over text",
+      "The shapes show where the lines",
+      "part and how the gap changes.",
+      "Time",
+      "Divergence",
+      "Gap",
+      "Clarity over complexity",
+      "What does “gap” mean here?",
+      "At the same moment, how much higher",
+      "is one line than the other? That difference",
+      "is the gap.",
+      "Intuition over formalism",
+      "To tell which way things are changing, look:",
+      "the gap grows after the lines part.",
+      "To find the size of the gap, take both values",
+      "at the same moment and subtract the smaller."
     ]
   }
 }
