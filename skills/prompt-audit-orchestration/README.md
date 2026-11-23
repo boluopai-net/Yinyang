@@ -45,6 +45,3 @@ routes and named protected-project exception. It retains the general rule that
 any owner-declared protected target is evidence-only. Its paired
 [`agent-orchestration-master`](../agent-orchestration-master/) package is a
 separate companion, not embedded here.
-
-This package uses the [MIT License](LICENSE). Obtain the complete directory
-from [GitHub](https://github.com/boluopai-net/Yinyang/tree/main/skills/prompt-audit-orchestration).

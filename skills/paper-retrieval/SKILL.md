@@ -84,8 +84,7 @@ official navigation/control path when source validation depends on it. Distingui
 transport, visible challenge, session, entitlement, format and capture failure.
 Do not export cookies, derive entitlement from a logged-in page, evade site
 restrictions, or use private adapters. Preserve existing personal authentication,
-consent, payment and outbound-contact boundaries; reuse authorization already
-given. A technical failure alone is not proof of denied entitlement.
+consent, payment and outbound-contact boundaries. A technical failure alone is not proof of denied entitlement.
 
 ## Verify before adoption
 

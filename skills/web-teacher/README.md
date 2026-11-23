@@ -71,8 +71,6 @@ A course heading can include its main textbook, with each shared unit listed
 once. Put papers and projects in the Unit column. Keep every row visible.
 Private path bodies were not read or copied; private research-direction history,
 host mappings and personal course exceptions were replaced with recipient bindings.
-Original package material is [MIT licensed](LICENSE); companions, Obsidian/PDF++
-and supplied sources retain their own rights. No third-party code is bundled.
 
 ## 中文说明
 
@@ -122,5 +120,4 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 历史研究按时间书写、跨单元
 递归讲解；技术学习区分书面训练与实验；State 区分准备、接触、学习者贡献和未验证
 理解。私人路径正文未读取或复制；私人研究方向历史、主机映射和个人课程例外改为
-接收方绑定。原创内容采用 [MIT 许可](LICENSE)，配套包、Obsidian／PDF++ 和提供的
-来源保留各自权利，本包不附第三方代码。
+接收方绑定。

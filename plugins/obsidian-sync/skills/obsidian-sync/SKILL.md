@@ -18,7 +18,7 @@ Retain collision-proof backup siblings before replacing wrong types, serialized 
 
 Download this complete directory. Requirements: macOS, Python 3.12+ (Path.exists follow_symlinks is used), and Git for repository vault preflight. No other Skill is required to execute these resources. Chezmoi is a useful companion only when the recipient wants durable installation; its publication-owner boundary remains applicable.
 
-Copy [config.example.json](config.example.json) to recipient-owned configuration and replace every path. Declare exact cloud_vaults and local_vaults, shared authority, seed, lock, watcher state and installed wrapper. No vault/account discovery or private defaults occur. The shared authority and targets must not contain one another; groups must not overlap. Missing configured vaults cause refusal before writes.
+Copy the configuration fields below to recipient-owned configuration and replace every path. Declare exact cloud_vaults and local_vaults, shared authority, seed, lock, watcher state and installed wrapper. No vault/account discovery or private defaults occur. The shared authority and targets must not contain one another; groups must not overlap. Missing configured vaults cause refusal before writes.
 
 Use [scripts/obsidian-sync](scripts/obsidian-sync) as the public entrypoint:
 
@@ -48,3 +48,18 @@ Converged files may require a vault/plugin reload before Obsidian consumes exter
 ## Completion evidence
 
 Report exact configured authority, seed, vault count and representation groups; help/dry-run/real-run scope; lock/preflight refusals, backup paths and reverse-sync results; then validate the installed wrapper and actual configured files. For source changes use disposable vault fixtures rather than live HOME/cloud. Application consumption is a further readback boundary.
+
+### Configuration
+
+```json
+{
+  "cloud_root": "/absolute/recipient/cloud",
+  "shared_config_root": "/absolute/recipient/cloud/shared-configuration",
+  "source_seed_root": "/absolute/recipient/repository/config-seed",
+  "cloud_vaults": ["/absolute/recipient/cloud/vault-a"],
+  "local_vaults": ["/absolute/recipient/workspace/vault-b"],
+  "lock_path": "/absolute/recipient/state/obsidian-sync.lock",
+  "watch_state_file": "/absolute/recipient/state/obsidian-watch.json",
+  "sync_command": "/absolute/recipient/installed/obsidian-sync/scripts/obsidian-sync"
+}
+```

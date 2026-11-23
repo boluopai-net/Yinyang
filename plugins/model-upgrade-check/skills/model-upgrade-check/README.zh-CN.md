@@ -31,12 +31,8 @@ chezmoi 包说明了使用者需要提供的发布能力。OpenAI 行为仍不�
 读取自动化配置才能核实该项设置；一次小规模运行才能验证消费者确实可以使用。三者回答的是
 不同问题。
 
-## 独立性与许可
+## 独立性
 
 本包将本地 `model-upgrade-check` Skill 改写为可复用、与服务商无关的方法。它以接收方实际的
 配置归属和消费者接口发现流程，替换了原有的宿主专用路径和同步步骤。源环境中可选的消费者
 示例不构成本包的前置条件。
-
-本独立软件包采用 [MIT 许可](LICENSE)。你可以从 [GitHub](https://github.com/boluopai-net/Yinyang/tree/main/skills/model-upgrade-check)
-获取完整目录，并在保留 MIT 要求声明的前提下使用、修改和再分发，包括商业用途。
-[公开集合仓库](https://github.com/boluopai-net/Yinyang)提供下载与 Issue 交流，本集合不接受 PR。

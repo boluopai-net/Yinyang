@@ -61,8 +61,3 @@ provenance, fit, and access distinctions. Private cloud wrappers, retired
 registrations, host paths, observed account history, and a private portrait
 reference are replaced with public dependencies and supported recipient context.
 `SKILL.md` is English model-facing instruction; README editions are aligned guides.
-
-Original package material uses the [MIT License](LICENSE). External packages are
-separate dependencies under their own licenses and notices; none of their source,
-binaries, credentials, or private sessions is bundled. Public documentation was
-checked on 2026-10-14; no dependency was installed or marketplace account queried.

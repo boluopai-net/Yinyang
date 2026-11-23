@@ -86,6 +86,5 @@ The renderer and both HTML assets come from the author's maintained
 `random-wheel` Skill. This public edition preserves its working animation,
 selection, and controls, while making file I/O explicitly UTF-8 and removing
 private host routing from the instructions. No third-party libraries, fonts,
-images, private options, or credentials are included. These files are covered
-by the bundled [MIT License](LICENSE). The separate MCP Apps bridge
+images, private options, or credentials are included. The separate MCP Apps bridge
 is not needed by the standalone renderer and is not bundled here.

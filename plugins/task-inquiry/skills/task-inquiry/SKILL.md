@@ -124,8 +124,7 @@ When an unresolved purpose, preference, tradeoff, ownership, consent, or
 acceptable-risk judgment belongs to the user and changes a consequential task
 branch, obtain that judgment before the dependent action. Present the actual
 alternatives, consequences, evidence limits, and next action using the active
-host's interaction contract. Reuse authorization already given within its
-actual scope. An exploratory question alone does not create an approval gate.
+host's interaction contract. An exploratory question alone does not create an approval gate.
 
 Honor the active host's answer and waiting contract: hold only work that depends
 on a missing answer, and continue independent authorized work where possible.

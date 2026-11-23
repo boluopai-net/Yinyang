@@ -31,6 +31,3 @@
 本包改编自本地编排方法，移除了专用宿主路径和具名受保护项目例外；保留了通用规则：所有者明确保护的
 目标只能作为证据读取。配套的 [`agent-orchestration-master`](../agent-orchestration-master/) 是独立 Skill，
 不会嵌入本包。
-
-本包采用 [MIT 许可](LICENSE)。可从 [GitHub](https://github.com/boluopai-net/Yinyang/tree/main/skills/prompt-audit-orchestration)
-获取完整目录。

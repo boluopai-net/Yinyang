@@ -24,8 +24,7 @@ Add the marketplace once; later plugins need only the second command.
 The desktop plugin browser can also browse the configured marketplace.
 Use a new chat after installation so the installed Skills can be discovered.
 
-The package includes the complete Skill, references, scripts, assets, and its
-license. Installing it does not provision external tools, authentication,
+The package includes the complete Skill, references, scripts, and assets. Installing it does not provision external tools, authentication,
 devices, or services. Read the package README for those requirements. For local
 teaching, install both `local-teacher@boluopai` and `web-teacher@boluopai`.
 For model conversation relay, install `model-conversation-relay@boluopai`; add
@@ -83,8 +82,7 @@ start a new chat. Never store personal modifications in the managed cache.
 when you want to inspect, adapt, or use another client. ZIP is an optional source
 route, not the normal Codex installation step.
 
-Yinyang retains Yinyang Personal and Internal Use License 1.0; the other Skills retain their package-local MIT
-licenses. The GitHub marketplace is independently distributed and is not a claim
+Yinyang retains Yinyang Personal and Internal Use License 1.0; the other Skills retain their MIT terms in the [repository license](../LICENSE). The GitHub marketplace is independently distributed and is not a claim
 of inclusion in OpenAI's public plugin directory.
 
 References: [Official plugin packaging](https://developers.openai.com/plugins/build/plugins)

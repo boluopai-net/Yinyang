@@ -73,24 +73,6 @@ Philosophy 保有写作来源。Personal 在原有四个主题组内保留可读
 [心理页](psychological-support.zh-CN.md)说明。这个目录和所有填写后的记录保持私有；
 分发包只提供组织方法，不带入别人的记录或占位结果。
 
-## 投影公共资源到作者的私人实例
-
-`scripts/sync-common.py` 比较公共写作源与已有私人 Skill；加上 `--apply`
-复制公共资源，保留私人入口及智能体元数据、README 阅读版、MODEL 与 AGENTS 文件，
-以及 `references/personal/`、`references/situated/` 两棵私人目录。
-
-```bash
-python3 /path/to/collection/docs/scripts/sync-common.py \
-  --source /path/to/collection/docs --target /path/to/private/yinyang
-```
-
-源以形成方法识别，目标以实际 `SKILL.md` 识别。投影器不检查私人目录、
-不替新人形成模型，也不发布运行时。公共路径出现多余文件或符号链接时，
-由维护者检查归属；已有本地与私人云端发布者交付核对后的私人源，并读回实际消费者。
-
-Empty 使用者按本包自己的约定更新。独立写作的哲学与方法保留自己的来源，
-不由作者公共资源的投影覆盖。
-
 ## 私人与公开边界
 
 个人描述即使经过形式化或面向模型书写，也仍属于私人内容。私人引文、传记、心理和
@@ -99,4 +81,4 @@ Empty 使用者按本包自己的约定更新。独立写作的哲学与方法�
 
 只有获授权的可复用认识回到集合。阴阳原创材料采用 Yinyang Personal and Internal Use License 1.0，
 其他独立成员保留各自 MIT 许可。权限、署名与来源审查遵循
-[集合说明](https://github.com/boluopai-net/Yinyang/blob/main/README.zh-CN.md)及实际发布维护者。私人改编不必公开。
+[集合说明](https://github.com/boluopai-net/Yinyang/blob/main/README.md)及实际发布维护者。私人改编不必公开。

@@ -43,16 +43,10 @@ has its old saved model field. Reading the instruction verifies the policy;
 reading the automation verifies its setting; a small run verifies use. Each
 answers a different question.
 
-## Independence and license
+## Independence
 
 This package adapts the local `model-upgrade-check` Skill into a reusable
 provider-neutral method. It replaces host-specific paths and synchronization
 steps with discovery through the recipient's actual configuration owners and
 consumer interfaces. Optional consumer examples from the source environment
 are not prerequisites.
-
-This independent package uses the [MIT License](LICENSE). You may obtain the
-complete directory from [GitHub](https://github.com/boluopai-net/Yinyang/tree/main/skills/model-upgrade-check)
-and use, modify, and redistribute it, including commercially, with the
-required MIT notices. The [public collection](https://github.com/boluopai-net/Yinyang)
-provides downloads and Issue discussion; this collection does not accept pull requests.

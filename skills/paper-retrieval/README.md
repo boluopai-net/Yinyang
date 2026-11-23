@@ -47,9 +47,7 @@ verified identifiers in the conversation as well as the collection manifest.
 See [source and verification guidance](references/sources-and-verification.md).
 This original portable adaptation derives its scholarly workflow from the
 maintainer's local Skill, removing host paths, personal records and private
-browser/library machinery. Original package material is [MIT licensed](LICENSE).
-Poppler and retrieved publications retain their own rights; no third-party code
-or publication is bundled.
+browser/library machinery.
 
 ## 中文说明
 
@@ -84,5 +82,4 @@ CAJ 转换器或限制规避机制。图书馆权限仍由使用者的授权界�
 
 [来源与验证指南](references/sources-and-verification.md) 保留方法说明。
 这是从维护者本地 Skill 独立改写的可移植版本，移除了私人记录、主机路径与
-专用浏览器和图书馆机制。原创内容采用 [MIT 许可](LICENSE)；Poppler 和取得
-的出版物保留各自权利，本包不附第三方代码或出版物。
+专用浏览器和图书馆机制。

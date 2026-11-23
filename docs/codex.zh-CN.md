@@ -16,12 +16,12 @@ codex plugin add yinyang-empty@boluopai
 
 Empty 保留辩证核心、六份形成指南、基本观点建议及实践与协作指南，由你与模型形成自己的哲学和个人描述。作者的哲学文章继续作为可选阅读材料。
 
-将 `yinyang-empty` 换成[目录](../README.zh-CN.md#集合里的-skill)中的其他包名即可。
+将 `yinyang-empty` 换成[目录](../README.md#集合里的-skill)中的其他包名即可。
 例如，`codex plugin add research@boluopai` 安装搜索与研究。
 市场只需添加一次；以后安装其他插件只需第二条命令。桌面端插件浏览器也可以浏览
 已配置的市场。安装后在新对话里使用，让 Codex 发现新装的 Skill。
 
-插件包含完整 Skill、参考文档、脚本、资源及许可。安装不会自动配置外部工具、认证、
+插件包含完整 Skill、参考文档、脚本及资源。安装不会自动配置外部工具、认证、
 设备或服务，具体要求见各包 README。本地教学需要同时安装
 `local-teacher@boluopai` 与 `web-teacher@boluopai`。
 模型对话接续安装 `model-conversation-relay@boluopai`；仅在选择受控浏览器路线时
@@ -67,7 +67,7 @@ codex plugin remove research@boluopai
 或[下载仓库 ZIP](https://github.com/boluopai-net/Yinyang/archive/refs/heads/main.zip)。
 ZIP 是可选的源码入口，不再是 Codex 常规安装步骤。
 
-阴阳保留 Yinyang Personal and Internal Use License 1.0，其他 Skills 保留各自的 MIT 许可。
+阴阳保留 Yinyang Personal and Internal Use License 1.0，其他 Skills 适用[仓库许可](../LICENSE)中的 MIT 条款。
 这个 GitHub 市场独立分发，不表示已经进入 OpenAI 官方公共插件目录。
 
 参考：[官方插件打包说明](https://developers.openai.com/plugins/build/plugins)

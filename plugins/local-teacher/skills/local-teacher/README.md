@@ -54,9 +54,7 @@ does not establish understanding. There is no mastery gate for onward explanatio
 
 This public adaptation preserves the local method and consumes the installed
 web-teacher companion's resources through its catalog-resolved location. Private host paths, learner/corpus
-records and current research history are excluded. Original package material is
-[MIT licensed](LICENSE); companion packages and supplied sources retain their
-own licenses. There is no third-party implementation bundled here.
+records and current research history are excluded.
 
 ## 中文说明
 
@@ -94,5 +92,4 @@ Course 工作前按共享 [配置指南](../web-teacher/references/configuration
 证据，模型答案或程序运行通过不能独自证明理解，也不以掌握证明阻挡后续讲解。
 
 此公开改写保留本地方法，通过宿主目录找到已安装的 web-teacher 并读取共享资源；排除私人主机
-路径、学习者／材料库记录及当前研究历史。原创内容采用 [MIT 许可](LICENSE)，
-配套包与提供的来源保留各自许可，本包不附第三方实现。
+路径、学习者／材料库记录及当前研究历史。

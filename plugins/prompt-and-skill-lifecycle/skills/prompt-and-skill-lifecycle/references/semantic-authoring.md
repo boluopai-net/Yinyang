@@ -126,7 +126,7 @@ affected revision, including examples, tables, instructions and parallel edition
 Authoring a Prompt or Skill does not itself authorize adding new requirements
 for user confirmation or approval. Preserve applicable host and task authority,
 authentication, consent, and stopping boundaries by reference to their actual
-owners and scope. Reuse authorization already given. An optional proposal for
+owners and scope. An optional proposal for
 a new approval requirement belongs in the delivery explanation, clearly marked
 as a proposal; it does not become an active instruction through silence.
 

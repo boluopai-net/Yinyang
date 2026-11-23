@@ -24,8 +24,7 @@ Continue one ready-bound request/response exchange. Responsibilities are:
 Native task/thread and permitted controlled Browser carriers are per-operation
 adapters and may differ between observation and mutation. Read the installed
 `browser-relay` entrypoint completely when selecting that route; native-only
-operations do not need this conditional companion. Reuse actual authorization
-for the exchange; installing or testing this package does not authorize a
+operations do not need this conditional companion. Installing or testing this package does not authorize a
 submission. Runtime owners retain host confirmation, login, credential, consent,
 and human-action boundaries. Conversation creation, model changes, and account
 settings stay outside the relay's operations. The relay binds a complete response

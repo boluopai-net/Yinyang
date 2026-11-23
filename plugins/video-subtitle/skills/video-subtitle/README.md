@@ -57,10 +57,6 @@ wrapper. It does not bypass restrictions or silently substitute speech
 recognition, translation, comments or another track. Network/extractor failures
 remain failures; update yt-dlp or diagnose with its official tools when useful.
 
-Original package material is [MIT licensed](LICENSE). yt-dlp is a
-separate dependency with its own [license and notices](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE);
-its code is not bundled. Video/subtitle rights remain with their owners.
-
 ## 中文说明
 
 取得 YouTube 或 Bilibili 的一个准确字幕轨道，并依据实际读到的范围作答。
@@ -95,7 +91,3 @@ Bilibili 使用显式 `/video/` 链接及 `?p=N`，短链接需先明确解析�
 整个视频覆盖未知，回答应限定于提取的分 P。本脚本不处理私有视频、登录、
 验证码或站点限制，不规避限制，不暗中改用语音识别、翻译、评论或其他轨道。
 网络或提取器失败仍是失败，可依据实际问题更新 yt-dlp 或用其官方工具诊断。
-
-原创内容采用 [MIT 许可](LICENSE)。yt-dlp 单独安装，
-保留其 [许可与声明](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE)，本包
-不附其代码。视频及字幕权利仍属于各自权利人。

@@ -12,7 +12,7 @@ Deliberate node/mode choice and bounded DNS-cache recovery have different author
 
 Download this entire package plus [Network](../network/README.md). Python 3.12+, macOS system utilities and Clash Verge Rev/Mihomo are required; controller bridge/relay also needs recipient-installed socat. No subscription, global Script/Merge policy, account, embedded controller credential or personal default selector is included.
 
-[scripts/clash-tool](scripts/clash-tool) configures the actual eight source-derived implementations using [config.example.json](config.example.json). Every runtime/state/log/interpreter/mutex/privileged destination and group list is recipient selected. Required fields remain explicit even when a particular inspection uses only some. check-config validates configuration without reading live state or making requests.
+[scripts/clash-tool](scripts/clash-tool) configures the actual eight source-derived implementations using the configuration fields below. Every runtime/state/log/interpreter/mutex/privileged destination and group list is recipient selected. Required fields remain explicit even when a particular inspection uses only some. check-config validates configuration without reading live state or making requests.
 
 Controller discovery prefers a validated Unix socket belonging to the configured target Home owner. Explicit endpoints remain authoritative; configured TCP/secret is a fallback. Secrets are read at runtime from the recipient's app-owned config or environment, never copied into the public JSON. A root guard selects the configured user rather than root's socket.
 
@@ -39,3 +39,38 @@ Copying this method does not install Clash, socat, administrator authority, a ro
 ## Evidence and completion
 
 Use help/check-config, self-test and disposable controller/DNS fixtures for candidate validation. Self-test mocks DNS resets and local controller/HTTP responses; it is not live recovery evidence. setup preview does not prove service registration. Live acceptance requires installed command, launchctl/runtime state where relevant, exact service DNS/proxy restoration, active core route/TUN and an affected request, with preservation/recovery checks appropriate to the change.
+
+### Configuration
+
+```json
+{
+  "target_home": "/absolute/recipient/home",
+  "runtime_root": "/absolute/recipient/clash-data",
+  "guard_state_dir": "/absolute/root-owned/guard-state",
+  "mode_state_dir": "/absolute/recipient/private-mode-state",
+  "log_dir": "/absolute/root-owned/guard-logs",
+  "switch_log_dir": "/absolute/recipient/switch-logs",
+  "python_executable": "/absolute/root-owned/python3",
+  "socat_executable": "/absolute/recipient/socat",
+  "root_runtime_dir": "/absolute/root-owned/guard-runtime",
+  "plist_dir": "/absolute/root-owned/LaunchDaemons",
+  "mutex_executable": "/absolute/recipient/installed/macos-home-mutex",
+  "mutex_path": "/absolute/recipient/state/shared-home.lock",
+  "label": "recipient.clash-dns-tun-guard",
+  "controller_url": "",
+  "desired_mode": "system",
+  "groups": [
+    "Recipient selector"
+  ],
+  "direct_groups": [],
+  "fallback_regions": [
+    "JP",
+    "SG",
+    "US"
+  ],
+  "excluded_regions": [],
+  "tun_dns_server": "198.18.0.1",
+  "fake_ip_cidr": "198.18.0.0/15",
+  "probe_url": "https://www.example.com/"
+}
+```

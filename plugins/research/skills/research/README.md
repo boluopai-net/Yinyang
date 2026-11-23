@@ -10,7 +10,7 @@ It is independently usable; Yinyang and any personal environment are unnecessary
 ## Use it
 
 Place this directory in a Skill location supported by your agent host, preserving
-`SKILL.md` and the included license. Follow that host's installation and discovery
+`SKILL.md`. Follow that host's installation and discovery
 instructions. The Skill adds a method; it does not install search tools, configure
 credentials, or grant access. With local file access alone it can investigate
 supplied material; external claims need appropriate search, browser, library, or
@@ -56,7 +56,3 @@ Skills are included. Adapt the method to your host and purpose while preserving
 source provenance, privacy-conscious queries, the distinction between claims
 and observations, and honest coverage limits. A fixed output schema is needed
 only when your actual downstream consumer requires one.
-
-This independent package uses the [MIT License](LICENSE). You may obtain the complete directory from [GitHub](https://github.com/boluopai-net/Yinyang/tree/main/skills/research) and use, modify,
-and redistribute it, including commercially, with the required MIT notices.
-It does not include Yinyang. The [public collection](https://github.com/boluopai-net/Yinyang) provides downloads and Issue discussion; this collection does not accept pull requests.

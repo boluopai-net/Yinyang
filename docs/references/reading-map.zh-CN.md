@@ -5,7 +5,7 @@
 从自己的问题进入。[YY-00](docs/core-views.zh-CN.md#yy-00)以 P-AR 引入作者采纳的四条主线怎样相连；
 它是连贯阅读的入口，不是必须逐篇读完的路径。非文史哲背景的读者，可以先从[核心观点](docs/core-views.zh-CN.md)
 挑选有关部分，考察其理由与适用条件，需要时再沿链接深入文章。选定的思想可以用于
-配置适合自己的个人环境；[用途说明](https://github.com/boluopai-net/Yinyang/blob/main/README.zh-CN.md#用途与心理健康说明)
+配置适合自己的个人环境；[用途说明](https://github.com/boluopai-net/Yinyang/blob/main/README.md#用途与心理健康说明)
 区分这些工作与心理自助。是否写自己的哲学或文章，由兴趣决定，
 [例子与知识共有地](docs/example-and-commons.zh-CN.md)展开这条创作路径。
 阅读、选择性使用与完整采用，是可以选择的用途，不是必须依次完成的阶段。

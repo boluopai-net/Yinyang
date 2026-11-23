@@ -158,7 +158,7 @@ Give each consumer enough context and reason to perform its contribution
 independently. Different contracts or observed behavior can justify different
 instructions; model names alone do not. The environment account records which
 routes fit here, without introducing a registry or background rewrite service.
-Existing permissions, consent, safety, and publication authority retain their scope.
+
 
 <a id="carry-the-change-to-evidence-and-continuity"></a>
 

@@ -46,6 +46,3 @@ retains the original local Skill's device identity, scoped inspection, readback,
 temporary-setting restoration, and privacy methods. It replaces owner-specific
 phone/app/account observations with portable setup and recipes, and adds a UI
 inspection deadline. No private device records or credentials are included.
-
-This independent package uses the [MIT License](LICENSE). Upstream dependencies
-retain their own licenses; no upstream binaries are bundled.

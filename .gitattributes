@@ -1,4 +1,0 @@
-# Keep native renderer/export bytes intact; editable candidates use normal checks.
-docs/*.pdf binary
-docs/references/diagrams/*.html linguist-generated=true -whitespace
-docs/references/diagrams/*.svg linguist-generated=true -whitespace

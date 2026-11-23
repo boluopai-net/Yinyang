@@ -107,28 +107,6 @@ selection, scoring and interpretation. The directory and all filled records
 remain private; the distributed package supplies this organizing method, not
 another person's records or placeholder results.
 
-## Project common resources into the author's private instance
-
-`scripts/sync-common.py` compares the common writing source with an existing
-private Skill. With `--apply`, it copies common resources, preserving the
-private entrypoints and agent metadata, README editions, MODEL and AGENTS files, and both
-`references/personal/` and `references/situated/` trees.
-
-```bash
-python3 /path/to/collection/docs/scripts/sync-common.py \
-  --source /path/to/collection/docs --target /path/to/private/yinyang
-```
-
-The source is identified by its formation method, the target by its actual
-`SKILL.md`. It does not inspect private trees, create a new person's accounts,
-or publish runtime. Unmatched common files and common-path symlinks require
-ownership inspection. Existing host and private cloud owners deliver the checked
-private source and read back the consumers.
-
-Empty recipients update from Empty's own package contract. Independently authored
-philosophy and methods stay with their own source rather than being overwritten
-by this author's common-resource projection.
-
 ## Personal and public boundaries
 
 Personal accounts remain private even when formalized or written for models.

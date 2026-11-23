@@ -24,7 +24,7 @@ does not supply those capabilities.
 | Recorder/DAW, audio playback, optional analysis tools | Required according to the requested operation, supplied by your host; routes and upstream links are in the tool guide. |
 
 Download linked Skill directories through the repository's native source archive
-or clone, retaining each complete package and its license.
+or clone, retaining each complete package.
 
 The [tool guide](references/tools.md) describes supplied-file use, optional
 FFmpeg, analysis libraries, and a separately installed Logic Pro/MCP route.
@@ -42,6 +42,4 @@ in your own session storage. Free viewing does not grant media redistribution.
 
 This is a portable adaptation of an author-maintained local singing workflow.
 Private singer profiles, attributable personal records, recordings, host paths,
-credentials, and machine-specific integration receipts are excluded. Original
-package prose and code are [MIT licensed](LICENSE). No third-party code or media
-is bundled; linked tools and acquired music retain their respective rights.
+credentials, and machine-specific integration receipts are excluded.

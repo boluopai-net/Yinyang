@@ -29,12 +29,9 @@ Host-native role support, isolation, and delegation interfaces are runtime
 capabilities, not Skill dependencies. Inspect them before dispatch and report
 unsupported mappings instead of assuming role-name compatibility.
 
-## Independence and license
+## Independence
 
 The package adapts a local method into a host-neutral workflow. It removes
 host-specific agent formats and publication commands while retaining role
 scope, task ownership, dispatch context, safe parallelism, review selection,
 integration, and native-carrier readback.
-
-This package uses the [MIT License](LICENSE). Obtain the complete directory
-from [GitHub](https://github.com/boluopai-net/Yinyang/tree/main/skills/agent-orchestration-master).

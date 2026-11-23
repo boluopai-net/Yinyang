@@ -14,7 +14,7 @@
 
 可以先挑选[核心观点](core-views.zh-CN.md)中有关的部分，用于配置适合自己的个人环境。
 是否另写原创哲学或文章，由兴趣决定，不是这些使用必须走向的终点。
-[用途说明](https://github.com/boluopai-net/Yinyang/blob/main/README.zh-CN.md#用途与心理健康说明)
+[用途说明](https://github.com/boluopai-net/Yinyang/blob/main/README.md#用途与心理健康说明)
 区分这些工作与心理自助。
 
 如果你愿意写自己的哲学，可以从自己的轨迹与共同反思中取得材料，借哲学家的概念、文学意象、论证与对话，展开所理解的世界与愿意维系的关系。再把这份哲学与生活材料一起凝练为个人模型，使它进入实际环境。形成之后，一段更清晰的哲学表达可以修订已有模型，私下的理解与反思以及实际使用也可以为下一篇文章带来问题。这样，形成时的来路与后续修订中的往返各有其作用。
@@ -78,7 +78,7 @@ Personal 的四个主题组保留有实质内容的可读文章，Observations �
 通过 [Issue](https://github.com/boluopai-net/Yinyang/issues) 可以提问、纠错、
 提出建议或分享相关作品。本仓库不支持任何 PR，包括 Skills、代码、翻译、文档与录音；
 集合的修改和发布由作者维护 [[2]](#source-2)。
-[交流说明](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.zh-CN.md)
+[交流说明](https://github.com/boluopai-net/Yinyang/blob/main/README.md#反馈与许可)
 展开这些入口。
 
 「知识共产主义」在这里表达共享创造能力的愿望：使思想资源可用，支持别人做出
@@ -87,7 +87,7 @@ Personal 的四个主题组保留有实质内容的可读文章，Observations �
 链接和可复用的方法建立联系，无需把它们合成一份哲学。公开讨论与来源标注，使这些联系可以追踪。
 
 这个共有地有具体的复用条款。公开仓库无需审批即可阅读与下载。阴阳采用
-[Personal and Internal Use License 1.0](../../LICENSE)，允许私用、私人修改及辅助
+[Personal and Internal Use License 1.0](../../../LICENSE)，允许私用、私人修改及辅助
 自己的有偿工作。未经另行许可，不得传播原版或修改版副本，或把阴阳作为供他人使用的
 产品／服务提供。不复制受保护表达的独立作品与成果可以发表和出售。可以讨论思想、
 分享官方链接；法定例外与 GitHub 公开平台权限不受影响。其他 Skill 和工具包继续采用
@@ -105,5 +105,5 @@ GitHub 保存持续维护的源内容与修改历史。网站把选定的同一�
 
 「知识共产主义」与采用、组合或重新创作的邀请表达本集的愿景，不是在提出公地的历史描述，也不授予实际条款之外的复用权利。形成实例描述可尝试的实践，没有报告接收者已经取得个人发展的证据。
 
-1. <a id="source-1"></a> 阴阳文集，阴阳个人与内部使用许可 1.0；许可说明。[许可](../../LICENSE)；[许可说明](https://github.com/boluopai-net/Yinyang/blob/main/LICENSING.md)。为上文的复用区分提供直接根据：阅读与私人使用许可、再分发及服务提供所需的另行许可，以及独立输出的不同地位。其他包与第三方作品保留各自条件。
-2. <a id="source-2"></a> 阴阳文集作者，交流指南。[指南](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.md)。提供通过 Issue 交流、不接收 PR 的实际参与条件。独立维护的作品可以通过批评、引用与链接继续发展，是本文从这些安排展开的哲学提议。
+1. <a id="source-1"></a> 阴阳文集，阴阳个人与内部使用许可 1.0；许可说明。[许可](../../../LICENSE)；[许可说明](https://github.com/boluopai-net/Yinyang/blob/main/LICENSE)。为上文的复用区分提供直接根据：阅读与私人使用许可、再分发及服务提供所需的另行许可，以及独立输出的不同地位。其他包与第三方作品保留各自条件。
+2. <a id="source-2"></a> 阴阳文集作者，交流指南。[指南](https://github.com/boluopai-net/Yinyang/blob/main/README.en.md#feedback-and-license)。提供通过 Issue 交流、不接收 PR 的实际参与条件。独立维护的作品可以通过批评、引用与链接继续发展，是本文从这些安排展开的哲学提议。

@@ -56,11 +56,6 @@
 这个生成者自己也仍在变化，其中的可能也会冲突。能力可以内化，也可以由可靠条件支持；使用 AI、意见一致和产出本身，都不确立成长。
 文章在各自尺度展开这些意象与主张。
 
-## 维护与贡献
-
-[MODEL.md](MODEL.md)维护解释与发布边界，[AGENTS.md](AGENTS.md)是维护入口。
-英文读者文本有完整中文对应。公共材料在共享源维护，情境化描述在实际私人位置维护。
-
 通过 [Issues](https://github.com/boluopai-net/Yinyang/issues) 提问、纠错、建议，或向 boluopai 点歌。
 自己的哲学或其他文章在自己的地方发表，可以提及或链接本仓库。本集合不接受任何 PR。
 [创作邀请](references/docs/example-and-commons.zh-CN.md#各自创作也让作品相遇)说明这些参与方式。
@@ -68,8 +63,8 @@
 
 ## 许可
 
-阴阳原创材料采用 [Yinyang Personal and Internal Use License 1.0](LICENSE)。
+阴阳原创材料采用 [Yinyang Personal and Internal Use License 1.0](../LICENSE)。
 允许下载、私用、私人修改及辅助有偿工作。未经另行许可，不得传播原版或修改版副本，
 或把它作为供他人使用的产品／服务提供。独立成果保有自己的权利。
 法定例外、GitHub 平台权限及第三方权利不受影响。
-其他可复用包保留各自包内的 MIT 许可。
+其他可复用包保留仓库许可中的 MIT 条款。

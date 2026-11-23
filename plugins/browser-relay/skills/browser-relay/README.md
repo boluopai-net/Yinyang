@@ -64,9 +64,7 @@ This original public adaptation preserves the local custody, session, placement,
 message and lifecycle method while removing private host integrations, profile
 paths, account/service targets and incident-specific configuration. Carrier
 bindings remain explicit external prerequisites. The private runtime scripts
-are not bundled or presented as standard APIs. Original package material is
-[MIT licensed](LICENSE). Playwright/browser implementations and visited material
-retain their own rights; no third-party code is bundled.
+are not bundled or presented as standard APIs.
 
 ## 中文说明
 
@@ -107,5 +105,4 @@ Windows 激活虚拟环境使用 `.venv\Scripts\activate`。脚本输出自己�
 
 此原创公开改写保留本地目标、会话、放置、消息和生命周期方法，移除私人主机集成、
 Profile 路径、账号／服务目标及事故特定配置。载体仍明确由外部提供；私人脚本不附带，
-也不冒充标准 API。原创内容采用 [MIT 许可](LICENSE)，Playwright／浏览器和访问材料
-保留各自权利，本包不附第三方代码。
+也不冒充标准 API。

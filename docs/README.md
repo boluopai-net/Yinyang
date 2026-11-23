@@ -73,13 +73,6 @@ that this creator keeps becoming, including through changing and conflicting pos
 or remain reliably supported; AI use, agreement, and output alone do not establish
 growth. The essays develop these images and claims at their own scale.
 
-## Maintenance and contribution
-
-[MODEL.md](MODEL.md) owns interpretation and publication boundaries;
-[AGENTS.md](AGENTS.md) is the maintenance entrance. English reader texts have
-complete Chinese counterparts. Maintain common material at this shared source
-and situated accounts at their actual private owner.
-
 Use [Issues](https://github.com/boluopai-net/Yinyang/issues) for
 questions, corrections, suggestions, or song requests to boluopai. Publish your
 own philosophy or other articles in your own space and mention or link this
@@ -90,9 +83,9 @@ quotations, and unpublished manuscripts remain outside public distribution.
 
 ## License
 
-Original Yinyang material uses the [Yinyang Personal and Internal Use License 1.0](LICENSE).
+Original Yinyang material uses the [Yinyang Personal and Internal Use License 1.0](../LICENSE).
 You may download, privately use and modify it, including to assist paid work.
 Redistribution and providing it as a product or service for others require
 separate permission. Independent outputs remain yours. Legal exceptions,
 GitHub platform permissions and third-party rights
-remain intact. Other reusable packages retain their package-local MIT licenses.
+remain intact. Other reusable packages retain their MIT terms in the repository license.

@@ -40,6 +40,3 @@ updates retain your own content; the author's philosophical corpus remains separ
 
 This is an edition of Yinyang by boluopai, adapted by selecting its method
 resources and retaining developed essays as optional external reading.
-It uses the [Yinyang Personal and Internal Use License 1.0](LICENSE).
-Private use and modification, including paid-work assistance, are permitted.
-Redistribution and external provision require separate permission.

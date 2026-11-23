@@ -83,14 +83,7 @@ files with the private source, apply the relevant common changes, then verify
 the private consumer. Preserve `references/philosophy/`, `references/personal/`,
 `references/situated/`, their links, and independently authored additions.
 When a common method has also been locally adapted, compare the meanings instead
-of silently overwriting it. The author's `sync-common.py` maintains selected common resources for the author's private instance; use this package's own files when updating an Empty-based version.
-
-The collection maintainer uses `scripts/build-yinyang-empty.py --apply` to refresh
-the shared guides from their canonical writing source, rebase their links, and adapt the distribution
-statement to Empty's unfilled six actual starters. Its default mode checks that
-the generated selection is current. Empty's own entrypoint and package guidance
-remain authored at this directory. Plugin generation then packages that exact
-tree. This publication operation does not read or update recipient personal data.
+of silently overwriting it.
 
 ## Questionnaire and assessment material
 

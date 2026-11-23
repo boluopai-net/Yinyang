@@ -11,5 +11,3 @@ Install PyYAML into your chosen Python environment. Copy the two JSON templates,
 Set colima_profile to your existing named Colima VM; the scanner never chooses an author's or implicit default profile. The shipped value recipient-profile is a placeholder.
 
 Download the **complete directory** from this repository or GitHub's native archive, preserving scripts and executable modes. Relative resources and companion relationships are part of the package. There are no personal accounts, subscriptions, vault lists, credentials or host defaults to inherit. Configure your own real targets; a downloaded method is not proof of a configured runtime service.
-
-The original reusable package and its public adaptation are MIT licensed; see [LICENSE](LICENSE). Third-party applications and services retain their own rights.

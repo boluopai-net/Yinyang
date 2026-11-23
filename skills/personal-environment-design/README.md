@@ -50,6 +50,3 @@ generalizes local tool routing and configuration choices, replacing private
 originating quotations and conversation identifiers with standalone rationale.
 It includes no personal history, private sources, preconfigured services, or
 credentials.
-
-This independent package uses the [MIT License](LICENSE). Linked external
-references retain their own rights; their full texts are not bundled.

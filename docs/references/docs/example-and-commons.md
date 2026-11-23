@@ -110,7 +110,7 @@ Use an [Issue](https://github.com/boluopai-net/Yinyang/issues)
 to ask a question, discuss a correction or suggestion, or share a relevant work.
 This repository does not accept any PRs, including Skills, code, translations,
 documents, and recordings. The author maintains its changes and publication [[2]](#source-2).
-The [conversation guide](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.md)
+The [conversation guide](https://github.com/boluopai-net/Yinyang/blob/main/README.en.md#feedback-and-license)
 explains these entrances.
 
 “Knowledge communism” names the aspiration to shared creative capacity here:
@@ -123,7 +123,7 @@ Public discussion and attribution make these connections traceable.
 
 This commons has concrete terms of reuse. The public repository can be read
 and downloaded without approval. Yinyang's [Personal and Internal Use License
-1.0](../../LICENSE) permits private use and modification, including assistance
+1.0](../../../LICENSE) permits private use and modification, including assistance
 with paid work. Redistribution of original or modified copies and providing
 Yinyang as a product or service for others require separate permission.
 Independent work and outputs that do not reproduce protected expression may be
@@ -153,5 +153,5 @@ The opening asked how borrowed fire becomes a capacity to keep generating fire. 
 
 “Knowledge communism” and the invitation to adopt, combine, or author anew express this collection's aspiration. They do not establish a historical account of commons or grant reuse rights beyond the actual terms. The formation examples describe proposed practices, rather than evidence that recipients have achieved personal development.
 
-1. <a id="source-1"></a> Yinyang collection, Yinyang Personal and Internal Use License 1.0; Licensing guide. [License](../../LICENSE); [Licensing guide](https://github.com/boluopai-net/Yinyang/blob/main/LICENSING.md). These are the primary grounds for the reuse distinctions above: permission to read and use privately, separate permission for redistribution or service provision, and the distinct status of independent outputs. Other packages and third-party works retain their own terms.
-2. <a id="source-2"></a> Yinyang collection author, Conversation guide. [Guide](https://github.com/boluopai-net/Yinyang/blob/main/CONTRIBUTING.md). Supplies the actual Issue-based conversation and no-PR participation terms. The proposal that independently maintained works can develop through criticism, citations, and links is this essay's philosophical extension of those arrangements.
+1. <a id="source-1"></a> Yinyang collection, Yinyang Personal and Internal Use License 1.0; Licensing guide. [License](../../../LICENSE); [Licensing guide](https://github.com/boluopai-net/Yinyang/blob/main/LICENSE). These are the primary grounds for the reuse distinctions above: permission to read and use privately, separate permission for redistribution or service provision, and the distinct status of independent outputs. Other packages and third-party works retain their own terms.
+2. <a id="source-2"></a> Yinyang collection author, Conversation guide. [Guide](https://github.com/boluopai-net/Yinyang/blob/main/README.en.md#feedback-and-license). Supplies the actual Issue-based conversation and no-PR participation terms. The proposal that independently maintained works can develop through criticism, citations, and links is this essay's philosophical extension of those arrangements.
