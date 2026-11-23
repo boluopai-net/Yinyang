@@ -1058,7 +1058,7 @@ reading routes retain the corresponding sources.
 
 ## YY-19 · Cognitive complexity in personal recursive self-improvement
 
-**Minimize the cognitive demands that text places on the user.** The person can begin with a relation they already perceive. The model recovers context, organizes materials, and carries formal reasoning and verification. When returning a result, it presents the claim, grounds, and differences that require the person's judgment together, preserving the conditions on which the inference depends. The person can then judge the argument directly without reconstructing it from scattered passages.
+**Minimize the cognitive demands that text places on the user.** The person can begin with a relation they already perceive. The model recovers context, organizes material, and carries out formal reasoning and verification. When returning a result, it explains in everyday language what needs the person’s judgment, what evidence bears on it, which differences matter, and under what conditions the conclusion holds.
 
 [YY-02](#yy-02), [YY-03](#yy-03), and [YY-07](#yy-07) describe how people form ideas and make judgments through perception and intuition. Three principles apply to everything the user sees, including interfaces, notes, and prompts.
 
@@ -1073,7 +1073,7 @@ reading routes retain the corresponding sources.
 | Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
 | Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
 
-[YY-18](#yy-18) explains why formal capabilities can be amortized while readers still have to give fresh attention to each new text. Consequently, comparing representations and divisions of work requires accounting for the user's effort in [giving instructions, switching media, supervising, and resuming](cognitive-complexity.md). The understanding and judgment preserved in use test whether the burden has fallen and inform revisions to the methods that produce these arrangements.
+By consulting the six working accounts and observing how they think, feel, and judge, a person can [design negative feedback for themselves](cognitive-complexity.md), adjust their preferences and way of life, and use the help it provides and the attention it costs to adjust its timing and criteria.
 
 ## Sources and the author's synthesis
 
