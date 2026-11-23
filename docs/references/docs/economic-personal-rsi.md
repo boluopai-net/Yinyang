@@ -168,7 +168,7 @@ The four capacities thereby acquire further content: modeling explains contribut
 
 **Use model capabilities to extend embodiment and judgment, and let participation in reality continue changing how models are used.** A person can thereby develop a contribution within a changing economy while retaining room to reconsider what is worth developing. A life worth sustaining gives this recursion a continuing, revisable direction.
 
-[The Division of Cognitive Labor in Personal Recursive Self-Improvement](cognitive-complexity.md) takes this allocation into the activity itself: which relations to understand and practise, what to retrieve, what to delegate, and how later participation can revise that choice.
+[The Division of Cognitive Labor and Negative Feedback in Personal Recursive Self-Improvement](cognitive-complexity.md) takes this allocation into the activity itself: which relations to understand and practise, what to retrieve, what to delegate, and how later participation can revise that choice.
 
 ## Sources and their contributions
 

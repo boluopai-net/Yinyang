@@ -1,5 +1,6 @@
-# The Division of Cognitive Labor in Personal Recursive Self-Improvement
+# The Division of Cognitive Labor and Negative Feedback in Personal Recursive Self-Improvement
 
+<a id="the-division-of-cognitive-labor-in-personal-recursive-self-improvement"></a>
 <a id="cognitive-complexity-in-personal-recursive-self-improvement"></a>
 
 ![Three principles for building a personal environment](../diagrams/cognitive-complexity.svg)
