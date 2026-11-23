@@ -2,8 +2,6 @@
 
 ![The environment minimizes the cognitive demands of text on the user so the person can develop embodied reasoning, intuition, and reasoning in natural language while the model takes on full exposition, formal reasoning, and implementation.](../diagrams/cognitive-complexity.svg)
 
-**Minimize the cognitive demands that processing text places on the user.** Give the reader the text they need to judge a question. Let the model find, translate, reorganize, and formally develop the material.
-
 [中文](cognitive-complexity.zh-CN.md)
 
 [Personal recursive self-improvement in economic reality](economic-personal-rsi.md#how-amortization-reverses-the-priorities-of-personal-cultivation) establishes the grounds for this division of work. When formal reasoning is cheaply available through a model, embodied observation and reasoning in ordinary language become more valuable to cultivate. In reading and writing, that means saving the work of locating, restating, and reassembling grounds so the reader can directly judge the relations that could change the conclusion.
