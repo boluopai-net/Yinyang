@@ -40,7 +40,7 @@ When proxy traffic is limited or large software, dependency packages, and Docker
 
 <a id="subscription"></a>
 
-## 2. From a subscription to global instructions and essential Skills
+## 2. From a subscription to global prompts, project prompts, and Skills
 
 Web ChatGPT provides a cloud conversation and tool space for discussion, research, understanding materials, and developing ideas. With the relevant access, local Codex can directly help construct and maintain a **personal knowledge and working environment**: connecting materials, notes, applications, files, scripts, tools, and configuration, and turning ideas into usable arrangements. A project folder is one working location within it; the environment itself can be an ongoing object of improvement. You bring purpose, experience, and judgment; the model carries explanation, investigation, construction, execution, and checking. A concrete need can begin that collaboration.
 
@@ -78,9 +78,19 @@ Consider these benefits together using [Google's current plan comparison](https:
 
 Drive, Gmail, and the notebook tool already offer free functionality; the subscription adds storage, allowances, and applicable AI benefits. Before buying, use the Google account you intend to keep and check its [plan benefits](https://support.google.com/googleone/answer/14534406?hl=en), regional and language availability, and actual renewal price. Light use can begin with the free features. If you already need more storage and regularly work with email and research materials, the combined plan is especially worth comparing.
 
-### Let the model help establish the working arrangement
+### Global prompts: two layers that travel across projects
 
-Begin global instructions with a few arrangements that apply across your work: how you want to participate, what the model should carry, how native language and English are used, where files and results belong, and how the model completes work and makes it visible. A Web model can help write them; a local model can place them where the actual client reads them and check that they take effect. You provide purposes and corrections; the model maintains the instruction files, and both revise through use.
+**Technical instructions** describe how to work in the current environment. Where should the model save a finished file? How can it check what the reader will actually see? These instructions apply across projects, so they belong in the global prompt. A change of client, tool, or storage location can call for an immediate revision.
+
+**The literary layer for personal RSI** describes what you care about and how you and the model work together, in language that fits your life and writing. A reader might write, “When I lose the thread of an argument, help me find the connection between the two passages.” That wish can outlast several reading apps. Yinyang offers a way to write this layer: select views that speak to you, bring them together with your own work and experience, and let the model distill six accounts of your direction, yourself, the model, your relationship, your environment, and revision. Personal style and circumstances give the accounts their form. Revisit them when experience changes your understanding. Write the technical layer separately for the tools you actually use. See the [practice guide](creation-method.md).
+
+### Project prompts: give one undertaking a place to continue
+
+A project prompt names the aim, materials, and result of one undertaking. For a reading course, a lightweight Web project might say, “Find the original text, compare possible ways into it, and help me design this week's reading.” The local project can carry the course over months: “Open the course folder, resume at the passage we marked, and save today's question and next starting point in the course notes.” Both serve the same course. Each prompt gives its host the materials and responsibilities it can actually use.
+
+### Skills: reuse a method in the setting where it will be used
+
+A Skill carries a method that can serve more than one project. Teaching illustrates how to give one method Web and local editions. **Web Teacher** can help a learner understand a passage, investigate a question, or design an exercise in conversation. **Local Teacher** can use those teaching methods with the actual textbook and notes, follow an exercise through to feedback, and leave the course ready for the next session. The project prompt identifies this course and where the learner is. The Skill supplies a way to teach.
 
 **The author's recommendation is to use simple, globally shared Skills, plugin, and MCP configuration for everyday work, with Full Access as the default for ordinary global work locally.** Let the same useful capabilities serve different tasks, retaining local exceptions only when a particular project has a concrete need. The judgment here is that unnecessary constraints may divert work into workarounds, repeated interruption, or maintaining the agent's Harness at the expense of the user's intended result. Make the Harness serve actual work and revise it through concrete problems.
 
@@ -233,9 +243,9 @@ Give the model the repository link and the outcome you want. Have it read the RE
 - **Adapt it to your needs:** first judge whether configuration, a plugin, or a small patch is enough; fork when you need to maintain your own remote version. Keep the reason for changes, the upstream source, and a recoverable version. Compare local modifications with upstream changes during updates, resolve conflicts, and verify the result again.
 - **Ask, contribute, and reuse:** search existing Issues and documentation first. For a reproducible problem, collect the environment, steps, and result in an Issue; propose improvements through a PR. [GitHub's contribution guide](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) describes this path. The model can use GitHub CLI or a connected GitHub tool where useful, posting under your actual authorization. A repository may also supply papers, documentation, Skills, templates, or implementation ideas; its license determines the permitted copying and adaptation.
 
-### Connect actions with scripts, Hooks, Skills, and interfaces
+### Global prompts, scripts, Hooks, Skills, and interfaces
 
-A setting, direct link, or short script may be sufficient. When a method needs repeated use, access across projects, or distribution to others, choose an appropriate package:
+**Global prompt.** Start with the two cross-project layers. Put how you want to participate in the literary layer and how the model should operate your current tools in the technical layer. To turn an instruction into an action, a setting, direct link, or short script may be sufficient. When a method needs repeated use, access across projects, or distribution to others, choose an appropriate package:
 
 - **Small script:** connect concrete actions, such as turning materials into a linked reading page, providing a clearly named menu for common actions, or displaying a background task's completion and errors. The human entrance can be a button, menu, or webpage while the model maintains execution details.
 - **Hook:** connect an action to a defined event, such as checking formatting before a commit or recording a result afterward. Where a client exposes the relevant events, a Hook can also organize tool output or display a task-completion notification. [Git hooks](https://git-scm.com/docs/githooks) are one concrete example. Events, inputs, and failure handling belong to the actual host. Have the model connect the existing entrypoint, trigger a real event, and inspect the result.
