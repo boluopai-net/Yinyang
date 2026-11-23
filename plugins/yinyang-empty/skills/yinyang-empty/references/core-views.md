@@ -34,7 +34,7 @@ its developmental purpose or writing a personal philosophy. See
 - [YY-16 · Cultivate a garden of becoming with friends](#yy-16)
 - [YY-17 · Personal recursive self-improvement](#yy-17)
 - [YY-18 · Personal recursive self-improvement in economic reality](#yy-18)
-- [YY-19 · Cognitive complexity and negative feedback in personal recursive self-improvement](#yy-19)
+- [YY-19 · The division of cognitive labor and negative feedback in personal recursive self-improvement](#yy-19)
 
 </details>
 
@@ -1055,11 +1055,12 @@ and [engineering](https://boluopai.net/repositories/prometheus/source/skills/yin
 reading routes retain the corresponding sources.
 
 <a id="yy-19--cognitive-complexity-in-personal-recursive-self-improvement"></a>
+<a id="yy-19--cognitive-complexity-and-negative-feedback-in-personal-recursive-self-improvement"></a>
 <a id="yy-19"></a>
 
-## YY-19 · Cognitive complexity and negative feedback in personal recursive self-improvement
+## YY-19 · The division of cognitive labor and negative feedback in personal recursive self-improvement
 
-**Minimize the cognitive demands that text places on the user.** The person can begin with a relation they already perceive. The model recovers context, organizes material, and carries out formal reasoning and verification. When returning a result, it explains in everyday language what needs the person’s judgment, what evidence bears on it, which differences matter, and under what conditions the conclusion holds.
+**Minimize the cognitive demands that text places on the user.** Cognitive complexity concerns the relationships a task requires someone to hold in mind together. The division of cognitive labor between the person and the model concerns which judgments and skills the person wants to exercise and which work the model can take on. The person can begin with a relation they already perceive. The model recovers context, organizes material, and carries out formal reasoning and verification. When returning a result, it explains in everyday language what needs the person’s judgment, what evidence bears on it, which differences matter, and under what conditions the conclusion holds.
 
 Three principles guide the model when it builds a personal environment.
 

@@ -30,7 +30,7 @@
 | 具体论证和原典在哪里？ | [按任务问题阅读](references/reading-map.zh-CN.md)通向文章、图示及哲学、心理和工程来源。 |
 | 这些推理选择背后的形式语义是什么？ | [容纳不一致语义](references/docs/inconsistency-tolerant-semantics.zh-CN.md)说明修复、优先关系与答案条件。 |
 | 有限的培养应该投到哪里？ | [经济现实中的个人递归自改进](references/docs/economic-personal-rsi.zh-CN.md)比较亲自练习、模型支持与维持条件。 |
-| 哪些值得理解并练习，哪些需要时检索，哪些交给模型？ | [个人递归自改进中的认知复杂性](references/docs/cognitive-complexity.zh-CN.md)区分任务复杂性、情境负荷与学习，再让后来的参与返回分配方法。 |
+| 哪些值得理解并练习，哪些需要时检索，哪些交给模型？ | [个人递归自改进中的认知分工](references/docs/cognitive-complexity.zh-CN.md)区分任务复杂性、情境负荷与学习，再让后来的参与返回分配方法。 |
 
 非文史哲背景的读者，可以先从[核心观点](references/docs/core-views.zh-CN.md)挑选有关部分，
 需要时再沿链接阅读论证。想连贯理解作者的整体方向，也可以读**借火 → [YY-00](references/docs/core-views.zh-CN.md#yy-00) → 实践说明**。

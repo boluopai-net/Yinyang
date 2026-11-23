@@ -35,7 +35,7 @@
 <tr><td>我先提出一个直觉，模型可以怎样帮我检验它？</td><td><a href="docs/references/docs/yinyang-and-taiji.zh-CN.md">阴阳与太极</a></td></tr>
 <tr><td>一篇作品、一个伙伴、一套工具怎样支持我持续做一件事？</td><td><a href="docs/references/docs/writing-a-sinthome.zh-CN.md">从个人模型到圣状</a></td></tr>
 <tr><td>一次修改怎样让下一次修改做得更好？</td><td><a href="docs/references/docs/literary-recursive-improvement.zh-CN.md">用文学写出自己的递归改进</a></td></tr>
-<tr><td>哪些能力值得亲自练习，哪些工作可以交给模型？</td><td><a href="docs/references/docs/economic-personal-rsi.zh-CN.md">经济现实中的个人递归自改进</a> · <a href="docs/references/docs/cognitive-complexity.zh-CN.md">认知复杂性</a></td></tr>
+<tr><td>哪些能力值得亲自练习，哪些工作可以交给模型？</td><td><a href="docs/references/docs/economic-personal-rsi.zh-CN.md">经济现实中的个人递归自改进</a> · <a href="docs/references/docs/cognitive-complexity.zh-CN.md">认知分工</a></td></tr>
 </tbody>
 </table>
 

@@ -49,7 +49,7 @@
 | 人与模型怎样在设计、理解和构造之间换位？ | [YY-14](docs/core-views.zh-CN.md#yy-14)与[三个位置之间的往返](docs/local-source-and-website.zh-CN.md#人与模型在三个位置之间往返)，将交互设计、认知与行为、AI／计算接到哲学、心理与工程。 |
 | 改好一件作品，怎样进一步改善产生下一件作品的方法？ | [YY-17](docs/core-views.zh-CN.md#yy-17)与[递归改进专章](docs/literary-recursive-improvement.zh-CN.md)展开描述、解释器、身体、自建模、评价，以及仍能继续修订的后继。 |
 | 有限时间、注意力、身体精力和费用应该投到哪里？ | [YY-18](docs/core-views.zh-CN.md#yy-18)与[经济现实](docs/economic-personal-rsi.zh-CN.md)比较培养、模型帮助、支持与恢复，再让结果返回选择投入的方法；神经经济、心理和社会经济视角解释同一选择中的不同关系。 |
-| 哪些复杂性值得理解并练习，哪些需要时检索，哪些交给模型？ | [YY-19](docs/core-views.zh-CN.md#yy-19)与[个人递归自改进中的认知复杂性](docs/cognitive-complexity.zh-CN.md)区分任务复杂性、情境中的认知负荷与学习，比较不同安排所需的注意力，并让后来的参与修订方法。 |
+| 哪些复杂性值得理解并练习，哪些需要时检索，哪些交给模型？ | [YY-19](docs/core-views.zh-CN.md#yy-19)与[个人递归自改进中的认知分工](docs/cognitive-complexity.zh-CN.md)区分任务复杂性、情境中的认知负荷与学习，比较不同安排所需的注意力，并让后来的参与修订方法。 |
 
 联动修订哲学、personal 材料、描述与实际 Skill 时，使用[实际工作的修订方法](formation/revision-method.zh-CN.md)，发展适合本人的实际修订方法。
 
@@ -108,7 +108,7 @@
 
 [经济现实中的个人递归自改进](docs/economic-personal-rsi.zh-CN.md)接着讨论有限学习投入与比较优势：培养具身、多模态和现实情境判断，把模型能力接成工具，并随经济社会条件变化修订分工。
 
-[个人递归自改进中的认知复杂性](docs/cognitive-complexity.zh-CN.md)进一步追问分配：哪些关系值得理解并练习，哪些需要时检索，哪些交给模型承担。[从采用、组合到自己的创作](docs/example-and-commons.zh-CN.md)接着讨论这些作品与方法怎样成为他人的资源。
+[个人递归自改进中的认知分工](docs/cognitive-complexity.zh-CN.md)进一步追问分配：哪些关系值得理解并练习，哪些需要时检索，哪些交给模型承担。[从采用、组合到自己的创作](docs/example-and-commons.zh-CN.md)接着讨论这些作品与方法怎样成为他人的资源。
 
 文集也收录[为什么要写个人哲学](docs/why-yinyang.zh-CN.md)、
 [萌的论证：开放、学习与适应](docs/meng.zh-CN.md)与

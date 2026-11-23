@@ -58,7 +58,7 @@ contribution currently missing.
 | How can people and models move among design, understanding, and construction? | [YY-14](docs/core-views.md#yy-14) and [movement among three positions](docs/local-source-and-website.md#person-and-model-move-among-the-three-positions) connect interaction design, cognition and behavior, and AI/computing with philosophy, psychology, and engineering. |
 | How does improving a work improve the method that makes the next work? | [YY-17](docs/core-views.md#yy-17) and [the RSI chapter](docs/literary-recursive-improvement.md) develop description, interpreter, body, self-modeling, evaluation, and a successor able to continue revision. |
 | Where should finite time, attention, bodily energy, and money go? | [YY-18](docs/core-views.md#yy-18) and [economic reality](docs/economic-personal-rsi.md) compare cultivation, model assistance, support and recovery, then return outcomes to the allocation method. Neuroeconomic, psychological, and socioeconomic perspectives explain different relations within that choice. |
-| Which complexity should I understand and practise, retrieve, or delegate? | [YY-19](docs/core-views.md#yy-19) and [Cognitive Complexity in Personal Recursive Self-Improvement](docs/cognitive-complexity.md) distinguish task complexity, situated cognitive load, and learning. They compare the attention required by different arrangements and use later participation to revise the method. |
+| Which complexity should I understand and practise, retrieve, or delegate? | [YY-19](docs/core-views.md#yy-19) and [The Division of Cognitive Labor in Personal Recursive Self-Improvement](docs/cognitive-complexity.md) distinguish task complexity, situated cognitive load, and learning. They compare the attention required by different arrangements and use later participation to revise the method. |
 
 For a connected refresh of philosophy, personal material, accounts, and working
 Skills, use [Revising a Situated Practice](formation/revision-method.md) to develop the actual revision method.
@@ -125,7 +125,7 @@ they do not all call for more data or stronger confidence.
 
 [Personal recursive self-improvement in economic reality](docs/economic-personal-rsi.md) then considers finite learning investment and comparative advantage: cultivate embodied, multimodal, situated judgment, use model capabilities as tools, and revise work allocation with economic and social conditions.
 
-[Cognitive Complexity in Personal Recursive Self-Improvement](docs/cognitive-complexity.md) develops the next allocation question: which relations to understand and practise, which to retrieve, and which to let the model carry. [From adoption and combination to creating your own work](docs/example-and-commons.md) then considers how these works and methods can become resources for others.
+[The Division of Cognitive Labor in Personal Recursive Self-Improvement](docs/cognitive-complexity.md) develops the next allocation question: which relations to understand and practise, which to retrieve, and which to let the model carry. [From adoption and combination to creating your own work](docs/example-and-commons.md) then considers how these works and methods can become resources for others.
 
 The collection also includes [Why write a personal philosophy](docs/why-yinyang.md),
 the [Argument for Cuteness](docs/meng.md), and

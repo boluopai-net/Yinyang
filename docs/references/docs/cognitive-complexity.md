@@ -1,6 +1,10 @@
-# Cognitive Complexity in Personal Recursive Self-Improvement
+# The Division of Cognitive Labor in Personal Recursive Self-Improvement
+
+<a id="cognitive-complexity-in-personal-recursive-self-improvement"></a>
 
 ![Three principles for building a personal environment](../diagrams/cognitive-complexity.svg)
+
+Cognitive complexity concerns the relationships a task requires someone to hold in mind together. The division of cognitive labor between the person and the model concerns which judgments and skills the person wants to exercise and which work the model can take on.
 
 [中文](cognitive-complexity.zh-CN.md)
 

@@ -6,7 +6,7 @@ The preceding path has moved through borrowing capabilities, jointly accumulatin
 
 Everyone arrives with experiences, questions, loved works, and intellectual resources of their own. This collection can be one reference among them: examine how a concrete example gives understanding a form, select useful parts, or follow it toward other materials, other people's practices, and one's own life. The sources and direction of creation can extend far beyond this example.
 
-[Cognitive complexity](cognitive-complexity.md) carries the preceding allocation question into this choice: what do you want to understand and practise yourself, what can remain available through retrieval, and what can a model carry? A shared work can support any of these uses; the reader's later participation shows what it makes possible.
+[The division of cognitive labor](cognitive-complexity.md) carries the preceding allocation question into this choice: what do you want to understand and practise yourself, what can remain available through retrieval, and what can a model carry? A shared work can support any of these uses; the reader's later participation shows what it makes possible.
 
 Model companies and humanity continue the Promethean work of acquiring fire; individuals can already make things with the fire available to them. The essays, diagrams, methods, and Skills here are some among many available resources. Yinyang gives an understanding of a person, a model counterpart, and their relationship a developed philosophical and literary form, then gives it practical effect. It offers an attempt already made for readers to examine alongside the other resources they bring.
 

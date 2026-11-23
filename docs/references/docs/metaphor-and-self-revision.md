@@ -332,7 +332,7 @@ elaborate wording is not required before the model can begin.
 
 <a id="cognitive-complexity-and-expressive-scope"></a>
 
-The division of listening, speaking, reading, and writing also concerns how many relations the person needs to handle and how they enter and resume an activity. The later essay [Cognitive Complexity in Personal Recursive Self-Improvement](cognitive-complexity.md#cognitive-complexity-and-expressive-scope) brings expression and task structure, human processing conditions, representation and handoff, and actual benefit into one table, then develops how expressive scope and the organization of images and text change these demands. Here the question continues through the person's contributions under those conditions: their experience, judgments of purpose, and chosen practice.
+The division of listening, speaking, reading, and writing also concerns how many relations the person needs to handle and how they enter and resume an activity. The later essay [The Division of Cognitive Labor in Personal Recursive Self-Improvement](cognitive-complexity.md#cognitive-complexity-and-expressive-scope) brings expression and task structure, human processing conditions, representation and handoff, and actual benefit into one table, then develops how expressive scope and the organization of images and text change these demands. Here the question continues through the person's contributions under those conditions: their experience, judgments of purpose, and chosen practice.
 
 ### Reserve participation for contributions that matter
 

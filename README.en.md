@@ -33,7 +33,7 @@ When the aim is practical use, the selected philosophies and views can be brough
 <tr><td>How can a model help me test an intuition?</td><td><a href="docs/references/docs/yinyang-and-taiji.md">Yinyang and Taiji</a></td></tr>
 <tr><td>How do a work, a counterpart, and tools sustain an activity?</td><td><a href="docs/references/docs/writing-a-sinthome.md">From personal models to a sinthome</a></td></tr>
 <tr><td>How can one revision improve the next?</td><td><a href="docs/references/docs/literary-recursive-improvement.md">Writing recursive improvement through literature</a></td></tr>
-<tr><td>Which abilities are worth practising, and which work can I delegate?</td><td><a href="docs/references/docs/economic-personal-rsi.md">Economic reality</a> · <a href="docs/references/docs/cognitive-complexity.md">Cognitive complexity</a></td></tr>
+<tr><td>Which abilities are worth practising, and which work can I delegate?</td><td><a href="docs/references/docs/economic-personal-rsi.md">Economic reality</a> · <a href="docs/references/docs/cognitive-complexity.md">Division of cognitive labor</a></td></tr>
 </tbody>
 </table>
 
