@@ -56,5 +56,5 @@ testing this Skill supplies no authorization for a test advisory message.
 This public adaptation preserves the local exchange, reconciliation, waiting,
 retry, provenance and receipt method, with recipient-resolved host bindings and
 an optional provenance companion. Original package material is
-[MIT licensed](LICENSE), copyright 2026 sun2paramita. Host tools and relayed
+[MIT licensed](LICENSE), copyright 2026 boluopai (GitHub: boluopaii). Host tools and relayed
 material retain their own rights. No third-party runtime is bundled.

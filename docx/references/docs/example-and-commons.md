@@ -129,8 +129,7 @@ Yinyang as a product or service for others require separate permission.
 Independent work and outputs that do not reproduce protected expression may be
 published and sold. Discuss ideas and share official links; legal exceptions
 and GitHub's public-platform permissions remain intact. The other Skill and
-tool packages retain their MIT licenses. Third-party works and earlier valid
-grants keep their own terms. The invitation to create concerns your own work;
+tool packages retain their MIT licenses. Third-party works retain their own terms. The invitation to create concerns your own work;
 it does not authorize republishing this package [[1]](#source-1).
 
 ## Personal practice, maintained source, and readable work

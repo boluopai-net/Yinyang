@@ -1,6 +1,6 @@
 # Collection licensing
 
-Copyright (c) 2026 sun2paramita
+Copyright (c) 2026 boluopai (GitHub: boluopaii)
 
 This collection contains independently licensed material. Public access does
 not extend one package's permission to another.
@@ -32,15 +32,6 @@ or service for others to use. Share official links instead. Applicable legal
 exceptions and GitHub's public-repository platform permissions remain intact.
 The complete [license](docx/LICENSE) governs, rather than this summary.
 
-## Earlier releases
-
-Earlier releases included CC BY-SA 4.0, which permitted commercial reuse under
-its conditions, and CC BY-NC-SA 4.0, which permitted noncommercial sharing and
-adaptation. Valid earlier grants remain effective for the material they covered.
-The new license applies to copies expressly released under it from 2026-11-01;
-it does not make previously granted rights disappear. Repository deletion,
-history replacement, or removing downloads does not revoke those rights.
-
 ## 中文摘要
 
 阴阳原创文章、图示、共同方法与 Empty Skill 采用自定义的
@@ -50,5 +41,4 @@ history replacement, or removing downloads does not revoke those rights.
 产品／服务提供。可分享官方链接。私人云端保存与模型代处理按正文条件允许。
 法定例外与 GitHub 平台内查看、fork 等既有权限不受影响。
 
-其他包继续采用 MIT。网站实现源码不包含在公开仓库中。旧版有效授权继续有效，
-不能通过删库或重建历史收回。英文许可正文为准。
+其他包继续采用 MIT。网站实现源码不包含在公开仓库中。英文许可正文为准。

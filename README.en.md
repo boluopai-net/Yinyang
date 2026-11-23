@@ -11,15 +11,15 @@ If you see room to improve the design, know of a technology worth incorporating,
 | Start with your own material | [Empty Skill](skills/yinyang-empty/README.md) · [Practice guide](docx/references/docs/creation-method.md) |
 
 <!-- reading-cover:start -->
-## Choose what to read and use
+## Choosing how to read and use the collection
 
-To use the method yourself, you can skip the philosophical essays. “Philosophical writing” has a broad meaning here. A personal essay or a reflection on a project can serve as material when it expresses how you see a question. Distill views worth keeping from such writing, personal material, and impressions. You can also ask a language model to read this collection’s [Core views](docx/references/docs/core-views.md), select a few you want to adopt, and add judgments of your own.
+Start with [Borrowing Fire](docx/references/docs/stealing-fire.md) to follow the argument. To try the method directly, you can skip the philosophical essays and begin with something you have written or experienced.
 
-Separately, have the language model draw on that material to develop a working model of how the two of you work together. Write six accounts around the questions that arise in practice: orientation and direction, person, counterpart, relationship, environment, and revision. Where an account needs to explain a working arrangement, cite the relevant view and use your own material to show how it applies in your circumstances. [How to Write the Six Accounts](docx/references/formation/overview.md) explains the question each account addresses. Recurring methods in the material can also become tools or Skills. As new material arrives, the language model can update the relevant views, accounts, and tools automatically or help you revise them.
+For a model to help you exercise your judgment, it needs to know what matters to you and why. A personal essay or a reflection on a project can be a form of philosophical writing in the broad sense when you set out how you see a question and what grounds you have for that view. Draw on your writing, records, and impressions to articulate views of your own. You can also ask the model to organize the [Core views](docx/references/docs/core-views.md), choose a few you endorse, and add your judgments.
 
-Include the chosen views and six accounts in the model’s global prompt. Have it use them to configure and adjust your everyday software environment, including your own Skills. See the [Practice guide](docx/references/docs/creation-method.md).
+Your views express what you endorse. To describe how you and the model actually work together, ask it to draw independently on the material and write [six accounts](docx/references/formation/overview.md): orientation, person, counterpart, relationship, environment, and revision. Use concrete experiences to explain how a view applies to you. Methods you use repeatedly can become tools or Skills. As new material arrives, the model can update the views, accounts, and tools.
 
-Use that environment to practise intuition, embodied reasoning, and reasoning in everyday language. Notice a difference, propose an explanation in your own words, and test it against counterexamples and actual results. Let an unexpected result change your explanation, a working account, or a software setting, so feedback from life shapes your next attempt.
+Place the selected views and six accounts in the model’s global prompt so it can adapt your everyday software environment. Use it to cultivate intuition, embodied reasoning, and reasoning in everyday language. Notice a difference, offer an explanation in your own words, and test it against counterexamples and actual results. When something unexpected happens, revisit your explanation, accounts, or software settings. See the [Practice guide](docx/references/docs/creation-method.md).
 
 <!-- reading-cover:end -->
 
@@ -62,7 +62,7 @@ to suggest wording that needs revision or material worth adding. The author will
 consider these suggestions carefully before deciding how to incorporate them.
 <!-- repository-only:end -->
 
-## Choose what to read and use
+## Reading from a question of your own
 
 **If literature, history, or philosophy is not your field, begin with selected
 [Core views](docx/references/docs/core-views.md) that speak to your questions.**
@@ -234,4 +234,4 @@ Only authorized reusable material belongs in this collection.
 
 ## License
 
-Original Yinyang material uses [Yinyang Personal and Internal Use License 1.0](LICENSE), for personal and internal use, including paid-work assistance, with redistribution and external provision restricted; other reusable packages retain [MIT](LICENSE-MIT). See the [collection scope notice](LICENSING.md) and each package’s `LICENSE` for applicability, attribution, separate rights, and earlier valid grants.
+Original Yinyang material uses [Yinyang Personal and Internal Use License 1.0](LICENSE), for personal and internal use, including paid-work assistance, with redistribution and external provision restricted; other reusable packages retain [MIT](LICENSE-MIT). See the [collection scope notice](LICENSING.md) and each package’s `LICENSE` for applicability, attribution, and separate rights.

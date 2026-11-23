@@ -94,5 +94,5 @@ Original Yinyang material uses the [Yinyang Personal and Internal Use License 1.
 You may download, privately use and modify it, including to assist paid work.
 Redistribution and providing it as a product or service for others require
 separate permission. Independent outputs remain yours. Legal exceptions,
-GitHub platform permissions, third-party rights, and earlier valid grants
+GitHub platform permissions and third-party rights
 remain intact. Other reusable packages retain their package-local MIT licenses.
