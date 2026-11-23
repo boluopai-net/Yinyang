@@ -122,6 +122,6 @@ Start a new chat after installation. Substitute another package name in the seco
 
 ## Feedback and license
 
-Bring corrections, suggested technologies, and questions to [Issues](https://github.com/boluopai-net/Yinyang/issues). Publish your own work independently. The project accepts feedback through Issues and does not accept pull requests.
+Use [Issues](https://github.com/boluopai-net/Yinyang/issues) to suggest ways to improve the design, recommend technologies worth adopting, or discuss other questions. Publish your own work independently. The project accepts feedback through Issues and does not accept pull requests.
 
 Original material in the writings and the Empty package is covered by the [Yinyang Personal and Internal Use License](LICENSE). You may use and modify the material privately, including to assist paid work. Redistribution or offering it to others as a product or service requires separate permission. The other Skill packages use MIT. See [the repository license](LICENSE) for infrastructure and third-party materials.
