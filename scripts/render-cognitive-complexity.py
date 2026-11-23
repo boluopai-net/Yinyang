@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DIR = ROOT / "writings/references/diagrams"
+DIR = ROOT / "docx/references/diagrams"
 data = json.loads((DIR / "cognitive-complexity.candidate.json").read_text())
 
 def text(x, y, value, cls, center=False):

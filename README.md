@@ -1,20 +1,28 @@
 # Yinyang
 
-**Yinyang is one form of personal recursive self-improvement (RSI). The public [yinyang-empty Skill](skills/yinyang-empty/README.md) gives you a method for forming your own views and working model with a model counterpart.**
+**Yinyang is one form of personal recursive self-improvement (RSI).** These essays describe how I work with a language model. To try the method in your own life, you can start with [yinyang-empty](skills/yinyang-empty/README.md) and read whichever essays interest you.
 
-**Extract or write a view.** When reading an essay, you can ask a model to identify the author's claims and the reasons behind them. Choose the ones you adopt, draw on the collection's [Core views](writings/references/docs/core-views.md) if you wish, and add or rework claims in your own words. If you already know what you think, write it directly.
+## Choose what to read and use
 
-**Distill a working model.** Start with the philosophy you adopt, your writing, material from life or work, or an impression you have yet to put into words. With a model, develop six accounts: orientation, person, counterpart, relationship, environment, and revision. Views and working accounts stand independently. Where an account relies on a view, cite it and use your own material to explain under what conditions it affects a choice.
+Distill views worth keeping from your own philosophical writing, personal material, and impressions. You can also ask a language model to read this collection’s [Core views](docx/references/docs/core-views.md), select a few you want to adopt, and add judgments of your own.
 
-I used this method to form my own working model. Try yours in your next activity, observe how it affects judgment and the division of work, and revise it from the result. If the experience also changes how you form, test, and revise a working model, it improves the method that produces later improvements.
+Separately, have the language model draw on that material to develop a personal model of how the two of you work together. Write six accounts around the questions that arise in practice: orientation and direction, person, counterpart, relationship, environment, and revision. Where an account needs to explain a working arrangement, cite the relevant view and use your own material to show how it applies in your circumstances. [How to Write the Six Accounts](docx/references/formation/overview.md) explains the question each account addresses. Recurring methods in the material can also become tools or Skills. As new material arrives, the language model can update the relevant views, accounts, and tools automatically or help you revise them.
+
+Include the chosen views and six accounts in the model’s global prompt. Have it use them to configure and adjust your everyday software environment, including your own Skills. See the [Practice guide](docx/references/docs/creation-method.md).
+
+Use that environment to practise intuition, embodied reasoning, and reasoning in everyday language. Notice a difference, propose an explanation in your own words, and test it against counterexamples and actual results. Let an unexpected result change your explanation, a working account, or a software setting, so feedback from life shapes your next attempt.
+
+## Read the collection
+
+Illustrated PDF editions: [Chinese](docx/yinyang.zh-CN.pdf) · [English](docx/yinyang.en.pdf).
 
 The web collection, the six working accounts, and the personal environment share a direction: keep the ontology in use coherent while retaining inconsistencies in data from different sources. Another philosophy can supply different concepts and relations for understanding an activity. Events, testimony, and contrary observations keep their provenance and can test the new account.
 
 The essays develop this argument; reusable Skills and tools support its
 realization and retain their specialist purposes. Begin with
-[Borrowing fire](writings/references/docs/stealing-fire.md), consult the
-[core views](writings/references/docs/core-views.md), or follow the
-[recursive-improvement chapter](writings/references/docs/literary-recursive-improvement.md)
+[Borrowing fire](docx/references/docs/stealing-fire.md), consult the
+[core views](docx/references/docs/core-views.md), or follow the
+[recursive-improvement chapter](docx/references/docs/literary-recursive-improvement.md)
 for the connection between description, interpretation, practice, and changing methods.
 
 [Website](https://boluopai.net/) · [Documents & diagrams](https://boluopai.net/repositories/prometheus/en/) · [简体中文](README.zh-CN.md)
@@ -27,7 +35,7 @@ Yinyang's philosophical ideas guide the configuration of a personal environment 
 
 Yinyang must not be used for psychological self-help work, self-diagnosis, mental-health assessment, or treatment. It has not been systematically evaluated for those purposes. When professional assessment or care is needed, seek a qualified professional; the project's texts and model outputs do not replace that service. The work, models, and circumstances change, so a personal experience or version history does not establish a general psychological effect.
 
-The separate [Psychology guide](writings/references/docs/psychological-support.md) explains model-assisted organization of personal material, questionnaires, scoring, statistics, and practical support within their own evidence and professional-care limits. It does not derive psychological exercises from the philosophy or make the working accounts a self-analysis program.
+The separate [Psychology guide](docx/references/docs/psychological-support.md) explains model-assisted organization of personal material, questionnaires, scoring, statistics, and practical support within their own evidence and professional-care limits. It does not derive psychological exercises from the philosophy or make the working accounts a self-analysis program.
 
 <!-- repository-only:end -->
 
@@ -50,26 +58,26 @@ consider these suggestions carefully before deciding how to incorporate them.
 ## Choose what to read and use
 
 **If literature, history, or philosophy is not your field, begin with selected
-[Core views](writings/references/docs/core-views.md) that speak to your questions.**
+[Core views](docx/references/docs/core-views.md) that speak to your questions.**
 Consider their reasons and conditions, then use the relevant ideas to configure
 a personal environment that fits your purposes and circumstances.
 Follow an essay when you want its fuller argument; reading the whole collection
 or adopting all its positions is unnecessary.
 
 For a focused route through finite investment and attention, read
-[Personal recursive self-improvement in economic reality](writings/references/docs/economic-personal-rsi.md), then
-[Cognitive Complexity in Personal Recursive Self-Improvement](writings/references/docs/cognitive-complexity.md).
+[Personal recursive self-improvement in economic reality](docx/references/docs/economic-personal-rsi.md), then
+[Cognitive Complexity in Personal Recursive Self-Improvement](docx/references/docs/cognitive-complexity.md).
 They ask where cultivation should go and what to understand and practise, retrieve, or delegate.
 
 Writing your own philosophy, essays, or public website is a choice of interest.
 You can use the ideas and maintain your environment without taking on a writing
-project. If writing appeals to you, [An example and a commons](writings/references/docs/example-and-commons.md)
+project. If writing appeals to you, [An example and a commons](docx/references/docs/example-and-commons.md)
 opens that route. Practical beginnings are in [Using the Tools](https://boluopai.net/getting-started/en/).
 
-For adoption, use the [reference and method overview](writings/references/docs/creation-method.md#choose-2x2):
+For adoption, use the [reference and method overview](docx/references/docs/creation-method.md#choose-2x2):
 **Empty provides the recursive self-improvement method** for forming your own content, through direct model condensation or assistance from a community project such as Hindsight. The philosophical essays remain available as reading material.
 
-The [personal-model condensation guide](writings/references/formation/person.md#condense-personal-models-from-event-history-philosophy-and-personal-material)
+The [personal-model condensation guide](docx/references/formation/person.md#condense-personal-models-from-event-history-philosophy-and-personal-material)
 explains how these materials become descriptions of the person, the model
 counterpart needed, and their relationship. Joint work enters the world, and
 actual consequences revise understanding. Memory retains material and its
@@ -108,13 +116,13 @@ not first complete three academic disciplines independently.
 **If a usable engineering environment is missing, develop it with the model.**
 Files, retrieval, tools, execution, and verification make formation and continued
 use possible; the person need not first master engineering. The maintained
-[starting conditions](writings/references/docs/creation-method.md#start-from-available-material-and-practice)
+[starting conditions](docx/references/docs/creation-method.md#start-from-available-material-and-practice)
 distinguish actual philosophical writing, psychological or life material, and
 working environments, singly and in pairs. They identify the next contribution
 without making formation closed stages. Installed configurations can reflect
 constraints, habits, or defaults, so tool inventory alone cannot establish the
 person. Philosophy, grounded accounts, and environment continue to revise one
-another. [Yinyang's package guide](writings/README.md#use-and-understand-yinyang)
+another. [Yinyang's package guide](docx/README.md#use-and-understand-yinyang)
 explains the six actual accounts and both routes, including the person's situated revision method.
 
 ## Skills in the collection
@@ -155,7 +163,7 @@ your model's actual Skill mechanism.
 
 Yinyang supplies culture, thought, and reasoning forms; personal substance comes
 from authorized actual material and the consuming model's collaboration with the
-person. The [public collection](writings/README.md) holds the essays, views and diagrams. [Empty](skills/yinyang-empty/README.md) is the Yinyang Skill readers can install. Other members
+person. The [public collection](docx/README.md) holds the essays, views and diagrams. [Empty](skills/yinyang-empty/README.md) is the Yinyang Skill readers can install. Other members
 retain their own purposes and specialist methods; collection membership does
 not make them Yinyang references or impose its philosophy on their use.
 In a combined practice, Yinyang is an example of a user's philosophy, while
@@ -173,7 +181,7 @@ credentials, personal records, and host-specific bindings are excluded.
 ## Use with Codex
 
 Install **Empty: `yinyang-empty`**, then follow the
-[practice-method entrance](writings/references/docs/creation-method.md#choose-2x2)
+[practice-method entrance](docx/references/docs/creation-method.md#choose-2x2)
 to form your six working accounts. Keep personal material and actual accounts in your own private source.
 
 [Installation and updates](docs/codex.md)

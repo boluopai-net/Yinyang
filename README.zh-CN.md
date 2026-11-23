@@ -1,19 +1,27 @@
 # Yinyang
 
-**阴阳是个人递归自我改进（RSI）的一种形式。公开的 [yinyang-empty](skills/yinyang-empty/README.zh-CN.md) 提供方法，你和模型用自己的材料形成自己的观点和工作模型。**
+**阴阳是一种个人递归自改进（RSI）的形式。** 这部文集写的是我怎样与语言模型共同工作。想在自己的生活里用这个方法，可以直接从 [yinyang-empty](skills/yinyang-empty/README.zh-CN.md) 开始，哲学正文可以选读。
 
-**摘取或写出观点。** 读一篇文章时，可以请模型找出作者提出了哪些判断、各自的理由是什么。你可以从中选几条，也可以从这部文集的[基本观点](writings/references/docs/core-views.zh-CN.md)里选，改写成自己认可的说法，再加上自己的判断。已经想清楚的观点，直接写下来即可。
+## 选择怎样阅读与使用
 
-**凝练工作模型。** 从自己采用的哲学、写过的文章、生活与工作材料，甚至一次尚未说清的个人印象出发，和模型一起写六份描述：立场与方向、个人、伙伴、关系、实践环境、修订方式。观点与模型各自成立。某份描述用到一条观点时，引用它，再用自己的材料说明这条观点在什么条件下影响你的选择。
+可以从自己的哲学写作、个人材料和印象中凝练值得保存的观点，也可以请语言模型读取这部文集的[基本观点](docx/references/docs/core-views.zh-CN.md)，挑出想采用的几条，再添上自己的判断。
 
-我用这个方法形成了自己的工作模型。你可以把自己的版本用到下一件事上，看它怎样影响判断与分工，再根据实际结果修改。如果这次经验还改变了你以后怎样形成、检验和修订模型，改进就回到了产生改进的方法本身。
+另外，让语言模型从这些材料中独立凝练个人模型，围绕你和模型共同工作的实际问题，写成立场与方向、个人模型、伙伴模型、关系模型、实践环境和修订方式六份描述。需要说明某项安排的理由时，引用相应观点，并用自己的材料说明它怎样适用于你的处境。[如何写六份描述](docx/references/formation/overview.zh-CN.md)说明每份描述回答什么问题。材料里反复用到的方法，还可以提炼成工具或 Skills。以后有新材料，可由语言模型自动或协助更新相应的观点、工作描述和工具。
+
+把选定的观点和六份描述注入模型的全局提示词，再让它据此配置和调整你日常使用的软件环境，包括自制的 Skills。具体用法见[实践指南](docx/references/docs/creation-method.zh-CN.md)。
+
+在这个环境里练习直觉、具身推理和日常语言推理：自己察觉差别，用自己的话提出解释，再拿反例和实际结果来检验。让不合预期的结果改变你的解释、工作描述或软件设置，这样生活里的负反馈就能改变下一次实践。
+
+## 阅读文集
+
+带图 PDF：[中文版](docx/yinyang.zh-CN.pdf) · [英文版](docx/yinyang.en.pdf)。
 
 这部网页文集、六份工作说明和个人环境采用同一方向：让当前使用的本体协调，同时容纳多来源数据里的不一致。换用另一种哲学时，可以重新选取解释活动所需的概念和关系；已经发生的事、不同人的说法和相反的观察保留各自的来处，继续供新的理解检验。
 
 文章展开论证，可复用的 Skills 与工具支持实现，并保有各自的专门用途。
-可以从[借火](writings/references/docs/stealing-fire.zh-CN.md)开始，
-选读[基本观点](writings/references/docs/core-views.zh-CN.md)，
-或通过[递归改进一章](writings/references/docs/literary-recursive-improvement.zh-CN.md)
+可以从[借火](docx/references/docs/stealing-fire.zh-CN.md)开始，
+选读[基本观点](docx/references/docs/core-views.zh-CN.md)，
+或通过[递归改进一章](docx/references/docs/literary-recursive-improvement.zh-CN.md)
 理解描述、解释、实践与方法改变之间的联系。
 
 [网站首页](https://boluopai.net/) · [文档与图示](https://boluopai.net/repositories/prometheus/) · [English](README.md)
@@ -26,7 +34,7 @@
 
 阴阳不能用于心理自助工作、自行诊断、心理健康评估或治疗，也尚未经过针对这些用途的系统性实证评估。需要专业评估或照护时，应寻求合格专业人员；项目文字与模型输出不替代这种服务。作品、模型与处境会变化，个人经验或版本历史也不能确立普遍的心理效果。
 
-独立的[心理页](writings/references/docs/psychological-support.zh-CN.md)说明模型如何协助个人材料、量表、计分、统计和实际帮助，保留各自的证据与专业照护边界。这不从哲学推出心理练习，也不把工作描述变成自我分析课程。
+独立的[心理页](docx/references/docs/psychological-support.zh-CN.md)说明模型如何协助个人材料、量表、计分、统计和实际帮助，保留各自的证据与专业照护边界。这不从哲学推出心理练习，也不把工作描述变成自我分析课程。
 
 <!-- repository-only:end -->
 
@@ -45,21 +53,21 @@
 
 ## 选择怎样阅读与使用
 
-**非文史哲背景的读者，可以先从[核心观点](writings/references/docs/core-views.zh-CN.md)中挑选与自己问题有关的部分。**
+**非文史哲背景的读者，可以先从[核心观点](docx/references/docs/core-views.zh-CN.md)中挑选与自己问题有关的部分。**
 了解它们的理由与适用条件，再考虑用来配置符合自身目的与条件的个人环境。
 想进一步理解论证时，再沿链接阅读相应文章；不必通读全书或接受全部立场。
 
-围绕有限投入与注意力，可以先读[经济现实中的个人递归自改进](writings/references/docs/economic-personal-rsi.zh-CN.md)，
-再读[个人递归自改进中的认知复杂性](writings/references/docs/cognitive-complexity.zh-CN.md)：培养应该投到哪里，哪些值得理解并练习，哪些需要时检索，哪些交给模型。
+围绕有限投入与注意力，可以先读[经济现实中的个人递归自改进](docx/references/docs/economic-personal-rsi.zh-CN.md)，
+再读[个人递归自改进中的认知复杂性](docx/references/docs/cognitive-complexity.zh-CN.md)：培养应该投到哪里，哪些值得理解并练习，哪些需要时检索，哪些交给模型。
 
 是否写自己的哲学、文章或个人网站，取决于兴趣。你可以取用观点、维护环境，
-而不另开一个写作项目；愿意写时，[例子与知识共有地](writings/references/docs/example-and-commons.zh-CN.md)
+而不另开一个写作项目；愿意写时，[例子与知识共有地](docx/references/docs/example-and-commons.zh-CN.md)
 提供这条创作路径。实际起步可沿[工具使用](https://boluopai.net/getting-started/)。
 
-采用阴阳时，用[实践指南](writings/references/docs/creation-method.zh-CN.md#choose-2x2)
+采用阴阳时，用[实践指南](docx/references/docs/creation-method.zh-CN.md#choose-2x2)
 通过 **Empty 的递归自我改进方法**形成自己的内容：由模型直接凝练工作描述，或由 Hindsight 等社区项目辅助处理。哲学文章继续作为阅读材料公开。
 
-[个人模型的凝练指引](writings/references/formation/person.zh-CN.md#从事件历史哲学与个人材料凝练个人模型)
+[个人模型的凝练指引](docx/references/formation/person.zh-CN.md#从事件历史哲学与个人材料凝练个人模型)
 展开这些材料怎样成为本人、所需模型伙伴及双方关系的描述，再让共同工作进入现实，
 由实际后果继续修订理解。记忆保留材料和来路；凝练组织有关意义、条件与关系，
 使已有理解能够参与下一次判断和行动。
@@ -86,10 +94,10 @@
 
 **缺少可用工程环境时，与模型共同建立它。**文件、检索、工具、执行与核验，使形成与
 持续使用成为可能，不要求人先精通工程。维护中的
-[已有材料与起步条件](writings/references/docs/creation-method.zh-CN.md#从已有材料与实践起步)
+[已有材料与起步条件](docx/references/docs/creation-method.zh-CN.md#从已有材料与实践起步)
 区分实际已有的哲学写作、心理或生活材料、可用环境，以及两两组合，指出下一项贡献，
 不把形成变成封闭阶段。配置可能来自限制、习惯或默认值，不能单凭工具清单推断个人。
-哲学、有根据的描述与环境继续互相修订。[阴阳包说明](writings/README.zh-CN.md#怎样使用并理解阴阳)
+哲学、有根据的描述与环境继续互相修订。[阴阳包说明](docx/README.zh-CN.md#怎样使用并理解阴阳)
 说明原生工作模型及其使用，包括本人的实际修订方法。
 
 ## 集合里的 Skill
@@ -127,10 +135,10 @@
 | [clash-auto-switch](skills/clash-auto-switch/SKILL.md) | 维护 Clash 节点选择、地区回退与 DNS/TUN 保护。 | [完整包](skills/clash-auto-switch/) |
 
 实际实践安装 **Empty：`yinyang-empty`**。哲学文章另有阅读入口。
-随后按[实践方法入口](writings/references/docs/creation-method.zh-CN.md#choose-2x2)形成自己的六份工作描述。
+随后按[实践方法入口](docx/references/docs/creation-method.zh-CN.md#choose-2x2)形成自己的六份工作描述。
 个人材料与实际描述保存在自己的私人来源中。
 
-[公开文集](writings/README.zh-CN.md)收录文章、观点与图示；[Empty](skills/yinyang-empty/README.zh-CN.md) 是供读者使用的阴阳方法包。
+[公开文集](docx/README.zh-CN.md)收录文章、观点与图示；[Empty](skills/yinyang-empty/README.zh-CN.md) 是供读者使用的阴阳方法包。
 其他成员保留各自的用途与专业方法；进入这个集合，不会使它们变成阴阳参考，
 也不要求使用它们时采用阴阳的哲学。
 组合使用时，阴阳是用户哲学的一个例子，其他 Skills 用具体能力补充它。

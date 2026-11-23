@@ -23,7 +23,7 @@ this philosopher's later problem and recover the earlier concepts it changes”;
 
 | Companion | Relationship and download |
 | --- | --- |
-| [Yinyang writings](https://github.com/boluopai-net/Yinyang/blob/main/writings/README.md) | Public writing on shared modeling, epistemology, and working relationships. [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty) supplies the optional installable method. Web Teacher owns the specialist teaching method. |
+| [Yinyang writings](https://github.com/boluopai-net/Yinyang/blob/main/docx/README.md) | Public writing on shared modeling, epistemology, and working relationships. [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty) supplies the optional installable method. Web Teacher owns the specialist teaching method. |
 | [local-teacher](../local-teacher/README.md) | Linked local realization of this shared method; [download](https://github.com/boluopai-net/Yinyang/tree/main/skills/local-teacher). Needed when using the local entrypoint, not a background executor Web can command. |
 | [task-inquiry](../task-inquiry/README.md) | Useful support for consequential ambiguity and discriminating questions; [download](https://github.com/boluopai-net/Yinyang/tree/main/skills/task-inquiry). Teacher retains source progression, practice and learning judgment. |
 | [research](../research/README.md) | Current source/fact investigation and evidence comparison; [download](https://github.com/boluopai-net/Yinyang/tree/main/skills/research). Supply an actual search/retrieval capability when needed. |
@@ -91,7 +91,7 @@ Web 和 Local 是互补侧重，不是理论／实践的排他分工：Web 通�
 
 | 配套 Skill | 职责与取得方式 |
 | --- | --- |
-| [阴阳文集](https://github.com/boluopai-net/Yinyang/blob/main/writings/README.zh-CN.md) | 共享建模、认识论及工作关系的公开写作。需要安装方法包时，使用 [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)。Web Teacher 负责专门教学方法。 |
+| [阴阳文集](https://github.com/boluopai-net/Yinyang/blob/main/docx/README.zh-CN.md) | 共享建模、认识论及工作关系的公开写作。需要安装方法包时，使用 [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)。Web Teacher 负责专门教学方法。 |
 | [local-teacher](../local-teacher/README.md) | 共享方法的本地实现；[下载](https://github.com/boluopai-net/Yinyang/tree/main/skills/local-teacher)。使用本地入口时需要，不是 Web 可命令的后台执行器。 |
 | [task-inquiry](../task-inquiry/README.md) | 重要歧义和有区分力的问题支持；[下载](https://github.com/boluopai-net/Yinyang/tree/main/skills/task-inquiry)。Teacher 保留来源推进、练习和学习判断。 |
 | [research](../research/README.md) | 当前来源／事实调查与证据比较；[下载](https://github.com/boluopai-net/Yinyang/tree/main/skills/research)。需要调查时应提供实际检索能力。 |

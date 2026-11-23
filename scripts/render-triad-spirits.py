@@ -2,7 +2,7 @@
 from pathlib import Path
 from html import escape
 
-ROOT = Path(__file__).resolve().parents[1] / 'writings/references/diagrams'
+ROOT = Path(__file__).resolve().parents[1] / 'docx/references/diagrams'
 
 for zh in (False, True):
     title = '两位精灵，三个论域' if zh else 'Two spirits, three domains'

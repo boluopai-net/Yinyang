@@ -6,7 +6,7 @@
 
 [首页](../../README.zh-CN.md) · [English](skill-package.md)
 
-公开的 `writings/` 目录维护文章、图示与共同形成方法。
+公开的 `docx/` 目录维护文章、图示与共同形成方法。
 实际私人入口与个人模型保留在各自来源。读者可以阅读哲学，或从 Empty
 形成自己的实践；这个写作源目录不再作为 Full Skill 分发。
 
@@ -80,7 +80,7 @@ Philosophy 保有写作来源。Personal 在原有四个主题组内保留可读
 以及 `references/personal/`、`references/situated/` 两棵私人目录。
 
 ```bash
-python3 /path/to/collection/writings/scripts/sync-common.py \
+python3 /path/to/collection/docx/scripts/sync-common.py \
   --source /path/to/collection/writings --target /path/to/private/yinyang
 ```
 

@@ -36,7 +36,7 @@ literal angle brackets. Names and descriptions have separate display roles.
 
 ## Public method and private instances
 
-`writings/` owns the public essays, diagrams, and shared method sources.
+`docx/` owns the public essays, diagrams, and shared method sources.
 The author's actual Skill entrypoint and personal models stay at their private owner.
 `skills/yinyang-empty/` is the Empty edition: reverse alignment, crossed roles and
 dialectical return, six formation guides, Core views as attributed suggestions,
@@ -51,7 +51,7 @@ Hindsight configuration implements the same six full questions, revision steps
 and whole-six coherence, projected to those paths or an explicit all-six binding.
 Both practice routes start from Empty. Keep one shared philosophy/method source for those tools.
 
-Shared method content remains authored under `writings/references/`. `scripts/build-yinyang-empty.py`
+Shared method content remains authored under `docx/references/`. `scripts/build-yinyang-empty.py`
 projects its declared selection into Empty, relocating the selected guides and
 converting links to omitted essays into optional public reading links.
 Empty's
@@ -61,9 +61,9 @@ the selection builder in the same check/apply mode before packaging Empty.
 Only `yinyang-empty` is an installable Yinyang plugin, under Yinyang Personal and Internal Use License 1.0. Recipient updates use the chosen edition, preserving their
 private philosophy, Personal, Situated, and independently authored additions.
 
-[Yinyang's MODEL.md](writings/MODEL.md) owns interpretation of the shared
+[Yinyang's MODEL.md](docx/MODEL.md) owns interpretation of the shared
 philosophical claims, formation method, reader editions, and supporting resources.
-Its documents and diagrams live inside `writings/references/`. Other
+Its documents and diagrams live inside `docx/references/`. Other
 members keep their own instructions and resources. Do not import another
 repository's philosophical content merely to follow its directory organization.
 
@@ -81,7 +81,7 @@ copies and caches. The earlier 2026-10-14 noncommercial edition remains history.
 
 Website implementation source stays in the author's private native Site
 repository. Do not restore a website snapshot or its exporter to this collection.
-Canonical Yinyang prose and diagrams live in `writings/` and are projected
+Canonical Yinyang prose and diagrams live in `docx/` and are projected
 into the public website through its native content publication route. The Site
 owns rendering, deployment, rights presentation, and its private source recovery.
 Publish the reviewed collection source, regenerate the Site's reading projection,

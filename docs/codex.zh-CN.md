@@ -42,7 +42,7 @@ Empty 保留辩证核心、六份形成指南、基本观点建议及实践与�
 个人版启用后，停用分发插件，
 避免两个阴阳入口相互竞争，并在新对话中核实私人入口。
 简单路线由语言模型直接综合六文件，并用私人 Git/GitHub 持久保存，不要求安装 Hindsight。
-[可选 Hindsight 实现](../writings/references/hindsight.zh-CN.md)说明因环境而异的原生配置，
+[可选 Hindsight 实现](../docx/references/hindsight.zh-CN.md)说明因环境而异的原生配置，
 实现相同六问题、修订步骤与整体融贯，投影到同路径或通过私人索引明确绑定全部六正文。
 两种实现路线都从 Empty 开始。
 

@@ -108,7 +108,7 @@ views remain available in the viewer.
 
 The three responsive illustrated works use `reading-maps.json` for their bilingual
 concepts, relationship labels, and accessible descriptions. Run
-`python3 writings/scripts/render-reading-maps.py` from the collection.
+`python3 docx/scripts/render-reading-maps.py` from the collection.
 The renderer owns original vector illustrations, with separate desktop and
 mobile geometry. The two vector maps have self-contained HTML; the comic HTML
 uses its packaged PNG atlas. All SVG exports are self-contained. The renderer uses the
