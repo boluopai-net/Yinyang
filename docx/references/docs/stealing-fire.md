@@ -206,7 +206,7 @@ There is no single measured rate at which everyone must catch up. Customer-suppo
 
 The response proposed here is to develop the ability to notice worthwhile possibilities, give them a form, and pursue them through consequences. A person can sense a relation before possessing the words or implementation skills to unfold it. The model can help articulate and realize it, while the person encounters objections and learns what the result makes possible. Technical knowledge, embodied experience, reading, and intuitive judgment contribute differently to that practice.
 
-**Individual-first** orients the arrangement toward this person's purposes and voluntary development. Any such change must comply with applicable laws and regulations. Seek changes to social arrangements, then software, before requiring personal adaptation, following concrete dependencies and respecting others' lives. This directs the borrowed fire toward a life rather than turning each change outside it into a demand upon it.
+**Individual-first** orients the arrangement toward this person's purposes and voluntary development. Within the bounds of applicable laws and regulations, first change social arrangements, then change the software, and only then consider changing the person. Asking someone to change calls for an account of how that change serves their purposes and takes others affected into consideration. If a change to the tool would resolve the difficulty, making someone retrain shifts the cost of the tool onto them. This directs the borrowed fire toward a life rather than turning each change outside it into a demand upon it.
 
 ## Generate, encounter correction, generate further
 

@@ -6,7 +6,7 @@
 
 | 想做什么 | 入口 |
 | --- | --- |
-| 在线阅读 | [阴阳文集](https://boluopai.net/yinyang/) · [文档与图示](https://boluopai.net/repositories/prometheus/) · [English README](README.md) |
+| 在线阅读 | [阴阳文集](https://boluopai.net/yinyang/) · [文档与图示](https://boluopai.net/repositories/prometheus/) · [English README](README.en.md) |
 | 下载带图电子书 | [中文 PDF](docx/yinyang.zh-CN.pdf?raw=1) · [English PDF](docx/yinyang.en.pdf?raw=1) |
 | 用自己的材料开始 | [Empty 方法包](skills/yinyang-empty/README.zh-CN.md) · [实践指南](docx/references/docs/creation-method.zh-CN.md) |
 

@@ -15,7 +15,7 @@ Model companies and humanity continue the Promethean work of acquiring fire; ind
 You can first select relevant [Core views](core-views.md) and use them to configure
 a fitting personal environment. Writing an
 original philosophy or article is a choice of interest, rather than the required
-destination of that use. The [use statement](https://github.com/boluopai-net/Yinyang/blob/main/README.md#intended-use-and-mental-health)
+destination of that use. The [use statement](https://github.com/boluopai-net/Yinyang/blob/main/README.en.md#intended-use-and-mental-health)
 distinguishes this work from psychological self-help.
 
 If you choose to write your own philosophy, your trajectory and shared reflection can supply material. Philosophical concepts, literary images, argument, and dialogue develop an understanding of the world and relationships worth sustaining. Distill that philosophy together with living material into personal models and bring them into the actual environment. Once formed, a clearer philosophical expression can revise an existing model, while private reflection and actual use can supply questions for the next essay. Formation's dependencies and subsequent reciprocal revision thereby retain their distinct contributions.

@@ -6,7 +6,7 @@ entrance, not a required route through every essay. Readers outside literature,
 history, or philosophy can
 select relevant [Core views](docs/core-views.md), examine their grounds and conditions,
 and follow the linked essays when a fuller argument would help. Selected ideas
-can guide the configuration of a fitting personal environment. The [use statement](https://github.com/boluopai-net/Yinyang/blob/main/README.md#intended-use-and-mental-health)
+can guide the configuration of a fitting personal environment. The [use statement](https://github.com/boluopai-net/Yinyang/blob/main/README.en.md#intended-use-and-mental-health)
 keeps this distinct from psychological self-help work. Writing your own philosophy
 or articles is a further choice of interest, developed in
 [An example and a commons](docs/example-and-commons.md). Reading, selective use,

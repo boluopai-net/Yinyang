@@ -18,7 +18,7 @@ codex plugin add yinyang-empty@boluopai
 
 Empty retains the dialectical core, six formation guides, Core views as suggestions, and practical collaboration guidance. Develop your own philosophy and personal accounts there. The author's philosophical essays remain optional website reading.
 
-Replace `yinyang-empty` with any name in the [catalog](../README.md#skills-in-the-collection).
+Replace `yinyang-empty` with any name in the [catalog](../README.en.md#skills-in-the-collection).
 For example, `codex plugin add research@boluopai` installs Research.
 Add the marketplace once; later plugins need only the second command.
 The desktop plugin browser can also browse the configured marketplace.
