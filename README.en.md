@@ -37,7 +37,7 @@ When the aim is practical use, the selected philosophies and views can be brough
 </tbody>
 </table>
 
-The book brings philosophy, psychology, and engineering to bear on the same activity: what a person wants to do, how they take part, and what conditions let them continue. The essays draw on concepts and imagery from several traditions and explain their sources and use in context. The book reflects the author’s own heterosexual perspective. Readers can contribute other experiences and sources through Issues.
+The book brings philosophy, psychology, and engineering to bear on the same activity: what a person wants to do, how they take part, and what conditions let them continue. The essays draw on concepts and imagery from several traditions and explain their sources and use in context. The text takes a heterosexual perspective. Readers can contribute other experiences and sources through Issues.
 
 <!-- repository-only:start -->
 ## Intended use and mental health
