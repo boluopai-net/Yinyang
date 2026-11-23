@@ -1,6 +1,6 @@
 # Yinyang
 
-**Yinyang is one form of personal recursive self-improvement (RSI).** In recursive self-improvement, the method that produces improvements can itself improve. A counterexample can help correct an essay. If that correction reveals a better way to test an argument, the method can help catch problems earlier in future essays.
+**Yinyang is one form of personal recursive self-improvement (RSI).** In recursive self-improvement, the method that produces improvements can itself improve.
 
 Try the method with something you are already doing. If you question an argument or get a different result in practice, you are welcome to [open an issue](https://github.com/boluopai-net/Yinyang/issues). Point to the passage and tell us what you noticed.
 
