@@ -22,7 +22,7 @@ When trying a design, offer an explanation in your own words, give a reason, and
     5. [Reading, practice, and focused checks](#understanding-and-evaluation)
 - [II. Learn an unfamiliar field through papers](#paper-reading)
 - [III. Everyday learning](#everyday-learning)
-- [Supplementary resources: disciplinary references and research methods](#domain-methods)
+- [Supplementary resources for learning and research](#domain-methods)
 - [Supplementary resources: scholarly writing and publication](#resources)
 
 </nav>
@@ -303,16 +303,15 @@ When an abstraction is especially fruitful, or you intend to make a practical de
 
 <a id="domain-methods"></a>
 
-## Supplementary resources: disciplinary references and research methods
+## Supplementary resources for learning and research
 
-These libraries are supplementary resources for the teacher or model to read and select as needed. When useful, have the model download and connect them to the teaching and research environment:
+Choose tools and references from these repositories according to the learning or research task at hand.
 
-| Library | Contribution |
+| Repository | Contribution |
 | --- | --- |
 | [K-Dense Scientific Agents](https://github.com/K-Dense-AI/scientific-agents) | Expert thinking materials from different disciplines, providing professional references for explanation and interdisciplinary discussion. |
 | [K-Dense Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Methods for literature retrieval, experimental design, statistics, machine learning, scientific visualization, and citation management. |
-
-The first enriches disciplinary understanding; the second supports concrete work. The teacher selects what the question needs.
+| [DeepTutor](https://github.com/HKUDS/DeepTutor) | An open-source AI learning workspace for source-linked Q&A, step-by-step problem solving, and generating practice questions from your textbooks or papers. |
 
 <a id="resources"></a>
 

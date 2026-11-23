@@ -22,7 +22,7 @@
     5. [阅读、实践与重点检验](#understanding-and-evaluation)
 - [二、沿论文学习陌生领域知识](#paper-reading)
 - [三、日常学习](#everyday-learning)
-- [补充资源：学科参考与科研方法](#domain-methods)
+- [补充资源：学习工具、学科参考与科研方法](#domain-methods)
 - [补充资源：论文写作与发表](#resources)
 
 </nav>
@@ -298,16 +298,15 @@
 
 <a id="domain-methods"></a>
 
-## 补充资源：学科参考与科研方法
+## 补充资源：学习工具、学科参考与科研方法
 
-下面的资源库可交给老师或模型按需阅读、选用。需要时，让模型下载并接入教学与研究环境：
+按当前的学习或研究任务，从下面的仓库选取工具和参考资料。
 
-| 资源库 | 用途 |
+| 仓库 | 用途 |
 | --- | --- |
 | [K-Dense Scientific Agents](https://github.com/K-Dense-AI/scientific-agents) | 不同学科的专家思考资料，给概念解释和跨学科讨论提供专业参考。 |
 | [K-Dense Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 文献检索、实验设计、统计分析、机器学习、科学绘图和引用管理等科研方法。 |
-
-前者补充学科理解，后者支持具体工作。老师按问题选择有用的部分。
+| [DeepTutor](https://github.com/HKUDS/DeepTutor) | 开源 AI 学习工作台，可围绕自己的教材或论文做带出处的问答、分步解题和练习题生成。 |
 
 <a id="resources"></a>
 
