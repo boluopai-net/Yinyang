@@ -396,8 +396,9 @@ Condensation makes relevant understanding usable in the next collaboration.
 Retain relations that change interpretation, response, or revision: what an
 expression answers, its applicability conditions, who reported experience and
 who proposed an explanation, and a material counterexample or alternative.
-Write these as coherent prose with sources where needed, without requiring
-the same fields for every item. Carry original words into a working account
+Write these relationships as coherent prose. Where a source supports a judgment,
+link the author, work, or relevant phrase within that judgment. Omit redundant
+references at the end of the paragraph. Carry original words into a working account
 when their wording bears meaning; complete originals remain with their source.
 
 Develop accounts from reported experience, observable interaction, and actual

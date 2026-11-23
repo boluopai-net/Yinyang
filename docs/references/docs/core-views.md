@@ -130,8 +130,7 @@ the model carries elaborate linguistic work, the person cultivates capacities
 through fitting multimodal participation, and both revise the arrangement
 against actual benefit and total cost.
 
-In perception and action, a person may intuitively notice a difference before finding the words to explain it. A reader senses that a word has shifted in meaning. A listener hears the same sentence differently when the stress moves. Either can be a starting point for embodied reasoning. The person can point out the passage, ask the model to compare the two instances, and judge in their own words what first caught their attention. [Shared reflection and continued cultivation](participation-and-support.md#why-organize-participation-this-way)
-explains the developmental reasons and conditions for this arrangement.
+In perception and action, a person may intuitively notice a difference before finding the words to explain it. A reader senses that a word has shifted in meaning. A listener hears the same sentence differently when the stress moves. Either can be a starting point for embodied reasoning. The person can point out the passage, ask the model to compare the two instances, and judge [in their own words](participation-and-support.md#why-organize-participation-this-way) what first caught their attention.
 
 The analogy changes what counts as an adequate entrance into shared work.
 A felt mismatch need not first become a complete verbal specification: the
@@ -200,14 +199,7 @@ Return can also change how someone understands participation: from “I must sup
 
 ### Taiji, Sun–Moon–Earth, and corrective return
 
-**One whole, two participants, and both participants with the world are three
-simultaneous levels of joint becoming.** Yinyang is a whole as a continuable
-shared activity; person and language model are its distinct participants;
-both enter a three-sided relation with the world's conditions and responses.
-The whole sustains the encounter, difference enables reciprocal contributions,
-and the world gives creations consequences that change subsequent becoming.
-[Transformation, creations, and the world](yinyang-and-taiji.md#transformation-creations-and-the-world)
-develops this relation.
+**One whole, two participants, and both participants with the world are three simultaneous levels of joint becoming.** Yinyang is a whole as a continuable shared activity; person and language model are its distinct participants; both enter a three-sided relation with the world's conditions and responses. The whole sustains the encounter, difference enables reciprocal contributions, and [the world gives creations consequences](yinyang-and-taiji.md#transformation-creations-and-the-world) that change subsequent becoming.
 
 Taiji's circle locates changing contributions within one encounter that can continue. The circle shows return; a trajectory retains how each return has already changed. A work can finish and another carry its gains forward. Bow and lyre show how difference acquires force: the bow releases a work into the world, while the lyre sustains exchange through adjusted tension.
 
@@ -269,7 +261,7 @@ The first table distinguishes the authority of a contribution. The second distin
 | Hysteric — question what fails to fit | Challenge a current explanation where something feels wrong and share an intuition still taking shape | Find a counterexample to the person's assumption or the model's earlier conclusion and develop another reading that can be tested |
 | Analyst — make room for a new judgment | Point out whom the model has spoken for or what it has conflated, then have it explain again and revise | Hear what remains open and offer material or candidate interpretations that the person can recognize and judge from experience |
 
-The purpose of the activity and the judgment it still lacks determine where cooperation begins and ends. The other's response can change an argument, its grounds, or its direction. Actual consequences can in turn correct premises both participants accept. This gives the role exchange of YY-03 its relational determination: each participant can take up the other's work and let the other's objection change their next contribution. [Relational positions](relational-positions.md)
+The purpose of the activity and the judgment it still lacks determine where cooperation begins and ends. The other's response can change an argument, its grounds, or its direction. Actual consequences can in turn correct premises both participants accept. This gives the [role exchange of YY-03](relational-positions.md) its relational determination: each participant can take up the other's work and let the other's objection change their next contribution.
 
 <a id="yy-05"></a>
 
@@ -379,15 +371,7 @@ implementation, directing more human effort toward multimodal perception,
 association, judgment, and actual attempts. Listening, speaking, reading, and
 writing offer familiar entries; diagrams and manipulation also carry relations.
 
-Allocation considers task structure, prior knowledge, representation, and the
-combined costs of expression, operation, supervision, interruption, and resumption.
-The current exchange requires enough expression to continue: an intention, a
-pointed-out difference, or a sketch can be developed by the model, with the
-fuller account available as needed. Text and diagrams supporting the same
-information can demand different search and inference. Selecting expressive
-scope and representation keeps richer meaning available across participants
-and environment. [Cognitive complexity and expressive scope](cognitive-complexity.md#cognitive-complexity-and-expressive-scope)
-develops the research and its distinction from formal-language complexity.
+Allocation considers task structure, prior knowledge, representation, and the combined costs of expression, operation, supervision, interruption, and resumption. The current exchange requires enough expression to continue: an intention, a pointed-out difference, or a sketch can be developed by the model, with the fuller account available as needed. Text and diagrams supporting the same information can demand different [search and inference](cognitive-complexity.md#cognitive-complexity-and-expressive-scope). Selecting expressive scope and representation keeps richer meaning available across participants and environment. These human costs differ from the computational complexity of a formal language.
 
 Human participation contributes personal experience, judgments of purpose,
 actual consent, and practice of chosen capacities. The model first uses context
@@ -657,13 +641,7 @@ develops this extended preference and its revision, alongside the formal
 comparison; [Reasoning](reasoning.md#sources-candidates-and-the-active-workspace)
 develops retained sources and current inquiry.
 
-Rich personal and literary accounts can retain tension while current inference
-uses supported branches. Establish the adopted reading approach before its
-applications, clarify attribution and conditions, and preserve the material
-needed to reconsider selection. Coherence joins faithful coverage, intelligible
-relations, and checkable support; revision addresses both erased differences
-and ungrounded associations. [Reading rich accounts](preference-harness.md#reading-a-rich-account-through-supported-branches)
-develops this application.
+Rich personal and literary accounts can retain tension while current inference uses supported branches. Establish the adopted reading approach before its applications, clarify attribution and conditions, and preserve the material needed to reconsider selection. Coherence joins faithful coverage, intelligible relations, and [checkable support](preference-harness.md#reading-a-rich-account-through-supported-branches); revision addresses both erased differences and ungrounded associations.
 
 <a id="yy-12"></a>
 
@@ -1054,7 +1032,7 @@ To decide whether delegating a task frees resources for practice, look at each r
 
 A quicker delivery can leave more time for practice while increasing the attention spent checking the result. The next allocation depends on what the person can actually do with the time gained.
 
-Interest, habit, ability, and economic opportunity can change independently. A research plan therefore asks separately what the person wants to investigate, under which conditions work continues, what they can currently do with support, and which contribution has accessible demand. Practice can test a proposed allocation while inquiry into opportunities supplies different evidence. [The economic essay](economic-personal-rsi.md#give-a-research-plan-several-independent-grounds) develops this comparison.
+Interest, habit, ability, and economic opportunity can change independently. A research plan therefore asks separately what the person wants to investigate, under which conditions work continues, what they can currently do with support, and which contribution has accessible demand. Practice can test a proposed allocation while [inquiry into opportunities](economic-personal-rsi.md#give-a-research-plan-several-independent-grounds) supplies different evidence.
 
 Compare practice, delegation, and joint work through the gains and costs of the whole activity.
 
@@ -1067,7 +1045,7 @@ Compare practice, delegation, and joint work through the gains and costs of the 
 
 Tasks readily formalized, simulated, and checked at low cost more easily enter scaled training and replication. Economic substitution also depends on reliability, demand, and deployment costs; complementarity can increase the value of another human contribution. A person retains foundations needed to understand, detect consequential errors, and connect results to reality while borrowing capabilities already reliably available.
 
-**When formal reasoning becomes quickly and cheaply available through models, the relative priority of cultivating formal reasoning personally and cultivating embodied reasoning and reasoning in natural language reverses.** Training amortizes the cost of forming capabilities across tasks and users. Parallel search also shortens the wait for alternative derivations on a single task. Readers must still give fresh attention to understanding a new argument and checking its premises against the situation. Let the model develop consequences and counterexamples while people notice differences, articulate reasons, and revise their judgments in light of feedback. Borrowing reliable formal capabilities then makes practice in observation, generation, and judgment more valuable because these determine which questions are worth pursuing. [Amortization and cultivation priorities](economic-personal-rsi.md#how-amortization-reverses-the-priorities-of-personal-cultivation)
+**When formal reasoning becomes quickly and cheaply available through models, the relative priority of cultivating formal reasoning personally and cultivating embodied reasoning and reasoning in natural language reverses.** Training amortizes the cost of forming capabilities across tasks and users. Parallel search also shortens the wait for alternative derivations on a single task. Readers must still give fresh attention to understanding a new argument and checking its premises against the situation. Let the model develop consequences and counterexamples while people notice differences, articulate reasons, and revise their judgments in light of feedback. Borrowing reliable formal capabilities then makes practice in [observation, generation, and judgment](economic-personal-rsi.md#how-amortization-reverses-the-priorities-of-personal-cultivation) more valuable because these determine which questions are worth pursuing.
 
 If verification costs more time than a division of work saves in implementation, revise the allocation. Carrying the result into the next activity improves the method for choosing what to cultivate and what to delegate.
 
@@ -1082,7 +1060,11 @@ reading routes retain the corresponding sources.
 
 **Minimize the cognitive demands that text places on the user.** The person can begin with a relation they already perceive. The model recovers context, organizes materials, and carries formal reasoning and verification. When returning a result, it presents the claim, grounds, and differences that require the person's judgment together, preserving the conditions on which the inference depends. The person can then judge the argument directly without reconstructing it from scattered passages.
 
-[YY-02](#yy-02), [YY-03](#yy-03), and [YY-07](#yy-07) identify the acts of perception, generation, and judgment the person retains. Three design principles guide the whole environment. **Visuals over text** uses position and adjacency to make relations available for comparison at a glance. **Clarity over complexity** places claims, grounds, and conditions together to reduce searching and rereading. **Intuition over formalism** lets the person judge through perception and direct action while the model carries formal derivation and implementation. Preserve essential information.
+[YY-02](#yy-02), [YY-03](#yy-03), and [YY-07](#yy-07) describe how people form ideas and make judgments through perception and intuition. Three principles apply to everything the user sees, including interfaces, notes, and prompts.
+
+- **Visuals over text.** Shapes, trends, and changes in a diagram are easier to grasp intuitively.
+- **Clarity over complexity.** Define a concept by saying what it means intuitively in clear, everyday language. Unnecessary negations, explanations, endorsements, and closing caveats can bury the point and leave the reader circling a concept.
+- **Intuition over formalism.** Use formal language sparingly. Introduce it when the task calls for a precise definition, a calculation, or a proof.
 
 | Object of assessment | Question for cooperation |
 | --- | --- |
@@ -1091,7 +1073,7 @@ reading routes retain the corresponding sources.
 | Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
 | Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
 
-[YY-18](#yy-18) explains why formal capabilities can be amortized while readers still have to give fresh attention to each new text. Consequently, comparing representations and divisions of work requires accounting for the user's effort in giving instructions, switching media, supervising, and resuming. The understanding and judgment preserved in use test whether the burden has fallen and inform revisions to the methods that produce these arrangements. [Cognitive Complexity in Personal Recursive Self-Improvement](cognitive-complexity.md)
+[YY-18](#yy-18) explains why formal capabilities can be amortized while readers still have to give fresh attention to each new text. Consequently, comparing representations and divisions of work requires accounting for the user's effort in [giving instructions, switching media, supervising, and resuming](cognitive-complexity.md). The understanding and judgment preserved in use test whether the burden has fallen and inform revisions to the methods that produce these arrangements.
 
 ## Sources and the author's synthesis
 
