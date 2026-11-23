@@ -1,6 +1,6 @@
 # 个人递归自改进中的认知复杂性
 
-![环境尽可能降低用户处理文字的认知复杂性，人发展具身推理、直觉与自然语言推理，模型承担完整论述、形式推理与实现。](../diagrams/cognitive-complexity.zh-CN.svg)
+![图优于文字，清晰优于复杂，直观优于形式。](../diagrams/cognitive-complexity.zh-CN.svg)
 
 [English](cognitive-complexity.md)
 
@@ -56,6 +56,8 @@
 <a id="为自己设计负反馈"></a>
 
 ## 为人与 AI 的耦合系统设计负反馈
+
+![每次协作中，人与 AI 依据实际结果纠偏。经过多轮，再看这些纠正累积起来对人的发展有何影响，据此调整反馈本身。](../diagrams/coupled-feedback.zh-CN.svg)
 
 反向对齐把人的发展选为协作的目的。模型作为解释器，越能理解人的意图，就越能从一句话展开工作。分工也会随之改变。在 [OpenAI 对预训练研究者的访谈](https://openai.com/index/research-acceleration-jagged-frontier/)里，一位研究者说，自己原先的构想经 Codex 提出的一项修改才有了好效果。模型的贡献可以进入构想本身。
 

@@ -151,7 +151,7 @@
 - [Yinyang：相绕的 Shuang yu](docs/yinyang-and-taiji.zh-CN.md)展开文章顶部双鱼图所表达的实际参与者、角色与相互返回。
 - [两位精灵，三个论域](diagrams/triad-spirits.zh-CN.svg)呈现人与模型跨越哲学、心理和工程，也能兼具贡献。[English](diagrams/triad-spirits.svg)
 - [有限投入，怎样分配？](diagrams/economic-allocation.zh-CN.svg)连接有限资源、组合投入、实际后果与分配方法的修订。[English](diagrams/economic-allocation.svg)
-- [认知复杂性与可修订的分工](diagrams/cognitive-complexity.zh-CN.svg)连接任务复杂性、情境负荷、能力的取得方式，以及让方法得到修订的后续参与。[English](diagrams/cognitive-complexity.svg)
+- [为人与 AI 的耦合系统做负反馈](diagrams/coupled-feedback.zh-CN.svg)展示多轮纠正如何积累，以及怎样根据它们对人的发展的影响，调整负反馈本身。[English](diagrams/coupled-feedback.svg)
 
 - [全书关系](diagrams/formation-path.zh-CN.html)联系生活轨迹、共同反思、个人哲学、个人模型与实际实现。[English](diagrams/formation-path.html) · [SVG](diagrams/formation-path.zh-CN.svg)
 - [借火与培养](diagrams/borrowed-fire.zh-CN.html)联系共同积累的能力、共同创造、人的能力发展与世界的回应。[English](diagrams/borrowed-fire.html) · [SVG](diagrams/borrowed-fire.zh-CN.svg)

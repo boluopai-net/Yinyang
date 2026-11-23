@@ -1,6 +1,6 @@
 # Cognitive Complexity in Personal Recursive Self-Improvement
 
-![The environment minimizes the cognitive demands of text on the user so the person can develop embodied reasoning, intuition, and reasoning in natural language while the model takes on full exposition, formal reasoning, and implementation.](../diagrams/cognitive-complexity.svg)
+![Visuals over text, clarity over complexity, intuition over formalism.](../diagrams/cognitive-complexity.svg)
 
 [中文](cognitive-complexity.zh-CN.md)
 
@@ -56,6 +56,8 @@ Delegating also costs attention. The person still has to brief the model, check 
 <a id="designing-your-own-negative-feedback"></a>
 
 ## Designing negative feedback for the coupled human–AI system
+
+![People and AI correct course during collaboration. Across rounds, examine the cumulative effects on human development and revise the feedback itself.](../diagrams/coupled-feedback.svg)
 
 Reverse alignment makes human development the purpose of collaboration. As the model becomes a more capable interpreter of intent, a few words can set more work in motion. The division of work can change with it. In [OpenAI’s interviews with pretraining researchers](https://openai.com/index/research-acceleration-jagged-frontier/), one researcher said their idea began to work well after Codex suggested a change. The model’s contribution reached into the idea itself.
 

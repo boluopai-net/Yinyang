@@ -184,10 +184,9 @@ Ten diagrams provide visual entrances, matching the [website gallery](https://bo
 - [Where should finite resources go?](diagrams/economic-allocation.svg) connects
   resources, combined investments, consequences, and revised allocation.
   [中文](diagrams/economic-allocation.zh-CN.svg)
-- [Cognitive complexity and revisable allocation](diagrams/cognitive-complexity.svg)
-  connects task complexity, situated load, ways of making capability available,
-  and later participation that revises the method.
-  [中文](diagrams/cognitive-complexity.zh-CN.svg)
+- [Designing negative feedback for human–AI collaboration](diagrams/coupled-feedback.svg)
+  follows corrections across many rounds. Their cumulative effects on human development
+  guide changes to the feedback itself. [中文](diagrams/coupled-feedback.zh-CN.svg)
 
 - [Formation through shared practice](diagrams/formation-path.html) connects
   life trajectory, shared reflection, philosophy, personal models, and their
