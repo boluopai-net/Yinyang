@@ -13,7 +13,7 @@ If you see room to improve the design, know of a technology worth incorporating,
 <!-- reading-cover:start -->
 ## Choose what to read and use
 
-To use the method yourself, you can skip the philosophical essays. Distill views worth keeping from your own philosophical writing, personal material, and impressions. You can also ask a language model to read this collection’s [Core views](docx/references/docs/core-views.md), select a few you want to adopt, and add judgments of your own.
+To use the method yourself, you can skip the philosophical essays. “Philosophical writing” has a broad meaning here. A personal essay or a reflection on a project can serve as material when it expresses how you see a question. Distill views worth keeping from such writing, personal material, and impressions. You can also ask a language model to read this collection’s [Core views](docx/references/docs/core-views.md), select a few you want to adopt, and add judgments of your own.
 
 Separately, have the language model draw on that material to develop a working model of how the two of you work together. Write six accounts around the questions that arise in practice: orientation and direction, person, counterpart, relationship, environment, and revision. Where an account needs to explain a working arrangement, cite the relevant view and use your own material to show how it applies in your circumstances. [How to Write the Six Accounts](docx/references/formation/overview.md) explains the question each account addresses. Recurring methods in the material can also become tools or Skills. As new material arrives, the language model can update the relevant views, accounts, and tools automatically or help you revise them.
 
