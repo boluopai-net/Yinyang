@@ -1,6 +1,6 @@
 # Practice guide
 
-Yinyang primarily offers a literary form for the personal RSI layer of a global prompt. Choose views you want to live with, and use your own experiences and expressions to write the six accounts. A phrase you recognize as your own can help you and the model recover what matters across projects. Return to the accounts when practice gives you a reason to change that understanding. Keep a separate technical layer for cross-project instructions about today's tools, file locations, and ways to verify results. A change in one of those arrangements can be made as soon as it occurs.
+A global prompt carries two layers across projects. **The technical layer** tells the model how to use current tools, save files, and verify results. Update the relevant instructions when these arrangements change. **The literary layer for personal RSI** expresses what matters to you and how you want to work with the model. Yinyang starts with this layer. Choose views you want to adopt and draw on your experience and language to write six accounts that give the collaboration direction across projects. Revisit them when practice changes your understanding.
 
 [Home](../../README.md) · [Forming and revising working models](../design-and-revision.md) · [Everyday collaboration](https://github.com/boluopai-net/Yinyang/blob/main/skills/yinyang-empty/SKILL.md) · [简体中文](creation-method.zh-CN.md)
 
