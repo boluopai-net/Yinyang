@@ -126,4 +126,4 @@ codex plugin add yinyang-empty@boluopai
 
 欢迎通过 [Issues](https://github.com/boluopai-net/Yinyang/issues) 提出勘误、值得引入的技术和其他问题。自己的作品可以独立发表。本仓库通过 Issue 接收建议，不接受 PR。[交流与独立创作](CONTRIBUTING.zh-CN.md)
 
-阴阳文集与 Empty 方法包中的原创材料采用[个人与内部使用许可证](LICENSE)，允许私下使用、修改和辅助有偿工作；再分发或向他人提供基于这些材料的产品或服务，需要另行许可。其他 Skill 包采用 MIT。仓库基础代码、第三方作品及各包的许可范围见[集合许可说明](LICENSING.md)。
+阴阳文集与 Empty 方法包中的原创材料采用[个人与内部使用许可证](LICENSE)，允许私下使用、修改和辅助有偿工作；再分发材料，或将材料及其修改版作为产品或服务提供给他人使用，需要另行许可。其他 Skill 包采用 MIT。仓库基础代码、第三方作品及各包的许可范围见[集合许可说明](LICENSING.md)。
