@@ -20,6 +20,7 @@ LEGACY_ACCOUNTS = {
     "references/usage.md",
 }
 PRIVATE_TREES = {"references/situated", "references/personal"}
+PUBLIC_EDITIONS = {"yinyang.en.pdf", "yinyang.zh-CN.pdf"}
 PRIVATE_ENTRYPOINTS = {
     "agents/openai.yaml",
     "scripts/check_injection_tokens.py",
@@ -45,7 +46,7 @@ def common_files(root):
     def visit(directory):
         for path in sorted(directory.iterdir()):
             relative = path.relative_to(root).as_posix()
-            if situated(relative):
+            if situated(relative) or relative in PUBLIC_EDITIONS:
                 continue
             if path.is_symlink():
                 raise ValueError(f"Common path is a symlink: {relative}")

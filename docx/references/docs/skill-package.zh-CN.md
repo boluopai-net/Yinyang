@@ -81,7 +81,7 @@ Philosophy 保有写作来源。Personal 在原有四个主题组内保留可读
 
 ```bash
 python3 /path/to/collection/docx/scripts/sync-common.py \
-  --source /path/to/collection/writings --target /path/to/private/yinyang
+  --source /path/to/collection/docx --target /path/to/private/yinyang
 ```
 
 源以形成方法识别，目标以实际 `SKILL.md` 识别。投影器不检查私人目录、

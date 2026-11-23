@@ -116,7 +116,7 @@ private entrypoints and agent metadata, README editions, MODEL and AGENTS files,
 
 ```bash
 python3 /path/to/collection/docx/scripts/sync-common.py \
-  --source /path/to/collection/writings --target /path/to/private/yinyang
+  --source /path/to/collection/docx --target /path/to/private/yinyang
 ```
 
 The source is identified by its formation method, the target by its actual
