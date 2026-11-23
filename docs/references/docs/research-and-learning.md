@@ -311,7 +311,7 @@ Choose tools and references from these repositories according to the learning or
 | --- | --- |
 | [K-Dense Scientific Agents](https://github.com/K-Dense-AI/scientific-agents) | Expert thinking materials from different disciplines, providing professional references for explanation and interdisciplinary discussion. |
 | [K-Dense Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Methods for literature retrieval, experimental design, statistics, machine learning, scientific visualization, and citation management. |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor) | An open-source AI learning toolkit.<br>① To improve teaching, adapt the guided-reading prompts. ② To extend the teacher’s tools, connect knowledge-base search, math animation or source exploration. |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor) | Prompts: Reading · SourceExplorer · Math Animator · Mastery (objections)<br>Tools: PDF page lookup (Poppler) · SourceExplorer · Math Animator · KB Search |
 
 <a id="resources"></a>
 
