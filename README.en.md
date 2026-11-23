@@ -5,13 +5,13 @@ Yinyang is a form of personal recursive self-improvement (RSI): improving a piec
 <!-- reading-cover:start -->
 ## Choosing how to read and use the collection
 
-This collection follows the author’s work with a language model to improve everyday life and work. He writes essays expressing his views, then gives the model those essays together with material from his life, studies, and work. The model draws on both to form an account of the person. That account informs changes to tools and collaboration, and experience with those changes can revise the original judgments.
+This collection explores a method of personal recursive self-improvement. A language model draws on a selection of personally appealing philosophies and views, together with personal material, to develop a model of the person. That model can guide changes to tools and collaboration. What happens in practice gives grounds for revising the model and improving the method.
 
-Readers come with views of their own. One way into the collection is to browse the [Core views](docx/references/docs/core-views.md), pick a few that appeal or arouse curiosity, and follow their links to examine the reasons and examples in the corresponding essays. Some views may be worth keeping; others may prompt disagreement. Other works also offer views worth seeking out. Reading can be rewarding in its own right.
+The [Core views](docx/references/docs/core-views.md) offer a starting point. A few views of interest can be followed into the corresponding essays, where their reasons and examples invite comparison with views already held. Some may be worth keeping. Other works may offer further views worth seeking out.
 
-Here, **personal philosophy means essays in which a person expresses their own views**. A personal essay about what deserves time or a project reflection explaining a change of approach can serve this purpose. Existing writing can be used directly. Writing new essays and gradually developing a personal philosophy is a separate choice, a matter of interest.
+Here, **personal philosophy means articles that express personal views**. Existing articles can be used directly. Developing scattered thoughts into new essays is a matter of interest in writing. Exploring and adopting views can be worthwhile in its own right.
 
-For someone who wants to develop a personal model, the personal philosophy and materials such as records, works, and experiences can be brought together. The essays convey how a person sees things. The material shows the circumstances in which an activity goes well or becomes difficult. A language model distills both into a **model of the person**, one of [six working accounts](docx/references/formation/overview.md). The selected views and accounts can guide collaboration and software settings and be revised through use. See the [Practice guide](docx/references/docs/creation-method.md).
+When the aim is practical use, the selected philosophies and views can be brought together with personal material to form a model of the person. This is one of [six working accounts](docx/references/formation/overview.md). The others describe orientation, the model as counterpart, the working relationship, the practical environment, and the revision method. The selected views and six accounts can guide software and tool configuration through a language model’s global prompt and be revised through use. See the [Practice guide](docx/references/docs/creation-method.md).
 
 <!-- reading-cover:end -->
 
