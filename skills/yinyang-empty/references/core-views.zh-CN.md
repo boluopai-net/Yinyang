@@ -846,7 +846,7 @@ $$
 | 表征与交接 | 把感受译成文字、搜索材料、监督模型、切换和恢复任务需要多少工作？ |
 | 实际所得 | 这项投入帮助完成了什么，又培养了本人选择发展的哪种能力？ |
 
-本人可以对照六份工作描述，结合对自己思考、感受和判断的观察，[为自己设计负反馈](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.zh-CN.html)，在实际生活中调整自己的偏好和生活方式，再按反馈带来的帮助和负担调整它的时机与判断标准。
+[反向对齐](#yy-01)把人的发展选为目的。模型越能理解意图并独立展开工作，本人越可以结合六份工作描述和亲身体验，[为人与 AI 的耦合系统设计负反馈](https://boluopai.net/repositories/prometheus/source/skills/yinyang/references/docs/cognitive-complexity.zh-CN.html)，调整分工、核验和交回结果的时机。既看双方借助支持能做成什么，也看本人后来能怎样思考、判断和行动。本人在这个过程中调整偏好与生活方式，也能重定反馈要维护的方向。
 
 ## 来源与作者的综合
 

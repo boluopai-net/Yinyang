@@ -1073,7 +1073,7 @@ reading routes retain the corresponding sources.
 | Representation and handoff | What work is required to translate sensation into words, search, supervise, switch, and resume? |
 | Actual benefit | What does this effort accomplish, and which chosen human capacity does it cultivate? |
 
-By consulting the six working accounts and observing how they think, feel, and judge, a person can [design negative feedback for themselves](cognitive-complexity.md), adjust their preferences and way of life, and use the help it provides and the attention it costs to adjust its timing and criteria.
+[Reverse alignment](#yy-01) makes human development the aim. As the model becomes better at interpreting intent and carrying work forward, the person can draw on the six working accounts and lived experience to [design feedback for the coupled human–AI system](cognitive-complexity.md), adjusting the division of work, verification, and when the model hands work back. What the two accomplish together and what the person can later think through, judge, or initiate inform different decisions. People can change their preferences and way of life through that experience and reconsider what the feedback should sustain.
 
 ## Sources and the author's synthesis
 
