@@ -6,7 +6,7 @@ Its own package guide owns recipient installation and updates.
 
 [Home](../../README.md) · [简体中文](skill-package.zh-CN.md)
 
-The public `docx/` directory maintains essays, diagrams, and shared formation
+The public `docs/` directory maintains essays, diagrams, and shared formation
 methods. Actual private entrypoints and personal accounts stay with their
 owners. Readers can study the philosophy here or use Empty to form their own
 practice.
@@ -115,8 +115,8 @@ private entrypoints and agent metadata, README editions, MODEL and AGENTS files,
 `references/personal/` and `references/situated/` trees.
 
 ```bash
-python3 /path/to/collection/docx/scripts/sync-common.py \
-  --source /path/to/collection/docx --target /path/to/private/yinyang
+python3 /path/to/collection/docs/scripts/sync-common.py \
+  --source /path/to/collection/docs --target /path/to/private/yinyang
 ```
 
 The source is identified by its formation method, the target by its actual

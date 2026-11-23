@@ -28,7 +28,7 @@ Download complete sibling directories, preserving their names and resources:
 | Companion | Relationship and download |
 | --- | --- |
 | [web-teacher](../web-teacher/README.md) | Required shared teaching/Course method and all branches; [download](https://github.com/boluopai-net/Yinyang/tree/main/skills/web-teacher). Local Teacher reads this owner directly. |
-| [Yinyang writings](https://github.com/boluopai-net/Yinyang/blob/main/docx/README.md) | Public writing on shared modeling, epistemology, and working relationships. [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty) supplies the optional installable method. |
+| [Yinyang writings](https://github.com/boluopai-net/Yinyang/blob/main/docs/README.md) | Public writing on shared modeling, epistemology, and working relationships. [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty) supplies the optional installable method. |
 | [task-inquiry](../task-inquiry/README.md) | Useful support for consequential ambiguity and competing interpretations; [download](https://github.com/boluopai-net/Yinyang/tree/main/skills/task-inquiry). Teacher retains learning/practice judgment. |
 | [research](../research/README.md) | Source investigation, factual uncertainty and evidence comparison; [download](https://github.com/boluopai-net/Yinyang/tree/main/skills/research). It does not install a search provider. |
 
@@ -75,7 +75,7 @@ Course 方法，不是弱化的实践副本。准确标识为 `local-teacher`。
 | 配套 Skill | 职责与取得方式 |
 | --- | --- |
 | [web-teacher](../web-teacher/README.md) | 必需的完整共享教学／Course 方法及分支；[下载完整包](https://github.com/boluopai-net/Yinyang/tree/main/skills/web-teacher)，本地 Teacher 直接读取这个方法负责人。 |
-| [阴阳文集](https://github.com/boluopai-net/Yinyang/blob/main/docx/README.zh-CN.md) | 共享建模、认识论及工作关系的公开写作。需要安装方法包时，使用 [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)。 |
+| [阴阳文集](https://github.com/boluopai-net/Yinyang/blob/main/docs/README.zh-CN.md) | 共享建模、认识论及工作关系的公开写作。需要安装方法包时，使用 [Yinyang Empty](https://github.com/boluopai-net/Yinyang/tree/main/skills/yinyang-empty)。 |
 | [task-inquiry](../task-inquiry/README.md) | 重要歧义与竞争解释的支持；[下载](https://github.com/boluopai-net/Yinyang/tree/main/skills/task-inquiry)。Teacher 保留学习和练习判断。 |
 | [research](../research/README.md) | 来源调查、事实不确定性和证据比较；[下载](https://github.com/boluopai-net/Yinyang/tree/main/skills/research)。它不安装搜索服务。 |
 

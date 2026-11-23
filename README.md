@@ -9,11 +9,11 @@
 
 这部文集讨论一种个人递归自改进的方法：把自己喜欢的哲学和观点同个人材料放在一起，由语言模型凝练成个人模型。个人模型可以用来调整工具和协作方式，实际使用的结果又为修订模型和改进方法提供依据。
 
-阅读可以从[基本观点](docx/references/docs/core-views.zh-CN.md)开始。先挑几条感兴趣的观点，沿链接阅读相应正文，了解理由和例子，再与原有的看法比较。觉得合适的可以留下，也可以到其他作品中继续寻找喜欢的观点。
+阅读可以从[基本观点](docs/references/docs/core-views.zh-CN.md)开始。先挑几条感兴趣的观点，沿链接阅读相应正文，了解理由和例子，再与原有的看法比较。觉得合适的可以留下，也可以到其他作品中继续寻找喜欢的观点。
 
 这里的**个人哲学，就是表达个人看法的文章**。已有的文章可以直接用。是否把零散的想法另写成篇，取决于写作兴趣；选读和采用观点本身就有价值。
 
-需要把选定的哲学和观点用于实践时，可以结合个人材料凝练个人模型。个人模型是[六份工作描述](docx/references/formation/overview.zh-CN.md)中的一份，其余五份分别涉及立场与方向、模型伙伴、协作关系、实践环境和修订方式。选定的观点和六份描述可以放进语言模型的全局提示词，用于配置软件和工具，再随实践修订。具体做法见[实践指南](docx/references/docs/creation-method.zh-CN.md)。
+需要把选定的哲学和观点用于实践时，可以结合个人材料凝练个人模型。个人模型是[六份工作描述](docs/references/formation/overview.zh-CN.md)中的一份，其余五份分别涉及立场与方向、模型伙伴、协作关系、实践环境和修订方式。选定的观点和六份描述可以放进语言模型的全局提示词，用于配置软件和工具，再随实践修订。具体做法见[实践指南](docs/references/docs/creation-method.zh-CN.md)。
 
 <!-- reading-cover:end -->
 
@@ -21,7 +21,7 @@
 <thead><tr><th width="480" align="left">想做什么</th><th width="480" align="left">从这里开始</th></tr></thead>
 <tbody>
 <tr><td>在网站阅读</td><td><a href="https://boluopai.net/yinyang/">文集</a> · <a href="https://boluopai.net/repositories/prometheus/">附录</a> · <a href="https://boluopai.net/yinyang/resources/">资料与建议</a></td></tr>
-<tr><td>下载带图电子书</td><td><a href="docx/yinyang.zh-CN.pdf?raw=1">中文 PDF</a> · <a href="docx/yinyang.en.pdf?raw=1">English PDF</a></td></tr>
+<tr><td>下载带图电子书</td><td><a href="docs/yinyang.zh-CN.pdf?raw=1">中文 PDF</a> · <a href="docs/yinyang.en.pdf?raw=1">English PDF</a></td></tr>
 <tr><td>GitHub 仓库说明</td><td><a href="#集合里的-skill">Skills 目录</a> · <a href="README.en.md">English README</a></td></tr>
 </tbody>
 </table>
@@ -31,11 +31,11 @@
 <table>
 <thead><tr><th width="480" align="left">想弄明白的问题</th><th width="480" align="left">对应文章</th></tr></thead>
 <tbody>
-<tr><td>材料相互矛盾时，哪些结论还有根据？</td><td><a href="docx/references/docs/inconsistency-tolerant-semantics.zh-CN.md">容纳不一致语义</a></td></tr>
-<tr><td>我先提出一个直觉，模型可以怎样帮我检验它？</td><td><a href="docx/references/docs/yinyang-and-taiji.zh-CN.md">阴阳与太极</a></td></tr>
-<tr><td>一篇作品、一个伙伴、一套工具怎样支持我持续做一件事？</td><td><a href="docx/references/docs/writing-a-sinthome.zh-CN.md">从个人模型到圣状</a></td></tr>
-<tr><td>一次修改怎样让下一次修改做得更好？</td><td><a href="docx/references/docs/literary-recursive-improvement.zh-CN.md">用文学写出自己的递归改进</a></td></tr>
-<tr><td>哪些能力值得亲自练习，哪些工作可以交给模型？</td><td><a href="docx/references/docs/economic-personal-rsi.zh-CN.md">经济现实中的个人递归自改进</a> · <a href="docx/references/docs/cognitive-complexity.zh-CN.md">认知复杂性</a></td></tr>
+<tr><td>材料相互矛盾时，哪些结论还有根据？</td><td><a href="docs/references/docs/inconsistency-tolerant-semantics.zh-CN.md">容纳不一致语义</a></td></tr>
+<tr><td>我先提出一个直觉，模型可以怎样帮我检验它？</td><td><a href="docs/references/docs/yinyang-and-taiji.zh-CN.md">阴阳与太极</a></td></tr>
+<tr><td>一篇作品、一个伙伴、一套工具怎样支持我持续做一件事？</td><td><a href="docs/references/docs/writing-a-sinthome.zh-CN.md">从个人模型到圣状</a></td></tr>
+<tr><td>一次修改怎样让下一次修改做得更好？</td><td><a href="docs/references/docs/literary-recursive-improvement.zh-CN.md">用文学写出自己的递归改进</a></td></tr>
+<tr><td>哪些能力值得亲自练习，哪些工作可以交给模型？</td><td><a href="docs/references/docs/economic-personal-rsi.zh-CN.md">经济现实中的个人递归自改进</a> · <a href="docs/references/docs/cognitive-complexity.zh-CN.md">认知复杂性</a></td></tr>
 </tbody>
 </table>
 
@@ -48,7 +48,7 @@
 
 阴阳不能用于心理自助工作、自行诊断、心理健康评估或治疗，也尚未经过针对这些用途的系统性实证评估。需要专业评估或照护时，应寻求合格专业人员；项目文字与模型输出不替代这种服务。作品、模型与处境会变化，个人经验或版本历史也不能确立普遍的心理效果。
 
-独立的[心理页](docx/references/docs/psychological-support.zh-CN.md)说明模型如何协助个人材料、量表、计分、统计和实际帮助，保留各自的证据与专业照护边界。这不从哲学推出心理练习，也不把工作描述变成自我分析课程。
+独立的[心理页](docs/references/docs/psychological-support.zh-CN.md)说明模型如何协助个人材料、量表、计分、统计和实际帮助，保留各自的证据与专业照护边界。这不从哲学推出心理练习，也不把工作描述变成自我分析课程。
 <!-- repository-only:end -->
 
 ## 集合里的 Skill

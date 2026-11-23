@@ -2,7 +2,7 @@
 from pathlib import Path
 from html import escape
 
-ROOT = Path(__file__).resolve().parents[1] / 'docx/references/diagrams'
+ROOT = Path(__file__).resolve().parents[1] / 'docs/references/diagrams'
 INK, MUTED, RULE, ACCENT = '#243c3b', '#536461', '#8c9c96', '#a55335'
 
 

@@ -7,11 +7,11 @@ Yinyang is a form of personal recursive self-improvement (RSI): improving a piec
 
 This collection explores a method of personal recursive self-improvement. A language model draws on a selection of personally appealing philosophies and views, together with personal material, to develop a model of the person. That model can guide changes to tools and collaboration. What happens in practice gives grounds for revising the model and improving the method.
 
-The [Core views](docx/references/docs/core-views.md) offer a starting point. A few views of interest can be followed into the corresponding essays, where their reasons and examples invite comparison with views already held. Some may be worth keeping. Other works may offer further views worth seeking out.
+The [Core views](docs/references/docs/core-views.md) offer a starting point. A few views of interest can be followed into the corresponding essays, where their reasons and examples invite comparison with views already held. Some may be worth keeping. Other works may offer further views worth seeking out.
 
 Here, **personal philosophy means articles that express personal views**. Existing articles can be used directly. Developing scattered thoughts into new essays is a matter of interest in writing. Exploring and adopting views can be worthwhile in its own right.
 
-When the aim is practical use, the selected philosophies and views can be brought together with personal material to form a model of the person. This is one of [six working accounts](docx/references/formation/overview.md). The others describe orientation, the model as counterpart, the working relationship, the practical environment, and the revision method. The selected views and six accounts can guide software and tool configuration through a language model’s global prompt and be revised through use. See the [Practice guide](docx/references/docs/creation-method.md).
+When the aim is practical use, the selected philosophies and views can be brought together with personal material to form a model of the person. This is one of [six working accounts](docs/references/formation/overview.md). The others describe orientation, the model as counterpart, the working relationship, the practical environment, and the revision method. The selected views and six accounts can guide software and tool configuration through a language model’s global prompt and be revised through use. See the [Practice guide](docs/references/docs/creation-method.md).
 
 <!-- reading-cover:end -->
 
@@ -19,7 +19,7 @@ When the aim is practical use, the selected philosophies and views can be brough
 <thead><tr><th width="480" align="left">Purpose</th><th width="480" align="left">Start here</th></tr></thead>
 <tbody>
 <tr><td>Read online</td><td><a href="https://boluopai.net/yinyang/en/">Essays</a> · <a href="https://boluopai.net/repositories/prometheus/en/">Appendices</a> · <a href="https://boluopai.net/yinyang/resources/en/">Resources &amp; Advice</a></td></tr>
-<tr><td>Download the illustrated book</td><td><a href="docx/yinyang.zh-CN.pdf?raw=1">Chinese PDF</a> · <a href="docx/yinyang.en.pdf?raw=1">English PDF</a></td></tr>
+<tr><td>Download the illustrated book</td><td><a href="docs/yinyang.zh-CN.pdf?raw=1">Chinese PDF</a> · <a href="docs/yinyang.en.pdf?raw=1">English PDF</a></td></tr>
 <tr><td>Repository</td><td><a href="#skills-in-the-collection">Skill catalog</a> · <a href="README.md">简体中文</a></td></tr>
 </tbody>
 </table>
@@ -29,11 +29,11 @@ When the aim is practical use, the selected philosophies and views can be brough
 <table>
 <thead><tr><th width="480" align="left">Question</th><th width="480" align="left">Essay</th></tr></thead>
 <tbody>
-<tr><td>Which conclusions hold when the evidence conflicts?</td><td><a href="docx/references/docs/inconsistency-tolerant-semantics.md">Inconsistency-tolerant semantics</a></td></tr>
-<tr><td>How can a model help me test an intuition?</td><td><a href="docx/references/docs/yinyang-and-taiji.md">Yinyang and Taiji</a></td></tr>
-<tr><td>How do a work, a counterpart, and tools sustain an activity?</td><td><a href="docx/references/docs/writing-a-sinthome.md">From personal models to a sinthome</a></td></tr>
-<tr><td>How can one revision improve the next?</td><td><a href="docx/references/docs/literary-recursive-improvement.md">Writing recursive improvement through literature</a></td></tr>
-<tr><td>Which abilities are worth practising, and which work can I delegate?</td><td><a href="docx/references/docs/economic-personal-rsi.md">Economic reality</a> · <a href="docx/references/docs/cognitive-complexity.md">Cognitive complexity</a></td></tr>
+<tr><td>Which conclusions hold when the evidence conflicts?</td><td><a href="docs/references/docs/inconsistency-tolerant-semantics.md">Inconsistency-tolerant semantics</a></td></tr>
+<tr><td>How can a model help me test an intuition?</td><td><a href="docs/references/docs/yinyang-and-taiji.md">Yinyang and Taiji</a></td></tr>
+<tr><td>How do a work, a counterpart, and tools sustain an activity?</td><td><a href="docs/references/docs/writing-a-sinthome.md">From personal models to a sinthome</a></td></tr>
+<tr><td>How can one revision improve the next?</td><td><a href="docs/references/docs/literary-recursive-improvement.md">Writing recursive improvement through literature</a></td></tr>
+<tr><td>Which abilities are worth practising, and which work can I delegate?</td><td><a href="docs/references/docs/economic-personal-rsi.md">Economic reality</a> · <a href="docs/references/docs/cognitive-complexity.md">Cognitive complexity</a></td></tr>
 </tbody>
 </table>
 
@@ -46,7 +46,7 @@ Yinyang's philosophical ideas guide the configuration of a personal environment 
 
 Yinyang must not be used for psychological self-help work, self-diagnosis, mental-health assessment, or treatment. It has not been systematically evaluated for those purposes. When professional assessment or care is needed, seek a qualified professional; the project's texts and model outputs do not replace that service. The work, models, and circumstances change, so a personal experience or version history does not establish a general psychological effect.
 
-The separate [Psychology guide](docx/references/docs/psychological-support.md) explains model-assisted organization of personal material, questionnaires, scoring, statistics, and practical support within their own evidence and professional-care limits. It does not derive psychological exercises from the philosophy or make the working accounts a self-analysis program.
+The separate [Psychology guide](docs/references/docs/psychological-support.md) explains model-assisted organization of personal material, questionnaires, scoring, statistics, and practical support within their own evidence and professional-care limits. It does not derive psychological exercises from the philosophy or make the working accounts a self-analysis program.
 <!-- repository-only:end -->
 
 ## Skills in the collection

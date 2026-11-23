@@ -8,7 +8,7 @@ import shutil
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
-COMMON = ROOT / 'docx'
+COMMON = ROOT / 'docs'
 EMPTY = ROOT / 'skills/yinyang-empty'
 WEB = 'https://boluopai.net/repositories/prometheus/source/skills/yinyang/'
 GUIDES = ('orientation', 'person', 'counterpart', 'relationship', 'environment', 'revision')

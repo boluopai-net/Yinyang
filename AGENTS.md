@@ -6,8 +6,8 @@ boundaries. The root README editions introduce the actual collection members.
 Keep English and Chinese reader editions semantically aligned.
 
 Each Skill under `skills/` owns its complete package and supporting resources.
-The public Yinyang essays, diagrams, and shared methods live in `docx/`.
-Read [its MODEL.md](docx/MODEL.md) and [its AGENTS.md](docx/AGENTS.md)
+The public Yinyang essays, diagrams, and shared methods live in `docs/`.
+Read [its MODEL.md](docs/MODEL.md) and [its AGENTS.md](docs/AGENTS.md)
 before editing them. [Yinyang Empty](skills/yinyang-empty/) is the installable
 method package. Other Skills retain their specialist purpose and methods.
 
