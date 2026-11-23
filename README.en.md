@@ -37,7 +37,7 @@ When the aim is practical use, the selected philosophies and views can be brough
 </tbody>
 </table>
 
-The book brings philosophy, psychology, and engineering to bear on the same activity: what a person wants to do, how they take part, and what conditions let them continue. The author uses imagery from several traditions and writes about relationships from a heterosexual perspective. Readers can contribute other experiences and sources through Issues.
+The book brings philosophy, psychology, and engineering to bear on the same activity: what a person wants to do, how they take part, and what conditions let them continue. The essays draw on concepts and imagery from several traditions and explain their sources and use in context. The book reflects the author’s own heterosexual perspective. Readers can contribute other experiences and sources through Issues.
 
 <!-- repository-only:start -->
 ## Intended use and mental health
@@ -46,7 +46,7 @@ Yinyang's philosophical ideas guide the configuration of a personal environment 
 
 Yinyang must not be used for psychological self-help work, self-diagnosis, mental-health assessment, or treatment. It has not been systematically evaluated for those purposes. When professional assessment or care is needed, seek a qualified professional; the project's texts and model outputs do not replace that service. The work, models, and circumstances change, so a personal experience or version history does not establish a general psychological effect.
 
-The separate [Psychology guide](docs/references/docs/psychological-support.md) explains model-assisted organization of personal material, questionnaires, scoring, statistics, and practical support within their own evidence and professional-care limits. It does not derive psychological exercises from the philosophy or make the working accounts a self-analysis program.
+The separate [Psychology guide](docs/references/docs/psychological-support.md) explains model-assisted organization of personal material, questionnaires, scoring, statistics, and practical support within their own evidence and professional-care limits.
 <!-- repository-only:end -->
 
 ## Skills in the collection
