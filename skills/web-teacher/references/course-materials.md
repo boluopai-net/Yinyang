@@ -368,6 +368,15 @@ and resumption; do not create per-book progress files or duplicate State.
 
 ## Authoring and readback
 
+When Dot is the note writer, the collection maintainer first verifies source
+identity, selected scope, and the target file. The maintainer diagnoses mixed
+source collections, carries out needed splits, moves, renames and link repairs,
+and updates the catalog from verified results. Give Dot the actual original,
+selected units, exact target file and the content to create, extend or rewrite.
+Dot reports written files, covered scope and unresolved problems. The collection
+maintainer then reads back the content and navigation and updates the catalog
+from that check.
+
 When preparing or revising a main guide, make the root teaching contract's
 two commitments concrete for that course: the learner develops modeling through
 selected worthwhile intuitive attempts and feedback, with model support

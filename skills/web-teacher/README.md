@@ -62,13 +62,12 @@ connects topics, modules, courses and units. Link to one coherent course unit
 where it already teaches part of the topic. Use its existing module code in the
 link text when available, then develop the current topic's contribution.
 
-For a requested [three-file arrangement](references/course-materials.md#three-files-for-each-named-study-source),
-each named course, standalone book, paper or experiment has its own guide,
-detailed glossary and practice file. The three files link to one another at
-the top. A learning-path module has a separate vocabulary list, which links
-terms to their specific explanations. Use course or book titles as headings.
-A course heading can include its main textbook, with each shared unit listed
-once. Put papers and projects in the Unit column. Keep every row visible.
+The [materials method](references/course-materials.md#three-files-for-each-named-study-source)
+gives course lecture notes and slides a single guide and glossary. Each selected
+book and paper keeps its own named guide and glossary. Technical study adds a
+practice file, and companions link to one another at the top. A module's vocabulary
+list keeps source headings visible and links terms to their specific explanations.
+Put papers and projects in the Unit column. Keep every row visible.
 Private path bodies were not read or copied; private research-direction history,
 host mappings and personal course exceptions were replaced with recipient bindings.
 

@@ -66,7 +66,7 @@ These entrances can connect. Research reading can reveal a substantial gap that 
 
 ## Reference materials and teachers
 
-Whether studying a course, a book, one paper or a question across several papers, give **Dot or local Codex** the original and your learning purpose. Use a **Teacher Skill** to prepare connected reference materials, then read, explain and discuss them with a teacher. Material preparation and Teacher support serve all these entrances.
+Whether studying a course, a book, one paper or a question across several papers, use a **Teacher Skill** to prepare connected reference materials, then read, explain and discuss them with a teacher. Once the source, selected scope, and target note are clear, give **Dot** that writing task. It can create, extend, or rewrite the note and report what it covered and what remains unresolved.
 
 This self-study route begins with native-language texts and AI-prepared support. Use the course entrance to identify the book, lecture notes and companions for the current unit, then open the original passage. Read an original in your language directly; for other languages, prefer a reliable edition or translation in your language. The author's text and its faithful translation have different roles from model-written explanations, guides and reference answers. See the [reading order](#reading-order).
 
@@ -201,6 +201,8 @@ After selecting the experiment or task, have the model set up the environment fo
 | CLIs, scripts, and interface operation | Command-line, programmatic, or computer-interface routes appropriate to the application. |
 
 **Record materials in the database before generating an index.** Repeatedly asking a model to rewrite an index from scattered syllabi, files, and notes makes it hard to tell whether a file is missing, omitted from the index, or simply moved. Store course requirements separately from downloaded files, then compare them in the database to generate the course index and gap list. Keep the original files where they are.
+
+When a collection needs cleanup, have a model such as local Codex verify which work each note belongs to, separate or reorganize mixed notes, repair filenames and links, and update the database from the checked result. Then hand Dot the verified source, selected units, and exact note to write. When Dot returns the files, have the collection-maintenance model check the content and links and update the database from what it finds.
 
 Have the model inspect existing applications, plugins, and public interfaces, select a combination that serves the current work, and verify it with a small real operation: read the material, perform the action, save the result, reopen it, and continue.
 
