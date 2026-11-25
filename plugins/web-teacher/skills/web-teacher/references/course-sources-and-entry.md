@@ -130,21 +130,26 @@ its material index, guide directories out of the module opening, and
 sibling links inside the companion files. On return, use State to resolve
 the current unit.
 
-Start the course guide with a short original-materials section. State whether
-the offering adopts a textbook, verify its title and edition, and link the
-actual book. Distinguish an explicitly textbook-free offering from an
-unverified or unavailable textbook. Identify any separate reference book and
-its role. Report whether the main source is a book, continuous prose lecture
-notes, slides/PPT, or another verified format.
+Start the course guide by stating whether the offering adopts a textbook.
+Distinguish an explicitly textbook-free offering from an unverified or
+unavailable textbook. Verify the title and edition and identify each book's
+role. Then use a table with Material, Original and Companion notes columns.
+Give each important source its own row, with the verified original beside its
+own companion entrance. Pair each prose lecture-note set with its glossary
+and each important book or paper with its own glossary, including when a course
+uses several books. If a source only has a main guide, link that existing note
+and name the missing glossary. Record other unavailable originals or companions
+in their respective cells. Readers can reach the other notes through the
+companion's reciprocal links.
 
 Link prose lecture notes directly. If they are split across files, assemble
 one readable PDF in actual lecture order, preserving source attribution and
 page mapping and adding lecture bookmarks. Verify page destinations and repair
-links affected by the new positions. When PPT is the main source, name the type
-in the guide and keep existing term-to-slide links in the glossary. Individual
-deck links belong in the source inventory. Keep the guide's direct entrances to
-available companion notes. At the point of explanation, a guide link may open
-the relevant verified PDF passage directly.
+links affected by the new positions. When PPT is the main source, put only the
+material type in the Original cell and pair it with its glossary when one
+exists. Keep existing term-to-slide links in the glossary. Individual deck
+links belong in the source inventory. At the point of explanation, a guide
+link may open the relevant verified PDF passage directly.
 
 A paragraph about why a sample supports a claim can introduce a source on
 sampling and explain what bias to check. A later paragraph about predictions

@@ -177,7 +177,7 @@ Place the source link on the term itself. In a Chinese glossary, link the Chines
 | Continuous prose lecture notes | Link the notes directly. Assemble split notes in lecture order into one PDF with contents/bookmarks, retaining attribution and the page mapping. | Link the accurate page and passage in the compilation; verify changed page positions, selections and return links. |
 | Slides/PPT | State that slides are the main materials; do not enumerate and link every deck in the course entrance. | Retain existing term-to-slide passage links in the glossary. Use slides for an entry when the book and prose notes do not supply its explanation. |
 
-Establish textbook adoption from the actual syllabus. Distinguish a course with no assigned textbook from a textbook that has not yet been found. Retain the companion-note entrance alongside that account, so readers can see whether they are studying a book, continuous prose notes or selected slides.
+Establish textbook adoption from the actual syllabus. Distinguish a course with no assigned textbook from a textbook that has not yet been found. In the course guide, put each important source on its own row under **Material**, **Original**, and **Companion notes**. Pair each prose lecture-note set with its glossary and each important book or paper with that work's own glossary. This can include several books in one course. If slides are the main material, write “Slides/PPT” in the original column and link the corresponding course glossary where it exists. Mark missing originals or companions in the relevant row, so it remains clear which source each note explains.
 
 #### Check the preparation files and reading entrances
 
