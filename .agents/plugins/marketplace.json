@@ -303,7 +303,7 @@
     },
     {
       "name": "local-teacher",
-      "version": "1.0.23",
+      "version": "1.0.24",
       "description": "<用户自制> 本地老师：在本地 Codex 中讲解课程与概念，带领复习、练习和学习项目。 Explain, review, and practice in a local environment, developing understanding through real work.",
       "source": {
         "source": "local",

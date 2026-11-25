@@ -11,11 +11,11 @@ conceptual structure of this argument”; “Build this small experiment, carry 
 formal detail, and let me predict or interpret its result”; “Prepare a glossary,
 guide and applicable training for this source.”
 
-Each course, book or paper keeps its own detailed glossary. A learning-path
+Lecture notes and slides share one course glossary. Each selected book or
+paper keeps its own glossary, including course textbooks. A learning-path
 module links from its main work page to its separate vocabulary list and
-source glossaries. Use course or book titles as headings in the vocabulary
-file. A course heading can include its main textbook. Put papers and projects
-in the Unit column and keep every row visible.
+source glossaries. Use the actual course and book titles as separate headings.
+Put papers and projects in the Unit column and keep every row visible.
 
 Use the shared [Course sources and entry](../web-teacher/references/course-sources-and-entry.md)
 method to select a course, connect its theory and experiments, and find its
