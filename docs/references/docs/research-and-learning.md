@@ -66,10 +66,27 @@ These entrances can connect. Research reading can reveal a substantial gap that 
 
 ## Reference materials and teachers
 
-Give Dot or local Codex the course, book, or paper you are reading and the question you want to answer. Use a Teacher Skill to prepare reference materials, then read and discuss them with a teacher. Start with the original or a reliable translation into your language and use the companions as needed. See the [reading order](#reading-order).
+Whether studying a course, a book, one paper or a question across several papers, give **Dot or local Codex** the original and your learning purpose. Use a **Teacher Skill** to prepare connected reference materials, then read, explain and discuss them with a teacher. Material preparation and Teacher support serve all these entrances.
+
+This self-study route begins with native-language texts and AI-prepared support. Use the course entrance to identify the book, lecture notes and companions for the current unit, then open the original passage. Read an original in your language directly; for other languages, prefer a reliable edition or translation in your language. The author's text and its faithful translation have different roles from model-written explanations, guides and reference answers. See the [reading order](#reading-order).
+
+Prepare two or three connected files according to the actual study approach. The beginning of each companion links to the other companions of the same source. The model explains concepts and relationships, retains chapters, lectures and recoverable source locations, adds examples and useful diagrams, and connects the material to prior understanding, interests and actual questions. A [practice path](#practice-learning-path) begins from a concrete task.
+
+| Material | Mathematics, science and technical study: three connected files | Humanities, such as philosophy: two connected files |
+| --- | --- | --- |
+| <a id="term-explanations"></a>Glossary and definitions | Explain concepts, notation, conditions and important distinctions independently; show their relationships in a concept map and link terms to supporting original passages. | Explain meanings in the work, author and historical setting, connect them through a concept map and return to the relevant original. |
+| <a id="main-study-guide"></a>Main ideas and difficult points: the main guide | Develop structure, main ideas, difficult points, principles, derivations, examples and reading order, connecting them to the learner's questions. Link directly to relevant book or lecture-note PDF passages when useful. | Develop themes, textual structure, context and interpretation. Where there is an argument, explain claims, reasons, objections and responses while retaining interpretive differences. |
+| <a id="exercises-and-experiments"></a>Exercises and experiments | For theory, first find existing book or course exercises and link the questions and answers. For application, first find existing experiments and link the instructions or corresponding repository files. Leave a part empty when no matching source work is available. | Discussion, interpretation, comparison and counterexamples can develop in the guide. When a technical activity with original questions or instructions is selected, link that material. |
+
+**The exercise and experiment file is an entrance to existing tasks.** The model does not invent questions, turn a problem into a new variant or write a new experiment. Link an existing book problem directly; provide a separate answer entrance where one exists. The model may also write an attributed reference answer to an identified original question. For experiments, link the real laboratory guide, course experiment file or specific instructions in a GitHub repository. The guide helps explain; the practice file brings the reader to the corresponding original task.
 
 <a id="term-list-use"></a>
-You can keep three linked companions: a <a id="term-explanations"></a>glossary, a <a id="main-study-guide"></a>main guide, and <a id="exercises-and-experiments"></a>exercises and experiments. Use them to move between the notes and back to the source.
+
+Each theoretical module also has an independent **term list**, opened from the module page for recognition and return. Its left column names the learning unit; the right lists the terms to recognize, each linking directly to the relevant glossary entry. All rows are visible when the list opens.
+
+Use actual course or book names as source headings and organize units by lecture, chapter or coherent chapter group. A course and its book may share a heading for the same units, listing each unit once. A paper usually occupies one row under a recognizable short title; divide it only when its parts support independently useful study. Projects follow actual work units. The term list supports cross-source return; each source's glossary retains the detailed definitions, examples and conceptual relationships.
+
+Courses, adopted books and independently studied papers retain their identities and selected scope. Reuse the same source's companions for the same scope across courses or modules. Course entrances explain how they work together; the learning path organizes choices across courses. Attribute originals and model explanations separately. Preparation depth follows purpose: a systematic course can prepare its selected collection first; a single-paper reading can prepare what is needed now, returning new prerequisite knowledge to the relevant glossary and guide.
 
 <a id="learning"></a>
 
@@ -138,7 +155,7 @@ For this course reading arrangement, prepare the glossary, main guide, and exerc
 
 #### Reading priority among the materials
 
-**Relevant chapters of the verified main textbook or reference book and assigned readings → the course’s three AI preparation files → supplementary lecture notes → slides → transcripts.** Read foreign-language material in the learner's native language or in translation. For a course built around continuous attributed lecture notes, follow the notes and consult the corresponding chapters of the reference book.
+**Relevant chapters of the verified main textbook or reference book and assigned readings → the course’s two or three AI preparation files → supplementary lecture notes → slides → transcripts.** Read foreign-language material in the learner's native language or in translation. For a course built around continuous attributed lecture notes, follow the notes and consult the corresponding chapters of the reference book.
 
 | Priority | Material | How to use it |
 | --- | --- | --- |
@@ -150,9 +167,21 @@ For this course reading arrangement, prepare the glossary, main guide, and exerc
 
 Select what the current unit needs, starting at the top of the table. Have the model translate and organize supplementary notes, slides, and transcripts as needed. A brief course or unit overview helps orient the reader to the current reading and practice.
 
+**Associate terms with original passages in the same source order: book → continuous prose lecture notes → slides.** First find a book passage that actually explains the term; when none applies, use the notes or slides. A paper companion returns to that paper. The existence of a book alone does not establish support for every entry.
+
+Place the source link on the term itself. In a Chinese glossary, link the Chinese term to the verified page and passage in the PDF and leave the English equivalent as plain text in parentheses.
+
+| Main source | What the course entrance shows | How a term returns to the original |
+| --- | --- | --- |
+| Book | State whether the course adopts a textbook; identify title, edition and role, and link the actual book. Identify a separately selected reference book as such. | Prefer the supporting book passage, corresponding to the original in the learner's language or a verified translation. |
+| Continuous prose lecture notes | Link the notes directly. Assemble split notes in lecture order into one PDF with contents/bookmarks, retaining attribution and the page mapping. | Link the accurate page and passage in the compilation; verify changed page positions, selections and return links. |
+| Slides/PPT | State that slides are the main materials; do not enumerate and link every deck in the course entrance. | Retain existing term-to-slide passage links in the glossary. Use slides for an entry when the book and prose notes do not supply its explanation. |
+
+Establish textbook adoption from the actual syllabus. Distinguish a course with no assigned textbook from a textbook that has not yet been found. Retain the companion-note entrance alongside that account, so readers can see whether they are studying a book, continuous prose notes or selected slides.
+
 #### Check the preparation files and reading entrances
 
-For course reading, check that the original or translated texts and preparation files open and link to the corresponding passages. Where written training is useful, prepare questions, checked solutions, and evaluation grounds across the course’s scope. Keep solutions separate from questions. For practice, prepare the inputs, tools, starting point, and checks for the selected task. Other reading entrances can develop materials during reading.
+For course reading, check that original or translated texts and companions open at the corresponding passages. Where written practice is useful, select existing source questions and link their solutions separately; check any model-prepared reference answer against its identified original problem. For application, link the original experiment instructions and prepare the necessary inputs, tools and working environment. Leave a part empty when no corresponding source task is available. Other reading entrances can develop materials during reading.
 
 <a id="practice-environment"></a>
 
@@ -295,7 +324,7 @@ Choose tools and references from these repositories according to the learning or
 | --- | --- |
 | [K-Dense Scientific Agents](https://github.com/K-Dense-AI/scientific-agents) | Expert thinking materials from different disciplines, providing professional references for explanation and interdisciplinary discussion. |
 | [K-Dense Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Methods for literature retrieval, experimental design, statistics, machine learning, scientific visualization, and citation management. |
-| [DeepTutor](https://github.com/HKUDS/DeepTutor) | An open-source AI learning workspace for source-linked Q&A, step-by-step problem solving, and generating practice questions from your textbooks or papers.<br>① Adapted guidance: Reading guides original-page checks; Mastery informs responses to objections. ② Connected backends: SourceExplorer uses its own prompts to design queries and synthesize sources; Math Animator uses its own prompts to design scenes and generate animation code; KB Search retrieves evidence for Teacher’s question. |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor) | An open-source AI learning workspace for source-linked Q&A, step-by-step problem solving with your textbooks or papers.<br>① Adapted guidance: Reading guides original-page checks; Mastery informs responses to objections. ② Connected backends: SourceExplorer uses its own prompts to design queries and synthesize sources; Math Animator uses its own prompts to design scenes and generate animation code; KB Search retrieves evidence for Teacher’s question. |
 
 <a id="resources"></a>
 

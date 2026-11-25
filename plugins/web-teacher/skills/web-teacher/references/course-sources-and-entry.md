@@ -96,7 +96,7 @@ preserve each companion's attribution, source links and unique content.
 | Slides or PPT | Structure, figures, concise claims and prompts | Recover omitted reasoning and context from compatible sources or explicit teacher synthesis; develop an explanation rather than paraphrase bullets. |
 | Video/audio and transcripts/captions | Spoken explanation, cases, demonstrations and classroom context | Match the actual lecture/segment and resolve references to unseen figures or gestures. A transcript does not contain every visual; slides do not reproduce the spoken argument. |
 | Notebooks, code and recorded outputs | Explanation, computation, visualization and interpretation | Connect inputs, operations, outputs and meaning. Inspect/run the needed slice when a behavioral claim depends on it; distinguish stored output from a current verified run. |
-| Assignments, discussions, solutions and exams | Questions exposing distinctions, assumptions or methods | Select/adapt useful problems with checked answers or reasoned evaluation grounds; preserve source versus teacher authorship and the chosen study mode. |
+| Assignments, discussions, solutions and exams | Questions exposing distinctions, assumptions or methods | Link selected original problems and available answers. A model-written reference answer identifies the original question and its own authorship. |
 | Labs and projects | An extended question, implementation, observations and consequences | Identify the useful conceptual/empirical contribution and actual workspace; distinguish model execution, learner judgments and claimed replication. |
 
 Inspect what a resource actually is. A short label such as record may denote
@@ -106,8 +106,8 @@ disagree, resolve the affected claim rather than silently choosing one.
 
 A missing format is harmless when existing sources adequately support the
 unit. A substantive gap calls for its corresponding repair: retrieve a needed
-source, supply a grounded explanatory bridge or diagram, prepare a useful
-teacher-authored question, or explicitly narrow supported coverage. Identify
+source, supply a grounded explanatory bridge or diagram, find an existing source
+exercise, or explicitly narrow supported coverage. Identify
 which explanation or operation remains unsupported when access is insufficient.
 Do not invent an instructor's argument, official answer, unseen visual,
 empirical result or successful run. Empty sections and unnecessary activities
@@ -129,6 +129,22 @@ the reader can see the question it addresses. Keep a source inventory in
 its material index, guide directories out of the module opening, and
 sibling links inside the companion files. On return, use State to resolve
 the current unit.
+
+Start the course guide with a short original-materials section. State whether
+the offering adopts a textbook, verify its title and edition, and link the
+actual book. Distinguish an explicitly textbook-free offering from an
+unverified or unavailable textbook. Identify any separate reference book and
+its role. Report whether the main source is a book, continuous prose lecture
+notes, slides/PPT, or another verified format.
+
+Link prose lecture notes directly. If they are split across files, assemble
+one readable PDF in actual lecture order, preserving source attribution and
+page mapping and adding lecture bookmarks. Verify page destinations and repair
+links affected by the new positions. When PPT is the main source, name the type
+in the guide and keep existing term-to-slide links in the glossary. Individual
+deck links belong in the source inventory. Keep the guide's direct entrances to
+available companion notes. At the point of explanation, a guide link may open
+the relevant verified PDF passage directly.
 
 A paragraph about why a sample supports a claim can introduce a source on
 sampling and explain what bias to check. A later paragraph about predictions

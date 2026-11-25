@@ -11,32 +11,31 @@ integration.
 
 ## Three files for each named study source
 
-When the learner requests or chooses the three-file arrangement, maintain the
-set for each course, standalone book, paper and standalone experiment named
-in that study scope. For other requests, use the companion files their
-learning purpose calls for.
+Choose the companion set by the source and selected study approach.
+Mathematical, scientific and technical study uses three files. Humanities
+study such as philosophy or interpretive textual study uses a guide and a
+glossary. A bounded request can limit the scope of either arrangement.
 
 1. **Study and research guide** develops the source and connects its units, questions and evidence.
 2. **Detailed glossary** explains source-specific terms and distinctions.
-3. **Practice file** develops practice suited to the source, with checked answers,
-   interpretation or evaluation grounds. A text can use argument or evidence
-   analysis, and an experiment can use predictions, observations and comparisons.
+3. **Practice file** opens the existing source exercises or experiment
+   instructions suited to the selected work. Link available answers separately
+   or provide a checked, clearly attributed reference answer. In humanities
+   study, develop argument and evidence analysis in the guide.
 
-A course with an adopted book uses a course-scoped trio following its units
-and mapped readings. A book also presented for standalone study has its own
-book-scoped trio, as does every named paper and standalone experiment.
-Prepare courses before standalone books when sequencing the work. Standalone
-books and supplementary sources still get their full set. Reuse each source's
-maintained trio across modules when the source and study scope match. For a
-named experiment presented as a unit within a course, give it an addressable
-section in each of the three course files and cross-link those sections.
+A course with substantial teaching materials can have its own set in
+teaching-unit order. Its separately studied books and papers have their own
+sets, ordered by the work. If a course mainly supplies reading priorities and
+sequence, link the book and paper sets from its entrance. Reuse a source's
+maintained set when the source and study scope match. An experiment taught
+within a course can have an addressable entry in its course practice file.
 
-In each file, place direct links to both sibling files immediately after the
+In each file, place direct links to its sibling files immediately after the
 title and before the study content. Link corresponding concepts, units and
 exercises in the body where the reader needs them. Use the
 [module entrance method](course-sources-and-entry.md#prepare-a-reachable-learning-entrance)
-for the reader's entry into each source. Before handoff, follow all six sibling links and check
-that each destination serves the same source and scope.
+for the reader's entry into each source. Before handoff, follow each sibling
+link and check that its destination serves the same source and scope.
 
 Choose and combine three writing approaches: mathematics, technical study,
 and philosophy. Here technical study is a broad material-organizing category
@@ -176,10 +175,8 @@ structure, with the distinct writing approaches above. Maintain:
    their existing learning-path owner.
 3. **Exercises and experiments** — one training document, such as
    `<course-or-source>习题与实验.md`, with clearly distinct written-exercise and
-   experiment/project parts. Integrate the former plan's written-exercise pool
-   and local-practice reference here, preserving their different purposes and
-   real sources. The guide links each knowledge unit to its corresponding
-   training, and training links back to that unit and its glossary entries.
+   experiment/project parts. The guide links to the relevant practice entrance,
+   which links back to the unit and its glossary entries.
 
 Prepare reusable testing and evaluation material across the overall knowledge
 structure of the agreed book, course, or topic. When the learner's level and
@@ -188,25 +185,22 @@ which few points will matter. This is preparation for later selection, not an
 assignment to complete every item. A bounded request still bounds the source
 scope; broad preparation does not expand one question into an entire curriculum.
 
-Keep both forms of technical training explicit. For written exercises, provide
-usable questions and separately readable answers, necessary reasoning, relevant
-definitions or source locators, and grounds for evaluation. Inspect and adapt
-suitable source questions or author source-grounded questions and variations;
-label teacher-authored material and verify its premises and solutions. An answer
-availability flag or a list of source ranges alone does not complete this
-material. Open problems can use reasoned alternatives and comparison criteria
-rather than a fabricated unique answer. For experiments/projects, identify the
-actual runnable source/workspace, question, useful scope, operations, observations
-and expected interpretation, with the model's implementation work and the learner's
-supported judgments distinguished. A generic list of possible activities or
-links without purpose and use is not prepared training.
+For written practice, link directly to an existing question in the book or course
+materials. Give the existing answer or solution its own link when available.
+The model may write a checked reference answer and attribute it to the model,
+with a direct link back to the identified original question. For experiments or
+projects, link the actual laboratory guide, course experiment file, or specific
+repository instructions and identify the relevant workspace. The saved practice
+file uses existing tasks. Leave a part empty when no matching source task is
+available. Explanations, worked examples and counterexamples belong in the main
+guide or teaching encounter.
 
 Keep the broad prepared material recoverable in this training document. During
 practice, remove most of that coverage from the active working set and retain
 only the very small subset substantively necessary for the current question and
 observed needs. This reduction is required, not merely an option to shorten an
 otherwise comprehensive assignment. Strengthen the retained points with diagrams,
-worked examples, counterexamples, and smaller supporting exercises for the
+worked examples, counterexamples, and existing supporting exercises for the
 remaining difficulties. Preserve links from this adapted selection to the base
 material, guide, glossary, and sources; selection need not duplicate the whole
 document or delete material useful for a later need. Repair errors in the owning
@@ -533,7 +527,7 @@ Rendering failure patterns and repairs (the placeholder `source#anchor` describe
 - Linking an entire explanatory sentence makes the explanation a large navigation label. Link its meaningful concise Chinese concept and leave the explanatory prose ordinary text.
 - A label such as `PDF 物理页 64–67` repeats implementation wording. After verifying the actual destination, display `64–67 页` for a reading range; a glossary entry instead uses its concept-name passage link.
 
-Keep the learner-facing note and its explanation as the destination of the PDF backlink, so hovering or opening the highlight can recover the relevant note context. Link a meaningful introduction or explanation, not every occurrence of a word. Prefer one stable primary book for an entry's mapping; identify a supplemental source when the primary book does not support its content. When corresponding Chinese and English sources are available, map and highlight the actual Chinese passage after verifying the edition and meaning; do not transfer English page numbers or selection coordinates. Use the available source honestly when no corresponding Chinese passage exists. This glossary association does not create a translation companion; the existing skimming-companion contract owns selected-reading translation. A compound or multi-page explanation may need additional passage links with its actual range visible; do not collapse it into a misleading single-page locator. If a concept is a course bridge rather than a claim made by that source, keep that distinction visible and use an existing appropriate supporting passage when available; do not manufacture a source anchor to make coverage look complete. Name genuinely unmapped entries as unfinished instead of treating a page-only
+Keep the learner-facing note and its explanation as the destination of the PDF backlink, so hovering or opening the highlight can recover the relevant note context. Link a meaningful introduction or explanation, not every occurrence of a word. For a course glossary, find the supporting passage in the verified book first, then continuous prose lecture notes, then slides/PPT. Keep valid existing term-to-slide passage links. For a standalone paper, use the passage in that paper. When corresponding Chinese and English sources are available, map and highlight the actual Chinese passage after verifying the edition and meaning; do not transfer English page numbers or selection coordinates. Use the available source honestly when no corresponding Chinese passage exists. This glossary association does not create a translation companion; the existing skimming-companion contract owns selected-reading translation. A compound or multi-page explanation may need additional passage links with its actual range visible; do not collapse it into a misleading single-page locator. If a concept is a course bridge rather than a claim made by that source, keep that distinction visible and use an existing appropriate supporting passage when available; do not manufacture a source anchor to make coverage look complete. Name genuinely unmapped entries as unfinished instead of treating a page-only
 fallback as completed passage mapping. If PDF++ is unavailable, use a verified
 page link plus a searchable passage locator and explicitly retain the
 selection/highlight limitation; ordinary teaching remains possible.

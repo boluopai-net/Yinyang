@@ -126,13 +126,12 @@ explanatory visuals near the relevant terms and passages; the opening
 glossary map alone is not sufficient.
 Philosophical study develops argument, discussion and research in the main
 guide. Mathematics and technical study connect learning and reading in the
-guide and distinguish written exercises from experiments and projects in
-training. Preparation covers the
-overall knowledge structure of the agreed scope with reusable questions, checked
-answers, and evaluation grounds. Actual practice must remove most of that coverage,
-retain only a very small substantively necessary subset, and strengthen it with
-diagrams, examples, and supporting exercises for the current need, following the
-materials and teaching-method branches. Do not impose philosophy's
+guide, and link existing source exercises with their answers and real experiment
+instructions in the practice file. A checked model-written reference answer may
+accompany an identified original question when attributed. Actual practice
+selects the small subset needed now and uses diagrams, examples and available
+supporting exercises, following the materials and teaching-method branches.
+Do not impose philosophy's
 argument template on mathematical or technical sources. In all three approaches, connect the material to
 the learner's actual environment, interests, existing understanding, and relevant
 current research inside the main guide and teaching. These relations inform
