@@ -368,15 +368,17 @@ and resumption; do not create per-book progress files or duplicate State.
 
 ## Authoring and readback
 
-Verify the source inventory and review the authored companions separately.
-Inventory verification identifies the actual original or teaching material.
-When the collection uses a catalog, confirm that this material is registered
-and that its availability, location and verification status reflect the evidence.
-Review checks that the actual note meets the current
-requirements for its named work and selected scope, including its content and
-source links. Record the scope, findings and result of that review in the
-catalog when one is maintained. A material's availability and a saved note
-each establish their own status. Review status follows the observed note check.
+Verify the course material set and review authored companions as separate
+checks. Material-companion verification applies at the course level. It checks
+registration and the evidence for the actual availability, location, edition
+and scope of required materials. Include adopted books or papers as part of
+that course inventory where relevant and record the result for the course.
+For a standalone book or paper, register its original and review its own
+companion notes. Review checks that the actual note meets the current
+requirements for its course or named work and selected scope, including its
+content and source links. Record the scope, findings and result of that review
+in the catalog when one is maintained. Review status follows the observed
+note check.
 
 When Dot is the note writer, the collection maintainer first verifies source
 identity, selected scope, and the target file. The maintainer diagnoses mixed
