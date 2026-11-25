@@ -66,29 +66,10 @@ These entrances can connect. Research reading can reveal a substantial gap that 
 
 ## Reference materials and teachers
 
-For a systematic course, a book, a single paper, or a question pursued across several papers, give the source and learning purpose to **Dot or local Codex**. Have the model use a **Teacher Skill** to write connected reference materials, then work with a teacher to read, explain, and discuss them. **Preparing materials and using a Teacher support all these learning entrances.**
-
-This self-study route starts from native-language texts and AI-prepared material, without assigning original lectures to watch or listen to. **Use the course guide to locate the current unit, then open the relevant chapters of the main textbook or reference book checked at course selection and the assigned readings.** Books already written in the learner's native language can be read directly; have the model translate foreign-language sources first. Original texts and faithful translations have a different role from AI-written explanations, guides, and practice. See the [reading priority among materials](#reading-order).
-
-In this learning setup, prepare three companion files for each named course, standalone book, paper, or experiment being studied. Start a module by explaining its subject. Give each source one entry in the paragraph where the reader sees what it contributes. At the top of each companion, link directly to both of the others. The model explains concepts and relationships with original locators, examples, and diagrams. The [practice path](#practice-learning-path) starts from a specific task.
-
-| Material | Mathematics and technical study | Humanities reading, including philosophy |
-| --- | --- | --- |
-| <a id="term-explanations"></a>Glossary and definitions | Keep concepts, notation, conditions, and important distinctions independently accessible, with a concept map showing relationships. | Explain terms in the context of the work, author, and historical setting, connecting them through a concept map. |
-| <a id="main-study-guide"></a>Main guide | A study and research guide develops the knowledge structure, principles, derivations, examples, reading order, and connections to your questions. | A reading guide develops themes, textual structure, background, source material, and interpretation; where arguments are made, explain claims, reasons, objections, and responses, preserving interpretive differences and relevant connections. |
-| <a id="exercises-and-experiments"></a>Exercises and experiments | Develop written exercises or experiments suited to the source. Keep questions, solutions, and evaluation grounds separately readable. | Reconstruct an argument, compare interpretations, or test a distinction against a case. Anchor the exercise in the text and give grounds for comparing answers. |
+Give Dot or local Codex the course, book, or paper you are reading and the question you want to answer. Use a Teacher Skill to prepare reference materials, then read and discuss them with a teacher. Start with the original or a reliable translation into your language and use the companions as needed. See the [reading order](#reading-order).
 
 <a id="term-list-use"></a>
-
-The theory side of a module has a standalone **term list** that readers can open from the module work page for recall. All rows are visible when the reader opens the term list. Put the learning unit in the left column, **Unit**, and the terms to recall from that unit in the right column, **Terms**. Separate the terms with commas and link each one directly to its explanation in the relevant material.
-
-Use source headings only for the courses and books actually studied. Under a source heading, put only the name of the lecture, chapter, or coherent chapter group in the unit cell. If a course and its main textbook cover the same learning units, both titles can share one heading and each unit appears once. A paper normally occupies one row, using a short, recognizable form of its title in the unit cell. If a paper has several parts that can be studied separately, use a row per part and add the part name after the short title. Use the actual units of work for project rows. Apply the same arrangement to supplemental sources.
-
-Keep the module’s term list for looking up terms across sources. A course and its adopted book share the course’s three files. A book studied independently has its own three, even when that study follows the course. Named papers and standalone experiments have their own sets too. Give a lab taught within a course a linked section in each of the course’s files.
-
-Organize each companion set around the scope studied in a course, book, or paper. When a module draws on distinct sources, use the companion set for each. The same source and scope can share one set across courses or modules. Papers addressing one question can also share a set that retains the relevant locations in each source. The overall learning path supports selection across courses, and a specific guide develops understanding of the current book, paper, or question. Attribute original material and model explanations separately.
-
-Preparation depth follows purpose. A systematic course can have its full materials prepared before study begins. Single-paper reading and research learning can start with the materials currently needed, then add concepts and relationships from foundational papers to the glossary and main guide as gaps emerge. Everyday learning can use the same arrangement, emphasizing important abstractions, conclusions, and examples, with a few understanding checks where helpful.
+You can keep three linked companions: a <a id="term-explanations"></a>glossary, a <a id="main-study-guide"></a>main guide, and <a id="exercises-and-experiments"></a>exercises and experiments. Use them to move between the notes and back to the source.
 
 <a id="learning"></a>
 
@@ -181,11 +162,14 @@ After selecting the experiment or task, have the model set up the environment fo
 
 | What to prepare | Contribution to learning |
 | --- | --- |
+| Set up a database | Record what each course requires, which files have been downloaded and where they are, and what is still missing or needs checking. |
 | Software and materials | Drawing, prototypes, audio and video, 3D, statistics, or experiments, with usable files, assets, and save locations. |
 | Application plugins and resources | Import/export, components, charts, animation, or specialist operations, checked against the current application version. |
 | Skills and teaching methods | Guidance for the model's explanation, production, and checking in this kind of work. |
 | MCP and account connections | Actual access to the necessary documents, design files, data, or application operations, verified with a real read or edit. |
 | CLIs, scripts, and interface operation | Command-line, programmatic, or computer-interface routes appropriate to the application. |
+
+**Record materials in the database before generating an index.** Repeatedly asking a model to rewrite an index from scattered syllabi, files, and notes makes it hard to tell whether a file is missing, omitted from the index, or simply moved. Store course requirements separately from downloaded files, then compare them in the database to generate the course index and gap list. Keep the original files where they are.
 
 Have the model inspect existing applications, plugins, and public interfaces, select a combination that serves the current work, and verify it with a small real operation: read the material, perform the action, save the result, reopen it, and continue.
 
