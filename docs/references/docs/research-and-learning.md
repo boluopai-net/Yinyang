@@ -23,7 +23,7 @@ When trying a design, offer an explanation in your own words, give a reason, and
 - [II. Learn an unfamiliar field through papers](#paper-reading)
 - [III. Everyday learning](#everyday-learning)
 - [Supplementary resources for learning and research](#domain-methods)
-    - [Database configuration](#database-configuration)
+- [Supplementary resources: database configuration](#database-configuration)
 - [Supplementary resources: scholarly writing and publication](#resources)
 
 </nav>
@@ -328,7 +328,7 @@ Choose tools and references from these repositories according to the learning or
 
 <a id="database-configuration"></a>
 
-### Database configuration
+## Supplementary resources: database configuration
 
 Record **required materials** and **materials actually available** separately. Register lecture notes, slides, and other teaching files under the actual course and offering. Register books and papers under their own titles, editions, and selected scope. When a course uses a work, associate it with the relevant course units. Record files found, accessible links, their locations, and evidence from checking them. A bibliographic record, an inaccessible link, and a file awaiting inspection each have a distinct status. Keep originals at their existing locations and generate course indexes and gap lists from the records.
 
