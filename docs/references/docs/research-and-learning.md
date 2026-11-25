@@ -23,6 +23,7 @@ When trying a design, offer an explanation in your own words, give a reason, and
 - [II. Learn an unfamiliar field through papers](#paper-reading)
 - [III. Everyday learning](#everyday-learning)
 - [Supplementary resources for learning and research](#domain-methods)
+    - [Database configuration](#database-configuration)
 - [Supplementary resources: scholarly writing and publication](#resources)
 
 </nav>
@@ -66,7 +67,7 @@ These entrances can connect. Research reading can reveal a substantial gap that 
 
 ## Reference materials and teachers
 
-Whether studying a course, a book, one paper or a question across several papers, use a **Teacher Skill** to prepare connected reference materials, then read, explain and discuss them with a teacher. Once the source, selected scope, and target note are clear, give **Dot** that writing task. It can create, extend, or rewrite the note and report what it covered and what remains unresolved.
+Whether studying a course, a book, one paper or a question across several papers, use a **Teacher Skill** to prepare connected reference materials, then read, explain and discuss them with a teacher. **Dot** can write, extend, or revise notes for a selected original and scope.
 
 This self-study route begins with native-language texts and AI-prepared support. Use the course entrance to identify the book, lecture notes and companions for the current unit, then open the original passage. Read an original in your language directly; for other languages, prefer a reliable edition or translation in your language. The author's text and its faithful translation have different roles from model-written explanations, guides and reference answers. See the [reading order](#reading-order).
 
@@ -193,16 +194,11 @@ After selecting the experiment or task, have the model set up the environment fo
 
 | What to prepare | Contribution to learning |
 | --- | --- |
-| Set up a database | Record what each course requires, which files have been downloaded and where they are, and what is still missing or needs checking. |
 | Software and materials | Drawing, prototypes, audio and video, 3D, statistics, or experiments, with usable files, assets, and save locations. |
 | Application plugins and resources | Import/export, components, charts, animation, or specialist operations, checked against the current application version. |
 | Skills and teaching methods | Guidance for the model's explanation, production, and checking in this kind of work. |
 | MCP and account connections | Actual access to the necessary documents, design files, data, or application operations, verified with a real read or edit. |
 | CLIs, scripts, and interface operation | Command-line, programmatic, or computer-interface routes appropriate to the application. |
-
-**Record materials in the database before generating an index.** Repeatedly asking a model to rewrite an index from scattered syllabi, files, and notes makes it hard to tell whether a file is missing, omitted from the index, or simply moved. Store course requirements separately from downloaded files, then compare them in the database to generate the course index and gap list. Keep the original files where they are.
-
-When a collection needs cleanup, have a model such as local Codex verify which work each note belongs to, separate or reorganize mixed notes, repair filenames and links, and update the database from the checked result. Then hand Dot the verified source, selected units, and exact note to write. When Dot returns the files, have the collection-maintenance model check the content and links and update the database from what it finds.
 
 Have the model inspect existing applications, plugins, and public interfaces, select a combination that serves the current work, and verify it with a small real operation: read the material, perform the action, save the result, reopen it, and continue.
 
@@ -329,6 +325,23 @@ Choose tools and references from these repositories according to the learning or
 | [K-Dense Scientific Agents](https://github.com/K-Dense-AI/scientific-agents) | Expert thinking materials from different disciplines, providing professional references for explanation and interdisciplinary discussion. |
 | [K-Dense Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Methods for literature retrieval, experimental design, statistics, machine learning, scientific visualization, and citation management. |
 | [DeepTutor](https://github.com/HKUDS/DeepTutor) | An open-source AI learning workspace for source-linked Q&A, step-by-step problem solving with your textbooks or papers.<br>① Adapted guidance: Reading guides original-page checks; Mastery informs responses to objections. ② Connected backends: SourceExplorer uses its own prompts to design queries and synthesize sources; Math Animator uses its own prompts to design scenes and generate animation code; KB Search retrieves evidence for Teacher’s question. |
+
+<a id="database-configuration"></a>
+
+### Database configuration
+
+Record **required materials** and **materials actually available** separately. Register lecture notes, slides, and other teaching files under the actual course and offering. Register textbooks, reference books, and papers under their own titles, editions, and selected scope, then associate them with the relevant course units. Record files found, accessible links, their locations, and evidence from checking them. A bibliographic record, an inaccessible link, and a file awaiting inspection each have a distinct status. Keep originals at their existing locations and generate course indexes and gap lists from the records.
+
+| Check | What to verify | What to retain |
+| --- | --- | --- |
+| Material companions | Verify that the required original or teaching material is registered, opens in practice, and matches the recorded file, edition, and coverage. | The material, its actual location, available, missing or pending status, and evidence that can be checked again. |
+| Note companions | Review the glossary, guide, and applicable practice entrances against the current requirements for that source. Inspect content, attribution, and navigation in the selected scope. | The notes and scope reviewed, applicable requirements, evidence, findings, and review outcome. Record completion of writing when the text is saved and record a review outcome after inspection. |
+
+Scope each check independently. A completed check can find missing material or unfinished notes. Leave a scope unchecked until there is a record of the actual check.
+
+**Prepare the collection before handing over writing.** A model such as local Codex verifies which original each note explains. It separates mixed course and independent works, handles moves, renames, reusable passages, and link migration, then updates the database from observed facts. It identifies passages that need writing or revision and gives Dot the verified original, selected units, and target file for that writing task.
+
+**Review the delivered notes.** Dot reports the files it wrote, coverage, and issues it encountered. The reviewing model opens the actual files, checks content and links against current requirements, and records the reviewed scope, evidence, findings, and outcome in the database. The records make it possible to resume at the next unfinished step.
 
 <a id="resources"></a>
 
