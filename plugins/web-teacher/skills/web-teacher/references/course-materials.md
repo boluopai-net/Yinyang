@@ -23,12 +23,18 @@ glossary. A bounded request can limit the scope of either arrangement.
    or provide a checked, clearly attributed reference answer. In humanities
    study, develop argument and evidence analysis in the guide.
 
-A course with substantial teaching materials can have its own set in
-teaching-unit order. Its separately studied books and papers have their own
-sets, ordered by the work. If a course mainly supplies reading priorities and
-sequence, link the book and paper sets from its entrance. Reuse a source's
-maintained set when the source and study scope match. An experiment taught
-within a course can have an addressable entry in its course practice file.
+A course has one companion set in teaching-unit order when its own teaching
+materials support one. Continuous prose lecture notes and slides/PPT are
+alternative or complementary carriers of that same course content. Keep them
+in one course glossary and guide. Each selected textbook, reference book or
+paper gets a separate set named for the actual work and ordered within its
+selected scope. Independent books stay separate even when they support the
+same course units. A coauthored book is a single work. Attribute material used
+for comparison or supplementation to its own source. If the course mainly
+supplies reading priorities and sequence, link the book and paper sets from
+the course entrance. Reuse a maintained set when the source and study scope
+match. An experiment taught within a course can have an addressable entry
+in its course practice file.
 
 In each file, place direct links to its sibling files immediately after the
 title and before the study content. Link corresponding concepts, units and
@@ -116,9 +122,10 @@ Maintain one separate `词表` file per learning-path module. Keep the terms and
 their source-specific definitions in their respective vocabulary and glossary
 files. The module work page links to those files. Use Markdown tables with
 `单元` and `词条` columns in Chinese (Unit and Terms in English). Use actual
-course and book titles as headings, including a handbook used as a source.
-A course heading can include its main textbook. Give each lecture, chapter
-or coherent unit group a row in source order, listing each shared unit once.
+course and book titles as separate headings, including the actual title of
+an adopted textbook or handbook. Give each lecture, chapter or coherent unit
+group a row in its own source order. Connect related course units and book
+chapters with links.
 Under a heading, the Unit cell gives just the unit name. Give each paper and
 project one Unit row by default. Use a short recognizable paper name in the
 Unit cell. A paper with substantively distinct parts can span several rows,
@@ -527,7 +534,7 @@ Rendering failure patterns and repairs (the placeholder `source#anchor` describe
 - Linking an entire explanatory sentence makes the explanation a large navigation label. Link its meaningful concise Chinese concept and leave the explanatory prose ordinary text.
 - A label such as `PDF 物理页 64–67` repeats implementation wording. After verifying the actual destination, display `64–67 页` for a reading range; a glossary entry instead uses its concept-name passage link.
 
-Keep the learner-facing note and its explanation as the destination of the PDF backlink, so hovering or opening the highlight can recover the relevant note context. Link a meaningful introduction or explanation, not every occurrence of a word. For a course glossary, find the supporting passage in the verified book first, then continuous prose lecture notes, then slides/PPT. Keep valid existing term-to-slide passage links. For a standalone paper, use the passage in that paper. When corresponding Chinese and English sources are available, map and highlight the actual Chinese passage after verifying the edition and meaning; do not transfer English page numbers or selection coordinates. Use the available source honestly when no corresponding Chinese passage exists. This glossary association does not create a translation companion; the existing skimming-companion contract owns selected-reading translation. A compound or multi-page explanation may need additional passage links with its actual range visible; do not collapse it into a misleading single-page locator. If a concept is a course bridge rather than a claim made by that source, keep that distinction visible and use an existing appropriate supporting passage when available; do not manufacture a source anchor to make coverage look complete. Name genuinely unmapped entries as unfinished instead of treating a page-only
+Keep the learner-facing note and its explanation as the destination of the PDF backlink, so hovering or opening the highlight can recover the relevant note context. Link a meaningful introduction or explanation, not every occurrence of a word. For a course glossary, look first for the supporting passage in its continuous prose lecture notes, then in its slides/PPT. Keep valid existing term-to-slide passage links. For a book or paper glossary, link the supporting passage in that same work. Identify links to other works as comparisons or supplemental evidence. When corresponding Chinese and English sources are available, map and highlight the actual Chinese passage after verifying the edition and meaning; do not transfer English page numbers or selection coordinates. Use the available source honestly when no corresponding Chinese passage exists. This glossary association does not create a translation companion; the existing skimming-companion contract owns selected-reading translation. A compound or multi-page explanation may need additional passage links with its actual range visible; do not collapse it into a misleading single-page locator. If a concept is a course bridge rather than a claim made by that source, keep that distinction visible and use an existing appropriate supporting passage when available; do not manufacture a source anchor to make coverage look complete. Name genuinely unmapped entries as unfinished instead of treating a page-only
 fallback as completed passage mapping. If PDF++ is unavailable, use a verified
 page link plus a searchable passage locator and explicitly retain the
 selection/highlight limitation; ordinary teaching remains possible.

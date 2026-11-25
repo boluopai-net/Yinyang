@@ -84,7 +84,7 @@ Prepare two or three connected files according to the actual study approach. The
 
 Each theoretical module also has an independent **term list**, opened from the module page for recognition and return. Its left column names the learning unit; the right lists the terms to recognize, each linking directly to the relevant glossary entry. All rows are visible when the list opens.
 
-Use actual course or book names as source headings and organize units by lecture, chapter or coherent chapter group. A course and its book may share a heading for the same units, listing each unit once. A paper usually occupies one row under a recognizable short title; divide it only when its parts support independently useful study. Projects follow actual work units. The term list supports cross-source return; each source's glossary retains the detailed definitions, examples and conceptual relationships.
+Use the course name for its teaching units and the actual book name for its chapters or chapter groups. Show related course units and book chapters through links. A paper usually occupies one row under a recognizable short title; divide it only when its parts support independently useful study. Projects follow actual work units. The term list supports cross-source return; each source's glossary retains the detailed definitions, examples and conceptual relationships.
 
 Courses, adopted books and independently studied papers retain their identities and selected scope. Reuse the same source's companions for the same scope across courses or modules. Course entrances explain how they work together; the learning path organizes choices across courses. Attribute originals and model explanations separately. Preparation depth follows purpose: a systematic course can prepare its selected collection first; a single-paper reading can prepare what is needed now, returning new prerequisite knowledge to the relevant glossary and guide.
 
@@ -155,7 +155,7 @@ For this course reading arrangement, prepare the glossary, main guide, and exerc
 
 #### Reading priority among the materials
 
-**Relevant chapters of the verified main textbook or reference book and assigned readings → the course’s two or three AI preparation files → supplementary lecture notes → slides → transcripts.** Read foreign-language material in the learner's native language or in translation. For a course built around continuous attributed lecture notes, follow the notes and consult the corresponding chapters of the reference book.
+**Relevant chapters of the verified main textbook or reference book and assigned readings → the selected work's AI companions → supplementary lecture notes → slides → transcripts.** Read foreign-language material in the learner's native language or in translation. For a course built around continuous attributed lecture notes, follow the notes and consult the corresponding chapters of the reference book.
 
 | Priority | Material | How to use it |
 | --- | --- | --- |
@@ -167,17 +167,19 @@ For this course reading arrangement, prepare the glossary, main guide, and exerc
 
 Select what the current unit needs, starting at the top of the table. Have the model translate and organize supplementary notes, slides, and transcripts as needed. A brief course or unit overview helps orient the reader to the current reading and practice.
 
-**Associate terms with original passages in the same source order: book → continuous prose lecture notes → slides.** First find a book passage that actually explains the term; when none applies, use the notes or slides. A paper companion returns to that paper. The existence of a book alone does not establish support for every entry.
+**The reading order guides what to open first. Each glossary links back to the work it explains.** For course content, find the supporting passage in the continuous prose lecture notes first, then in the slides. The notes and slides support one course glossary and guide, ordered by teaching unit. A book glossary links to that book and a paper glossary to that paper. Identify passages from other works as supplements or comparisons.
 
 Place the source link on the term itself. In a Chinese glossary, link the Chinese term to the verified page and passage in the PDF and leave the English equivalent as plain text in parentheses.
 
-| Main source | What the course entrance shows | How a term returns to the original |
-| --- | --- | --- |
-| Book | State whether the course adopts a textbook; identify title, edition and role, and link the actual book. Identify a separately selected reference book as such. | Prefer the supporting book passage, corresponding to the original in the learner's language or a verified translation. |
-| Continuous prose lecture notes | Link the notes directly. Assemble split notes in lecture order into one PDF with contents/bookmarks, retaining attribution and the page mapping. | Link the accurate page and passage in the compilation; verify changed page positions, selections and return links. |
-| Slides/PPT | State that slides are the main materials; do not enumerate and link every deck in the course entrance. | Retain existing term-to-slide passage links in the glossary. Use slides for an entry when the book and prose notes do not supply its explanation. |
+In the course guide, use **Course content** and **Independent study materials** as two groups. Pair the original and companion notes in the same row, and explain how an independent reading supports the selected course units. Record whether the offering adopts a textbook, using the actual syllabus. Distinguish a course with no assigned textbook from one whose textbook has yet to be found.
 
-Establish textbook adoption from the actual syllabus. Distinguish a course with no assigned textbook from a textbook that has not yet been found. In the course guide, put each important source on its own row under **Material**, **Original**, and **Companion notes**. Pair each prose lecture-note set with its glossary and each important book or paper with that work's own glossary. This can include several books in one course. If slides are the main material, write “Slides/PPT” in the original column and link the corresponding course glossary where it exists. Mark missing originals or companions in the relevant row, so it remains clear which source each note explains.
+| Material in the course guide | Original | Companion notes |
+| --- | --- | --- |
+| Course content | Link the continuous lecture notes. Assemble split prose notes in lecture order into one PDF with bookmarks and a traceable page mapping. For slide material, display “Slides/PPT” in the guide and keep the existing passage links in the glossary. | One course glossary and guide for lecture notes and slides, used together or according to what is available. |
+| Each independent book | Link that book. Give its actual title, edition and role as a textbook or reference. | Its own book-named glossary and guide, following the selected chapters. Several books get separate rows and sets. A coauthored book is one work. |
+| Each independent paper | Link that paper. Identify the parts used and what they contribute. | Its own paper-named glossary and guide, following the selected contents and evidence. |
+
+Mark missing originals or companions in the relevant row. When lecture notes are combined into one PDF, verify the new page positions, selections and return links.
 
 #### Check the preparation files and reading entrances
 

@@ -113,13 +113,16 @@ When preparing a course, book or paper for study, first prepare an independent
 detailed glossary (`术语与名词解释表` in Chinese) with a graphical concept map,
 definitions, conditions, distinctions, and examples where needed. Connected
 exposition belongs in the main guide.
+Give the course one companion set for its own lecture notes and slides. Give
+each selected book and paper its own named glossary and guide, even when it is
+assigned by the course. The course guide pairs originals and notes under
+Course content and Independent study materials.
 Use the [materials method](references/course-materials.md#three-files-for-each-named-study-source)
 to prepare the file arrangement the learner chooses.
 Link each module's separate vocabulary file (`词表`) from the module page.
 Keep every row visible in the vocabulary file's two-column
-Unit and Terms tables. Give courses and books source headings. A course heading
-can include its main textbook, and shared units appear once. Under a source
-heading, label a row by its unit. Use a short recognizable name for a paper
+Unit and Terms tables. Give courses and books their own source headings.
+Under a source heading, label a row by its unit. Use a short recognizable name for a paper
 in the Unit column. Link terms directly to their source glossaries.
 Both the detailed glossary and the main guide integrate a fitting amount of
 explanatory visuals near the relevant terms and passages; the opening

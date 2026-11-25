@@ -133,23 +133,26 @@ the current unit.
 Start the course guide by stating whether the offering adopts a textbook.
 Distinguish an explicitly textbook-free offering from an unverified or
 unavailable textbook. Verify the title and edition and identify each book's
-role. Then use a table with Material, Original and Companion notes columns.
-Give each important source its own row, with the verified original beside its
-own companion entrance. Pair each prose lecture-note set with its glossary
-and each important book or paper with its own glossary, including when a course
-uses several books. If a source only has a main guide, link that existing note
-and name the missing glossary. Record other unavailable originals or companions
-in their respective cells. Readers can reach the other notes through the
-companion's reciprocal links.
+role. Organize the guide in two groups, **Course content** (课程内容)
+and **Independent study materials** (独立学习资料). Keep the original and
+corresponding companion in the same row under Material, Original and Companion
+notes. The course row pairs its lecture notes and slides with one course glossary
+and guide. In the independent group, give each selected book or paper its own
+row and its own glossary entrance, including when several books support a course.
+Identify which selected course units each work supports and what it contributes.
+Preserve each independent work's identity, source order and selected scope.
+If only a main guide exists, link it and name the missing glossary. Mark other
+missing originals or companions in their cells. Readers can reach the other
+notes through the companion's reciprocal links.
 
 Link prose lecture notes directly. If they are split across files, assemble
 one readable PDF in actual lecture order, preserving source attribution and
 page mapping and adding lecture bookmarks. Verify page destinations and repair
-links affected by the new positions. When PPT is the main source, put only the
-material type in the Original cell and pair it with its glossary when one
-exists. Keep existing term-to-slide links in the glossary. Individual deck
-links belong in the source inventory. At the point of explanation, a guide
-link may open the relevant verified PDF passage directly.
+links affected by the new positions. For PPT, put the material type in the
+Original cell. Both formats use the same course glossary. Keep existing
+term-to-slide links in the glossary and individual deck links in the source
+inventory. At the point of explanation, a guide link may open the relevant
+verified PDF passage directly.
 
 A paragraph about why a sample supports a claim can introduce a source on
 sampling and explain what bias to check. A later paragraph about predictions
