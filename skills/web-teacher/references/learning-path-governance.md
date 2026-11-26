@@ -1,33 +1,14 @@
 # Learning-path governance
 
-Use this branch for path selection, mapping, audit or maintenance. Read
-[the global path](learning-path.md) and [the local path](local-learning-path.md)
-with affected cards and relations before deciding. The first owns current course
-mappings; the second owns the current attention map. Neither records completion
-or replaces live Course State. Read adjacent cards as needed; do not infer the
-surrounding courses from a textbook or memory.
+Use this branch for path selection and maintenance. Read the affected courses
+and cards in the recipient's [global](learning-path.md) and
+[local](local-learning-path.md) paths. Resolve the package's path and work-plan
+slots through [recipient configuration](configuration.md). Inspect sources under
+their configured corpus and use live Course State for evidence of study.
 
-The three packaged path references are configuration slots, not learner data.
-Resolve them through [recipient configuration](configuration.md) to the
-recipient's maintained global learning path, local attention path and work plan.
-Preserve the destination's existing names, links and ownership; never guess a
-vault, private folder, symlink or cloud service. Course/material links resolve
-against the configured corpus rather than the Skill package. Use its resolvers
-and available tools to inspect actual source records. A missing binding limits
-path decisions; it does not prohibit an established exact-source explanation.
-
-Explain a useful bounded connection from adjacent Course material in the current
-lesson. For a load-bearing prerequisite or coherent separate body, recommend its
-course with the triggering gap and return condition; let the learner choose.
-Traverse without reciting the map.
-
-The path is a revisable map of relations to learn, not the terrain or a record
-of arrival. Target objects give the map its purpose; course mappings propose how
-sources can develop those objects; an execution path selects the current encounter.
-Material and attributable learner evidence can challenge a mapping without
-erasing earlier exposure or turning a local traversal choice into a new target.
-The distinctions and maintenance boundaries below keep those revisions with
-their actual semantic and publication owners.
+Explain useful bounded connections from adjacent material where they serve the
+lesson. For a load-bearing prerequisite or coherent separate body, identify
+its course, triggering gap and point of return.
 
 ## Path maintenance and source ownership
 
@@ -58,15 +39,11 @@ method begins with a question or inference the learner can test. Delivering
 work begins with the actual brief, required output and acceptance evidence.
 One project can contribute to both when its results serve both purposes.
 
-Except for a selected purely theoretical inquiry, begin with practice. Work
-backward from employment, project, assignment or making requirements to the
-theory needed to understand and judge the work. Prune unrelated coverage and
-depth. If the theory remains unclear, follow its real dependencies to supply
-the missing foundation, then return to the original question. This bidirectional
-pruning lets practical demand select theoretical scope and theoretical
-understanding test practical assumptions and unnecessary work. It does not
-presume every applied problem is easy or require a complete foundation course
-before action. Pure theory may follow its own questions without an invented use.
+Use practice as the primary entrance for applied purposes. Work backward
+from the task to the theory needed to judge it, supply missing foundations
+along real dependencies and return to the practical question. Practical demand
+selects theoretical scope, and theoretical understanding tests its assumptions.
+For theoretical inquiry, follow the conceptual questions and dependencies.
 
 At the encounter, Teacher specifies the object to make or inspect, worthwhile
 learner participation, model-carried operations and useful evidence. Retain an
@@ -76,15 +53,10 @@ under the existing Course State contract, not a table of hypothetical detours.
 
 ### Source maintenance
 
-the active Web or Local Teacher may maintain a bounded relation, card, depth mapping or
-re-entry in either path when direct source or learner evidence shows it missing,
-stale or wrong. Read the affected graph/cards and direct evidence, make the
-smallest supported correction, name its evidence and behavioral consequence,
-and read back the published result. A local suggestion is not automatically a
-durable edge or completion evidence. Stable Governance, target changes and broad
-multi-branch restructuring require an explicit user request under the boundary below.
-
-Apply the root Skill’s source-publication boundary to every path change.
+The acting Teacher may correct bounded path relations, depth and re-entry from
+source or learner evidence. Use the recipient's material owner and verify the
+affected entrance. Changes to the stable target, Governance or several branches
+follow the learner's explicit request.
 
 ## Learning Path Governance
 

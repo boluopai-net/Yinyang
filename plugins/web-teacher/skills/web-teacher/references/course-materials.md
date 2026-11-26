@@ -513,70 +513,73 @@ or mastery and does not change Course State.
 
 ## Markdown format and rendering
 
-This section owns Markdown form and saved Course materials' Obsidian compatibility. The glossary section above owns pedagogy; the course source and plan own content and progression. Formatting checks do not judge teaching quality, impose entry lengths, remove necessary conditions, or reorganize a book. Its formatting rules do not change the shared ownership, permissions, State, Memory, or route boundaries in the root Skill.
+Write model-facing instructions, structured State and schemas in English.
+Write learner-facing material and Route prose in the recipient's selected language.
+Preserve exact source text, learner records, filenames, paths and machine schemas.
 
-### Language and structure
+Use UTF-8 Markdown with one title, meaningful headings, normal lists and
+tables, code formatting for literals, and links for navigation. Give the learner
+the material itself. Include edition, coverage or other document-specific
+orientation when useful. Keep course rules with their existing owners.
 
-Write model-facing rules, contracts, `AGENTS.md`, schemas, State, and structured interpretations in English. Write direct learner-facing material and Route prose in the recipient's selected language; the Chinese examples below illustrate one supported profile. Preserve exact quotations, user-authored artifacts, source text, source titles, filenames, and identity-bearing paths. Do not rewrite historical or create-only evidence merely to normalize language.
-
-Use UTF-8 Markdown, one `#` title, and `##` / `###` headings according to real containment without skipped levels. Separate blocks with one blank line; do not use repeated blank lines, manual line breaks, or horizontal rules to simulate structure. Keep terminology, field names, IDs, and owner names stable. Use `-` for unordered lists and numbered lists for real order, dependency, or procedure. Keep one primary proposition per list item and avoid deep nesting. Use tables for compact comparisons across the same dimensions and blockquotes for exact source text or direct quotation.
-
-Use inline code for literal paths, filenames, commands, IDs, schema fields, status values, and exact tokens; use actual links when navigation is intended. Use fenced blocks for multiline code, configuration, protocol examples, literal paths, or diagrams, with the actual language or `text` as appropriate. Keep `AGENTS.md` as a navigable entrypoint rather than copying downstream instructions. Preserve producer-defined machine schemas; apply formatting rules only where the schema leaves form unspecified. Consistent form must not remove distinctions required by an existing contract.
-
-### Write for the actual reader
-
-Put the material itself in learner-facing documents. A preface is useful only for document-specific facts such as actual source editions, selected coverage, or the relationship between primary and supplemental books. Do not copy shared authoring rules into a “purpose”, “usage”, or scope preface: glossary purpose, progress/mastery boundaries, entry-type rules, formula policy, PDF numbering conventions, CSS/plugin names and validation duties belong in their existing instruction owners. Follow them while writing instead of explaining them again to the reader. Do not invent an eligibility condition such as “use only after finishing the course”, or embed changing learner progress and route state in a glossary. Retain useful source information and navigation; omit a preface when it adds no distinct information. The same non-duplication principle applies to model-facing records: retain task-specific facts and references rather than restating shared prompts.
-
-Use ordinary Obsidian Markdown. Inline mathematics uses `$...$`; displayed mathematics uses `$$` on separate lines. Keep a display block out of code fences and separate it from prose with blank lines. In a list, maintain the indentation required by the list. Do not surround intended mathematics with backticks or use `\(...\)` / `\[...\]` as saved Markdown delimiters; these forms need not be recognized as mathematics by the Markdown parser. Keep valid TeX inside recognized math boundaries. A MathJax extension can support extra commands after Markdown recognizes the formula; its presence does not prove that the formula was recognized.
-
-Use headings and normal lists for readable organization. The required concept map is a rendered diagram under the independent-glossary contract, not a text-layout substitute. Choose supported Mermaid, an embedded image or another working graphical format. Check the resulting diagram in the current vault, including its labels and any intended links. A LaTeX environment or plugin installed elsewhere is not evidence of local support.
-
-Resolve links against the actual vault and source file. Wikilinks can address a file, heading, block, or PDF page; Markdown links need correctly encoded destinations. Prefer a sufficiently specific existing path when names collide. In a Markdown table, escape a wikilink's alias separator as `\|`; outside a table use `|`. Verify heading text and physical PDF page positions rather than guessing anchors or printed-to-physical offsets. The PDF++ profile uses one-based physical PDF pages. Verify that `#page=40` reaches page 40 in the recipient's actual reader rather than applying an assumed offset. Verify the displayed destination when the reader or source changes. Code-formatted paths are labels, not clickable links. Escape characters only when their literal display is intended.
+In Obsidian, use `$...$` for inline mathematics and `$$` on separate lines
+for display mathematics, with blank lines and any list indentation the block
+needs. Use a supported rendered diagram for the required glossary concept map.
+Resolve links against the actual vault and source. Escape the alias separator
+as `\|` inside a Markdown table and use `|` elsewhere.
 
 ### Maintain source-linked reading notes
 
-For a recipient who configures academic callout styling, the optional profile uses `[!definition]`, `[!axiom]`, `[!theorem]`, `[!lemma]`, `[!corollary]`, `[!concept]`, `[!notation]`, `[!algorithm]` and `[!method]`. Use them to emphasize especially important entries; ordinary entries use compact bold teaching-language type labels. Definitions default to plain labels; emphasizing an important definition is optional. Keep the explicit type in callout titles, with color auxiliary. The glossary section above owns selection, meaning and the selected classification; its Chinese profile simplifies proposition/property labels without changing the source's actual statement. No custom headings plugin is required for this presentation.
+Use the glossary's source object to choose meaningful passages. Prefer the
+course's continuous lecture notes and then its slides for course entries. Link
+a book or paper glossary to the corresponding work. Identify supplementary
+sources where they contribute a distinct explanation. Prefer the verified
+corresponding passage in the learner's language when available and use that
+edition's own coordinates. The
+[course entrance method](course-sources-and-entry.md#prepare-a-reachable-learning-entrance)
+owns presentation of compiled lecture notes and slide decks in the guide.
+Verify migrated page or selection coordinates against the exact changed PDF.
 
-Apply the glossary contract's exclusion of proofs by substance, regardless of formatting. Relabeling a proof as `【方法】`, `【概念】`, a proof idea, or a sequence of separate entries does not make it glossary content. Keep a result's statement, essential assumptions and defining meaning; omit the argument establishing it, including an expanded proof outline. A clearly identifiable, reusable method may have its own entry explaining its purpose, applicability and central operation, without developing a proof of a particular result. Review adjacent entries together: a derivation split across labels is still a derivation. Do not remove an independently useful concept merely because it is also used in proofs, and do not replace a meaningful entry name with a generic label such as “概念” or “方法”.
+Link the meaningful term or concept cluster in the recipient's language directly to its source.
+Keep a secondary-language gloss and mathematical notation beside the link as ordinary
+text and math, for example `[[source#anchor|根号尺度]]（$\sqrt{n}$）`. Use an
+established acronym or readable plain symbol when it is the useful name.
+Consolidate redundant bilingual links, preserving any distinct supporting
+passage as its own appropriate concept association.
 
-When creating or substantively updating a glossary entry or a source-specific explanation, put the source link on the concept name the learner reads. For a distinct mathematical term or result, link that term itself. For dispersed programming practices or several concepts explained together, a concise linked concept-cluster name at the start of the paragraph, followed by a colon and the explanation, is appropriate. Choose a passage that meaningfully supports the explanation; an exact wording match or separate anchor for every incidental sub-concept is unnecessary. A chapter entrance alone does not replace these explanation-level associations. For a local PDF with the configured [PDF++](https://github.com/RyotaUshio/obsidian-pdf-plus)
-capability, use a text-selection link: `[[vault/path/source.pdf#page=N&selection=beginItem,beginOffset,endItem,endOffset|concept name]]`. Obtain item indexes and UTF-16 offsets from that exact PDF's current text layer or the reader's copied selection link; never invent coordinates or accept a lexical match without checking its meaning. Use a verified rectangle for a figure or passage whose text layer cannot support a useful selection. Preserve the vault's configured default highlight style; ordinary source association does not modify the PDF file. Do not append separate locator labels or repeatedly display the source filename, book title or same association when the linked concept already carries it.
+With a configured [PDF++](https://github.com/RyotaUshio/obsidian-pdf-plus) reader, use
+`[[vault/path/source.pdf#page=N&selection=beginItem,beginOffset,endItem,endOffset|concept name]]`.
+Use the exact PDF's text-layer indexes and UTF-16 offsets or copy its verified
+selection link. Use a verified rectangle for figures or unsuitable text
+layers. Keep the vault's default highlight style and return backlinks to the
+learner-facing explanation so preview recovers its context. Distinguish a
+teacher-developed bridge from a source claim and mark unresolved anchors as
+unfinished. When selection is
+unavailable, use a verified page link and searchable passage locator, and
+report the remaining selection or highlight limit.
 
-Write bilingual concept labels in the recipient-language-first order. In the Chinese profile use `中文名（English name）`, not `English name（中文名）`. Link only the main concept name and keep the other-language parenthetical outside the link as ordinary text: `[[source#anchor|计算机科学]]（computer science）`. Preserve the gloss, mathematical notation and surrounding emphasis. Retain an established acronym, code or symbolic name where no useful counterpart is supplied; do not invent an unnatural translation merely to satisfy this display rule.
+For reading windows, use links to the verified start page and show the
+one-based PDF range as `第 25 页` or `25–28 页`. The same plain one-based
+PDF page convention applies throughout saved learner materials. Convert older
+numbering against the actual PDF. For Markdown and Web originals use the
+available stable heading, block or section link.
 
-An English parenthetical must also remain unlinked when it previously had its own separate source link; moving it outside the Chinese link alone is insufficient. Consolidate redundant bilingual links. If an English link carried a genuinely distinct supporting passage, attach that association to an appropriate concise Chinese concept already in the explanation, without appending a new locator label or linking the entire explanatory sentence.
-
-Keep TeX mathematics out of wikilink aliases, where the reader may display literal delimiters. Use a meaningful plain concept name as the link and place its mathematical notation beside it in ordinary Markdown math, for example `[[source#anchor|根号尺度]]（$\sqrt{n}$）`. A readable conventional symbol may be used as plain label text when it preserves the meaning. Do not strip TeX delimiters while leaving commands or changing the mathematics. Check both the link label and adjacent formula in actual reading mode; inspect separately linked English glosses and symbolic labels as well as ordinary bilingual aliases.
-
-Rendering failure patterns and repairs (the placeholder `source#anchor` describes form only and must be replaced by a verified destination):
-
-- A linked bilingual alias such as `[[source#anchor|正则语言的泵引理（pumping lemma）]]` colors the English gloss too. Write `[[source#anchor|正则语言的泵引理]]（pumping lemma）`; a separate linked English parenthetical has the same defect.
-- An alias such as `[[source#anchor|根号 $n$ 尺度]]` can display raw dollar signs. Write `[[source#anchor|根号尺度]]（$\sqrt{n}$）`, preserving the intended mathematics in ordinary Markdown outside the link.
-- Linking an entire explanatory sentence makes the explanation a large navigation label. Link its meaningful concise Chinese concept and leave the explanatory prose ordinary text.
-- A label such as `PDF 物理页 64–67` repeats implementation wording. After verifying the actual destination, display `64–67 页` for a reading range; a glossary entry instead uses its concept-name passage link.
-
-Keep the learner-facing note and its explanation as the destination of the PDF backlink, so hovering or opening the highlight can recover the relevant note context. Link a meaningful introduction or explanation, not every occurrence of a word. For a course glossary, look first for the supporting passage in its continuous prose lecture notes, then in its slides/PPT. Keep valid existing term-to-slide passage links. For a book or paper glossary, link the supporting passage in that same work. Identify links to other works as comparisons or supplemental evidence. When corresponding Chinese and English sources are available, map and highlight the actual Chinese passage after verifying the edition and meaning; do not transfer English page numbers or selection coordinates. Use the available source honestly when no corresponding Chinese passage exists. This glossary association does not create a translation companion; the existing skimming-companion contract owns selected-reading translation. A compound or multi-page explanation may need additional passage links with its actual range visible; do not collapse it into a misleading single-page locator. If a concept is a course bridge rather than a claim made by that source, keep that distinction visible and use an existing appropriate supporting passage when available; do not manufacture a source anchor to make coverage look complete. Name genuinely unmapped entries as unfinished instead of treating a page-only
-fallback as completed passage mapping. If PDF++ is unavailable, use a verified
-page link plus a searchable passage locator and explicitly retain the
-selection/highlight limitation; ordinary teaching remains possible.
-
-All page references in model-authored learner materials, including skimming references, learning plans, practice references, glossaries and reading companions, use the actual one-based PDF page position. Display only ordinary page wording such as `第 25 页` or `25–28 页`; do not add `物理页` or `印刷页` labels, printed-page alternatives, or parallel numbering. Match visible page numbers and ranges to the exact PDF and its navigation targets. When revising a printed-page reference, inspect the source and verify the corresponding PDF positions before changing the numbers; removing a label alone is not a conversion. Apply this rule when first producing the material, not as a later manual cleanup. Preserve exact quotations and original source content.
-
-Use page links for reading-window starts and show the verified PDF range in the label under the page convention above; do not highlight entire assigned ranges. For local Markdown sources, use an existing semantic heading or block link. For Web sources, use a stable source URL and an available section anchor. Maintain these associations as part of the existing notes, without asking the learner to perform annotation work or creating another index to maintain. Updating links does not establish reading progress or mastery.
-
-On the changed reading path, verify note-to-source navigation and, for PDF selection links, the actual highlight and its backlink context in Obsidian reading mode. Exercise hover preview or note opening through the current PDF++ interaction. Respect the learner's occupied views; use a task-owned view for validation. If a source changes, repair the affected anchors against the new source rather than retaining stale coordinates.
+Use compact teaching-language type labels for glossary entries. Where configured,
+academic callout styles can emphasize important definitions, axioms,
+theorems, lemmas, corollaries, concepts, notation, algorithms and methods.
+Keep the type explicit. Keep each result's statement, essential assumptions
+and defining meaning in the glossary. Put the argument establishing the result
+in the guide. A reusable method can have a glossary entry for its purpose,
+applicability and central operation.
 
 ### Verify changed materials
 
-After saving a glossary, main guide, training document or an existing material being integrated, reread the final bytes and check affected content in its actual vault's **reading mode**. Inspect changed formulas and diagrams for visible mathematics and legibility, including explanatory visuals inside glossary entries and the main guide beyond the opening map. Follow the real study path: guide to the named glossary entry and back, guide to applicable written/external training and back, and source passages/page jumps. Check that the main explanation remains connected without mandatory hopping. Fix observed defects and check the repaired portion. Validate the actual visuals rather than adding unrelated test specimens.
-
-During authoring, use the valid forms above directly. Before delivering a glossary, inspect bilingual and symbolic link labels, separately linked English glosses, surrounding formulas and page labels in the saved result; also read related entries together for proofs disguised by classification. The teacher who writes the material repairs these defects before delivery rather than deferring them to the learner or a later local cleanup. A source-text scan can locate candidates but does not establish rendered correctness or decide whether prose is a proof.
-
-Use available mechanical checks for the mechanically decidable portion: delimiter/fence balance, accidental escaping, existing target files and headings, and resolved links. When the recipient's available Obsidian CLI exposes `links`, `outline`, and
-`unresolved`, target the configured vault and changed files. Inspect the current
-CLI/tool schema before use; an absent CLI does not establish successful rendering. Existing Linter rules may help formatting, but a clean lint result does not establish MathJax rendering, diagram layout, accurate page destinations, or pedagogical usefulness. Prefer existing Obsidian rendering and link resolution over a second Markdown parser with different semantics. Keep any diagnostic read-only unless the repair is understood; do not automatically rewrite formulas or teaching prose from pattern matches.
-
-Inspect the current display layout and preserve the learner's work when UI access is needed. Available app-native inspection may support the check; an actual reading-mode view remains the reference. If access is unavailable, state precisely which rendering or navigation remains unverified, complete the available checks, and do not report visual success. A teacher with tools may verify its teaching documents; this does not authorize learner lab execution or a new cross-agent coordination system.
+Reread the saved change. Use current vault tools for affected Markdown
+structure and resolved links. When a change depends on rendered formulas,
+diagrams or navigation, inspect the affected study path in the configured
+reader, including changed PDF++ highlights and backlink context where used. Check
+adjacent content where the change affects interpretation or layout. Repair
+observed defects and report any rendering or navigation still unverified.
 
 ### References
 

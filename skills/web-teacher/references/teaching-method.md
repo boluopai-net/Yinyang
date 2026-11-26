@@ -8,13 +8,6 @@ course, book or paper companion. Use [Learning-path governance](learning-path-go
 to organize a practice path. Here, design the encounter around its purpose,
 source material and observable result.
 
-Skimming keeps the learner in contact with the original terrain through a
-readable selection; practice brings an account into contact with a case that can
-support or challenge it. The teacher supplies the path, context, and formal
-support. The learner's interpretation or revision supplies learning evidence.
-Design either activity for the relation it makes accessible, and judge its result
-from the contribution actually observed rather than the material merely prepared.
-
 ## Select and support skimming
 
 Apply this section when an original-reading pass is selected. Philosophical
@@ -28,7 +21,13 @@ Bind each pass to the actual source edition and selected scope, not a permanent 
 
 On entry or resumption, reconcile reported reading exposure with the conversation and Course State. Preserve explicit exemptions and evidenced prior passes. Inspect the guide, selected edition and actual passages across the selected scope. Keep the reading selection in the main guide, using an existing reading reference as a direct entry where it already serves that role. Choose a coherent, manageable traversal across the scope with necessary connections and representative figures or examples. Give verified ranges or headings, why each belongs, what the learner should notice, and where to resume after a skip. Mark unresolved source access or continuity gaps.
 
-Use the original material as the reading surface. Brief orientation and targeted answers support the learner’s own reading; no replacement lecture, mandatory quiz, or proof of mastery is needed to continue any skimming pass. Even a backbone concept may remain provisional. Keep its question for detailed study when useful. Cover the current pass’s selected scope, which may be an overall traversal or a bounded revisit, not every page or every prerequisite in the Route. Course State records actual exposure, reading mode, and deferred questions; the reference records selection and links to State. Preserve observed detailed-study progress independently. Resume detailed study after the pass or at the learner's explicit choice. A learner-requested detailed explanation may be local to one question without silently switching the whole course mode.
+Use the original material as the reading surface, with brief orientation and
+targeted answers. A learner can continue a skimming pass while leaving an
+important concept provisional and saving its question for detailed study.
+Course State records exposure, reading mode and deferred questions. The
+reference records the selection and points to State. Preserve observed
+detailed-study progress. Resume detailed study after the pass or at the
+learner's choice, and accommodate a local question at its useful depth.
 
 ## Teach through practice
 
@@ -39,36 +38,19 @@ another mode. Preserve the recipient's course exceptions; question-led text
 study follows the philosophy branch. Address learner-requested practice where
 it serves the question.
 
-During practice, remove most of the prepared content from the active assignment.
-Retain only a very small subset of substantively necessary points, selected by
-the current question, dependencies, and observed difficulties, and concentrate
-support and practice there. Modest trimming of broad coverage does not meet this
-requirement. Broad preparation leaves a wide field available; selection for practice judges
-relative importance for the learner's current purpose, consequential knowledge
-dependencies, and the effects of misunderstanding. Explain why the retained
-points matter. Reassess that importance and selection as learning or the purpose
-changes. Broad reading
-develops a sense of the whole and intuition; focused logical checks and practice
-help revise consequential local misunderstandings. Merely knowing that a point
-matters may not support the judgment the learner wants to make. Necessary
-foundations can merit repeated reasoning or exercises without requiring
-comprehensive recall testing. Connect the selected local work back to the whole.
+Keep broad preparation available and work on a very small subset in the current
+assignment. Select it by the purpose, consequential dependencies and observed
+difficulties. Explain why the chosen points matter and connect them to the
+whole. Give an important foundation enough varied practice to develop the
+learner's judgment, then adjust when needs change.
 
-Required reduction and intensified support go together. Leave aside redundant or currently
-irrelevant items, and add diagrams, contrasting examples, worked explanations,
-and smaller supporting exercises for retained difficulties. Reuse the broader
-base when needs change. A prepared question bank is a resource for judgment,
-not a fixed practice quota. Read the problem, prerequisites and available solution
-or verify the reasoning yourself before assigning it; prepare needed language
-support. Record actually presented/attempted written items by source and
-question or a recoverable locator, response evidence and unresolved work in Course State.
-On resumption, consult these records to avoid accidental repetition; identify
-the purpose of an intentional revisit. Expand or replace the source pool when
-learning needs warrant it. Save useful added examples, diagrams, questions and
-answers with their training unit, while an ordinary item selection can stay a
-reference to that unit. The teacher owns preparation without repeated learner
-reminders or a requirement that the learner design the exercises. Preparation
-is not completion and creates no quiz requirement during skimming.
+Concentrate diagrams, contrasts, worked explanations and smaller source
+exercises on the selected difficulties. Check question conditions, prerequisites
+and the answer or evaluation grounds before assigning the item. Prepare
+needed language support. Follow the [exercise and experiment guidance](course-materials.md#mathematics-and-technical-study-three-connected-documents) and
+keep reusable reference answers with their source unit. Identify the source,
+answer evidence and whether the teacher authored any support. Record actual
+presentations and attempts under the shared State method.
 
 After skimming, detailed study develops modeling through explanation and
 learner attempts with feedback. Recover a familiar concept's intuition when it survives, and build unfamiliar

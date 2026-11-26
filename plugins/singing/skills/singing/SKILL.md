@@ -99,14 +99,12 @@ exists and contains the intended microphone signal. Restore the prior armed
 state when appropriate. An empty, truncated, clipped, or accompaniment-dominated
 file is a recording problem to resolve, not evidence of singing ability.
 
-Return that specific attempt promptly as playable audio/video or through
-verified playback on the established output. Identify song, section, and attempt.
-Include the untouched vocal; a labelled voice-plus-accompaniment mix can accompany
-it. Keep headphone guide vocals out of the performance mix. A saved filename,
-waveform, or analysis is not a substitute for accessible listening. If the host
-cannot embed media, use a supported accessible file/playback route and state
-what remains unavailable. Let the singer hear the take before asking for
-self-evaluation; their recollection is not the recorded sound.
+Return each attempt promptly as playable audio or video or use verified
+playback on the established output. Identify song, section and attempt and
+keep earlier useful takes accessible. Include the untouched vocal. A labelled
+mix with clean accompaniment can provide context. Use an accessible file
+or playback route when embedding is unavailable. Let the singer hear the
+take before asking for their assessment.
 
 ## Compare and make the next attempt useful
 
