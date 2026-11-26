@@ -27,14 +27,13 @@ review. If independence is required, the writer's self-check does not replace
 it. Recheck materially changed or newly uncertain scope, without repeating
 completed review solely because a fingerprint changed.
 
-First check the complete text, metadata, local links, package closure, and any
-machine contracts. Then ask whether a short behavior evaluation can faithfully
+Check the complete affected text and the representation, package, or machine
+contracts the change touches. Then ask whether a short evaluation can faithfully
 exercise the changed behavior in the actual workflow. A shared name or file
 does not establish an identical consumer. A task requiring sustained user
-participation may be poorly represented by an isolated test. In that case,
-verify deployment and readback, observe natural use, and keep the untested
-behavioral claim explicit. A shared global prompt's effect cannot be isolated
-merely by running another conversation.
+participation may be poorly represented by an isolated test. In that case use
+deployment readback and any applicable natural-use evidence. Inspect later use
+when a material question remains and useful evidence is available.
 
 Use a faithful evaluation when it resolves material uncertainty within the
 authorized scope. Record baseline and recovery; use the actual entrypoint or

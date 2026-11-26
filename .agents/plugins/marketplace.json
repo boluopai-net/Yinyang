@@ -87,7 +87,7 @@
     },
     {
       "name": "task-inquiry",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "description": "<用户自制> 任务探究：用证据与针对性提问澄清有实质影响的分歧。 Clarify consequential uncertainty through real tensions, evidence, reasoning, and useful questions.",
       "source": {
         "source": "local",
@@ -114,7 +114,7 @@
     },
     {
       "name": "prompt-and-skill-lifecycle",
-      "version": "1.0.13",
+      "version": "1.0.14",
       "description": "<用户自制> 提示词与技能生命周期：编写、审查、维护和发布提示词与 Skill。 Connect instruction meaning, ownership, delivery, and evidence of use when authoring, auditing, and maintaining Prompts and Skills.",
       "source": {
         "source": "local",
@@ -384,7 +384,7 @@
     },
     {
       "name": "prompt-audit-orchestration",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "description": "<用户自制> 提示词审计：按范围审计学习、工作与已保存任务的提示词和技能执行链。 Audit instructions and execution relationships across learning, work, Web, and automation within the requested scope.",
       "source": {
         "source": "local",

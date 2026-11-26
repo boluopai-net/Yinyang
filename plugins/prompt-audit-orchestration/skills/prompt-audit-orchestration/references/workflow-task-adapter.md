@@ -1,17 +1,8 @@
 # On-demand Role Adapter: Workflow
 
-This adapter defines the Workflow domain's semantic and write authority for one
-on-demand review of local non-learning model-facing workflow systems. The current
-Workflow-domain coordinator selected under the published
-`prompt-audit-orchestration` Skill loads this adapter,
-`prompt-and-skill-lifecycle`, and `agent-orchestration-master`. Select the
-lifecycle references for the actual Prompt or Skill target. It gives each child the actual
-target and publication owner Skills plus the current-run package. Use that
-package's resolved objective and causal target scope and extent, attributable
-user-supplied direction, intended result, stopping boundary, user-input provenance
-binding, evidence access, authority, validation, and return boundary. Do not treat the
-direction or prior findings as answers, request a persistent Task identity, or
-create another user-source record.
+This adapter defines Workflow's scope and write authority. Use the main audit
+Skill for coordination and evidence. Select the lifecycle profile and
+publication owner for the actual Prompt or Skill.
 
 ## Workflow-purpose scope
 
@@ -36,53 +27,19 @@ actual consumers and cover these semantic families:
   instructions and controls when its actual consumer and semantic, canonical,
   publication, authority, and safety owners place it in the resolved scope.
 
-These categories define full-domain coverage, not a frozen inventory or one
-explorer or worker per category. Inclusion depends on current consumer behavior
-and primary purpose, not a filename, extension, directory, repository name, or
-residence under general document collection. A future document flow is not included merely
-because it contains prose. For a causally bounded run, apply the main Skill's
-scope rule to the resolved Workflow-purpose slice and name each excluded
-category and its boundary. Group or split evidence by current causal questions
-and dependencies.
-
-The purpose is semantic fit with the actual consumer, including clear purpose
-and ownership, duplication, contradiction, hierarchy, dependency, discovery,
-retrieval, obsolescence, environment drift, and unsupported fixed detail that
-constrains current model judgment without serving a real contract.
+For a bounded run, cover the material slice of these families and use the main
+Skill's scope rule for exclusions.
 
 ## Evidence and target-specific repair boundaries
 
-Use current Agents and tools for broad reading of any current repository,
-general document collection or other document workflow, history, runtime, native, or Hosted
-surface that is material evidence. A repair authorized under the main Skill's
-completion policy may change a user-owned Workflow target only when its current canonical semantic
-owner and publication owner are known. The assigned target worker edits through
-the canonical owner under the main Skill's proportionate repair route. An
-independent review, Plan, or behavioral evaluation appears only when that route
-or another current owner requires it.
+Apply the main Skill's dispositions to the actual semantic, source, and
+publication owners.
 
-For a local common/global or project instruction repair, update the exact
-canonical saved source and publish through its actual local owner with persisted
-consumer readback. hosted common/global and non-learning Project Instructions belong to Hosted,
-including their saved sources wherever stored; dedicated learning-purpose
-surfaces remain Learning-owned. Workflow may inspect their
-local consequences and route findings, but does not repair their Hosted prompt
-fields or create a competing source writer.
-
-Hosted owns hosted common/global and non-learning Project Instructions and the independent Hosted package
-and tool-chain audit, including
-Hosted-specific reusable methods and tool instructions. Workflow covers shared
-canonical non-learning methods used both locally and on Hosted; Hosted may
-carry a necessary shared-method repair through the existing owners under its
-adapter. Coordinate one source worker and reuse its judgment when both domains
-are selected. Same-named independent sources are not assumed to be shared. For an affected hosted consumer, coordinate with Hosted
-when selected and follow `prompt-and-skill-lifecycle` for source mapping,
-package closure, cloud publication, and hosted assistant readback. connected execution carrier supplies
-local execution without installed Skills; test that path only when affected.
-Treat source, package, deployment, discovery, resource access, and successful use as distinct
-claims. Workflow's local/shared audit does not duplicate Hosted's full package
-inventory; it checks material consequences of its own source changes and reports
-any remaining Hosted convergence or evidence gap under the main Skill.
+For an affected hosted consumer of a shared Workflow source, establish the
+actual mapping and coordinate one writer with Hosted when selected. Follow the
+lifecycle's delivery method for package closure and hosted consumer readback.
+Check connected local execution only when affected. Report the consequence
+and any remaining hosted convergence gap.
 
 Classify model-facing documents under general document collection or document and memory store by their
 actual consumer, not their location or filename. Local general instructions
@@ -140,24 +97,6 @@ Task configuration or recovery mirror.
 
 ## Working and return boundary
 
-The current Workflow-domain coordinator owns decomposition, child follow-ups,
-evidence synthesis, coverage, peer exchange in joint mode, and its domain
-handoff. Use the current Agent owner and each target's named owner Skills to
-choose child roles and sequence from current evidence; do not recreate their
-workflow in this adapter. A material owned change uses its actual canonical,
-publication, and validation owners and follows the main Skill's proportionate
-review, Plan, and evaluation route. Repository writes use an isolated assigned
-lane or the workspace owner's convergence route. Serialize only concrete
-dependencies, operations on the same exact mutable target, or a carrier-proven
-inability to support concurrent ownership; a shared account, login, profile,
-general document collection root, or authenticated context is not by itself a collision.
-
-Return one result for the resolved Workflow-domain scope: scope examined,
-material exclusions and their boundaries for a bounded run, semantic conclusion,
-owned changes with publication readback and claim-appropriate acceptance
-evidence, Hosted, Saved Task, Hosted Scheduled Task, or Learning dependencies,
-and any other cross-owner finding, evidence-only incident, or blocker. A
-full-domain result accounts for
-all current target families above without treating every document or historical
-record as an active prompt. Do not operate or wait for another selected audit
-purpose's work unless the root selected a joint request.
+Return the examined scope, material exclusions, owned changes with readback
+and relevant behavior evidence, cross-owner consequences, and any blocker.
+Account for each target family above in a full-domain result.

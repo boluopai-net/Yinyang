@@ -6,20 +6,9 @@ user-invocable: false
 
 # prompt-audit-orchestration
 
-Audit an instruction system as an inhabited practice. Its text takes effect
-through a model meeting a user, an object, and a world that can resist the
-instructions' assumptions. Ask what relation that practice sustains: whether
-the model can understand the purpose, reach relevant evidence, act through the
-right owners, and return a result the user can assess. Read from the intended
-relation into its instructions and back from observed effects. A locally clear
-rule may still break the connected practice through an unavailable dependency,
-competing authority, or a changed consumer.
-
-The domain coordinators below hold distinct questions about that practice;
-source and publication owners hold distinct responsibilities for its repair.
-Their evidence may overlap. One canonical source keeps one writer, and each
-consumer's material consequence remains visible. The adapters, dispositions,
-and readback rules realize those relations for the selected audit purpose.
+Audit how the instructions work for their actual consumers. Trace whether the
+model can understand the purpose, reach relevant evidence, act through the
+right owners, and deliver a result the user can assess.
 
 ## Purpose and layer boundary
 
@@ -37,15 +26,12 @@ The current adapters are [Learning](references/learning-task-adapter.md),
 [Hosted](references/web-skill-task-adapter.md), and
 [Saved Task](references/local-task-adapter.md).
 
-| Mode | Execution task root | Domain coordination |
-| --- | --- | --- |
-| Single domain | Reads this Skill and the selected adapter; acts as its domain coordinator. | Directly dispatches registered non-supervisor child roles through `agent-orchestration-master`. |
-| Joint | Launches one `supervisor` per selected adapter in isolated contexts under the current host model/effort policy. Carries the user conversation and integrates the domain outcomes. | Each supervisor coordinates its own domain and works directly with peers on shared dependencies. |
-
-Adapter selection defines audit purposes and coverage, not file partitions or
-one agent per target. A supervisor may identify another adapter needed for the
-current purpose and request its peer's launch; the root launches it without
-reevaluating that domain judgment or expanding the purpose.
+The root carries the user conversation and completion judgment. It can
+coordinate selected domains directly with bounded contributors or delegate a
+coordination scope that benefits from a supervisor. One supervisor may cover
+compatible domains. Preserve roles the user explicitly assigns and follow the
+host's delegation policy. Give each selected domain a coordinator and maintain
+its coverage and write boundaries.
 
 The adapters own distinct audit purposes rather than partitioning files by
 storage. Learning owns connected learning-flow judgment and repair of dedicated
@@ -100,56 +86,31 @@ otherwise apply the relevant adapter's repair disposition. Hosted Scheduled Task
 retains its Project-owned boundary below; it is distinct from the Saved Task
 domain.
 
-In joint mode, the root forwards attributable user input to the affected
-supervisors and relays human-owned questions and answers. If the affected domain
-is unclear, forward the message unchanged to the selected supervisors to route.
-Domain supervisors own target evidence, readiness, dispatch, operations, review,
-and publication within their authority. The root may perform a native launch
-or interruption on a supervisor's request for a named agent and specified time.
+When coordination is delegated, the root sends attributable user input to
+affected coordinators and relays human-owned questions and answers. Each
+coordinator owns evidence, operations, and publication within its scope.
 
-The root compares the complete ordered user input with the returned domain
-outcomes and evidence. Integrate what the domains achieved, reconcile shared
-coverage from their handoffs, and name remaining gaps and their owners. Return a
-missing or unclear domain claim to its supervisor for resolution. The root's
-completion judgment uses domain evidence and preserves the supervisors'
-ownership of target checks, reviews, mutations, and technical conflicts.
+The root compares the complete ordered user input with the observed domain
+outcomes. Integrate shared coverage, name remaining gaps and return unclear
+claims to the responsible coordinator or target owner.
 
-In both modes, the domain coordinator carries attributable user direction,
+The domain coordinator carries attributable user direction,
 including focus, extent, and audit-only or repair intent. Use the ordinary task
 and agent histories as the run record. When the user includes this Skill or an
 adapter in repair scope, route that bounded change through its owner within
 the active audit.
 
-Semantic correctness is consumer-relative. Treat the user's stated purpose,
-envisaged scope or extent, desired behavior, factual claims, diagnoses, causal
-explanations, and proposed means as attributable inputs to interpret and test,
-not as pre-established findings, final behavior requirements, or an exhaustive
-list of targets or operations. The domain coordinator independently derives the
-objective and sufficient causal scope within its selected domain from the
-complete attributable input, current evidence, applicable instruction system,
-owners, consumers, dependencies, and authority and safety boundaries. A
-user-named item is a lead rather than a ceiling: inspect and, when repair is
-authorized, repair unmentioned material targets required by that derived scope.
-An explicit exclusion or authorization limit still binds. Examine the complete
-applicable instruction system for unclear purpose or ownership, duplicated
-meaning, simultaneously applicable contradictions, hierarchy or layer errors,
-dependency or consumer failures, obsolete or unsupported claims, and
-unavailable interfaces. Judge whether fixed targets, routes, tools, models,
-paths, counts, or procedures are required by the attributable request or a
-current owner, interface, invariant, safety boundary, or consumer; when they are
-not, treat the resulting restriction, repetition, or drift risk as a finding
-rather than assuming that every exact detail is either necessary or defective.
-Assess affirmative prescriptions and prohibitions alike against current purpose
-and contracts. Separate an obsolete workaround for an earlier model from a
-still-required boundary; model evolution and rule polarity alone justify
-neither retention nor deletion. Use the actual consumer model and observable
-behavior to assess fit without turning a migration into a model-name rewrite.
+Derive sufficient causal scope from the user's complete direction and current
+evidence, including unmentioned material dependencies within explicit scope and
+authority limits. Use `prompt-and-skill-lifecycle` for the semantic audit.
+Judge requirements and workarounds against current purpose, interfaces, and
+consumer behavior.
 
 ## Run topology and method
 
 Within the selected topology, bind the independently derived objective, causal
 target scope and extent, intended result, stopping boundary, and relevant
-source/evidence identities. Give each domain supervisor and substantial child
+source/evidence identities. Give each delegated contributor
 the smallest self-sufficient package containing those bindings, attributable
 user direction and the current Agent owner's user-input provenance binding,
 applicable adapter, semantic and write authority, broad evidence access,
@@ -207,7 +168,7 @@ and coverage rule. Use bounded read-only checks to locate discrepancies and
 return omissions to the target-owning child. Keep handoffs that carry material
 findings, blockers, and coverage evidence.
 
-In joint mode, domain supervisors exchange cross-domain findings, dependency
+Domain coordinators exchange cross-domain findings, dependency
 questions, readiness changes, and exact-target collision information directly
 through the current host's native agent channel. Their read scopes may overlap
 when the selected purposes require different judgments about the same target.

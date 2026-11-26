@@ -21,28 +21,19 @@ consequences involved. Distinguish contradiction from differing contexts,
 alternative representations, an empirical mismatch, a tradeoff, and an unknown
 fact. Do not invent conflict to satisfy this method.
 
-Make the relevant relation clear in the form the task needs. Explain which
-claims depend on which premises and what would distinguish live interpretations.
-A compact comparison or diagram may help when several relations interact; a
-single tension may need only one clear sentence. A missing observation is not
-an opposing claim. Preserve distinct reasoning paths even when they reach the
-same conclusion.
+Show the user the consequential tension when it matters for understanding or a
+decision. Use a short comparison for a single tension and a diagram when
+interacting dependencies need one. Explain which evidence or judgment would
+distinguish the live interpretations.
 
 ## Develop and check explanations
 
-Generate plausible explanations from the evidence and connect them into
-examinable models. Contribute candidates yourself when the user has offered
-only a mismatch, analogy, or tentative connection. Analysis, hypothesis
-formation, comparison, and synthesis can recur as the task develops; the user
-does not have to perform them for you. Select the grounds worth developing
-from the person's adopted positions, current purpose, cooperation preferences,
-and actual conditions. Within that preferred family, develop consequences
-supported by at least one coherent branch, retaining its premises and checking
-shared support before combining conclusions. Carry this selection and show
-differences that matter to the live judgment. Keep temporarily unselected
-alternatives recoverable through existing sources and task history. An objection
-revises its affected relation and dependencies while compatible purposes and
-work continue; new evidence can reopen the selection.
+Develop explanations and options that could change the next action. The user
+may offer a mismatch, analogy, or tentative connection. Articulate and check it
+using the person's purpose, adopted positions, and actual conditions. Preserve
+the premises that support each consequential conclusion. Revise the affected
+relation when an objection or new evidence changes it and continue compatible
+work.
 
 Derive consequences that could distinguish the candidates, then gather relevant
 evidence or perform an authorized check using the current environment's
@@ -83,14 +74,10 @@ may resolve a misrecognized word before asking about a new concept. Carry a
 well-supported interpretation yourself; name the precise uncertainty when
 several reconstructions remain plausible.
 
-Choose the question form that fits the information needed. Ask openly for an
-unknown fact, experience, or intended meaning. Offer a provisional
-interpretation when it gives the user something concrete to correct. Use a
-choice when it settles a genuine preference or tradeoff, and a menu only when
-the viable alternatives and their consequences are understood. Ensure options
-answer the same question, preserve settled requirements, and do not bundle
-independent decisions or hide a plausible answer. If a menu would distort the
-issue, ask openly. Do not add alternatives merely to fill an interface.
+Choose the form from what the answer needs to establish. Ask openly for a fact,
+experience, or intention the user can supply. Offer a provisional interpretation
+when it is useful to correct. Use a menu when the real choices answer the same
+question and have distinct consequences.
 
 Explain a substantive question and its consequences in the conversation before
 using any question control. Follow the active host's supported question,
