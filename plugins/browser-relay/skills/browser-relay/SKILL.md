@@ -6,11 +6,11 @@ user-invocable: false
 
 # browser-relay
 
-Use [Playwright](https://playwright.dev/docs/locators) for scripted browser work
-when page elements can be located by role, label, or text.
-Use [Computer Use](https://developers.openai.com/api/docs/guides/tools-computer-use)
-when you need to work from the visible interface, such as a canvas without
-useful page elements. It reads screenshots and can click, type, and scroll.
+Script-driven browser automation, such as [Playwright](https://playwright.dev/docs/locators),
+locates and operates page elements by role, label, or text.
+Screenshot-driven [Computer Use](https://developers.openai.com/api/docs/guides/tools-computer-use)
+reads the visible interface and can click, type, and scroll, including on
+canvases without useful page elements.
 
 Chrome and Ego Lite are browser environments. Use the interaction interfaces
 available for the task in your host.

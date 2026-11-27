@@ -18,7 +18,7 @@ Ego Lite 的 `ego-browser` 有自己的 TaskSpace 和 Page API，支持部分 Pl
 ## English
 
 - [Playwright](https://playwright.dev/docs/locators) scripts browser actions when page elements can be located by role, label, or text.
-- [Computer Use](https://developers.openai.com/api/docs/guides/tools-computer-use) reads screenshots and can click, type, and scroll. Use it for tasks that depend on the visible interface, such as a canvas without useful page elements.
+- [Computer Use](https://developers.openai.com/api/docs/guides/tools-computer-use) reads screenshots and can click, type, and scroll, including on canvases without useful page elements.
 
 Chrome and Ego Lite are browser environments. Use the interaction interfaces
 your host makes available. When Chrome is required, use
