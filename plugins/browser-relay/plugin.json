@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "browser-relay",
-  "version": "1.1.2",
-  "description": "<用户自制> 浏览器会话：Chrome 用 Web Access，适合换浏览器时可试用 Ego Lite。 Use Web Access for Chrome, or try Ego Lite when Chrome automation is too slow and the task can use a separate browser.",
+  "version": "1.1.3",
+  "description": "<用户自制> 浏览器会话：必须用 Chrome 时建议 Web Access，其余优先 Ego Lite。 Use Web Access when Chrome is required. Otherwise prefer Ego Lite for browser work, including parallel work on independent pages.",
   "author": {
     "name": "boluopai",
     "url": "https://github.com/boluopai-net"
@@ -17,7 +17,7 @@
         "shortDescription": "Choose a browser automation route",
         "developerName": "boluopai",
         "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/browser-relay",
-        "longDescription": "Use Web Access for Chrome. If Chrome automation is too slow and the task can use a separate browser, try Ego Lite on a supported platform.",
+        "longDescription": "Use Web Access when Chrome is required. Otherwise prefer Ego Lite on a supported host. The guide explains scripted page interaction, screenshot-driven controls, and parallel work on independent Ego Lite pages.",
         "category": "Productivity",
         "capabilities": [],
         "supportURL": "https://github.com/boluopai-net/Yinyang/issues",

@@ -1,6 +1,6 @@
 ---
 name: browser-relay
-description: "<用户自制> 浏览器会话：Chrome 用 Web Access，适合换浏览器时可试用 Ego Lite。 Use Web Access for Chrome, or try Ego Lite when Chrome automation is too slow and the task can use a separate browser."
+description: "<用户自制> 浏览器会话：必须用 Chrome 时建议 Web Access，其余优先 Ego Lite。 Use Web Access when Chrome is required. Otherwise prefer Ego Lite for browser work, including parallel work on independent pages."
 user-invocable: false
 ---
 
@@ -15,12 +15,17 @@ useful page elements. It reads screenshots and can click, type, and scroll.
 Chrome and Ego Lite are browser environments. Use the interaction interfaces
 available for the task in your host.
 
-For Chrome, use [Web Access](https://github.com/eze-is/web-access). It offers
-search and page retrieval, and its Chrome DevTools Protocol (CDP) proxy can
-operate the intended, authorized Chrome session. If Chrome automation is too
-slow and the task can run in a separate browser, try
-[Ego Lite](https://github.com/citrolabs/ego-lite) on a supported platform and
-use its TaskSpace controls.
+When Chrome is required, use [Web Access](https://github.com/eze-is/web-access).
+It offers search and page retrieval, and its Chrome DevTools Protocol (CDP) proxy
+can operate the intended, authorized Chrome session. Otherwise prefer
+[Ego Lite](https://github.com/citrolabs/ego-lite) on a supported host. Run
+independent page tasks in parallel where the host supports it and keep actions
+on the same page sequential.
+
+Ego Lite's `ego-browser` tool has its own TaskSpace and Page API. Use
+`snapshot()`, `click()`, and `fill()` for structured page interaction, or
+`screenshot()`, `mouse`, and `keyboard` for visual interaction. The API
+accepts a subset of Playwright selector syntax.
 
 Use the intended session and exact task page. Verify the result there and
 close the page you created when the task finishes.
