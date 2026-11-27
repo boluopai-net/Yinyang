@@ -21,10 +21,10 @@ Continue one ready-bound request/response exchange. Responsibilities are:
 | Relay | Exact exchange identity, ordered-turn reconciliation, response-turn completeness, wait/retry decisions, immutable evidence, and at most one mutation attempt in flight. |
 | Operation adapter | Physical or native observations and, when selected for mutation, submission to the frozen target. An observation adapter never submits or resends. |
 
-Native task/thread and permitted controlled Browser carriers are per-operation
-adapters and may differ between observation and mutation. Read the installed
-`browser-relay` entrypoint completely when selecting that route; native-only
-operations do not need this conditional companion. Installing or testing this package does not authorize a
+Native task/thread and permitted controlled browser tools are per-operation
+adapters and may differ between observation and mutation. For browser route
+selection, see [browser-relay](https://github.com/boluopai-net/Yinyang/tree/main/skills/browser-relay).
+Installing or testing this package does not authorize a
 submission. Runtime owners retain host confirmation, login, credential, consent,
 and human-action boundaries. Conversation creation, model changes, and account
 settings stay outside the relay's operations. The relay binds a complete response
@@ -98,9 +98,8 @@ and exact operation. Inspect its current schema and preserve its
 acknowledgement. When the native operation is unavailable, use an independently
 authorized controlled carrier or report the concrete capability limit.
 For a Browser operation, follow the selected controlled
-carrier's owning instructions and pass exact destination, operation (`observe` or `submit`),
-frozen payload for `submit`, prior boundary, and lifecycle requirement. Read and
-use `browser-relay` only when that is the selected carrier. Browser returns
+tool's owning instructions and pass exact destination, operation (`observe` or `submit`),
+frozen payload for `submit`, prior boundary, and lifecycle requirement. The browser adapter returns
 physical observations and cleanup evidence only. The relay decides semantic
 turn binding, completion, waiting, and retry. Never persist a current task's
 transient browser/provider ID as general Skill policy.

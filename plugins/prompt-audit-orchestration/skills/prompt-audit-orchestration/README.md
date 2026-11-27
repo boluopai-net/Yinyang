@@ -23,9 +23,8 @@ Use [`research`](../research/) when external evidence is material and
 [`task-inquiry`](../task-inquiry/) when an unresolved user-owned choice needs
 to be framed. Learning audits may conditionally use
 [local-teacher](../local-teacher/) or [web-teacher](../web-teacher/) to understand
-the corresponding teaching method. Browser work may use
-[browser-relay](../browser-relay/) with the host's actual controlled browser
-capability. Download the needed companion directories; each retains its own
+the corresponding teaching method. See [browser-relay](../browser-relay/) for
+choosing a browser route. Download the needed companion directories; each retains its own
 configuration requirements. Host-native delegation support is a
 runtime capability, not a downloadable Skill dependency.
 

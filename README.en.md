@@ -100,7 +100,7 @@ Start a new chat after installation. Substitute another package name in the seco
 <tbody>
 <tr><td><a href="skills/agent-orchestration-master/README.md">agent-orchestration-master</a></td><td>Divide independent work among models, define the handoffs, and integrate the results.</td></tr>
 <tr><td><a href="skills/model-conversation-relay/README.md">model-conversation-relay</a></td><td>Resume a specified model conversation, confirm the last result, and continue the exchange.</td></tr>
-<tr><td><a href="skills/browser-relay/README.md">browser-relay</a></td><td>Manage task-owned browsers, authenticated sessions, target ownership, and cleanup.</td></tr>
+<tr><td><a href="skills/browser-relay/README.md">browser-relay</a></td><td>Choose Web Access for Chrome, Ego Lite, or a Linux headless route.</td></tr>
 <tr><td><a href="skills/model-upgrade-check/README.md">model-upgrade-check</a></td><td>Reconcile available models, purpose-specific selections, and actual consumers.</td></tr>
 </tbody>
 </table>

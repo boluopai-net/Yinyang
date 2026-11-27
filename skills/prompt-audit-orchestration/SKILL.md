@@ -158,7 +158,7 @@ carrier proves that concurrent ownership is unavailable. A human login,
 CAPTCHA, consent, or challenge boundary is relayed through the root; the root
 does not take over the Browser operation. Before classifying a Browser failure as
 human-only, the domain coordinator returns technical blockage to the exact operation
-owner for `browser-relay`'s capability and visibility recovery. Relay an operational
+owner for recovery through the selected browser tool. Relay an operational
 human-only request only after that owner supplies evidence of the required human
 action and why viable authorized recovery cannot resolve it; an unresolved technical
 blockage remains with that owner.

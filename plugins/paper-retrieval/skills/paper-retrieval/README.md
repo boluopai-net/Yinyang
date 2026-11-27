@@ -14,7 +14,7 @@ from obtained full texts”; “Obtain the available author manuscript for this 
 | Dependency | When and why | Obtain or supply |
 | --- | --- | --- |
 | [research](../research/README.md) | Companion method for evidence selection, current investigation and conflicting sources; use with the scholarly workflow | Download the complete [public research package](https://github.com/boluopai-net/Yinyang/tree/main/skills/research) beside this package. It is a Skill, not a search engine. |
-| [browser-relay](../browser-relay/README.md) | Conditional on controlled/authenticated pages; owns exact targets, session reuse, readback, placement and cleanup | Download the complete sibling browser-relay package and bind the host’s real authorized browser/download API. The Skill does not install a browser carrier or copy authentication. |
+| [browser-relay](../browser-relay/README.md) | Route selection for controlled or authenticated browsing | Follow the selected browser tool's instructions for the authorized session, page, and download. |
 | [network](../network/README.md) | Conditional on evidenced connectivity faults; distinguish transport from access/capture failures | Download the network companion when using that method, configure your own targets, and use actual diagnosis capabilities within authorization. It is conditional, not permission to alter routing. |
 | Search/HTTP/browser tools, Python, Poppler, optional curl | Actual execution capabilities, not companion Skills | Supply the tools and install the helper dependencies below. Downloading a Skill does not install them or establish library access. |
 
@@ -61,7 +61,7 @@ browser/library machinery.
 | 配套方法或依赖 | 用途与取得方式 |
 | --- | --- |
 | [research](../research/README.md) | 证据选择、当前调查与冲突来源判断的配套 Skill；将完整的 [公开 research 包](https://github.com/boluopai-net/Yinyang/tree/main/skills/research) 下载到本包旁边。它不是搜索引擎。 |
-| [browser-relay](../browser-relay/README.md) | 需要受控或登录页面时，负责准确目标、授权会话复用、结果确认、窗口放置与清理。按需使用配套包，将其绑定到宿主实际授权的浏览器或下载接口。 |
+| [browser-relay](../browser-relay/README.md) | 需要受控或登录页面时用于选择浏览路线。按选定工具的说明操作已获授权的会话、页面及下载。 |
 | [network](../network/README.md) | 有连接故障证据时，区分传输、访问和捕获问题。按需使用配套包与实际授权的诊断能力。 |
 | 搜索／HTTP／浏览器工具、Python、Poppler、可选 curl | 是实际执行能力，需自行提供或按下文安装；下载 Skill 不等于安装工具或取得图书馆权限。 |
 

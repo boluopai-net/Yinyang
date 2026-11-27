@@ -16,12 +16,9 @@ investigation and conflicting-source assessment; this Skill owns scholarly
 identity, acquisition and text verification. See [setup and dependencies](README.md) and the
 [sources and verification guide](references/sources-and-verification.md).
 
-For controlled or authenticated pages, retain a separate browser/session owner
-using [browser-relay](../browser-relay/SKILL.md) for exact target custody,
-authorized session reuse, destination/readback verification, desktop placement
-and cleanup. A browser API is the execution capability; a companion Skill
-supplies its method and ownership contract. Neither provides entitlement.
-The dependency table distinguishes companion methods from host capabilities.
+For controlled or authenticated pages, use the selected browser tool's own
+instructions to operate on the exact authorized page, verify the result, and
+clean up. For route selection, see [browser-relay](../browser-relay/SKILL.md).
 For evidenced network faults, use [network](../network/SKILL.md) with the
 recipient’s configured diagnosis capabilities; a retrieval failure does not itself
 authorize proxy, DNS or routing changes.

@@ -27,9 +27,9 @@ Use a new chat after installation so the installed Skills can be discovered.
 The package includes the complete Skill, references, scripts, and assets. Installing it does not provision external tools, authentication,
 devices, or services. Read the package README for those requirements. For local
 teaching, install both `local-teacher@boluopai` and `web-teacher@boluopai`.
-For model conversation relay, install `model-conversation-relay@boluopai`; add
-`browser-relay@boluopai` only when using its controlled browser route. Native
-conversation operations depend on the tools actually exposed by your host.
+For model conversation relay, install `model-conversation-relay@boluopai`.
+Use the native conversation tools your host provides or a configured browser
+tool. See [browser-relay](../skills/browser-relay/README.md) for route selection.
 
 If your Codex version lacks `codex plugin`, update Codex or use its built-in
 Skill installer with the selected GitHub `skills/<name>` directory. Do not

@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "browser-relay",
-  "version": "1.0.8",
-  "description": "<用户自制> 浏览器会话：管理任务专用的隔离浏览器、授权登录会话与清理。 Manage task-owned browsers, authenticated sessions, target ownership, and cleanup.",
+  "version": "1.1.0",
+  "description": "<用户自制> 浏览器会话：选择 Chrome、Ego Lite 或 Linux 无头浏览路线。 Route browser tasks to Web Access for Chrome, Ego Lite when Chrome automation is too slow, or Playwright for Linux headless work.",
   "author": {
     "name": "boluopai",
     "url": "https://github.com/boluopai-net"
@@ -14,10 +14,10 @@
     "com.openai": {
       "interface": {
         "displayName": "browser-relay",
-        "shortDescription": "Manage isolated browser work",
+        "shortDescription": "Choose a browser automation route",
         "developerName": "boluopai",
         "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/browser-relay",
-        "longDescription": "Manage task-owned browsers, authenticated sessions, target ownership, and cleanup. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
+        "longDescription": "Use Web Access for Chrome, try Ego Lite when Chrome automation is too slow and the task can use a separate browser, or use Playwright for Linux headless work. Includes an optional Playwright smoke check.",
         "category": "Productivity",
         "capabilities": [],
         "supportURL": "https://github.com/boluopai-net/Yinyang/issues",

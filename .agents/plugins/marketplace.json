@@ -222,7 +222,7 @@
     },
     {
       "name": "paper-retrieval",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "description": "<用户自制> 论文检索：筛选中英文论文与学术书籍，核对题录、版本和全文。 Reconcile bibliography, editions, and full text to deliver verifiable scholarly material.",
       "source": {
         "source": "local",
@@ -384,7 +384,7 @@
     },
     {
       "name": "prompt-audit-orchestration",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "description": "<用户自制> 提示词审计：按范围审计学习、工作与已保存任务的提示词和技能执行链。 Audit instructions and execution relationships across learning, work, Web, and automation within the requested scope.",
       "source": {
         "source": "local",
@@ -438,8 +438,8 @@
     },
     {
       "name": "browser-relay",
-      "version": "1.0.8",
-      "description": "<用户自制> 浏览器会话：管理任务专用的隔离浏览器、授权登录会话与清理。 Manage task-owned browsers, authenticated sessions, target ownership, and cleanup.",
+      "version": "1.1.0",
+      "description": "<用户自制> 浏览器会话：选择 Chrome、Ego Lite 或 Linux 无头浏览路线。 Route browser tasks to Web Access for Chrome, Ego Lite when Chrome automation is too slow, or Playwright for Linux headless work.",
       "source": {
         "source": "local",
         "path": "./plugins/browser-relay"
@@ -451,10 +451,10 @@
       "category": "Productivity",
       "interface": {
         "displayName": "browser-relay",
-        "shortDescription": "Manage isolated browser work",
+        "shortDescription": "Choose a browser automation route",
         "developerName": "boluopai",
         "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/browser-relay",
-        "longDescription": "Manage task-owned browsers, authenticated sessions, target ownership, and cleanup. For Codex users; includes the complete Skill and its supporting resources. Uses the recipient's available tools and environment. External tools, accounts, and services are not provisioned by installation.",
+        "longDescription": "Use Web Access for Chrome, try Ego Lite when Chrome automation is too slow and the task can use a separate browser, or use Playwright for Linux headless work. Includes an optional Playwright smoke check.",
         "category": "Productivity",
         "capabilities": [],
         "supportURL": "https://github.com/boluopai-net/Yinyang/issues",
@@ -465,7 +465,7 @@
     },
     {
       "name": "model-conversation-relay",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "description": "<用户自制> 模型对话接续：继续已绑定的 ChatGPT 咨询会话，读取、等待、发送并留存回执。 Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts.",
       "source": {
         "source": "local",
@@ -481,7 +481,7 @@
         "shortDescription": "Continue an exact model exchange",
         "developerName": "boluopai",
         "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/model-conversation-relay",
-        "longDescription": "Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts. For Codex users; includes the complete Skill and its supporting resources. Native conversation tools are conditional on host support. Browser operations require the public browser-relay companion and a configured carrier. External tools, accounts, and services are not provisioned by installation.",
+        "longDescription": "Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts. For Codex users; includes the complete Skill and its supporting resources. Native conversation tools are conditional on host support. Browser operations require a configured browser tool. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
         "supportURL": "https://github.com/boluopai-net/Yinyang/issues",

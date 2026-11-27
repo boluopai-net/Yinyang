@@ -16,8 +16,8 @@
 
 需要外部证据时可使用 [`research`](../research/)；需要澄清未决的用户选择时可使用
 [`task-inquiry`](../task-inquiry/)。学习审计可按需使用 [local-teacher](../local-teacher/) 或
-[web-teacher](../web-teacher/) 来理解相应教学方法；浏览器操作可按需使用
-[browser-relay](../browser-relay/)配合宿主实际的受控浏览器能力。下载需要的配套目录，
+[web-teacher](../web-teacher/) 来理解相应教学方法；浏览器操作可参见
+[browser-relay](../browser-relay/)选择路线。下载需要的配套目录，
 并按各包说明配置自己的环境。宿主原生的智能体委派支持属于运行时能力，
 不是需要下载的 Skill。
 

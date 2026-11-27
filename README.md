@@ -102,7 +102,7 @@ codex plugin add yinyang-empty@boluopai
 <tbody>
 <tr><td><a href="skills/agent-orchestration-master/README.zh-CN.md">agent-orchestration-master</a></td><td>把可独立完成的工作分给合适的模型，约定交接内容，再合并结果。</td></tr>
 <tr><td><a href="skills/model-conversation-relay/README.zh-CN.md">model-conversation-relay</a></td><td>回到指定的模型对话，确认上一条请求的结果，再接着提问。</td></tr>
-<tr><td><a href="skills/browser-relay/README.md">browser-relay</a></td><td>管理任务专用浏览器、认证会话、目标归属与清理。</td></tr>
+<tr><td><a href="skills/browser-relay/README.md">browser-relay</a></td><td>选择 Chrome、Ego Lite 或 Linux 无头浏览路线。</td></tr>
 <tr><td><a href="skills/model-upgrade-check/README.zh-CN.md">model-upgrade-check</a></td><td>核对可用模型、用途分配与实际消费者，让升级保持一致。</td></tr>
 </tbody>
 </table>

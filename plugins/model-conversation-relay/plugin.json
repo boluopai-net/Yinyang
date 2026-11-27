@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "model-conversation-relay",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "<用户自制> 模型对话接续：继续已绑定的 ChatGPT 咨询会话，读取、等待、发送并留存回执。 Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts.",
   "author": {
     "name": "boluopai",
@@ -17,7 +17,7 @@
         "shortDescription": "Continue an exact model exchange",
         "developerName": "boluopai",
         "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/model-conversation-relay",
-        "longDescription": "Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts. For Codex users; includes the complete Skill and its supporting resources. Native conversation tools are conditional on host support. Browser operations require the public browser-relay companion and a configured carrier. External tools, accounts, and services are not provisioned by installation.",
+        "longDescription": "Continue one exact advisory exchange with ordered-turn reconciliation, bounded retries, and immutable receipts. For Codex users; includes the complete Skill and its supporting resources. Native conversation tools are conditional on host support. Browser operations require a configured browser tool. External tools, accounts, and services are not provisioned by installation.",
         "category": "Productivity",
         "capabilities": [],
         "supportURL": "https://github.com/boluopai-net/Yinyang/issues",
