@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "browser-relay",
-  "version": "1.1.0",
-  "description": "<用户自制> 浏览器会话：选择 Chrome、Ego Lite 或 Linux 无头浏览路线。 Route browser tasks to Web Access for Chrome, Ego Lite when Chrome automation is too slow, or Playwright for Linux headless work.",
+  "version": "1.1.1",
+  "description": "<用户自制> 浏览器会话：Chrome 用 Web Access，适合换浏览器时可试用 Ego Lite。 Use Web Access for Chrome, or try Ego Lite when Chrome automation is too slow and the task can use a separate browser.",
   "author": {
     "name": "boluopai",
     "url": "https://github.com/boluopai-net"
@@ -17,7 +17,7 @@
         "shortDescription": "Choose a browser automation route",
         "developerName": "boluopai",
         "websiteURL": "https://github.com/boluopai-net/Yinyang/tree/main/skills/browser-relay",
-        "longDescription": "Use Web Access for Chrome, try Ego Lite when Chrome automation is too slow and the task can use a separate browser, or use Playwright for Linux headless work. Includes an optional Playwright smoke check.",
+        "longDescription": "Use Web Access for Chrome. If Chrome automation is too slow and the task can use a separate browser, try Ego Lite on a supported platform.",
         "category": "Productivity",
         "capabilities": [],
         "supportURL": "https://github.com/boluopai-net/Yinyang/issues",
