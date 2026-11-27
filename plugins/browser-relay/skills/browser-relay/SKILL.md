@@ -6,26 +6,18 @@ user-invocable: false
 
 # browser-relay
 
-Script-driven browser automation, such as [Playwright](https://playwright.dev/docs/locators),
-locates and operates page elements by role, label, or text.
-Screenshot-driven [Computer Use](https://developers.openai.com/api/docs/guides/tools-computer-use)
-reads the visible interface and can click, type, and scroll, including on
-canvases without useful page elements.
+Prefer [Ego Lite](https://github.com/citrolabs/ego-lite) for routine browser
+work on a supported host. Its `ego-browser` API supports structured page
+controls, screenshots and input, and direct CDP. Batch related actions and,
+where supported, run independent pages in parallel within the task's
+TaskSpace. Keep dependent steps on a page in order.
 
-Chrome and Ego Lite are browser environments. Use the interaction interfaces
-available for the task in your host.
-
-When Chrome is required, use [Web Access](https://github.com/eze-is/web-access).
-It offers search and page retrieval, and its Chrome DevTools Protocol (CDP) proxy
-can operate the intended, authorized Chrome session. Otherwise prefer
-[Ego Lite](https://github.com/citrolabs/ego-lite) on a supported host. Run
-independent page tasks in parallel where the host supports it and keep actions
-on the same page sequential.
-
-Ego Lite's `ego-browser` tool has its own TaskSpace and Page API. Use
-`snapshot()`, `click()`, and `fill()` for structured page interaction, or
-`screenshot()`, `mouse`, and `keyboard` for visual interaction. The API
-accepts a subset of Playwright selector syntax.
+When Chrome is required, use the [Web Access](https://github.com/eze-is/web-access)
+CDP proxy with the intended, authorized session. Use page structure for identifiable controls and visual
+interaction for steps that depend on what is visible.
 
 Use the intended session and exact task page. Verify the result there and
 close the page you created when the task finishes.
+
+For the tool relationships and examples, see the [introduction](README.md) or
+the [Chinese introduction](README.zh-CN.md).

@@ -1,33 +1,52 @@
-# browser-relay · 浏览器会话
+# How GPT operates a browser
 
-## 中文
+[简体中文](README.zh-CN.md) · [Skill instructions](SKILL.md)
 
-- [Playwright](https://playwright.dev/docs/locators) 用脚本按角色、标签或文字定位并操作网页元素，适合能用这些方式定位控件的任务。
-- [Computer Use](https://developers.openai.com/api/docs/guides/tools-computer-use) 看截图来点击、输入和滚动，适合需要看界面才能操作的任务，比如只有画面可供判断的画布。
+**Prefer Ego Lite for routine browser work.** Its direct controls can make
+multi-step work quicker, and independent pages can run in parallel. Use Web
+Access when Chrome is required, especially when you need your existing session.
 
-Chrome 和 Ego Lite 是浏览器环境，具体能用哪种交互方式取决于宿主提供的接口。必须用 Chrome
-时，建议用 [Web Access](https://github.com/eze-is/web-access)。它提供搜索和网页读取，也能
-通过 CDP 代理操作指定的已获授权 Chrome 会话。其余情况下，优先用宿主支持的
-[Ego Lite](https://github.com/citrolabs/ego-lite)。宿主支持时，独立页面任务可以并行，同一页面
-上的操作按顺序执行。
+## How GPT sees and acts
 
-Ego Lite 的 `ego-browser` 有自己的 TaskSpace 和 Page API，支持部分 Playwright 选择器语法。
-可用 `snapshot()`、`click()`、`fill()` 按页面结构操作，也可用 `screenshot()`、`mouse`、
-`keyboard` 按画面操作。参见 [SKILL.md](SKILL.md)。
+Here, browser use means a model operating a browser. A host can give GPT
+structured page controls, screenshots and input controls, or both.
 
-## English
+```mermaid
+flowchart TD
+    GPT["GPT browser task"] --> DOM["Page structure"]
+    GPT --> GUI["Screen image"]
+    DOM --> PW["Playwright or browser API"]
+    GUI --> CU["Computer Use or visual controls"]
+```
 
-- [Playwright](https://playwright.dev/docs/locators) scripts browser actions when page elements can be located by role, label, or text.
-- [Computer Use](https://developers.openai.com/api/docs/guides/tools-computer-use) reads screenshots and can click, type, and scroll, including on canvases without useful page elements.
+- **Page structure.** Use roles, labels, or text to find a control. For example,
+  a Playwright script can locate a “Search” button by its role and name. [Playwright locators](https://playwright.dev/docs/locators)
+- **Screen image.** Use screenshots to decide where to click, type, scroll, or
+  drag. This helps with a canvas or a control whose page structure gives you
+  little to work with. [Computer Use](https://developers.openai.com/api/docs/guides/tools-computer-use)
 
-Chrome and Ego Lite are browser environments. Use the interaction interfaces
-your host makes available. When Chrome is required, use
-[Web Access](https://github.com/eze-is/web-access) for search, page retrieval, or
-CDP access to the intended, authorized Chrome session. Otherwise prefer
-[Ego Lite](https://github.com/citrolabs/ego-lite) on a supported host. Run
-independent page tasks in parallel where supported and keep same-page actions sequential.
+**CDP** is the Chrome DevTools Protocol, a lower-level way to inspect or
+control a Chromium browser. It can provide page data, screenshots, and input.
+Playwright is a higher-level library and can also attach to a compatible
+browser over CDP. [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/) · [Playwright CDP connection](https://playwright.dev/docs/api/class-browsertype#browser-type-connect-over-cdp)
 
-Ego Lite's `ego-browser` tool has its own TaskSpace and Page API and accepts
-a subset of Playwright selector syntax. Use structured page controls such as
-`snapshot()`, `click()`, and `fill()`, or visual controls such as
-`screenshot()`, `mouse`, and `keyboard`. See [SKILL.md](SKILL.md).
+## Why prefer Ego Lite
+
+Ego Lite can group several browser calls in one JavaScript run, reducing tool
+round trips and often making multi-step work quicker. Where the host supports
+parallel work, use separate pages in the task's TaskSpace for independent jobs,
+like reading three articles. Keep dependent steps on a page in order.
+
+Ego's own `ego-browser` API offers `snapshot()`, `click()`, and `fill()` for
+structured interaction, `screenshot()`, `mouse`, and `keyboard` for visual
+interaction, and `cdp()` for direct protocol access. It accepts a subset of
+Playwright selector syntax through its own Page API. [Ego Lite and its tools](https://github.com/citrolabs/ego-lite)
+
+## When Chrome and Web Access make sense
+
+Some Chinese websites may show a sign-in or verification page, or return only
+part of the content, to plain web fetching or a fresh browser session. If the
+authorized Chrome session you use every day already has the required access,
+Web Access can connect to it through its CDP proxy. This preserves that
+session's login state. The site can still require verification or restrict
+automated activity. [Web Access and its CDP proxy](https://github.com/eze-is/web-access)
